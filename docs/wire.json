@@ -1,8 +1,28 @@
 {
 "name": "Tracewire",
-"updated": "2026-10-10T20:43:36+00:00",
+"updated": "2026-10-10T23:53:52+00:00",
 "note": "Unverified headlines collected automatically from public feeds. Not checked by Tracewire. Verified items appear in the Feed.",
 "items": [
+{
+"id": "36027dc72790",
+"t": "Gomez Slams Push to Flood Phones with AI Robocalls",
+"u": "https://www.fcc.gov/edoc/425705",
+"o": "FCC",
+"lane": "agency",
+"at": "2026-10-10T23:53:52+00:00",
+"seen": "2026-10-10T23:53:52+00:00",
+"status": "unverified headline"
+},
+{
+"id": "e1e16dd4edb4",
+"t": "Nuclear war and malicious use of AI threaten end of humanity by 2100, says Lancet assessment",
+"u": "https://www.theguardian.com/global-development/2026/oct/11/nuclear-war-and-malicious-use-of-ai-threaten-end-of-humanity-by-2100-says-lancet-assessment",
+"o": "The Guardian",
+"lane": "news",
+"at": "2026-10-10T23:01:09+00:00",
+"seen": "2026-10-10T23:53:52+00:00",
+"status": "unverified headline"
+},
 {
 "id": "d51f7380d7d3",
 "t": "Top 10 this week in Christian County: New businesses, data center, chief of police and more - Christian County Now",
@@ -2163,27 +2183,6 @@
 "via": "Google News: dc-water",
 "lane": "search",
 "at": "2026-10-09T17:00:00+00:00",
-"seen": "2026-10-09T21:09:00+00:00",
-"status": "unverified headline"
-},
-{
-"id": "c196a57fea79",
-"t": "Maximus Stock Guidance Cut Raises Questions After VA Contract Incentive Pause - Simply Wall Street",
-"u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUGlEaS1UZHVybmtVTU5Cc01ta0pMTXNPZ3poVEJpT2xXYTExWllaOE14MTl5cExTd0RUQTdKelh1ME1jeVV4YWJxS1hrdE8ybjVxcXM0YmlKcjh2cXhJVkRTNUl3WnhfOFFUUmhzM05ROWp3anFoTkVfamowcFZxX18tRWN6ODRyUC13WjBvdHlMdHYyYzloeENkdXFuLWdIU2RGVjM1alpWX011WlZQdkY2cDVUbHV3ZllJa2dBbEdhdUtxdUFmSW1NZXp4TFXSAdQBQVVfeXFMTVhKUk9YZHB6S1I4VThvRXF2QmtNNzlES21BdFdLWEpJYm1IWGRhNGJ6b3ZzTHl4bHBCWlpkcTNWbklGcTlWVmx1aF9jNTNoR201a0U0eDQ5ckdGVkQtNnl2LXJzdmZoOEp0RXM5MTRwSjkxbmxXNk1GSFpINjNDeWJLTHJWdTBIUVMxWHB1bURqTFJZV3RXUTJNOXFWUzIxVWdyazhMTF8wRk9YUkI0S3EwcVpIX2pkdmVNQnJUMnVnUkhtNkQ5ZFo2cHNGWUItbTB2N18?oc=5",
-"o": "Simply Wall Street",
-"via": "Google News: dc-incent",
-"lane": "search",
-"at": "2026-10-09T16:57:29+00:00",
-"seen": "2026-10-09T21:09:00+00:00",
-"status": "unverified headline"
-},
-{
-"id": "e053ae3b334d",
-"t": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
-"u": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
-"o": "TechCrunch",
-"lane": "news",
-"at": "2026-10-09T16:56:42+00:00",
 "seen": "2026-10-09T21:09:00+00:00",
 "status": "unverified headline"
 }
