@@ -1,8 +1,18 @@
 {
 "name": "Tracewire",
-"updated": "2026-10-11T20:29:43+00:00",
+"updated": "2026-10-11T23:54:35+00:00",
 "note": "Unverified headlines collected automatically from public feeds. Not checked by Tracewire. Verified items appear in the Feed.",
 "items": [
+{
+"id": "cc70a9dda99d",
+"t": "AI is less regulated than milk, says Microsoft president",
+"u": "https://www.bbc.co.uk/news/articles/c6rmy7zmvx3lo?at_medium=RSS&at_campaign=rss",
+"o": "BBC",
+"lane": "news",
+"at": "2026-10-11T23:07:35+00:00",
+"seen": "2026-10-11T23:54:35+00:00",
+"status": "unverified headline"
+},
 {
 "id": "cc3bb76b28da",
 "t": "As Texans’ Electricity Costs Soar and Temperatures Rise, a Public Health Crisis Brews - The Good Men Project",
@@ -2175,17 +2185,6 @@
 "lane": "search",
 "at": "2026-10-10T15:14:55+00:00",
 "seen": "2026-10-10T20:43:36+00:00",
-"status": "unverified headline"
-},
-{
-"id": "428d2555a4f7",
-"t": "Trump’s AI liability push opens blame game for models gone rogue - The Economic Times",
-"u": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxObEpXOW1oNWhPd000QmtNVXlvSWp0YXU3QjdoSjBvUzRYRlBCaXhhc0QzdlJmR24tS0UyZG9uS1J2RDdYOE9tWGdab25XR1JmS2hRY1FLMXJ4NWJ0OU1pakphUXVSejhUb1V2THM5akFzWURPN2c4c2pFVWxzblMzckEyWWNIWkVGS3BrZWZ4RWJJVHNDX1JkbjItcGprX2t1cXQyR2ZSN25oUGt3SUVPMkxaR2p6bkpQa3JQTFdIaEIzVUd0UFlBSFNSWXhIYWoxekZ4YjdlVHcxUkpHZFMw0gHkAUFVX3lxTE1xTlpmY0pjMmFEc1Q2elhfMW5TcnpUcFIxSURkRDc2c3VuR1ZWWkhueEQ3UWtCbHBlam95NGdYSWFQbF94RTNkZGlHMDlfanZUTVprRXJNX1NaUkZaMGgyX21DUTM1TnpYdTMySDVNQ29hb1pWalFSSUFBcXFtR3FPVmRrQ3FfQmpfb2tjbW05V3VGRmUzMjVXMUJsYTlKR0h0UHdfZDZ6SFFsTWtvZDUyYmhRRC1jZDd5ZjE3OWg2YzZXMVhCN2F0MG1oZmpDd0g2Zk9YMWF0ZEhiOTZKcFZUWm1iUA?oc=5",
-"o": "The Economic Times",
-"via": "Google News: money",
-"lane": "search",
-"at": "2026-10-10T15:13:22+00:00",
-"seen": "2026-10-11T04:03:09+00:00",
 "status": "unverified headline"
 }
 ]
