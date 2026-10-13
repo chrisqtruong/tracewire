@@ -1,8 +1,58 @@
 {
 "name": "Tracewire",
-"updated": "2026-10-12T21:22:55+00:00",
+"updated": "2026-10-13T02:39:43+00:00",
 "note": "Unverified headlines collected automatically from public feeds. Not checked by Tracewire. Verified items appear in the Feed.",
 "items": [
+{
+"id": "9b52de2761ed",
+"t": "FCC Announces Tentative Agenda for October Open Meeting",
+"u": "https://www.fcc.gov/edoc/425708",
+"o": "FCC",
+"lane": "agency",
+"at": "2026-10-13T02:39:43+00:00",
+"seen": "2026-10-13T02:39:43+00:00",
+"status": "unverified headline"
+},
+{
+"id": "550b9be2c7b8",
+"t": "Chairman Carr Presents Awards for Advancement in Accessibility",
+"u": "https://www.fcc.gov/edoc/425727",
+"o": "FCC",
+"lane": "agency",
+"at": "2026-10-13T02:39:43+00:00",
+"seen": "2026-10-13T02:39:43+00:00",
+"status": "unverified headline"
+},
+{
+"id": "6dd04546e12c",
+"t": "National Energy Dominance Month, 2026",
+"u": "https://www.federalregister.gov/documents/2026/10/13/2026-20969/national-energy-dominance-month-2026",
+"o": "Federal Register",
+"lane": "agency",
+"at": "2026-10-13T00:00:00+00:00",
+"seen": "2026-10-13T02:39:43+00:00",
+"status": "unverified headline"
+},
+{
+"id": "75d2ca4675dd",
+"t": "Project-Level Predecisional Administrative Review Process",
+"u": "https://www.federalregister.gov/documents/2026/10/13/2026-20890/project-level-predecisional-administrative-review-process",
+"o": "Federal Register",
+"lane": "agency",
+"at": "2026-10-13T00:00:00+00:00",
+"seen": "2026-10-13T02:39:43+00:00",
+"status": "unverified headline"
+},
+{
+"id": "fd52dc050b6e",
+"t": "Regulation Crypto Asset Transactions and Regulation Crypto Asset Markets",
+"u": "https://www.federalregister.gov/documents/2026/10/13/2026-20888/regulation-crypto-asset-transactions-and-regulation-crypto-asset-markets",
+"o": "Federal Register",
+"lane": "agency",
+"at": "2026-10-13T00:00:00+00:00",
+"seen": "2026-10-13T02:39:43+00:00",
+"status": "unverified headline"
+},
 {
 "id": "36027dc72790",
 "t": "Gomez Slams Push to Flood Phones with AI Robocalls",
@@ -219,6 +269,16 @@
 "lane": "search",
 "at": "2026-10-12T19:30:30+00:00",
 "seen": "2026-10-12T21:22:55+00:00",
+"status": "unverified headline"
+},
+{
+"id": "d02e64454e8e",
+"t": "A college in Illinois tried to cancel its Flock contract and it refused",
+"u": "https://www.theverge.com/tech/1009411/elgin-community-college-flock-safety-cameras",
+"o": "The Verge",
+"lane": "news",
+"at": "2026-10-12T19:28:59+00:00",
+"seen": "2026-10-13T02:39:43+00:00",
 "status": "unverified headline"
 },
 {
@@ -2120,72 +2180,6 @@
 "via": "Google News: ai-deals",
 "lane": "search",
 "at": "2026-10-12T10:19:16+00:00",
-"seen": "2026-10-12T12:29:20+00:00",
-"status": "unverified headline"
-},
-{
-"id": "70459f777d02",
-"t": "Facebook Messenger DMA verdict 'vitiated by errors,' Meta says in appeal to ECJ - MLex",
-"u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRTQ0UHVFS2htSDg2amZwYjRNY25yemFJcWtzeHNXSzdYV3hZZTkwXzJRMU91UWhDZzVGOWVpMGdwVElYOXYzQXJocVRYS042M2RXSWdmWWtITGQ4bUFoNnRJeEhrOV9DSllLcFRiTHRUTDFFVDBHaVNLeVZ6Ni1BOURmTEJ4c3c2NTNtcndQcTdzMGFIVUhvMk1TdldzZENRTFlfYW42Z0xKMkwwOG9scUpZWDZlcDdUZmhzVTB0V1VhUU1jNlZodtIBWkFVX3lxTE00aUR4cFpPeUJPT2hZMEN0UXBlQUc4ejF3SGN4b0VpWmRTQXFmUzZrRXRfMzZpUEp0Xzc0anRGMGE2ZmY4emVxZ3NRWWV3SjhjX18wX3lRbGtYUQ?oc=5",
-"o": "MLex",
-"via": "Google News: antitrust",
-"lane": "search",
-"at": "2026-10-12T10:18:43+00:00",
-"seen": "2026-10-12T21:22:55+00:00",
-"status": "unverified headline"
-},
-{
-"id": "102162245907",
-"t": "AI Reshuffle: The Tech Jobs Being Cut vs The Ones Being Created - Free Press Journal",
-"u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaFJsbjRmbVA0cjRqbWFQU2U1ZHUxZ1ZsZlIwUzVXOFI0NURURzdsenlSVnI0dGNPenVDdTRud05fYzZpY212UTR4ZjJxN0ptVERJQUx2QlRuVlpzZ1M2aUlDbEk0RmJYQTMwWHgzZ0dBSmxITmNjam4tYUFwSVVFcXF3NGtBa0RyT0xmT3lOVk0xTGRCRUt0enYtZWQ3cHdq0gGmAUFVX3lxTE5RV2xJYm5QVWgyVmRleFdmeXBlTy12bGNCV1M5ZldYQUhnTGpJZlpYXzFWUHVaWVpNR3NCZ0M4UW9WN0NkUFZ3SXFrYV9oa2pYakxtNTFJY05FOTMzTVBpM2RSSlhobnpIbGV1Y2pLdTBIcGxGd3QteHRyNE5Ra0V2WGo0MHRVOHNDYkVLaXBlM0NjOXRoSnhhVUd5TkQxd2VnR1c2d0E?oc=5",
-"o": "Free Press Journal",
-"via": "Google News: labor",
-"lane": "search",
-"at": "2026-10-12T10:11:55+00:00",
-"seen": "2026-10-12T12:29:20+00:00",
-"status": "unverified headline"
-},
-{
-"id": "8253e3147c90",
-"t": "PJM Market Monitor Says 42% Of Forecast Data Center Growth Is Delayed Or Canceled - Forbes",
-"u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUVdVRndUSUdyODExWmxqWHdhVGdsZ1VkLXFaS0djREdHZkpTSHNLaXFQdkxGeExXN25jZGY3VUEzemktMDNnV2VsM2dlUnN1NVFoeW9leWtUWHpuV3NCVDltVzRoVUl3SklCWHlZUjBsempSWTQ5dks4dVFYcHVRRnc3S2I4RVZ6REJ0SHhqUV9pbXhnNVVSUnlQOWFVSW1VVXo1aVNTQ2VSTVNsZDVOV3RyYmlQVU1FSkU4ZFJDRGJhelJOVW51bzE3dXdLVEU?oc=5",
-"o": "Forbes",
-"via": "Google News: dc-utility",
-"lane": "search",
-"at": "2026-10-12T10:04:35+00:00",
-"seen": "2026-10-12T12:29:20+00:00",
-"status": "unverified headline"
-},
-{
-"id": "618cefa197f2",
-"t": "Musk donated over $276M to Republican groups since July: NYT (TSLA:NASDAQ) - Seeking Alpha",
-"u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVHZaNUIwRVRFcGxDeWdIdlZPWVI1cWl3eENfSmxtRGpvWnlScmw3eVV3MEdNT0t3bGdBSmJDUDFtUE9OZzR5ai1CYmtja3k1OEhkZGJNX0NhSGI3RW5TV3FmTGpkcWRyc1NNQ0FNUlBjZVd2SXc3M2QyME1GeVlVRnhLSzBEWDdNNXFLcWtPV0NHUDVFNGgxcVdmM3o?oc=5",
-"o": "Seeking Alpha",
-"via": "Google News: money",
-"lane": "search",
-"at": "2026-10-12T10:03:57+00:00",
-"seen": "2026-10-12T21:22:55+00:00",
-"status": "unverified headline"
-},
-{
-"id": "af671769d6df",
-"t": "IMF Chief Warns AI Could Disrupt 40% Jobs Worldwide - Analytics Insight",
-"u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTTFGNE9xNUxiN21ZT1VaS1hWOGdpa1pVOURsbXNPRkozT2ROS3pTcmd4aU5ScVVyMFZqZ0xZOVJzVWdsQkFvcU1UYjdnOUJaWUx0NW5Bc00tbWdMeXFocDR5RkdUUGUzRUxxTHl5Mkl4Tm9aUkM2MlF0U0RRTElSUUtaTWM1a0NWcFVLOGN0dXFNNVJILV9NRzZ0ZXlJWmPSAZ8BQVVfeXFMTU0xRjRPcTVMYjdtWU9VWktYVjhnaWtaVTlEbG1zT0ZKM09kTkt6U3JneGlOUnFVcjBWamdMWTlSc1VnbEJBb3FNVGI3ZzlCWllMdDVuQXNNLW1nTHlxaHA0eUZHVFBlM0VMcUx5eTJJeE5vWlJDNjJRdFNEUUxJUlFLWk1jNWtDVnBVSzhjdHVxTTVSSC1fTUc2dGV5SVpj?oc=5",
-"o": "Analytics Insight",
-"via": "Google News: labor",
-"lane": "search",
-"at": "2026-10-12T10:02:26+00:00",
-"seen": "2026-10-12T12:29:20+00:00",
-"status": "unverified headline"
-},
-{
-"id": "45a2fdf0a6a2",
-"t": "Amazon in Talks to Acquire AI Startup Decart for Around $7 Billion - Equitypandit",
-"u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSVhFSGVHbXpkMkU2Z0F2RzhSejdIQzdueVNHYW9oZFBDcGlybl9BeEZVOTAwRUhWZ1YzUnY3bnFEdkNlX01FZjlaWTk4b3FYY1UySnFvYUxJb3lUMzV1ZEItYVVHTWlSLTRYSjhFWEdaLWxkNi1BakNUaW9fbDBneC1tRzVXUWJIMzVtRloya0xYdC1lenM5ODdoVQ?oc=5",
-"o": "Equitypandit",
-"via": "Google News: ai-deals",
-"lane": "search",
-"at": "2026-10-12T10:02:00+00:00",
 "seen": "2026-10-12T12:29:20+00:00",
 "status": "unverified headline"
 }
