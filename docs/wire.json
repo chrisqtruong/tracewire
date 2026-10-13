@@ -1,8 +1,118 @@
 {
 "name": "Tracewire",
-"updated": "2026-10-13T09:45:05+00:00",
+"updated": "2026-10-13T17:10:09+00:00",
 "note": "Unverified headlines collected automatically from public feeds. Not checked by Tracewire. Verified items appear in the Feed.",
 "items": [
+{
+"id": "c936591ef225",
+"t": "AirTrunk to delay IPO amid rising interest rates - report",
+"u": "https://www.datacenterdynamics.com/en/news/airtrunk-to-delay-ipo-amid-rising-interest-rates-report/",
+"o": "DatacenterDynamics",
+"lane": "news",
+"at": "2026-10-13T16:28:10+00:00",
+"seen": "2026-10-13T17:10:09+00:00",
+"status": "unverified headline"
+},
+{
+"id": "111f4379ae3a",
+"t": "AI companion startup Character.ai files for Chapter 11 bankruptcy, citing costs and litigation",
+"u": "https://www.cnbc.com/2026/10/13/character-ai-chapter-11-disney-bid.html",
+"o": "CNBC",
+"lane": "news",
+"at": "2026-10-13T16:13:38+00:00",
+"seen": "2026-10-13T17:10:09+00:00",
+"status": "unverified headline"
+},
+{
+"id": "8c41aa14248c",
+"t": "Buying Apple’s wall-mounted HomeView? The mount costs extra",
+"u": "https://www.theverge.com/tech/1010164/apple-homeview-wall-mounted-sold-separately",
+"o": "The Verge",
+"lane": "news",
+"at": "2026-10-13T15:48:10+00:00",
+"seen": "2026-10-13T17:10:09+00:00",
+"status": "unverified headline"
+},
+{
+"id": "4d4365dcfbab",
+"t": "Law firm faces Uber’s racketeering claims",
+"u": "https://www.courthousenews.com/law-firm-faces-ubers-racketeering-claims/",
+"o": "Courthouse News Service",
+"lane": "news",
+"at": "2026-10-13T15:09:54+00:00",
+"seen": "2026-10-13T17:10:09+00:00",
+"status": "unverified headline"
+},
+{
+"id": "65bc89108607",
+"t": "Privacy's Defenders Podcast: No Privacy Without Encryption",
+"u": "https://www.eff.org/deeplinks/2026/10/privacys-defenders-podcast-no-privacy-without-encryption",
+"o": "EFF",
+"lane": "news",
+"at": "2026-10-13T15:00:03+00:00",
+"seen": "2026-10-13T17:10:09+00:00",
+"status": "unverified headline"
+},
+{
+"id": "2e0b0f99a4b7",
+"t": "FERC approves Duke large load transmission rules despite cost-shift concerns",
+"u": "https://www.utilitydive.com/news/ferc-duke-energy-large-load-tariff-nitsa/832847/",
+"o": "Utility Dive",
+"lane": "news",
+"at": "2026-10-13T14:20:49+00:00",
+"seen": "2026-10-13T17:10:09+00:00",
+"status": "unverified headline"
+},
+{
+"id": "5ea540d989bd",
+"t": "FERC approves PJM's request to create data center database",
+"u": "https://www.datacenterdynamics.com/en/news/ferc-approves-pjms-request-to-create-data-center-database/",
+"o": "DatacenterDynamics",
+"lane": "news",
+"at": "2026-10-13T13:30:48+00:00",
+"seen": "2026-10-13T17:10:09+00:00",
+"status": "unverified headline"
+},
+{
+"id": "4bf4df871ce4",
+"t": "New Democrat PAC hits GOP on AI in tight midterm races",
+"u": "https://www.politico.com/news/2026/10/13/new-democrat-pac-hits-gop-on-ai-in-tight-midterm-races-01116365",
+"o": "Politico",
+"lane": "news",
+"at": "2026-10-13T12:01:00+00:00",
+"seen": "2026-10-13T17:10:09+00:00",
+"status": "unverified headline"
+},
+{
+"id": "6efc071fe5ff",
+"t": "The Department of Justice Announces Results of Law Enforcement and Private Industry Joint Disruption Week Targeting Online Scam Accounts and Transnational Criminal Networks Operating in West Africa",
+"u": "https://www.justice.gov/opa/pr/department-justice-announces-results-law-enforcement-and-private-industry-joint-disruption",
+"o": "DOJ",
+"lane": "agency",
+"at": "2026-10-13T12:00:00+00:00",
+"seen": "2026-10-13T17:10:09+00:00",
+"status": "unverified headline"
+},
+{
+"id": "3abb2b65d0ca",
+"t": "DayOne secures $3.67bn in funding for Malaysia expansion",
+"u": "https://www.datacenterdynamics.com/en/news/dayone-secures-367bn-in-funding-for-malaysia-expansion/",
+"o": "DatacenterDynamics",
+"lane": "news",
+"at": "2026-10-13T11:18:01+00:00",
+"seen": "2026-10-13T17:10:09+00:00",
+"status": "unverified headline"
+},
+{
+"id": "a28109b8d46b",
+"t": "The Biggest Pro-AI Super PAC Network Has Poured Millions Into Nevada Shell Companies",
+"u": "https://www.wired.com/story/the-biggest-pro-ai-super-pac-network-has-poured-millions-into-nevada-shell-companies/",
+"o": "Wired",
+"lane": "news",
+"at": "2026-10-13T10:00:00+00:00",
+"seen": "2026-10-13T17:10:09+00:00",
+"status": "unverified headline"
+},
 {
 "id": "8763a55ae93c",
 "t": "Data Center Backlash Splits Republicans From Trump as 80% of Planned Sites Land in GOP States - SSBCrack",
@@ -951,6 +1061,16 @@
 "lane": "search",
 "at": "2026-10-13T01:50:40+00:00",
 "seen": "2026-10-13T09:45:05+00:00",
+"status": "unverified headline"
+},
+{
+"id": "e0e52c223228",
+"t": "The Wrong Kind of Abundance?",
+"u": "https://heatmap.news/daily/math-problems-openai",
+"o": "Heatmap",
+"lane": "news",
+"at": "2026-10-13T01:33:33+00:00",
+"seen": "2026-10-13T17:10:09+00:00",
 "status": "unverified headline"
 },
 {
@@ -2055,138 +2175,6 @@
 "via": "Google News: labor",
 "lane": "search",
 "at": "2026-10-12T18:39:26+00:00",
-"seen": "2026-10-12T21:22:55+00:00",
-"status": "unverified headline"
-},
-{
-"id": "61447774b3dd",
-"t": "Nvidia Stocks Fall 1.5% as Microsoft Pushes Maia Into Inference - TradingView",
-"u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYWRIQTVjaDF1UHM4QndKUGpDQ1ZIV1lZSHFoZTJ4azNQZTdHbDBUTV9TWTZRWEJyS1JmSWNwMlRDZ0hXRTdxc0duanBjZkVHdVI2TEpSQUhISEgxR3lzSFZYWHhKZkd6eVU2Vkd5RC1KRjh1N1pHMUdFV0RSTHNaME9vQ09RbXhuTnB0X0oxakxyOE1VX2lUT0cxWERGa3F5dUJ0bkhKR1I5MlhfbTU5Q21JY1RHMzFBdTl2SERaZw?oc=5",
-"o": "TradingView",
-"via": "Google News: dc-incent",
-"lane": "search",
-"at": "2026-10-12T18:31:05+00:00",
-"seen": "2026-10-12T21:22:55+00:00",
-"status": "unverified headline"
-},
-{
-"id": "bda20acdcdda",
-"t": "Ford Paid $10.5 Million in 2001 Over Grading Managers on a Curve. Now It’s Back in Court Over Job Bias. - The Auto Wire",
-"u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTDg3eldvVTI4LUhfWXMzcXBNVS1hdFlVQzdpYzg4QXBPak16X2dEdVc5dTlzMjRmOGNtVUJxcEZkR2dFR2JTX05kVnNGQkFXaFY3OVh2cDVvTlFkb2N4Tm5yUTVEQVFZUGNXZHZOcE9UUFA2T3N5R2RqVFlQQzVaeW81azhFUQ?oc=5",
-"o": "The Auto Wire",
-"via": "Google News: labor",
-"lane": "search",
-"at": "2026-10-12T18:27:05+00:00",
-"seen": "2026-10-12T21:22:55+00:00",
-"status": "unverified headline"
-},
-{
-"id": "96ba5286350d",
-"t": "Epic Games Delays Disney Project, Asks Developers to Use More AI - Yahoo Finance",
-"u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcmx2UHloejNObEtXeXBfM3VNSGQzcXIybWQ4TG1mUlh4OURpTEM5ZlV4OFBkWDZiakRmTGVfakk0amZ0V2NpV3diSGJMOTdiQVJ4bFFnc0pMVmpQLWtvTkotdTlYdzg4YmRmWXVjVW1TUmEwRlVYTXFTdlhYeEVQRVZRWWpqWHI2UHlQcmF6Q0NhaUp3SDZiM1c3Wmg?oc=5",
-"o": "Yahoo Finance",
-"via": "Google News: labor",
-"lane": "search",
-"at": "2026-10-12T18:24:41+00:00",
-"seen": "2026-10-12T21:22:55+00:00",
-"status": "unverified headline"
-},
-{
-"id": "3df9150370fa",
-"t": "Zoning hearing for proposed data center in Conshohocken resumes on October 15th - MoreThanTheCurve",
-"u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRnlPZ1F5bmxpekpnT1h0ZUF0aUM3TkFsb1lubWRNQ3JBZDhWZld1MDRoWTJMRDB4TnZUcjVDMHV1Y3VXMU9tcTB3RGZ5M3JfclVkeHBGaXRuNm1aQk1mZzljUG5SQ0VFSndRY3Nrd3BSbkdObmNONEFOSVRrTW9nQUhUSTZLbS1zSExGanF3dl8wUW83dWwzYTE3ZlByM3hMS19kX0l2ZWZhYU4yZkE?oc=5",
-"o": "MoreThanTheCurve",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-10-12T18:21:18+00:00",
-"seen": "2026-10-12T21:22:55+00:00",
-"status": "unverified headline"
-},
-{
-"id": "5423546b86ea",
-"t": "New Report Reveals Eye-Popping Amount of Money Elon Musk Has Spent on the GOP This Cycle - Mediaite",
-"u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWUtmeU9waVMtYk8xYTdXRDFwdFlaM0R4MVFyY2M2ZnBZbGhmWE9fQ3A4SE16Nkk2WUpkU2R1MEIxeXFLYk1FZ3JKQnJvZ2JRSXlncGJRdnBQRHVHTVlPYTVvUWtKekxIYkVXdkNfZWhyNV9IN09xQTRZOTlRc1BwM2YtSWRTUGJMU3RIOVJNZS00NnppUURJSzBsb3JGM0p4OWJTeEhWa1BZMVo3WXRaUVM4NmkyRWd2S096LUVRV3E?oc=5",
-"o": "Mediaite",
-"via": "Google News: money",
-"lane": "search",
-"at": "2026-10-12T18:19:00+00:00",
-"seen": "2026-10-12T21:22:55+00:00",
-"status": "unverified headline"
-},
-{
-"id": "a539ba87b168",
-"t": "The Local Skinny! KRCV Calling for Minimum 2-Year Statewide Data Center Moratorium - WIZS",
-"u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQTJCMHZERlBleUhRZ0YydzJvNVJwMi1Za25zZDJnUi04QWtRMkVNUWdSclRoSEg5cGx4WWJ1TTI3bjhwM1N1cVJJRnZqZGRLWmYxc2tlV2YtZExzRGFtS0pCYUEzbWhRWUlsUktxXzIweWQxMTB4RjdvM1dvVXhLa3FuZkEtd9IBhgFBVV95cUxOQTJCMHZERlBleUhRZ0YydzJvNVJwMi1Za25zZDJnUi04QWtRMkVNUWdSclRoSEg5cGx4WWJ1TTI3bjhwM1N1cVJJRnZqZGRLWmYxc2tlV2YtZExzRGFtS0pCYUEzbWhRWUlsUktxXzIweWQxMTB4RjdvM1dvVXhLa3FuZkEtdw?oc=5",
-"o": "WIZS",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-10-12T18:18:22+00:00",
-"seen": "2026-10-13T09:45:05+00:00",
-"status": "unverified headline"
-},
-{
-"id": "d4640fc5d1db",
-"t": "Jewel-Osco parent seeks more than $9 billion over busted Kroger deal - Crain's Chicago Business",
-"u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOejRjM1NoV2w3OTlPT090bXRDdVZuSUtSVFl1UC1MWDVRU1dUVHpHTzltU3gyR3duS1RqU0t2U1lzQjI3RDE0S3I5OV9zQWM2X0RQTkd3TTBHc25ILWNMaUpOaHlOZWVUdFJvZWhNNGRVdDN0S3RGYllzX1RPLXJjM1RrRVZad2NwamxjOFpwQ21hdWxuX0RkampjaEdEeVk?oc=5",
-"o": "Crain's Chicago Business",
-"via": "Google News: antitrust",
-"lane": "search",
-"at": "2026-10-12T18:18:00+00:00",
-"seen": "2026-10-12T21:22:55+00:00",
-"status": "unverified headline"
-},
-{
-"id": "3fca1348f0da",
-"t": "Can a data center be built near you? How local governments regulating them - Hilton Head Island Packet",
-"u": "https://news.google.com/rss/articles/CBMickFVX3lxTFBfamg3aEtCZDJ3em55aUs3TUhGMXJrR2ZYczdlUGJaYzdkQ2ZacWFMeFVBR1ZkM3k3NUNUMHNaUUZSZDUtOTczR2VSOVZvRVNObFRhcDExWnBvdm9lZXFQMXRZTGdER2FSMHBJcUN0RDMyQdIBckFVX3lxTFA5cXFhZTFKUi1zQXhMT1BJd1RmZVNqcGpBX29GbkFxcGpyLW5TckFUdDNvd1hSNFM0a1JoRFdzM3A0ZFJUV2p2N0ZmcVVCOUpWU3ZaT0phaXJzVm5kV3g0SzRyb1VuZ3NTY0dBcGdmdkMyQQ?oc=5",
-"o": "Hilton Head Island Packet",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-10-12T18:10:24+00:00",
-"seen": "2026-10-12T21:22:55+00:00",
-"status": "unverified headline"
-},
-{
-"id": "53677d15915d",
-"t": "‘Hilarious’: Susan Collins allies burn up to $25K attacking her rival in the wrong state - Raw Story",
-"u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1zX2tuRVhrRUJwSFktT2Rlc0tDMGQ3V0drYlI3a3lZMU1zR2E0WkJENXo2Zm9fbTBCQTRIMzBVTFdaR0JfTTBGVk1XaV83MFBfb3pnQ1VLUFdLUEZpTDdj0gFyQVVfeXFMTmdlSWVKNko3UmZ0eGRDR3lKOUZFWUlPa053R09lMlNRSVpHUXZJT25IZUl2ZmdrRzM2SmZoZVhVcXBSNy1NS2Fhc2hiMWQxbEdEZWtGRl9mVnpaNy04ZDFJdDhmM3lTTlY2UEx6OEhkS0Zn?oc=5",
-"o": "Raw Story",
-"via": "Google News: money",
-"lane": "search",
-"at": "2026-10-12T18:10:00+00:00",
-"seen": "2026-10-12T21:22:55+00:00",
-"status": "unverified headline"
-},
-{
-"id": "f129f2d1d0c2",
-"t": "Salem, Mass., Leaders Approve Data Center Ban - GovTech",
-"u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZVljYmtaMTYya0tCZ2xZRUYxVTEwa1Jra19OZWpfMlNjcnRMZnhEZmk1LTZGekRGakVFbTFKWFRRU1RacHdQZndRYTZEYmYxSDNxRnJJSnhLNlFUTXdlYUs2ZkdWaGxIUFpGeHRTaHdVUW45Wi02Mm1lYjhjMksxSG1QTXpzc01FaFNlSDdmVExlVnJG?oc=5",
-"o": "GovTech",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-10-12T18:08:56+00:00",
-"seen": "2026-10-13T09:45:05+00:00",
-"status": "unverified headline"
-},
-{
-"id": "9c72499a33f3",
-"t": "Michael Burry Is Skeptical Of NVDA, ORCL And NFLX — But Bullish On This Sports Betting Stock - Stocktwits",
-"u": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNa2hfbXNDa1p1T0tMTWdhYnFEZHhNcllaYUdNLWMtUUtYckJkaGlKV2t4dmd5RGd2Ynl5NGlhLUFUNlJRb1NsV002Zm5pbC1SMmlCS2t4V2l3cWllMFE5MHBYVHRSVlA3OHVxdnFoQjNIdWhrRFdMVzVnSTk1VjVtWkUwUVVldXlNRXE2R1NVZXRfTlV3emtlOTRtQkcyRG9PdXk5WU5RN0NIcGI3YVV4UUdUV0s5dWFsLUN0S21RUENUb193aVJheDM2eFQ4anlDS3haanMxU245WUNUd1pYcDc2N24wS2tmMnM1M0NiN2ZpZi1POS1YaXpoYU00dw?oc=5",
-"o": "Stocktwits",
-"via": "Google News: antitrust",
-"lane": "search",
-"at": "2026-10-12T18:04:33+00:00",
-"seen": "2026-10-13T09:45:05+00:00",
-"status": "unverified headline"
-},
-{
-"id": "c2bae823e30e",
-"t": "Elon Single-Handedly Outspends All Democratic Donors To GOP Senate PAC - The Daily Wire",
-"u": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxOWVNmZTM3REdGdzVjcGNPbTBld0NYZmJsWVdhUUh4WFk2aTdpVDB0cnl2dUtyQ0V1ZWNtd2JzRjV3RVljQzJNSnB2VEpicHlUenpVaC1QV2stTTV1Tm5OY3VMS0J6OExqb0ZUUk82V1ZUX0kwSDRCM1dSZUd2aW5ZLXpqRUNreTFrTFJCS1Q3a0VESlgwQ05oVVJnTU5BZmR6Y2NnazJFSW9xVnR0bm1Td2N4WkhELUxiZHQ5WkF4NzY1OENMYmk3U2g0YjRiSmhRZ0FUWVAxZk1wbUNWYVA3WkdGUURMN3JJVm1SaS00MmhMNEdDY0RwdXEwR0xCTWpKT3lhMnB1TEQxelVVN0FJTHUzX2pydXIzVFVHZDEya0RjeU9oWER0SFAwZ3l5dHFXT1UxUHlJelU4dnFTNTY4aWx2NFdVQ2FFLVJPcmpDanFJT1V0VU83S2FndU9veWVXekxSSFlfWkRYSjctaFJzX0tWQmlDQQ?oc=5",
-"o": "The Daily Wire",
-"via": "Google News: money",
-"lane": "search",
-"at": "2026-10-12T18:02:24+00:00",
 "seen": "2026-10-12T21:22:55+00:00",
 "status": "unverified headline"
 }
