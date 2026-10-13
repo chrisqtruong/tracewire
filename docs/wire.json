@@ -1,8 +1,129 @@
 {
 "name": "Tracewire",
-"updated": "2026-10-13T17:10:09+00:00",
+"updated": "2026-10-13T21:51:06+00:00",
 "note": "Unverified headlines collected automatically from public feeds. Not checked by Tracewire. Verified items appear in the Feed.",
 "items": [
+{
+"id": "c695e021eed1",
+"t": "FBI arrests Saudi OpenAI employee who allegedly planted recording device in conference room",
+"u": "https://www.cnbc.com/2026/10/13/openai-employee-arrested-recording-device.html",
+"o": "CNBC",
+"lane": "news",
+"at": "2026-10-13T21:44:46+00:00",
+"seen": "2026-10-13T21:51:06+00:00",
+"status": "unverified headline"
+},
+{
+"id": "082a179fcd58",
+"t": "OpenAI employee arrested for allegedly planting a bug in a conference room",
+"u": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device",
+"o": "The Verge",
+"lane": "news",
+"at": "2026-10-13T21:36:13+00:00",
+"seen": "2026-10-13T21:51:06+00:00",
+"status": "unverified headline"
+},
+{
+"id": "bb8ddc4c9ee6",
+"t": "OpenAI employee arrested by FBI after listening device was found at its office - The Washington Post",
+"u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSFhIOWJVeXVpUmJZekJyZS1PX0dzX3VBWjRYT2k4dFNrR055RkswcEJweEJ0NThjN0dRMVA0LWZrUGROYzVnTGdqOXJHTmRnRkNFREpSc3RucnNYM0JrM2ZPNlE4VmpDdENWU2sya2Fqc3BIMm9icHVzcFVYemZhTTZNXzJ4Qkx4Mm5taEpNUGstOGZ3dVVocURKVzFScFJxYkY2ajhja2J2Q2JrVF9WNQ?oc=5",
+"o": "The Washington Post",
+"via": "Google News: washingtonpost.com/technology",
+"lane": "search",
+"at": "2026-10-13T21:32:46+00:00",
+"seen": "2026-10-13T21:51:06+00:00",
+"status": "unverified headline"
+},
+{
+"id": "f906346f19b2",
+"t": "Judge says Musk engaged in intimidation of ex-FEMA CFO Mary Comans, clears her name",
+"u": "https://www.cnbc.com/2026/10/13/judge-says-elon-musk-engaged-intimidation-of-ex-fema-cfo-mary-comans.html",
+"o": "CNBC",
+"lane": "news",
+"at": "2026-10-13T21:15:32+00:00",
+"seen": "2026-10-13T21:51:06+00:00",
+"status": "unverified headline"
+},
+{
+"id": "96f2aead784a",
+"t": "FBI arrests OpenAI employee accused of planting hidden recording device in conference room",
+"u": "https://techcrunch.com/2026/10/13/fbi-arrests-openai-employee-accused-of-planting-hidden-recording-device-in-conference-room/",
+"o": "TechCrunch",
+"lane": "news",
+"at": "2026-10-13T20:59:11+00:00",
+"seen": "2026-10-13T21:51:06+00:00",
+"status": "unverified headline"
+},
+{
+"id": "593b4468b5d9",
+"t": "Judge skeptical of claims Google AI tool wiretapped customer service calls",
+"u": "https://www.courthousenews.com/judge-skeptical-of-claims-google-ai-tool-wiretapped-customer-service-calls/",
+"o": "Courthouse News Service",
+"lane": "news",
+"at": "2026-10-13T20:40:49+00:00",
+"seen": "2026-10-13T21:51:06+00:00",
+"status": "unverified headline"
+},
+{
+"id": "70093601d146",
+"t": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
+"u": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
+"o": "TechCrunch",
+"lane": "news",
+"at": "2026-10-13T20:36:44+00:00",
+"seen": "2026-10-13T21:51:06+00:00",
+"status": "unverified headline"
+},
+{
+"id": "c66854c696f9",
+"t": "Supreme Court won’t release Minnesota activist jailed for threatening pro-ICE social media influencer",
+"u": "https://www.courthousenews.com/supreme-court-wont-release-minnesota-activist-jailed-for-threatening-pro-ice-social-media-influencer/",
+"o": "Courthouse News Service",
+"lane": "news",
+"at": "2026-10-13T20:15:04+00:00",
+"seen": "2026-10-13T21:51:06+00:00",
+"status": "unverified headline"
+},
+{
+"id": "f273fe307245",
+"t": "OpenAI and Anthropic Tell British Lawmakers: Regulate Us",
+"u": "https://www.wired.com/story/openai-and-anthropic-tell-british-lawmakers-regulate-us/",
+"o": "Wired",
+"lane": "news",
+"at": "2026-10-13T19:35:29+00:00",
+"seen": "2026-10-13T21:51:06+00:00",
+"status": "unverified headline"
+},
+{
+"id": "f733ead0e57b",
+"t": "OpenAI cannot rule out rogue AI incidents as MI5 warns of terror threats",
+"u": "https://www.courthousenews.com/openai-cannot-rule-out-rogue-ai-incidents-as-mi5-warns-of-terror-threats/",
+"o": "Courthouse News Service",
+"lane": "news",
+"at": "2026-10-13T19:06:21+00:00",
+"seen": "2026-10-13T21:51:06+00:00",
+"status": "unverified headline"
+},
+{
+"id": "64be3d764257",
+"t": "I don’t miss the camera on the Ray-Ban Meta Audio glasses",
+"u": "https://www.theverge.com/tech/1009128/ray-ban-meta-audio-glasses-review-smart-glasses-headphones-wearables",
+"o": "The Verge",
+"lane": "news",
+"at": "2026-10-13T19:01:42+00:00",
+"seen": "2026-10-13T21:51:06+00:00",
+"status": "unverified headline"
+},
+{
+"id": "026de6eaa8d0",
+"t": "As Federal Court Rules ALPRs are Mass Surveillance, EFF Gets Disappointing Ruling",
+"u": "https://www.eff.org/deeplinks/2026/10/federal-court-rules-alprs-are-mass-surveillance-eff-gets-disappointing-ruling",
+"o": "EFF",
+"lane": "news",
+"at": "2026-10-13T17:19:19+00:00",
+"seen": "2026-10-13T21:51:06+00:00",
+"status": "unverified headline"
+},
 {
 "id": "c936591ef225",
 "t": "AirTrunk to delay IPO amid rising interest rates - report",
@@ -81,6 +202,26 @@
 "lane": "news",
 "at": "2026-10-13T12:01:00+00:00",
 "seen": "2026-10-13T17:10:09+00:00",
+"status": "unverified headline"
+},
+{
+"id": "b13c61e7e960",
+"t": "Saudi National Arrested for Installing Surreptitious Audio Recording Device at OpenAI",
+"u": "https://www.justice.gov/opa/pr/saudi-national-arrested-installing-surreptitious-audio-recording-device-openai",
+"o": "DOJ",
+"lane": "agency",
+"at": "2026-10-13T12:00:00+00:00",
+"seen": "2026-10-13T21:51:06+00:00",
+"status": "unverified headline"
+},
+{
+"id": "d7d3d0965633",
+"t": "Justice Department Announces Coordinated Actions to Combat North Korean Remote IT Worker Schemes Affecting More than 70 U.S. Companies",
+"u": "https://www.justice.gov/opa/pr/justice-department-announces-coordinated-actions-combat-north-korean-remote-it-worker",
+"o": "DOJ",
+"lane": "agency",
+"at": "2026-10-13T12:00:00+00:00",
+"seen": "2026-10-13T21:51:06+00:00",
 "status": "unverified headline"
 },
 {
@@ -2022,160 +2163,6 @@
 "lane": "search",
 "at": "2026-10-12T19:26:36+00:00",
 "seen": "2026-10-13T09:45:05+00:00",
-"status": "unverified headline"
-},
-{
-"id": "364d51f0257c",
-"t": "Amazon Reportedly In Talks To Acquire AI Startup Decart For Around $7 Billion - Pulse 2.0",
-"u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQ0tFS1dJVHFybWI3alJnRWZ4bGREblRiWXVxVFNpZk5aUWsyUGNBcXZ5Q25HbkJpclRTRW1ndU1kcDM0TkRzZjkwZi1MY2RYUXh4cnJkM0JkZEF3bWJHSGlXejhNSGJRLTFnWDJYcERHdTFkWGtEajRiM3R6a1pkU3ZBaHlLbHV6LU83N25kTmxkNFdUM3BEQldyMmo?oc=5",
-"o": "Pulse 2.0",
-"via": "Google News: ai-deals",
-"lane": "search",
-"at": "2026-10-12T19:24:42+00:00",
-"seen": "2026-10-12T21:22:55+00:00",
-"status": "unverified headline"
-},
-{
-"id": "fe32a6bf2432",
-"t": "Elon Musk quietly becomes biggest known donor in midterm contests as he tries to save Republicans - MPR News",
-"u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaUc1SGNmWDJKdGdmV2MweGhBR29xMEZrNEVtNkRIdnJFWU42S3R3UVVxT0VPT1Fmb1ZkRHA0TVNRWEcydnRETVRvUl9PaW9JSk5URklINjZzelhLUFd0Q1o1SVlyYlBueVZsUkEtYTFIVkxnSS1ZakdkOHdQdW5MckdFUUV4dFc4SjltalhoanEtLVBrVFp4S1UwR1IxN09OM2oycXl4b3c0dw?oc=5",
-"o": "MPR News",
-"via": "Google News: money",
-"lane": "search",
-"at": "2026-10-12T19:20:00+00:00",
-"seen": "2026-10-12T21:22:55+00:00",
-"status": "unverified headline"
-},
-{
-"id": "a26ea9042954",
-"t": "Data center developer sues village to keep plan moving forward - Treasure Coast News",
-"u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSmZQbkozbDJhWU1nOExtMGx3OC1WY1NCYmNON0RYeDhSUkNSUFA5YUI3cXZiUGZCNkViZnhjSmtETzZmRVFUSVpLek9pTnpESHM5enV3WXBueWtSTEZEaXBQaDRhVUhtN0c0RkZqczBXTHdqeDBMdnZaVktUUFh3V0hLRTJydzhPMGJXT2lTaTFyekZ1N3k3cEVLclZPZDJIcEJFQ01JUGQyaTQ0MGduQWJNaUhPY0hraTdaQ2hOYXpsNENxU0FBS3NMcW9PQUdjdV9IN0FyRVlYdw?oc=5",
-"o": "Treasure Coast News",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-10-12T19:19:00+00:00",
-"seen": "2026-10-13T09:45:05+00:00",
-"status": "unverified headline"
-},
-{
-"id": "0d644a9ffadd",
-"t": "Restrictions on Lawrence data center development advised by planning commission - The University Daily Kansan",
-"u": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQQ3U2M1R4dnFScWhobGxxTW1OM3d1SVNoS3RPVS16VTg4b1dqQi13YjR4cHZYS0ZyZ3hLcGprVUtib3ZORjJBQ293b0dLdzY5WHRGbDFiLTR4cS1FeHBlTklMODZRNmdvVzRJVHpDbkstX2E5WC1TRWhWVldwS3Y1cnF4RVl3d0ZQVV9ab2N0dUZEbHZhYjAtaFlwQXUwWjVpZ2tCS0Y3NEdINFZjNkxKc0ZWRThCSGYwcVIyOGlVRDFLaTJhRUFEV0RzU2MwbFB3ZnlDNmhxWWFQdTdhMFVVdU5zNWphUzEyX09rYXhB?oc=5",
-"o": "The University Daily Kansan",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-10-12T19:17:00+00:00",
-"seen": "2026-10-12T21:22:55+00:00",
-"status": "unverified headline"
-},
-{
-"id": "5fe64f1b8d1e",
-"t": "FIFA Wants Antitrust Lawsuit Dismissed After Lawyers Sanctioned Over Suspected AI-Generated Citations - Law Commentary",
-"u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOT3R1TE1fTFRkRUlkZVN3bmY2OWpTWUZOb1dvaHY5T3plY2ViT1V6aXdMM0VpaDhGUlB6RlVxNE9tSnRXUXE0VjRJUXZOQmRJWmVIajZBczNuMnUxdzFwT25JSWlnU1d1YVRBc1lKQ0RkUWM5cDJHNTJ6WXB2a29WZGRyN0p5U2xZazRadQ?oc=5",
-"o": "Law Commentary",
-"via": "Google News: antitrust",
-"lane": "search",
-"at": "2026-10-12T19:05:49+00:00",
-"seen": "2026-10-12T21:22:55+00:00",
-"status": "unverified headline"
-},
-{
-"id": "06fbc59e32f7",
-"t": "Tazewell County data center moratorium approval nears the finish line - WCBU Peoria",
-"u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSTB3SDFsOWNLSzBuVDF5bUpQUy15OVVGSFhsdTBrdFNYaW5UQ1RrYllEWUd6cGp5aFZqeWZyUGdNOXlxMVgzWHMxNzRpaTF6WVBNU3cxN0lJNFBreE5qSVpoWmo2QVRJSHVNZVd0MUUwMVZ5Ml9wdFFXY28tSVhsc2JvNFBid212bXd2aGVTNmJaTW5NTm1qVUR1ck10XzRaODhZdWc3OGk4YUxxcm5kSUd3?oc=5",
-"o": "WCBU Peoria",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-10-12T19:02:00+00:00",
-"seen": "2026-10-12T21:22:55+00:00",
-"status": "unverified headline"
-},
-{
-"id": "7598dce8ae4b",
-"t": "USA Today Hits OpenAI With $250 Million-Plus Copyright Lawsuit Over ChatGPT - Law Commentary",
-"u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbEVVS0diVy04eUZDYXg1Qm12ME9CMm5Na3REa3dKbWRyNzNJVWxwOExrVHpMc3NwQ2xrbFBSSE1RVjJDS0VlZEluQVVaM3lXSzRhR285VklhTGxES2FHcV9hLVZ6NWI5elg3VklVaE1tODBzOUo4ajUtOGM2RkhiS2xSV2V0RUliQXVmVEVRQ0F4ZzNNdHhJZg?oc=5",
-"o": "Law Commentary",
-"via": "Google News: antitrust",
-"lane": "search",
-"at": "2026-10-12T19:01:03+00:00",
-"seen": "2026-10-12T21:22:55+00:00",
-"status": "unverified headline"
-},
-{
-"id": "d58a57561cf3",
-"t": "DOJ Launches Antitrust Investigation Against ABC News, CBS News, NBC News, CNN, and Fox News - ADWEEK",
-"u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPalFIZ2RNam5ZUjlFWVRzUldlOGVFbDNnMGloTFY0Zmx4VHk1SGpHMkktWThmd0ZoSHFWYzVSdi1qNndValY5VkRUMTZLVW0yQ2E1N2ZoQV9aYkxDTW1NSm9hNE9STVlyOFZKUktfc2c3VVpWbndPdTdxcDNiZ0c0eDFyR0EzWWJhRDhCTWJaZk9hN05rQTlQa3hBOUFxUld4RFc2MHA5Um9zdHBVTHBGa3IydWx5WW5fZExrMDJn?oc=5",
-"o": "ADWEEK",
-"via": "Google News: antitrust",
-"lane": "search",
-"at": "2026-10-12T19:01:03+00:00",
-"seen": "2026-10-12T21:22:55+00:00",
-"status": "unverified headline"
-},
-{
-"id": "924a5a1e2b2b",
-"t": "Trump administration plans to move AI testing agency officials to White House: The Information - The Economic Times",
-"u": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNZnZmSDg3Z1FBeldLMGdBMnhCNG1FVzdMejkyc2owRDdvbkZyV01UZ0hUNk1pZzhGY09LZVRKTWJJOWRUdVpvZHVFMklrOTM3Sk5wdkVBTVVmUjF1eEUxWU0ySzVXLWVPdTdyOTZlN25vc2ZHUHc5VGNudFFxNkR3N2FRVHhZZUJLNmRWSnFlYnJIRmlXLTdCY1hPTERLWU9ZOGVvaDBMSTN6UExHXzhwTzFoam9QRlBGVjhKbHgxdVlnMUFMOUFXRURDX3lTZGszMWJOcXdqNDc5eTh2VHdhVDliMnhjVFh0eGc3VWstQ2FvOGVoOUZuYUxoUXZkSGlEZmpIX2EweTBodFVocWZERTFqb9IBjAJBVV95cUxQemZFZk1UVWg5NmxBVkk2T2V5d0JrQUV0ZFloNkwzVWZ2aXJMN1VXbGN4bGV2VHlmdV9XYURkaF9IemI1Q05iUFR1bTRFY2pZX0xjNUtYMDg3c3psTkQ2MjdseHlyOHhpaVZPSkdiWGVkNnhtTnRxcnhmS3BTZnUzeUV0V3NNMEVmaXBEcGhYVi14VjFmSUkxMDR0cUNHUFZSZ0F5eDFDVjZScXpNQjY1SHdqbkJqd3BlcXhQazlnRElESFkwUEZVZUpQQ1BqWDJHeTNBN2lIZElSSDFtSWFtSmVIYnptSV9PWGE3V3dQYjZqM1RqQkE0NFMyalFiY29lNWZhaHhqbFBKVDU2?oc=5",
-"o": "The Economic Times",
-"via": "Google News: labor",
-"lane": "search",
-"at": "2026-10-12T18:59:49+00:00",
-"seen": "2026-10-12T21:22:55+00:00",
-"status": "unverified headline"
-},
-{
-"id": "9226ff8cb70c",
-"t": "Land & Expand: North America's Data Center Pipeline Expands Under Pressure - Data Center Frontier",
-"u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTVM1eFJaSy1aM3M1aXcyczRvY0daMlRncWg5U3pwOWRHTWFDMW1NQk9tMUF6MC1RNjF0YkVMR2FiNWU0c2t4QTY5bS1od1BqZ1Bvb3BaOEFrWVBvU3VJWFpsNk9WRjRYOHZkQWNhMzY1cFRGVWoyakM5NkotUnRGMkpvYUlpaVBsNFBrRGs4SnZMMC1vLXVVNndIYVJMcFA1cUZNRVlZQmVfelF4MDhkRFNmS0s1V3FmWldZZ0RVX2k0Z3pPQXd5Vjd5cXFFUQ?oc=5",
-"o": "Data Center Frontier",
-"via": "Google News: dc-water",
-"lane": "search",
-"at": "2026-10-12T18:59:35+00:00",
-"seen": "2026-10-12T21:22:55+00:00",
-"status": "unverified headline"
-},
-{
-"id": "c4850189a029",
-"t": "Sherrill joins bipartisan effort to tackle rising energy costs - NJBIZ",
-"u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1zRngyVXhhX1ZiekprclpJcmVjd0MwUERRUHRaa2VlUERFMGJxWm1BLUtoSTFTR0VoeHZmQkhUbjROcFFEdVU4dmNpZElVbHNsTWVCdE9fd09DTW9IMVpWbkphUUppZHp4NzBlM0ZwVQ?oc=5",
-"o": "NJBIZ",
-"via": "Google News: dc-utility",
-"lane": "search",
-"at": "2026-10-12T18:58:49+00:00",
-"seen": "2026-10-12T21:22:55+00:00",
-"status": "unverified headline"
-},
-{
-"id": "3d47a48509b7",
-"t": "Orange County Commissioners draft data center regulations for when one-year moratorium lifts - The Daily Tar Heel",
-"u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRDFMUFhabERNams3aVJsbXA1Qi1UVmFuRUV4cHFjN05sZE5WaDk2VlZiSkUybmtiRlhHVXQ4S0ZCUXB4V2NCb05odDBIZ1EteUJucjl5MW1RaHZMZkRVRnRrd041VTFUX19BblNjM2xtTGRsM09Rdm1MX3h0dzZHWWllWXRiOFZ4TVd3OGh6VzU5cTJwLXJENDV4ck9PbGh3WDk5NVBlQkRGUm1BN2hueS1QcDl2QzEzUlVLRl9WMEN1ZTBtM2gxNGQ4Nk02aEkyaXc?oc=5",
-"o": "The Daily Tar Heel",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-10-12T18:51:20+00:00",
-"seen": "2026-10-12T21:22:55+00:00",
-"status": "unverified headline"
-},
-{
-"id": "bf823099b5d7",
-"t": "Butler. Twp. supervisors to consider data center ordinance on Oct. 13 - The Standard-Speaker",
-"u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOUFoNEVzSXJuZlI3SXZ0RFQ5ZVFLbVB0TnQ2SjAxeGFkbmRxRGRWN1FEdzROOFJ2UDBiakxmcHJObnQxUHBoLXR2SUtfOHBiQ01qakFpRkFBSlU2ZFVPb25IcFlDTnNLOFlKanVsajRYNXhYYUhsOTJadURlM281ZENYUlpNWjRSUmU5a1Q1ak9TY1pkR1JqVGxOQ2xRSGtXTnNjdjItLUtSaDBLU2dr?oc=5",
-"o": "The Standard-Speaker",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-10-12T18:43:43+00:00",
-"seen": "2026-10-12T21:22:55+00:00",
-"status": "unverified headline"
-},
-{
-"id": "b0ec14e61380",
-"t": "UK given access to safety-test latest AI models, minister says - The Economic Times",
-"u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOUDhYUWJtZXBLeEJOZnBOQlBrR2s5ODFSRHJYMTFNaUxDZXJsWW5TN3M1ejQweDEwNDN2aGFaVEY0QW1uNDVCV1ZCTlBHWVRTNUtCWFN2c1RORk0tV0k0SkJZLUFhdElnWmV0TmdBRkdmeTRJRUJrQU1NcmRBQ0FBNEQ4U3dpbzByendrcGgxWU9lTHBud3BHaFprNWVJMXVzdWF6T3ItdC16TzZYVlFfUWpkUGFzYmxaTjdtTTlMTllXa0k2cmpzV0pXb2NZUS02bkN1eDFndzdXaXd50gHiAUFVX3lxTFB0aXBGcWx0WHFrYzhQM2g2aEFCai16SndKVGdYVnJkTWxXR0VlV0k5amFFMjV5dUhEUlFNWXZzdWd6S1NQZjVSZTZ2cXVMV0RRc1dvNUdmdFZ1LUltdG5WcGlUSlRHNTZjeV80VVdBUkFtMVU5Mlk0Nk9RQVZ0a1hiY1VPejNDQWRsTlVOcTItdjQ0eXEyNVFiTWVER2pQcWc2aUFDdE8yeVNCc01OemhPaG9pU2lONGJ3Z0RKcHJZUThZUFNhQlRUSURFS0V0c29wUndzZGNhQWVDbmJEd19XNGc?oc=5",
-"o": "The Economic Times",
-"via": "Google News: labor",
-"lane": "search",
-"at": "2026-10-12T18:39:26+00:00",
-"seen": "2026-10-12T21:22:55+00:00",
 "status": "unverified headline"
 }
 ]
