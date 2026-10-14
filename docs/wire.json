@@ -1,8 +1,48 @@
 {
 "name": "Tracewire",
-"updated": "2026-10-14T15:26:29+00:00",
+"updated": "2026-10-14T19:37:28+00:00",
 "note": "Unverified headlines collected automatically from public feeds. Not checked by Tracewire. Verified items appear in the Feed.",
 "items": [
+{
+"id": "0f5a54ba88db",
+"t": "Brazil’s Data Center Growth Pushes Beyond São Paulo",
+"u": "https://www.datacenterknowledge.com/data-center-site-selection/brazil-s-data-center-growth-pushes-beyond-s-o-paulo",
+"o": "Data Center Knowledge",
+"lane": "news",
+"at": "2026-10-14T17:30:34+00:00",
+"seen": "2026-10-14T19:37:28+00:00",
+"status": "unverified headline"
+},
+{
+"id": "d7909dd6ab12",
+"t": "Mosqitter is turning its mosquito traps into an AI-powered surveillance network",
+"u": "https://techcrunch.com/2026/10/14/mosqitter-is-turning-its-mosquito-traps-into-an-ai-powered-surveillance-network/",
+"o": "TechCrunch",
+"lane": "news",
+"at": "2026-10-14T17:00:00+00:00",
+"seen": "2026-10-14T19:37:28+00:00",
+"status": "unverified headline"
+},
+{
+"id": "8e82fce38941",
+"t": "Palantir and Sadiq Khan drop legal battle over Met contract",
+"u": "https://www.theguardian.com/technology/2026/oct/14/palantir-and-sadiq-khan-drop-legal-battle-over-met-contract",
+"o": "The Guardian",
+"lane": "news",
+"at": "2026-10-14T16:05:22+00:00",
+"seen": "2026-10-14T19:37:28+00:00",
+"status": "unverified headline"
+},
+{
+"id": "32f880d6d58b",
+"t": "Toilet paper and secret recorders: What we know about the arrest of the Saudi OpenAI engineer",
+"u": "https://www.bbc.co.uk/news/articles/cm04054ykqqqo?at_medium=RSS&at_campaign=rss",
+"o": "BBC",
+"lane": "news",
+"at": "2026-10-14T15:54:04+00:00",
+"seen": "2026-10-14T19:37:28+00:00",
+"status": "unverified headline"
+},
 {
 "id": "4570c1d099c8",
 "t": "FCC to Vote on Making $162 Million Available for Expanded Mobile Broadband in Alaska",
@@ -54,6 +94,16 @@
 "lane": "search",
 "at": "2026-10-14T15:10:54+00:00",
 "seen": "2026-10-14T15:26:29+00:00",
+"status": "unverified headline"
+},
+{
+"id": "5378232e6660",
+"t": "AI Data Center Land Buying Hits $6B as Power Premiums Rise",
+"u": "https://www.datacenterknowledge.com/data-center-construction/ai-data-center-land-buying-hits-6b-as-power-premiums-rise",
+"o": "Data Center Knowledge",
+"lane": "news",
+"at": "2026-10-14T15:10:44+00:00",
+"seen": "2026-10-14T19:37:28+00:00",
 "status": "unverified headline"
 },
 {
@@ -189,6 +239,16 @@
 "status": "unverified headline"
 },
 {
+"id": "8c39163e1d40",
+"t": "PJM plans to study SoftBank’s Ohio AI project under state agreement approach",
+"u": "https://www.utilitydive.com/news/pjm-softbank-ohio-ai-flagship-state-agreement-approach/832962/",
+"o": "Utility Dive",
+"lane": "news",
+"at": "2026-10-14T14:13:00+00:00",
+"seen": "2026-10-14T19:37:28+00:00",
+"status": "unverified headline"
+},
+{
 "id": "b92026db7ee3",
 "t": "What a $1.3 Billion Bumble Deal Says About Where AI Leaves Human Connection - BeInCrypto",
 "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1jMXg0TGx5d1ozbkRvNXBFUmR1emF1ekFHMFg1b1hyTFlHanhKVFN6aEdzWW0xYko5X1ZaSnZ2SEwtMUItekVjZUM3OVNHV2huektHOXE0dWpkSzc2VWpMRnJvYzRwakk?oc=5",
@@ -294,6 +354,16 @@
 "lane": "search",
 "at": "2026-10-14T13:26:06+00:00",
 "seen": "2026-10-14T15:26:29+00:00",
+"status": "unverified headline"
+},
+{
+"id": "c695e021eed1",
+"t": "FBI arrests Saudi OpenAI employee who allegedly planted recording device in conference room",
+"u": "https://www.cnbc.com/2026/10/13/openai-employee-arrested-recording-device.html",
+"o": "CNBC",
+"lane": "news",
+"at": "2026-10-14T13:25:24+00:00",
+"seen": "2026-10-14T19:37:28+00:00",
 "status": "unverified headline"
 },
 {
@@ -613,6 +683,16 @@
 "status": "unverified headline"
 },
 {
+"id": "bd1f97d7a134",
+"t": "Mississippi Man Convicted by Federal Jury of Participating in a Criminal Conspiracy to Distribute Child Sexual Abuse Material",
+"u": "https://www.justice.gov/opa/pr/mississippi-man-convicted-federal-jury-participating-criminal-conspiracy-distribute-child",
+"o": "DOJ",
+"lane": "agency",
+"at": "2026-10-14T12:00:00+00:00",
+"seen": "2026-10-14T19:37:28+00:00",
+"status": "unverified headline"
+},
+{
 "id": "d8387919ff82",
 "t": "Salisbury places one-year moratorium on data center proposals - Bay to Bay News",
 "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeFA4c0ZvUEpEd1paWGxiVnRpaGNhb0VhUldfckRKeHFZQWFPSjR6Q2ozMHVIeFZRVE54alhTOFUwQ0dLMTE4MlhPN2dHTUJDWWk0UUJzdTRzTXEtQzlVRFZrQ1JNeWpKbzBmaUxCMVhac1FYNzZ3dXNRZ2dwbklxLU4zRGNWTE42Z0ZDQ1NtbTVRQ0JBX2xTbjhkRmJZTHVIa0d0WHdNdw?oc=5",
@@ -740,6 +820,16 @@
 "lane": "agency",
 "at": "2026-10-14T11:03:28+00:00",
 "seen": "2026-10-14T15:26:29+00:00",
+"status": "unverified headline"
+},
+{
+"id": "bf6ae9845758",
+"t": "Anthropic urges court in Washington, DC, to rehear appeal of Pentagon blacklisting",
+"u": "https://www.cnbc.com/2026/10/13/anthropic-wants-court-in-dc-to-rehear-appeal-of-pentagon-blacklist-.html",
+"o": "CNBC",
+"lane": "news",
+"at": "2026-10-14T11:01:42+00:00",
+"seen": "2026-10-14T19:37:28+00:00",
 "status": "unverified headline"
 },
 {
@@ -1505,6 +1595,17 @@
 "status": "unverified headline"
 },
 {
+"id": "bb8ddc4c9ee6",
+"t": "OpenAI employee arrested by FBI after listening device found at its office - The Washington Post",
+"u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSFhIOWJVeXVpUmJZekJyZS1PX0dzX3VBWjRYT2k4dFNrR055RkswcEJweEJ0NThjN0dRMVA0LWZrUGROYzVnTGdqOXJHTmRnRkNFREpSc3RucnNYM0JrM2ZPNlE4VmpDdENWU2sya2Fqc3BIMm9icHVzcFVYemZhTTZNXzJ4Qkx4Mm5taEpNUGstOGZ3dVVocURKVzFScFJxYkY2ajhja2J2Q2JrVF9WNQ?oc=5",
+"o": "The Washington Post",
+"via": "Google News: washingtonpost.com/technology",
+"lane": "search",
+"at": "2026-10-14T04:20:00+00:00",
+"seen": "2026-10-14T19:37:28+00:00",
+"status": "unverified headline"
+},
+{
 "id": "1be3eea407fc",
 "t": "Oldham OKs strict data center regulations - Madison Courier",
 "u": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOUjlCV0NxMUc3ellLNkxBZV9VQ2J3Qk1Ja3hIcnl1TjBLUUs0VTlFOUptcXVBSzB1V190TUpBOUZFbkJXZ1VWeHlBU280UzNKaC12YVpZVVVHbmJIWDB0c2t6RnlmMVoxZkxsWC11MUFmcTFGSjlWeFdmZXJibDBVMG9jQlJWR2ZKRzlvaXUwMkVVSDM2UlRQRGdFNW1HaklNSlJzVGRCeG9XWEozSHhNdXhEWGlvbjBDNzVQT2h1c010T2xnRVhYSHlwX2ZuRlRGVHItZ1hPdEVHcDFpdzY1MHJfTQ?oc=5",
@@ -2074,115 +2175,6 @@
 "lane": "search",
 "at": "2026-10-14T00:18:07+00:00",
 "seen": "2026-10-14T05:29:53+00:00",
-"status": "unverified headline"
-},
-{
-"id": "06ea4cf24661",
-"t": "Gov. Kotek expands Oregon data center moratorium - NPR for Oregonians",
-"u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObzh1Rno1djdpanFrQzIyUjRJSVBmYzdJeS1vU3FFMEtkZFU5UlF1LUtWcHRab2ZVMGdhYW5oa2dmdGRtTE16X0d3ZVcybDZjZHVENDRrRVYyOGUxLUJNMGFMSFlSSUdFS3JxVXFNLVV2VTk5T2Z6VVUtSFc2VGpQVUdSTkRaY1lPQlp2akxuQko0LXhOMThzX2xlOHFnNnVu?oc=5",
-"o": "NPR for Oregonians",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-10-14T00:16:00+00:00",
-"seen": "2026-10-14T00:44:55+00:00",
-"status": "unverified headline"
-},
-{
-"id": "bf1c71ee43e1",
-"t": "Council denies data center moratorium, passes liquor license - WANE 15",
-"u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSW5QVU5UZXBZTUxRNXN4QXBja1VHMTlsYXlZT01lckh1MFZpM3ZhWE5NUFI0T2Q4ZzlGSF80MnN5M0dIYUlyWXoyV1d2WWlmcV9qSFhwTHhUWjJfU25ZMjBWN2x6WXI0V1ZNTndESE5SZHZlcm8yVkstSjR2eWEtRWtCLUxFaXNzVDhMbTREZ1I3WFlaUkdMQdIBngFBVV95cUxQT1VkRzFSTHRvM1NkaDJ2WlMzblhSZW9NWG94aFdRVmREeWNjN0oyS1FVVnJNNWY1aHpNQXhuVDJ2TV9acUxJNUVEVFNuVjA4RUZMRHB2bDQzdkpmYVR0bkFweW5OV0ZMT044eV9SU09SbDNOOG9sdW5sVVQzLVFWUFlFeW54R1ZxOUZla29yc2JlQ3Z1ejNrN19OMUZFQQ?oc=5",
-"o": "WANE 15",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-10-14T00:14:15+00:00",
-"seen": "2026-10-14T00:44:55+00:00",
-"status": "unverified headline"
-},
-{
-"id": "575110e79cc2",
-"t": "Sumter County considers rescinding data center moratorium - WIS News 10",
-"u": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWExRdHdVTzYxYnJlMTYtbVV4eGUwSlp0em9xTnhhX1hYdjgyTHg0eEY3UDE3ZzF6SC1sdUk3cklNSG5jdElKWmJWbkJvVF9CWFp6VHlsbVhpeExaNWQwdWo0bGZmZlRGR1J2a2xCdWNTTmJLbWNRNU1acDZyaGg5QzRVUTc3YjFmYzlGX0JvNXR3TmxPZ2l4RklwTVFzUQ?oc=5",
-"o": "WIS News 10",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-10-14T00:09:58+00:00",
-"seen": "2026-10-14T05:29:53+00:00",
-"status": "unverified headline"
-},
-{
-"id": "c49b7f2eeac5",
-"t": "NVIDIA Corp (NVDA) Stock Analysis & Forecast - TradingKey",
-"u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1zQndMWUdUbVp5ZE91VTBGSDN0WjR2eXFaaVZsbUNPanVZVzh5WHJ3aDFLdlBjWEpneXJkSkVOSXJEWExKdkUzd3ZrZ184SktONFRRb3I1SU5MYXhuMHV1Qmp6dkdrQQ?oc=5",
-"o": "TradingKey",
-"via": "Google News: ai-deals",
-"lane": "search",
-"at": "2026-10-14T00:08:49+00:00",
-"seen": "2026-10-14T15:26:29+00:00",
-"status": "unverified headline"
-},
-{
-"id": "fbd52738f1cc",
-"t": "Riverside Committee Sends 2 Data Center Policy Proposals To Council For Review - The Riverside Record",
-"u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOTVXSEdRVXlYMTNrUjFCbmtNUmZYNzlfTWIzSGJXWXdrTThMUDRKY2VKNmNCUl9vWjhOcmQ1U3AybF9TN3lxa200MjRJT0piYXNLdTJ3RW9yd284allWUjA4S0Y1Y3E1M3RDdmdVWDRoaGd5b2RlcHNSTGlCZFFBYzVScw?oc=5",
-"o": "The Riverside Record",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-10-14T00:08:05+00:00",
-"seen": "2026-10-14T05:29:53+00:00",
-"status": "unverified headline"
-},
-{
-"id": "cd171b5e3c1b",
-"t": "Charlotte Leans Toward Data Center Moratorium Extension - Bisnow",
-"u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNWjJIb2ljdGc3ZGpYbEFZenpydXBCYnJ2WTZOVlNudWZDOVpkWWV2N1JIalQtYXRRblNKV29CcXF4M3dXQTFHT3FuQkNWdXlWX1dyRnY2QzBTTUE1aG1Oc0tUOWJWNXVqLWt6UUJEYmRHYlRiQWgxRVlIbm9ybVlxaHNMVmx2MjhTa0Z3cVFpM0ItYktUUkJKc2M4SF9vR1VHS1huYTRUam9yallfZGQtMlc5OE04UVNtVFo0QnVJNnp1YjRpTDdpSXgtbkFKTlcwMkYxdg?oc=5",
-"o": "Bisnow",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-10-14T00:05:55+00:00",
-"seen": "2026-10-14T00:44:55+00:00",
-"status": "unverified headline"
-},
-{
-"id": "a3d393c72c96",
-"t": "FTC says sextortion help firm misled victims into paying $60M - Techlicious",
-"u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORl9oRW9PbTJjWXVDME5HbFNWaWM1bkJZWjJVTXdoZURSV2dSTmVsUmI5TElGckdQNzRlc1F5bDdiNWtUdHo5b3AyRUc1X2hvbHBURWlFaEhKSlVoRnhuRkxUbTd3S1VuMVJzQVd6TjJkcFVzR3UySDhiUjk4M0tXLTBhckthalVVOXJZbWN0aHdObU9P?oc=5",
-"o": "Techlicious",
-"via": "Google News: privacy",
-"lane": "search",
-"at": "2026-10-14T00:03:16+00:00",
-"seen": "2026-10-14T00:44:55+00:00",
-"status": "unverified headline"
-},
-{
-"id": "43f80c84fa6b",
-"t": "Denver Mayor Mike Johnston says data center ban is possible as city writes new rules - Denver7",
-"u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMDFxQV9pVXNubEFKenNIOWdIc0E2TEJ4RWNvWnFDcmtvU3dZMkpJYVZDM21pQ213ckwwZnI5Z2lPcENLYmROc3h6S2cyRXBHUzYxWXI3MjVKdEFTUkMwUTUtZHVKcGJWbXc3RWZyNExzNTZheVZWS1I1NTB6NEtERGpFMlBSNW1hLVh5aG42QmZ1QkRUeFpVUHJ1bVBCd3J6blZyRDYyMmRMX1Y3UmtiMGVJZ0FJczZzZDd3emFkWnJpLWFkZ0Rz?oc=5",
-"o": "Denver7",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-10-14T00:03:13+00:00",
-"seen": "2026-10-14T00:44:55+00:00",
-"status": "unverified headline"
-},
-{
-"id": "97d5f5231550",
-"t": "DHS awards $63M checkpoint contract but location stays unclear - KVOA",
-"u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQaWZ2QjFhR2UtQzhscjMzMEVlS1hwQlByR0tjTTVHTWszMW1uNG56VXBVX0p1LUctcjQ2U29OVDJDS21GYVFmajBUMHp1b09zbG1xVmgzcmg1U2ZDNUxMRWtIUUNnN1RELXYwWk0yODZ4aWtpY2IyT3dlLU8yN01OckdFcG5nazUxRmxWVkV6djdBYzBtdWpLWFMzQzlnM1d5QXlqVVNXSnVCVmdBS21WTC1yOWFYQm5rTjFnNGhGT1QzZDdjUkkwZWtLaGZUV1NMQ3c?oc=5",
-"o": "KVOA",
-"via": "Google News: contracts",
-"lane": "search",
-"at": "2026-10-14T00:03:00+00:00",
-"seen": "2026-10-14T05:29:53+00:00",
-"status": "unverified headline"
-},
-{
-"id": "7a68ae2cf1a3",
-"t": "Certain Vertical Power Delivery Systems, Components Thereof, and Computing Systems Containing the Same; Notice of Institution of Investigation",
-"u": "https://www.federalregister.gov/documents/2026/10/14/2026-20993/certain-vertical-power-delivery-systems-components-thereof-and-computing-systems-containing-the-same",
-"o": "Federal Register",
-"lane": "agency",
-"at": "2026-10-14T00:00:00+00:00",
-"seen": "2026-10-14T10:32:42+00:00",
 "status": "unverified headline"
 }
 ]
