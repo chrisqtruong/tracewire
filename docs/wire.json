@@ -1,8 +1,159 @@
 {
 "name": "Tracewire",
-"updated": "2026-10-14T19:37:28+00:00",
+"updated": "2026-10-14T22:37:41+00:00",
 "note": "Unverified headlines collected automatically from public feeds. Not checked by Tracewire. Verified items appear in the Feed.",
 "items": [
+{
+"id": "7e3ca0b6bd99",
+"t": "Anthropic revenue jumps to $16.8 billion in third quarter, FT reports - Reuters",
+"u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONTdYMW9PZjBTS1VtYnkwZ1lTa2o5UFhESGpJdk5jcFF2VEFyY3dNMC1aOXY1M3liaWU1RENuT292NjM5dmp1VGNOSDFJeDBUalJuaGoxTlNLN1g2U3RXQ3N2M1JiLVdIaGQ4Z3dya2J4dXhzdGU2X2Z4ckg3RFFmc1FMenF0NHFLZ2FWbDBJSkFLMld4OS10cGFFcWV0cGVib1FFY1A3a0RGTU0?oc=5",
+"o": "Reuters",
+"via": "Google News: reuters.com/technology",
+"lane": "search",
+"at": "2026-10-14T22:14:49+00:00",
+"seen": "2026-10-14T22:37:41+00:00",
+"status": "unverified headline"
+},
+{
+"id": "42168fd35ca6",
+"t": "Eight states accuse OpenAI of coaching children to harm themselves in lawsuit",
+"u": "https://www.theguardian.com/technology/2026/oct/14/openai-child-self-harm-lawsuit",
+"o": "The Guardian",
+"lane": "news",
+"at": "2026-10-14T21:50:29+00:00",
+"seen": "2026-10-14T22:37:41+00:00",
+"status": "unverified headline"
+},
+{
+"id": "4a49665769db",
+"t": "11th Circuit sides with Florida over social media ban for minors",
+"u": "https://www.courthousenews.com/11th-circuit-sides-with-florida-over-social-media-ban-for-minors/",
+"o": "Courthouse News Service",
+"lane": "news",
+"at": "2026-10-14T21:36:07+00:00",
+"seen": "2026-10-14T22:37:41+00:00",
+"status": "unverified headline"
+},
+{
+"id": "ceac0f96bc6e",
+"t": "Flock CEO says its microphones detect ‘just gunshots’ — its website says different",
+"u": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/",
+"o": "TechCrunch",
+"lane": "news",
+"at": "2026-10-14T21:30:33+00:00",
+"seen": "2026-10-14T22:37:41+00:00",
+"status": "unverified headline"
+},
+{
+"id": "88ac6d1c3f06",
+"t": "Eight states sue OpenAI, saying ChatGPT isn’t safe for kids",
+"u": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
+"o": "The Verge",
+"lane": "news",
+"at": "2026-10-14T21:17:29+00:00",
+"seen": "2026-10-14T22:37:41+00:00",
+"status": "unverified headline"
+},
+{
+"id": "018e78080f0d",
+"t": "OpenAI sued by 8 states over ChatGPT safety concerns",
+"u": "https://www.cnbc.com/2026/10/14/openai-sued-by-8-states-over-chatgpt-safety-concerns-.html",
+"o": "CNBC",
+"lane": "news",
+"at": "2026-10-14T21:09:20+00:00",
+"seen": "2026-10-14T22:37:41+00:00",
+"status": "unverified headline"
+},
+{
+"id": "692bdf21d099",
+"t": "Consumers take early lead in Supreme Court showdown over internet privacy",
+"u": "https://www.courthousenews.com/consumers-take-early-lead-in-supreme-court-showdown-over-internet-privacy/",
+"o": "Courthouse News Service",
+"lane": "news",
+"at": "2026-10-14T20:51:32+00:00",
+"seen": "2026-10-14T22:37:41+00:00",
+"status": "unverified headline"
+},
+{
+"id": "02ee92e8ce99",
+"t": "DHS Inspector General Finds That TSA is Not Properly Safeguarding Passenger Facial Recognition Data",
+"u": "https://www.eff.org/deeplinks/2026/10/dhs-inspector-general-finds-tsa-not-properly-safeguarding-passenger-facial",
+"o": "EFF",
+"lane": "news",
+"at": "2026-10-14T20:27:13+00:00",
+"seen": "2026-10-14T22:37:41+00:00",
+"status": "unverified headline"
+},
+{
+"id": "2269f740f410",
+"t": "Flock CEO: We haven’t ‘fired’ any police departments as customers",
+"u": "https://techcrunch.com/2026/10/14/flock-ceo-we-havent-fired-any-police-departments-as-customers/",
+"o": "TechCrunch",
+"lane": "news",
+"at": "2026-10-14T20:26:25+00:00",
+"seen": "2026-10-14T22:37:41+00:00",
+"status": "unverified headline"
+},
+{
+"id": "61ee40e7ff3f",
+"t": "Anduril employee tender offer would value the defense tech startup at $90 billion",
+"u": "https://www.cnbc.com/2026/10/14/anduril-tender-offer-valuation.html",
+"o": "CNBC",
+"lane": "news",
+"at": "2026-10-14T20:24:13+00:00",
+"seen": "2026-10-14T22:37:41+00:00",
+"status": "unverified headline"
+},
+{
+"id": "d49c0f37a64c",
+"t": "Ukraine's Starlink restrictions raise suspicions of Musk, Trump retaliation",
+"u": "https://www.axios.com/2026/10/14/ukraine-starlink-zelensky-spacex-musk-trump",
+"o": "Axios",
+"lane": "news",
+"at": "2026-10-14T20:19:27+00:00",
+"seen": "2026-10-14T22:37:41+00:00",
+"status": "unverified headline"
+},
+{
+"id": "b3f32b1d2ab5",
+"t": "Dell stock plunges 11%, leading data center sell-off as fears mount about 'enterprise AI timing'",
+"u": "https://www.cnbc.com/2026/10/14/dell-stock-barclays-enterprise-ai.html",
+"o": "CNBC",
+"lane": "news",
+"at": "2026-10-14T20:19:25+00:00",
+"seen": "2026-10-14T22:37:41+00:00",
+"status": "unverified headline"
+},
+{
+"id": "76d41b2d5145",
+"t": "Microsoft and Japan took down a cybercrime network behind over a billion scam messages",
+"u": "https://www.theverge.com/tech/1011487/microsoft-scam-messages-marketplace-takedown",
+"o": "The Verge",
+"lane": "news",
+"at": "2026-10-14T20:03:43+00:00",
+"seen": "2026-10-14T22:37:41+00:00",
+"status": "unverified headline"
+},
+{
+"id": "6929aaf185f5",
+"t": "Georgia man sues Flock, sheriff's office over alleged ALPR-fueled retaliation",
+"u": "https://arstechnica.com/tech-policy/2026/10/georgia-man-sues-flock-sheriffs-office-over-alleged-alpr-fueled-retaliation/",
+"o": "Ars Technica",
+"lane": "news",
+"at": "2026-10-14T19:53:01+00:00",
+"seen": "2026-10-14T22:37:41+00:00",
+"status": "unverified headline"
+},
+{
+"id": "7f74d52e19fb",
+"t": "Ambrosia Energy will build a 10 GWh factory in Texas to make batteries for off-grid data centers",
+"u": "https://techcrunch.com/2026/10/14/ambrosia-energy-will-build-a-10-gwh-factory-in-texas-to-make-batteries-for-off-grid-data-centers/",
+"o": "TechCrunch",
+"lane": "news",
+"at": "2026-10-14T19:51:34+00:00",
+"seen": "2026-10-14T22:37:41+00:00",
+"status": "unverified headline"
+},
 {
 "id": "0f5a54ba88db",
 "t": "Brazil’s Data Center Growth Pushes Beyond São Paulo",
@@ -2010,171 +2161,6 @@
 "lane": "search",
 "at": "2026-10-14T02:00:00+00:00",
 "seen": "2026-10-14T15:26:29+00:00",
-"status": "unverified headline"
-},
-{
-"id": "c1218452d38e",
-"t": "Mahomet residents express frustration with village officials for signing NDA with data center developer - IPM Newsroom",
-"u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNQUlHZUJMbl9PUDh6ejc5RFF0QnMyRy1CUVV4UWprajY5Ulh5NkZXbDEyTlJqUXBUeV9CeUVMTHFaa1IyMFNxd0tMbDk0VDNSdWFVUWZYRE5lanZ4RkxjUTJ0UDhGMXNwd0FzbnhDWjctRGFaWndoZFEweEw0ZVBrYkVTQl9qeFptcERvaW94R0dEZXZEVmtaYmpHVnF2UWhMN2xwWE91czA1STYtb3M3dVgyZnRFemZXejJFeWgtTUdwaUgtdXJB?oc=5",
-"o": "IPM Newsroom",
-"via": "Google News: dc-incent",
-"lane": "search",
-"at": "2026-10-14T01:57:55+00:00",
-"seen": "2026-10-14T05:29:53+00:00",
-"status": "unverified headline"
-},
-{
-"id": "11e403343e94",
-"t": "Local officials data center-maxxing; city to vote on moratorium next week - Arkansas Times",
-"u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQS3FKRjU3N19ualUyT2ZoZmRMVGVzUlpUTnVIRk10anlmRE5ETFpsMnJSOUs1QWR2MEFMelh0VzJjbUpMQ3BPd1UzSXZBUG9COXNVYVdhTUpVMjFqQjdONUduaW5iYUFjVm9ISDI4Ym8zWlExeWZqT3Y1Q2M0Y3BrYUNBZzcyWC1GTllKU1BJTEREX21HaEJxLWdCeXZHZzFLZmxpTU5jVTU5WkdKRUl1YkhPVTAyVHRDZ1E?oc=5",
-"o": "Arkansas Times",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-10-14T01:56:22+00:00",
-"seen": "2026-10-14T05:29:53+00:00",
-"status": "unverified headline"
-},
-{
-"id": "6b710901efc4",
-"t": "Geronimo Power CEO blasts Harmony Township board for considering data center moratorium - kvrr.com",
-"u": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPal9Ha3Z5OWFRS0tXT24xanlPWWdtUnBmZVpta3hIYVVlNmd0bXlPdks2LUMxbVNtX1VKbmR1cC1DNEJxMmNNNDBPWHcwa1dCSDk1MmowMi1DMUFOdnMwNjhVUmJvTkJjNVZxR19XZXNCZ2psRDNOX3U4Y2p3ME9HcUg2MjI2UGZwQlJ1bW1yazdPMUZrb3QxanE5NzZxRnBybE5QNXJEbGtuMHEyamhodE02WW44WXVpR01neXdZZHA0R1BXMU9XcGdHaTgxLVhqUHZSUldqbk0tYm5TVndkOEpETnNWLW9SejFhVE16dzF2MUZ5Ul9xVEFLOEZ6UQ?oc=5",
-"o": "kvrr.com",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-10-14T01:55:00+00:00",
-"seen": "2026-10-14T05:29:53+00:00",
-"status": "unverified headline"
-},
-{
-"id": "cc2a0caecb4d",
-"t": "Consumers Win Partial Class Cert. In Amazon Antitrust Suit - Law360",
-"u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9DSGJmOF9kclZFRjkzMDctNzBULU5KZjFheU5fZ2xvblJVai1LeFU4LVZ2Q3ExYVJCYzZwaDdWVzdDUzdfc1BwR2otOE0wSnZCQk80NHd30gFWQVVfeXFMT0NIYmY4X2RyVkVGOTMwNy03MFQtTkpmMWF5Tl9nbG9uUlVqLUt4VTgtVnZDcTFhUkJjNnBoN1ZXN0NTN19zUHBHai04TTBKdkJCTzQ0d3c?oc=5",
-"o": "Law360",
-"via": "Google News: antitrust",
-"lane": "search",
-"at": "2026-10-14T01:53:00+00:00",
-"seen": "2026-10-14T05:29:53+00:00",
-"status": "unverified headline"
-},
-{
-"id": "13bd4390ee7c",
-"t": "Anthropic Asks D.C. Circuit to Rehear Pentagon Supply-Chain Risk Case - Unite.AI",
-"u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNFV1SnYwMUh0bWd0VmVsOTl5YU5UWDEyQW9VLWdWTndlczlONjFMSUR3SjJNVERGeEtyM0RCdy16RnFrR3lZR3BJSERyN1NEVmR0NVdQLTE4RXJMZnVYT213Y0RNSHk2MTBEWG96bUVqdmhiWTh5ZF9xcEJZamNBMHdrRGJZNW1ZUWp3VFBGcW1EbWs1?oc=5",
-"o": "Unite.AI",
-"via": "Google News: contracts",
-"lane": "search",
-"at": "2026-10-14T01:45:08+00:00",
-"seen": "2026-10-14T05:29:53+00:00",
-"status": "unverified headline"
-},
-{
-"id": "c74d65ce5a2a",
-"t": "Anthropic asks full appeals court to revisit Pentagon national security ruling - Crypto Briefing",
-"u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOOTVjcGNwcGpwcVctYU01dlRHTVhYOGJ2LWk1UldwUExRY2c2a2sybkVnYTFjLVExVFZ4bXd0c082YThzWEFjNm45enQ5S2pJN3dlTFdSVVVKdl9PdWNhWEZSRUxMc2hSS056Yl9mTzFnYnJYbWtCblJXRUVWVzVKcENR?oc=5",
-"o": "Crypto Briefing",
-"via": "Google News: contracts",
-"lane": "search",
-"at": "2026-10-14T01:42:55+00:00",
-"seen": "2026-10-14T05:29:53+00:00",
-"status": "unverified headline"
-},
-{
-"id": "eebe9b203059",
-"t": "Sioux City planners begin work on data center zoning rules - KTIV",
-"u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeVhLQ0J0RmowWnJ4WTNKNHNlTXRMVFR1bk0xSWN5WWFaalN3ZzhLRDVNakJMZ05veVNidlUxNW1rVnZjWDhtNUV0MERrYWFmVmh0SU5pdTdxT2Y2LVB6TkdfRWVOM0pIMmluV0Jmdk5leGRseklydkNjaFNDeW94UEFFZ3Zwc28yX2Rtb1YtaW84Z9IBpgFBVV95cUxNWHpMRFpaN2RUTUIwcjRmUmtVWG1OckJBcWRJeTlBRjJqUXg1Nnh5REI4ZlNMeE5GY2VvNy13azV0aTVjOVJSSWQtbDVIcTlGS0U2eUVZamFOYlFVdF9hR3JmVFVJZVA2eGhGRDhzVW5Nd1AtaDE5djRVYjFiMlhMZ2w4MkpONDNlM0l2UnpManhXZlMwd0k0d2JXYm9KSkUzbGhaRVFR?oc=5",
-"o": "KTIV",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-10-14T01:22:00+00:00",
-"seen": "2026-10-14T05:29:53+00:00",
-"status": "unverified headline"
-},
-{
-"id": "6f3de04c1434",
-"t": "PSC candidates talk data centers ahead of November election - Statesboro Herald",
-"u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUXlxd015T2R0b3duQkotT1Q3YnV0VF9GTnF4MTdFWDExbUJzMTkta0txREhSN3l0d0M1SDdVcDdzTGN0c0pQOUhfTU1CSHd2WjBTNzVkOVpCdDlVbWhET0kyVjhLcENYOHdLbVU1Q0hsVmdQTjlad2tFMXZxS1U1dzJ6NjZSeGxiSUQwSVlWNnNkLTgtT3VhT0hOOFUxWU1m?oc=5",
-"o": "Statesboro Herald",
-"via": "Google News: dc-utility",
-"lane": "search",
-"at": "2026-10-14T01:20:46+00:00",
-"seen": "2026-10-14T05:29:53+00:00",
-"status": "unverified headline"
-},
-{
-"id": "aa7768ec0635",
-"t": "New strict data center rules in Nashville; A report finds where gaps may remain - News Channel 5 Nashville",
-"u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOak93aUNnMFJGTzBKcnU0VHJjTlI3ajZFM1dBRHJvb1BUNFlNa3J1WXJicm1ualVMRzNCeDJNQzFYYzhRWW5fcnhGTHJEYUdueVNDeEpiOHI3dHJIMmRpUUdIbzdNODBNNVFmVkc1c05SQzRSMnN5NVhlV0dWN0JTRzQ5ajMwZExXRllOVmUyczVFYTNtQ2ZVdVpSOXRTY051RWw0dHhHMjI4czdwaU5SamZn?oc=5",
-"o": "News Channel 5 Nashville",
-"via": "Google News: dc-water",
-"lane": "search",
-"at": "2026-10-14T01:18:00+00:00",
-"seen": "2026-10-14T15:26:29+00:00",
-"status": "unverified headline"
-},
-{
-"id": "07e646318e4b",
-"t": "Fort Wayne City Council votes no on data center moratorium, task force - The Journal Gazette",
-"u": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNbUR0NFpDLUVmem5rU0NneHZ2TE1ERmQ5Z1M5cS13QUZQSHhLU2QtZHlETlF2OEpSQzJiTGpmOXdPdEdsM3lzYW0xSm1rVVVaR0t1MEFLVEpCYXZlb3c4ZHRoelcyVWdNc2wtRlFoZHpBUld0aEpLYmhTYWFpajdJWlNNd3d5VmdRdEktZDlMZm1MS2J4bFR4ZlFLcDRyZGdZdS1wWWVKRmh2c3YxM1hoRjVfanhjX0hKbE1ndDItZmJ6N3lJaHh1bkNpYU1BMUxxSGhKLTM1WVpTa0x1UF91YlBxTkhJdVg2dUg4azZnQ0FnV3lHZm1JSFVsdFd2LUpzWU5z?oc=5",
-"o": "The Journal Gazette",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-10-14T01:15:00+00:00",
-"seen": "2026-10-14T05:29:53+00:00",
-"status": "unverified headline"
-},
-{
-"id": "2bf0e91f51ff",
-"t": "Anthropic Presses D.C. Circuit to Reconsider Pentagon 'Supply Chain Risk' Designation - BigGo Finance",
-"u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5DSGllaklwUEgwNTdQbEpPdVNyamFVVnNFNkctekRDaDlqVEdxUnNXTkNYd0RPZl9SVGF0UVIycU5DZWdqaDIwTUJwOVFDRFdXb1VCeXlBb3NkTUkwazdpT1ZGWDdfc1Rob05RajdFR0g0VEpqNWc?oc=5",
-"o": "BigGo Finance",
-"via": "Google News: contracts",
-"lane": "search",
-"at": "2026-10-14T01:05:00+00:00",
-"seen": "2026-10-14T05:29:53+00:00",
-"status": "unverified headline"
-},
-{
-"id": "37055cac6098",
-"t": "Congress should keep AI out of American military decisions - The Michigan Daily",
-"u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeHRsMGtSeUkzUUxnNmhYaVB1Y2toNjhVOXhwU0FGaXNYbm5zRGZmeHRvWkdqY1lvQjJGdHZmS1B3OEZ5WVVnME8tR3hiQnc3TXY4R3RZUVRiejVnNXA3RnZWYXBiRzlVTFdVVGUteklIUV8zcmVGVXh0WERCOHBaUkk3czlTMWpIbVBPMTNMcVRWOHBNY1Qyai1tMzZMX1R0TUx5UWFLRjI?oc=5",
-"o": "The Michigan Daily",
-"via": "Google News: contracts",
-"lane": "search",
-"at": "2026-10-14T01:04:58+00:00",
-"seen": "2026-10-14T15:26:29+00:00",
-"status": "unverified headline"
-},
-{
-"id": "428b2dc627ad",
-"t": "New date set for public hearing on Clinton's data center ordinance - WQAD",
-"u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRkxJMEJWVHlFUy1YWjdySWN1cEpTTDVLRTJvb3dWX2JNb3gydUNkTlU4M1pXZzNRaXZtcF9KSDg2bzEwMVF0bjByVEFHWmtrTmZZWlZvNHg5YUdVaHByRzR2T1VscWRGQ2JrVk5TSFdLaGswVFJxcHZHSTNGYWc0bFhhdlRPYVE0WEZkSHVlMnFIXzItck5UU0FONzEyaVBFNzc1M2F4Q2pYWTZRMmpfY2s3NEUtc0puX0dEcm5IS0lRZ2g4Y19mbQ?oc=5",
-"o": "WQAD",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-10-14T01:03:00+00:00",
-"seen": "2026-10-14T05:29:53+00:00",
-"status": "unverified headline"
-},
-{
-"id": "a3131ec0e094",
-"t": "Microsoft denies layoffs in Azure amid new AI chip headlines - NewsBytes",
-"u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbmE0bnFWOXB4dGU3cTVLV0toVDZycUQzYk5LdTI0bDBXNXNFVWx0OXB4WGQ3SWNPMUNTVG9BY0p0ZjRMWFhheEE1bG9rUlE0OEV0d1ZXTWRDNkpQbXRBYklaNkdMTmVKZjVhWTc5bERPN3Vnc3ZWV0NFOUJTT0dDeUxZVkV6cHdmS28xVzI1aXQwc0tTOWM5RFN0QmZSSHdad290NE9YUHJtcmVp?oc=5",
-"o": "NewsBytes",
-"via": "Google News: labor",
-"lane": "search",
-"at": "2026-10-14T00:57:14+00:00",
-"seen": "2026-10-14T05:29:53+00:00",
-"status": "unverified headline"
-},
-{
-"id": "447642413e43",
-"t": "Diegnan Bill Requiring DEP Study on Data Center Water Usage Advances - NJ Senate Democrats",
-"u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1qWFNXXy1yVFQ4ZDl3OEN0VUxXR3lzcDBvd3dNSE03dy00ejMtSW04N2Z4OWF4b0F0SUZYZlNhZEpzamtsazZBZUN0RDR3TW5memFSOTBlSU5QRkIxTGY0Q1FNS3g?oc=5",
-"o": "NJ Senate Democrats",
-"via": "Google News: dc-water",
-"lane": "search",
-"at": "2026-10-14T00:18:07+00:00",
-"seen": "2026-10-14T05:29:53+00:00",
 "status": "unverified headline"
 }
 ]
