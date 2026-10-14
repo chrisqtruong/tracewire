@@ -1,8 +1,69 @@
 {
 "name": "Tracewire",
-"updated": "2026-10-14T05:29:53+00:00",
+"updated": "2026-10-14T10:32:42+00:00",
 "note": "Unverified headlines collected automatically from public feeds. Not checked by Tracewire. Verified items appear in the Feed.",
 "items": [
+{
+"id": "4934ee3c87ef",
+"t": "Nvidia, worth $5.5tn, donates $250m to UK for AI safety research",
+"u": "https://www.theguardian.com/technology/2026/oct/14/nvidia-donates-to-uk-ai-safety-research",
+"o": "The Guardian",
+"lane": "news",
+"at": "2026-10-14T10:10:37+00:00",
+"seen": "2026-10-14T10:32:42+00:00",
+"status": "unverified headline"
+},
+{
+"id": "c194659e100e",
+"t": "Tool and target: US law enforcement grapple with AI-enabled terrorism and anti-tech extremism",
+"u": "https://www.theguardian.com/technology/ng-interactive/2026/oct/14/ai-terror-plots-fbi-extremism",
+"o": "The Guardian",
+"lane": "news",
+"at": "2026-10-14T10:00:03+00:00",
+"seen": "2026-10-14T10:32:42+00:00",
+"status": "unverified headline"
+},
+{
+"id": "a0e4b2fbedde",
+"t": "New Mexico and El Paso Spent Millions on Climate Plans. Three New Data Centers Could Undo Them.",
+"u": "https://www.propublica.org/article/data-centers-texas-new-mexico-greenhouse-gas-emissions",
+"o": "ProPublica",
+"lane": "news",
+"at": "2026-10-14T10:00:00+00:00",
+"seen": "2026-10-14T10:32:42+00:00",
+"status": "unverified headline"
+},
+{
+"id": "87a7bf92b1db",
+"t": "Exclusive: AI safety money floods into political races",
+"u": "https://www.axios.com/2026/10/14/ai-safety-regulation-election-spending-50-million",
+"o": "Axios",
+"lane": "news",
+"at": "2026-10-14T09:00:05+00:00",
+"seen": "2026-10-14T10:32:42+00:00",
+"status": "unverified headline"
+},
+{
+"id": "c194cf1faa39",
+"t": "Nuclear-powered data centers? It’s a tough sell in Utah coal country.",
+"u": "https://www.canarymedia.com/articles/data-centers/utah-carbon-county-opposition-nuclear-gas-valar",
+"o": "Canary Media",
+"lane": "news",
+"at": "2026-10-14T07:30:00+00:00",
+"seen": "2026-10-14T10:32:42+00:00",
+"status": "unverified headline"
+},
+{
+"id": "da1624e762ee",
+"t": "Nvidia pledges $250 million to UK AI safety research - Reuters",
+"u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNb1pFUmU1TjNGdW44THRFdlVLU285bHh3azlnTGNFWEJqcnF3T0lzc0pRWi1aTnZOeXlJY1VrbXBXSUxFNTdlS3NCYkptd0ZFb283c1NRc2dLRk9zcEJXenlrV3Q0UVhYTFQ4b1lnVTdLUzFrejJLMFpBcUhLVTRlZC13ZUNXZXk1RU5yWkVEd3M2RWVFUkJlOTlvQVBwRlJRR3dN?oc=5",
+"o": "Reuters",
+"via": "Google News: reuters.com/technology",
+"lane": "search",
+"at": "2026-10-14T06:19:00+00:00",
+"seen": "2026-10-14T10:32:42+00:00",
+"status": "unverified headline"
+},
 {
 "id": "36027dc72790",
 "t": "Gomez Slams Push to Flood Phones with AI Robocalls",
@@ -669,6 +730,26 @@
 "lane": "search",
 "at": "2026-10-14T00:03:00+00:00",
 "seen": "2026-10-14T05:29:53+00:00",
+"status": "unverified headline"
+},
+{
+"id": "7a68ae2cf1a3",
+"t": "Certain Vertical Power Delivery Systems, Components Thereof, and Computing Systems Containing the Same; Notice of Institution of Investigation",
+"u": "https://www.federalregister.gov/documents/2026/10/14/2026-20993/certain-vertical-power-delivery-systems-components-thereof-and-computing-systems-containing-the-same",
+"o": "Federal Register",
+"lane": "agency",
+"at": "2026-10-14T00:00:00+00:00",
+"seen": "2026-10-14T10:32:42+00:00",
+"status": "unverified headline"
+},
+{
+"id": "883eb380ba43",
+"t": "Division of Program Coordination, Planning, and Strategic Initiatives, Office of the Director Notice of Proposed Reorganization",
+"u": "https://www.federalregister.gov/documents/2026/10/14/2026-20891/division-of-program-coordination-planning-and-strategic-initiatives-office-of-the-director-notice-of",
+"o": "Federal Register",
+"lane": "agency",
+"at": "2026-10-14T00:00:00+00:00",
+"seen": "2026-10-14T10:32:42+00:00",
 "status": "unverified headline"
 },
 {
@@ -2096,94 +2177,6 @@
 "via": "Google News: dc-zoning",
 "lane": "search",
 "at": "2026-10-13T18:45:02+00:00",
-"seen": "2026-10-14T00:44:55+00:00",
-"status": "unverified headline"
-},
-{
-"id": "4a5a2ea67c16",
-"t": "Does Shareholder Approval Change The Bull Case For MillerKnoll Stock (MLKN)? - Simply Wall Street",
-"u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdlJsVmcxaFNQY09yWkhEOFFVYlQ0RU1Wam9FRzUtUV9lY25ueGRmR2o5NENVTk4yYVVmSWUwZU82azhXU0pZa3Z2cXpjTDZYRU5SS1lBQWRNQjVnS0JRU3hZMHdBX0VwSFVqVTFmaHRhYjBEaTJWVFpZQlZSTXgtQXdvMjMyQUNidUw4UEVZSTBKaldKdUg2VTcxOUViZHA5cHV4LTg5QjZZeWVBQ2ZHRTdRNE1iUUoxeTdYRV8xZzl5aURFaEdCb3dwYXRnSjdWOWxMSVlxNlfSAd4BQVVfeXFMT2JjVi1sdFV2bzNUUzZ6cmEyMjZFdVh0RG9UTDVHdGU1R2hKVHRqRGlreVZ2cFZ6Y3ZiZmxNTlJYWElyTXE4WF9IMmpYY2x1enZwOHFPeE9NWmxmaTlqLUppMDVFVU5RN1lUTHZ5S2xqZjhJUUdDUXNLbjFiajBJSGtuVXJ1eUNsMlEyWDFZdTBTZ3F1SDhFcmE2Yk1jaTNhN2JHYTNjNmwxY3ZVTENhU1EwcWx4Y29lbkxvNi1LQ2pYN3B0YnJDN1Z4Rlo4Z0RvUHVTcUVWZ2tfVGdlTml3?oc=5",
-"o": "Simply Wall Street",
-"via": "Google News: dc-incent",
-"lane": "search",
-"at": "2026-10-13T18:32:02+00:00",
-"seen": "2026-10-14T00:44:55+00:00",
-"status": "unverified headline"
-},
-{
-"id": "9149b2e0b99e",
-"t": "Emerson's New Flow Measurement Solution Improves Data Center Reliability Efficiency And Uptime - Water Online",
-"u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPb2tTbkl0SC1Pc29iVmRzcjVLSjAzc20wVG9CR21KQXdCcXYtWGw2a1cxUEdRVUY0RmhRQ21iVG9YX0Z2d2F4LWRiYTAzSGRidmszeElfaGxXb0VoMDIyUUtpQTB2VW93WmswUEZhbUZCWERHNkdGNFB0UGY3VE1LaTRJcVhJc0d2RTBpbDJsSHN4LWJxTElZTWdpT0JlU2xCUkllbkZ4RldjcV9Ydk9FY2V5OEtPOVdDRDQ4Z3otUVhhaktJYzRtNWRlWQ?oc=5",
-"o": "Water Online",
-"via": "Google News: dc-water",
-"lane": "search",
-"at": "2026-10-13T18:29:48+00:00",
-"seen": "2026-10-14T00:44:55+00:00",
-"status": "unverified headline"
-},
-{
-"id": "fd6f638cfa12",
-"t": "Meta Platforms Introduces AI Tools to Fine-Tune Facebook Algorithms - Yahoo Finance",
-"u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMnNZY05OTW9BcWRzSVZGeWtwdnl5V09TWk5FbHNfWmJuLXotd3FZYWJoYjNyMUpPM0ctZ24xQVkyNS1haHR4ZDFzRldwOXRuWE10TDFSZWprUkJuRFN5TGVKRDVqNlB0WTI0OFgzYTNSc09SbENMRGxTUnVleWk2VkI0TjQzNkotdDFnN3Yzb0JUd1R2ak5tclFjRWU3R2c?oc=5",
-"o": "Yahoo Finance",
-"via": "Google News: privacy",
-"lane": "search",
-"at": "2026-10-13T18:28:56+00:00",
-"seen": "2026-10-14T00:44:55+00:00",
-"status": "unverified headline"
-},
-{
-"id": "feb48ae1ba08",
-"t": "Florida county commission votes for data center moratorium - Treasure Coast News",
-"u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSlpLdVFTLUF2WktRQlNIekJGMUl0bEtEc0hpNm44QTlON29Gel9DR2I0bVdob3hGalRqNUxtMXVXcjhKODB1U0ZxbXlLNGpkUzlLbW41ODkwMFRkZm5wUlMxeWlJUnFabXpMLTFBRHlpQWRvbVJVeTR5V0xMQWhUdjNSSERwcnVpUnZGTUlPVHloUFhjb0tBSHZpOTU4dHVGRG9fcTBIZnFKTXBNV29fTUNOVHAydXdlY1pWT0l4RWI3U3E5T1lHak5BcmlncHRLUkE?oc=5",
-"o": "Treasure Coast News",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-10-13T18:22:00+00:00",
-"seen": "2026-10-14T00:44:55+00:00",
-"status": "unverified headline"
-},
-{
-"id": "ea02986cb238",
-"t": "Frenchtown Township extends data center moratorium - Monroe News",
-"u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOU1ZIdmtmdVhIVXJmRk4zOFFSYWJSV3RyZUNvRVF2WnpteTZXU3FCYUNsWjhIMzhmNG9vTUNEY3dmSi1SdXIzcDVxMW1MMFVEODNuM0dKRUhtUzVyYkp0a0hIVmkxT0wyY3kxbEo2QzVzYi1xZnZqVU9NVmo2MHF2TWJjakZick9adld0eVUwVVNRcUo0ampVTHNkcWZ2a1dyQVFXZXl1UWNfNFVXdzNMM28yWHZoYkY0Z2JvWldJS01yYnJKTUNLQVBLOHJweUZI?oc=5",
-"o": "Monroe News",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-10-13T18:18:00+00:00",
-"seen": "2026-10-14T00:44:55+00:00",
-"status": "unverified headline"
-},
-{
-"id": "2b4c60e85973",
-"t": "New data center restrictions passed by Aurora lawmakers as issue creates regular controversy - Sentinel Colorado",
-"u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPT3BtdDhhZFlrb2ExUElkd0FTNzQ5RVFMLUtPRTF0SWFWZzMzLXpzWmxKT3RvNUJJTHlobk5XeUxJLTlsOHUyVTNIVjlJTHlSZXlDcnRrZXRQN0NBNXhKTC1Vblh6UXpWNHlyQTV0dWNZZUVjbUlqdC0yYktOVTZyb1J0VkVFdGtDZ3B2eGJiU3p3Wk9Hc1RmMUFra0dGOHFWSVVndnJiQ0lkSVVnbGJ6b0s1ZGtkT09FZnRqUkR5OWhBNGc1OHhV?oc=5",
-"o": "Sentinel Colorado",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-10-13T18:16:29+00:00",
-"seen": "2026-10-14T00:44:55+00:00",
-"status": "unverified headline"
-},
-{
-"id": "a0d94a60b03a",
-"t": "Public hearings set to discuss Bloomington’s data center regulations - CIProud.com",
-"u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMGVPQkRxa1FRZmxTUElxa1ZYU3pWME4yTXoyandKTWlCMktBVjBDckNhNGwtWWRmREh5WFlUcFdDd2VzTlhleG5VTFhCSzl2U3ZIZkhJdG8yR202blBGd25wcmR4TW92WE83MUVid2llZEVGWS1MRXB4MVdWV2VXRmRKMnRINjhBT2tNMjVZY1YzSnE2OG9wYloyOUJ1MHFQNW94UdIBpAFBVV95cUxQMGVPQkRxa1FRZmxTUElxa1ZYU3pWME4yTXoyandKTWlCMktBVjBDckNhNGwtWWRmREh5WFlUcFdDd2VzTlhleG5VTFhCSzl2U3ZIZkhJdG8yR202blBGd25wcmR4TW92WE83MUVid2llZEVGWS1MRXB4MVdWV2VXRmRKMnRINjhBT2tNMjVZY1YzSnE2OG9wYloyOUJ1MHFQNW94UQ?oc=5",
-"o": "CIProud.com",
-"via": "Google News: dc-incent",
-"lane": "search",
-"at": "2026-10-13T18:14:24+00:00",
-"seen": "2026-10-14T05:29:53+00:00",
-"status": "unverified headline"
-},
-{
-"id": "03f185c200b4",
-"t": "Pritzker joins Governors’ group seeking more say in regional power grid decisions - Capitol City Now",
-"u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcGZ5QXBVOE54TnFVV3J5VjVvdi1WUFozLVJBcU1od051OVZEM1JRMXFzbzktckN0Rk5pVmR3RTNUZkloUENTTmIxYVBCbXB5eHFDdVNSTVZBVi0wV0FwODdzQUFSSUJuREdVd2E5X0gzVzhDZ0VVSVJ2N1JDdGhjWEtCNFpxbWpTQUl4bWRZeG1ZampCRGZfNGl1VUt3T0lhaThKZ1plV2pXaU9kcXlQaEdoRm9ESld4XzFBVg?oc=5",
-"o": "Capitol City Now",
-"via": "Google News: dc-utility",
-"lane": "search",
-"at": "2026-10-13T18:13:45+00:00",
 "seen": "2026-10-14T00:44:55+00:00",
 "status": "unverified headline"
 }
