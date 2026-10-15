@@ -1,8 +1,28 @@
 {
 "name": "Tracewire",
-"updated": "2026-10-14T22:37:41+00:00",
+"updated": "2026-10-15T00:52:24+00:00",
 "note": "Unverified headlines collected automatically from public feeds. Not checked by Tracewire. Verified items appear in the Feed.",
 "items": [
+{
+"id": "27dfbec59703",
+"t": "Flock CEO defends surveillance technology amid national backlash: ‘We shouldn’t pause progress’",
+"u": "https://techcrunch.com/2026/10/14/flock-ceo-defends-surveillance-technology-amid-national-backlash-we-shouldnt-pause-progress/",
+"o": "TechCrunch",
+"lane": "news",
+"at": "2026-10-15T00:49:31+00:00",
+"seen": "2026-10-15T00:52:24+00:00",
+"status": "unverified headline"
+},
+{
+"id": "27f417e70ab6",
+"t": "We’re Asking the Wisconsin Supreme Court to End Warrantless ALPR Searches",
+"u": "https://www.eff.org/deeplinks/2026/10/were-asking-wisconsin-supreme-court-end-warrantless-alpr-searches",
+"o": "EFF",
+"lane": "news",
+"at": "2026-10-14T23:21:37+00:00",
+"seen": "2026-10-15T00:52:24+00:00",
+"status": "unverified headline"
+},
 {
 "id": "7e3ca0b6bd99",
 "t": "Anthropic revenue jumps to $16.8 billion in third quarter, FT reports - Reuters",
@@ -2139,28 +2159,6 @@
 "lane": "search",
 "at": "2026-10-14T02:14:43+00:00",
 "seen": "2026-10-14T05:29:53+00:00",
-"status": "unverified headline"
-},
-{
-"id": "7ed1ca3855cb",
-"t": "Bernie Sanders Accuses Elon Musk, Crypto Lobby and Others of Buying Elections, Says America Has a 'Corrupt' Finance System - TradingView",
-"u": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPVFNLWnhFcVppS3lWdVg3YW80NEw3SmZIb1ZUTmczckNEbXVfMDN1Y3NFb2F1ZmpqRXpVRWczMnRtQUwyU2NPZlJzMXF0Q3V1Q3o3NnBHYmhaUE9JM05UUkdmVDNNbVQ1OEhHZHl3dklnaUd6aU1vUTRVR1ROOWtqOWk0QlFfcnVENWVPU1pWSmVWNWNoMmhWaXVlSDl0ZE83LTA0UFdTMmJ2ckxUMDlmRmxGdS1VYmloQksxcE1IWjlQWFBJM2lIbm9ORmFqYUFUbGEwdG80ZTdwWlF2LTVfa1FOanpsWHg2VU53MGdaRERzdzJucm9veEtoOGJXTFp4RHdDSjN1eDU?oc=5",
-"o": "TradingView",
-"via": "Google News: money",
-"lane": "search",
-"at": "2026-10-14T02:10:01+00:00",
-"seen": "2026-10-14T05:29:53+00:00",
-"status": "unverified headline"
-},
-{
-"id": "79c1a48281fa",
-"t": "Treasury imposes a $1.2 billion fine on Bank of America: The bank failed to report more than $5 billion in suspicious transactions on time - voz.us",
-"u": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPVGY2U1dGOHdBc3doT053ZXRDaDloeS10azBSQTFxZVNzRUFzMmlCLXB6Q21RUm40R2R3WW5TRHMzRllZOEVIU2JFZzRPNXpXN3VZa1drNFRVbEtOM01qS1l3S1RpUnlpTzBIN05pX25MQUg5MVJfZzhhZ1JUNEoxY0dmNnRRUTNWNkZDTG5fTG56bHFEZVVFSVhWeDd1OE9sZXdTdVRieDVsUDYxMUpvZ3NNeHdFdHlPMkV3OThIdVJtQUg1ellaMlhnZ1V2TVltajlUU1JWU1ZKWHAyU0FKbnNTREg2VjdaakkzVldqLWxkOVgweW9NSjFaVGNNZWV1REdOVU5TdXc?oc=5",
-"o": "voz.us",
-"via": "Google News: privacy",
-"lane": "search",
-"at": "2026-10-14T02:00:00+00:00",
-"seen": "2026-10-14T15:26:29+00:00",
 "status": "unverified headline"
 }
 ]
