@@ -1,8 +1,68 @@
 {
 "name": "Tracewire",
-"updated": "2026-10-15T19:06:03+00:00",
+"updated": "2026-10-15T22:13:07+00:00",
 "note": "Unverified headlines collected automatically from public feeds. Not checked by Tracewire. Verified items appear in the Feed.",
 "items": [
+{
+"id": "66efd2f87608",
+"t": "The tech backlash is now in theaters",
+"u": "https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial",
+"o": "The Verge",
+"lane": "news",
+"at": "2026-10-15T21:39:52+00:00",
+"seen": "2026-10-15T22:13:07+00:00",
+"status": "unverified headline"
+},
+{
+"id": "54d7a618ecd3",
+"t": "Trump posts AI-edited photo to brag about White House restoration work",
+"u": "https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column",
+"o": "The Verge",
+"lane": "news",
+"at": "2026-10-15T21:32:54+00:00",
+"seen": "2026-10-15T22:13:07+00:00",
+"status": "unverified headline"
+},
+{
+"id": "cb105c80f2f0",
+"t": "AI Hacks Leave a Mess That AI Companies Aren’t Paying For",
+"u": "https://www.wired.com/story/ai-hacks-leave-a-mess-that-ai-companies-arent-cleaning-up/",
+"o": "Wired",
+"lane": "news",
+"at": "2026-10-15T21:00:28+00:00",
+"seen": "2026-10-15T22:13:07+00:00",
+"status": "unverified headline"
+},
+{
+"id": "87f0b178c5b4",
+"t": "Nvidia and Cisco confirm multimillion-dollar donations to Trump's White House ballroom",
+"u": "https://www.cnbc.com/2026/10/15/trump-ballroom-nvidia-cisco-donations.html",
+"o": "CNBC",
+"lane": "news",
+"at": "2026-10-15T20:44:46+00:00",
+"seen": "2026-10-15T22:13:07+00:00",
+"status": "unverified headline"
+},
+{
+"id": "eed900732789",
+"t": "Our Lawsuit Against the Trump Administration’s Social Media Surveillance Moves Forward. Here’s What the Court Said.",
+"u": "https://www.eff.org/deeplinks/2026/10/our-lawsuit-against-trump-administrations-social-media-surveillance-moves-forward",
+"o": "EFF",
+"lane": "news",
+"at": "2026-10-15T20:08:58+00:00",
+"seen": "2026-10-15T22:13:07+00:00",
+"status": "unverified headline"
+},
+{
+"id": "b5d87f11cc1a",
+"t": "TikTok’s underdog pitch falls flat with EU court adviser",
+"u": "https://www.courthousenews.com/tiktoks-underdog-pitch-falls-flat-with-eu-court-adviser/",
+"o": "Courthouse News Service",
+"lane": "news",
+"at": "2026-10-15T19:27:37+00:00",
+"seen": "2026-10-15T22:13:07+00:00",
+"status": "unverified headline"
+},
 {
 "id": "4570c1d099c8",
 "t": "FCC to Vote on Making $162 Million Available for Expanded Mobile Broadband in Alaska",
@@ -1372,6 +1432,16 @@
 "status": "unverified headline"
 },
 {
+"id": "be24942ed8fe",
+"t": "Deputy Assistant Attorney General Stephanie A. Greco Delivers Remarks at the 2026 Antitrust Tech Summit",
+"u": "https://www.justice.gov/opa/speech/deputy-assistant-attorney-general-stephanie-greco-delivers-remarks-2026-antitrust-tech",
+"o": "DOJ",
+"lane": "agency",
+"at": "2026-10-15T12:00:00+00:00",
+"seen": "2026-10-15T22:13:07+00:00",
+"status": "unverified headline"
+},
+{
 "id": "94529064d3c4",
 "t": "Owner of Health Care Software Company Sentenced to 19 Years in Prison for $1B Medicare Fraud",
 "u": "https://www.justice.gov/opa/pr/owner-health-care-software-company-sentenced-19-years-prison-1b-medicare-fraud",
@@ -2099,82 +2169,6 @@
 "lane": "news",
 "at": "2026-10-15T08:47:10+00:00",
 "seen": "2026-10-15T10:15:28+00:00",
-"status": "unverified headline"
-},
-{
-"id": "a418dd95ee07",
-"t": "Pope Leo shares his first message after lung cancer surgery - Northern News Now",
-"u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQODJhcHhzWmg1TF81TG1JbUMyZjdfNUJzcVlDNU93dkJOSDRnc0otQWEtc3lpR2I3dExfOHFYQVlGMWxYZ1ZOVkJ3c1owZFVBQXJkUkF2X0RPaGppYUM2Q0wyQmJObV80UnJfTjRvRUt4WUJGS3pmQ2JveVNua3lvM0VmUWd2bnRLV2VjR0wwUFJqWnJTWk1BRGwzNWlORG5YYW1EVGV2aGRscmEzMTNPMzZESVRJdVZLWTVPeE5iSkI4Zw?oc=5",
-"o": "Northern News Now",
-"via": "Google News: dc-incent",
-"lane": "search",
-"at": "2026-10-15T08:44:00+00:00",
-"seen": "2026-10-15T15:07:00+00:00",
-"status": "unverified headline"
-},
-{
-"id": "6db8c7ebb53d",
-"t": "TikTok loses ground in EU gatekeeper challenge as court adviser backs regulators - Traders Union",
-"u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdkhHclZucFNCUy1xczRsRUJjcEJFanFRTXZRU2VLNXNwMTYyZm4yLUNtZ3duTEZ2X3RaUkdvdlcwWWxFR1poamtTQUJyRlNzb1VNVXF3X05ONk1VVXJaSHB1SlRqdkh0Zjc5Z0JPZ29BNWtfNXp1TXlMMUttRzRucGprdWpieTg5Q2Y4d0dyeW52RUE?oc=5",
-"o": "Traders Union",
-"via": "Google News: antitrust",
-"lane": "search",
-"at": "2026-10-15T08:41:28+00:00",
-"seen": "2026-10-15T15:07:00+00:00",
-"status": "unverified headline"
-},
-{
-"id": "ab5b52e880c9",
-"t": "PowerHouse & Big Watt secure approval for 1GW behind-the-meter campus in Taylor, Texas",
-"u": "https://www.datacenterdynamics.com/en/news/powerhouse-big-watt-secure-approval-for-1gw-behind-the-meter-campus-in-taylor-texas/",
-"o": "DatacenterDynamics",
-"lane": "news",
-"at": "2026-10-15T08:38:22+00:00",
-"seen": "2026-10-15T10:15:28+00:00",
-"status": "unverified headline"
-},
-{
-"id": "3a83421bcca8",
-"t": "Vienna trustees voting Monday on data center zoning - WFMJ",
-"u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOMUxuajFSbzhxSmJXWFUxZC1mem5sUEdFZUM3S0g4cGtBLWo0UjNzSnc4WEZhYUhRSFVnTkMyRUhFYjlOUGhxOTg2TDZiR3B1eFBiNGJnM2MxNEZ3RXFybU83d050YnRseGJWR1RZRjhHdkVjY2dBSThoRDlvQ2xIdzJiNTN4LWxEUm94dllLZkpIOWxkOE9RZkh5LUwzLWYyNWlzYTRrckhrbmlQZDB2WTQ2WG43Tlk5MzJUSVdEamVESTY3akg0aTVRM2w4bnFKS3hPcA?oc=5",
-"o": "WFMJ",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-10-15T08:30:00+00:00",
-"seen": "2026-10-15T15:07:00+00:00",
-"status": "unverified headline"
-},
-{
-"id": "e6e50f8c2b75",
-"t": "Copart’s ACV acquisition clears antitrust waiting period before tender deadline - finchannel",
-"u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOLTJGbjNZa3hhWDI3aGJrQUo5eVoyNmNOakhZbFhqUXNkWjhTc1g0dkxzWWNxRUlweHdUOTlUWm45Rk12ckpoRVNwT3dEalB3QWZBTlZhTTFnSzR4UXVJbmNlN3lmbkRZbzR4aXgyNU9OMk9veFR6Yk9rLU5CYWVJclQtUGhETEZINnk1RnVCQzlQbHIzUWVKRlE4cFJQYVlQeUFBcm5RUGtyZFA1NzlFNFV3ZWs4MHg4MGZOXzVBN09vY0t5czBPYThJYlRUR3JVWERaX1FkVkpVQQ?oc=5",
-"o": "finchannel",
-"via": "Google News: antitrust",
-"lane": "search",
-"at": "2026-10-15T08:20:30+00:00",
-"seen": "2026-10-15T15:07:00+00:00",
-"status": "unverified headline"
-},
-{
-"id": "c449f8b58b3f",
-"t": "Germany Travel Warning: Holidays Risk Becoming a Luxury - eTurboNews",
-"u": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBqZ1FUVktEZUhJcW5pM2loRHpvblRYNVFUTDRrQ1dmOGF5SlVTN0d4bTJlNTNuajlxYk5mc1hoZmIxc1MxOFVudzBKNXdmN25VNGNoaS00SDZ5RVhQcnFvamdoUXotekZDeUhCMQ?oc=5",
-"o": "eTurboNews",
-"via": "Google News: money",
-"lane": "search",
-"at": "2026-10-15T08:20:13+00:00",
-"seen": "2026-10-15T15:07:00+00:00",
-"status": "unverified headline"
-},
-{
-"id": "bc3a637a63cb",
-"t": "OMRON (TSE:6645) Agrees $675 Million Acquisition To Push AI Onto Factory Floors - Yahoo Finance",
-"u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMm5IdmtxSjNzV2lzaFVoYXIzWVJDOWJubW8yMURBV19RVFl5RzllbV9OY0lScUU5SGpqUnVyU2NUV1phc2pBWk5Gc3M4M2VBcGtHekg3YkE2dzhyaFF0TGtKbEJsQ0hkd1pkYU41QUNmb3JUMDJJRVVhS2ZpRmZ0MEVaQzhsbHlLc3puckpBWUZCU3M?oc=5",
-"o": "Yahoo Finance",
-"via": "Google News: ai-deals",
-"lane": "search",
-"at": "2026-10-15T08:18:13+00:00",
-"seen": "2026-10-15T15:07:00+00:00",
 "status": "unverified headline"
 }
 ]
