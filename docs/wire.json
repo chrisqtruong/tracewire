@@ -1,8 +1,69 @@
 {
 "name": "Tracewire",
-"updated": "2026-10-15T05:28:48+00:00",
+"updated": "2026-10-15T10:15:28+00:00",
 "note": "Unverified headlines collected automatically from public feeds. Not checked by Tracewire. Verified items appear in the Feed.",
 "items": [
+{
+"id": "212123047643",
+"t": "An FBI arrest revives fears that U.S. tech companies are hiring spies - The Washington Post",
+"u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSW5QanFiUFNJZEN3SVpkSzdXWFNDVzRxdzNaMTVmTFVWOHdXV2RHVnZmRTc1QWJZT09GOTZjbmZfUmNXSEMyQlZ2V2pEendMLWlnMUtveUMySkF2a3pDeTlma204dmJUbmZrN2UwVi1nVnhtbmFEV2RLbXFJbVRNNWo5d1U4TzdiVUJDdEYtMU1qUUI3U2xERjZyM3Myd0VzZW4xNnhYWjlDUktRa2h6SnlxTmJGM0U?oc=5",
+"o": "The Washington Post",
+"via": "Google News: washingtonpost.com/technology",
+"lane": "search",
+"at": "2026-10-15T09:06:05+00:00",
+"seen": "2026-10-15T10:15:28+00:00",
+"status": "unverified headline"
+},
+{
+"id": "66b5a48e727d",
+"t": "Scoop: \"OG\" Bill Gates returns to wage war on AI risks",
+"u": "https://www.axios.com/2026/10/15/bill-gates-ai-safety-push",
+"o": "Axios",
+"lane": "news",
+"at": "2026-10-15T09:00:07+00:00",
+"seen": "2026-10-15T10:15:28+00:00",
+"status": "unverified headline"
+},
+{
+"id": "706ad4e62b76",
+"t": "Scoop: The FTC demanded documents from AI giants over recent safety incidents",
+"u": "https://www.axios.com/2026/10/15/ftc-openai-anthropic-ai-safety-investigation",
+"o": "Axios",
+"lane": "news",
+"at": "2026-10-15T09:00:07+00:00",
+"seen": "2026-10-15T10:15:28+00:00",
+"status": "unverified headline"
+},
+{
+"id": "ec96e72281ca",
+"t": "Warm-water ready",
+"u": "https://www.datacenterdynamics.com/en/whitepapers/warm-water-ready/",
+"o": "DatacenterDynamics",
+"lane": "news",
+"at": "2026-10-15T08:47:10+00:00",
+"seen": "2026-10-15T10:15:28+00:00",
+"status": "unverified headline"
+},
+{
+"id": "ab5b52e880c9",
+"t": "PowerHouse & Big Watt secure approval for 1GW behind-the-meter campus in Taylor, Texas",
+"u": "https://www.datacenterdynamics.com/en/news/powerhouse-big-watt-secure-approval-for-1gw-behind-the-meter-campus-in-taylor-texas/",
+"o": "DatacenterDynamics",
+"lane": "news",
+"at": "2026-10-15T08:38:22+00:00",
+"seen": "2026-10-15T10:15:28+00:00",
+"status": "unverified headline"
+},
+{
+"id": "e7dae691cbb8",
+"t": "A new class of batteries helps data centers play nicely with the grid",
+"u": "https://www.canarymedia.com/articles/data-centers/on-energy-ups-battery-grid-interruption",
+"o": "Canary Media",
+"lane": "news",
+"at": "2026-10-15T07:30:00+00:00",
+"seen": "2026-10-15T10:15:28+00:00",
+"status": "unverified headline"
+},
 {
 "id": "a75f9f7bbda6",
 "t": "HUMM | 800VDC AI Datacenter Ecosystem Stock Data, Price & News - Quiver Quantitative",
@@ -55,6 +116,16 @@
 "lane": "search",
 "at": "2026-10-15T04:06:52+00:00",
 "seen": "2026-10-15T05:28:48+00:00",
+"status": "unverified headline"
+},
+{
+"id": "999c0aa94c94",
+"t": "Is your boss watching you? The rise of AI surveillance at work – podcast",
+"u": "https://www.theguardian.com/science/audio/2026/oct/15/is-your-boss-watching-you-the-rise-of-ai-surveillance-at-work-podcast",
+"o": "The Guardian",
+"lane": "news",
+"at": "2026-10-15T04:00:21+00:00",
+"seen": "2026-10-15T10:15:28+00:00",
 "status": "unverified headline"
 },
 {
@@ -2098,83 +2169,6 @@
 "via": "Google News: money",
 "lane": "search",
 "at": "2026-10-14T14:34:39+00:00",
-"seen": "2026-10-14T15:26:29+00:00",
-"status": "unverified headline"
-},
-{
-"id": "64a8facfc405",
-"t": "Türkiye takes control of Halk TV after police raid - Journalism Pakistan",
-"u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdDV4bTN3LVpSSExzcExsQm1jcGpLbHpzb0JIUzR3LU5rTERjeGs1bFBGZXFrdkswWk5TclJKOEVVRHBZMF8tZXUxZkZhekcwSkJhUGxQZGdoR2gzMDJBRF9ReWVVVEVsS2RYU05pcGJOWlpTOU5pbmhucDNIa3JsUmFoOVdvQWJxNlVoU05n?oc=5",
-"o": "Journalism Pakistan",
-"via": "Google News: antitrust",
-"lane": "search",
-"at": "2026-10-14T14:33:40+00:00",
-"seen": "2026-10-14T15:26:29+00:00",
-"status": "unverified headline"
-},
-{
-"id": "2782091cdb15",
-"t": "Bank of America stock falls in the wake of a historic $1.2 billion fine after it failed to report financial crime - Fast Company",
-"u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSlFrc3AySHJRdVI0eXZDVnVwTTdFeVB6RHZybXo1SXd6b2RqQVZHMDc0WEw5NWVReGV2cVBoeF93NmxKN3J1cGQyUjlMZWpDRTl2Rm83ZHRGNHhIZF9SWW1rNmJOa1NhRVdZeXNCcWRLbEZ5bVQtaEhVUF9icFVtampscloxT2lUNG9NWjJ2WFdjYW96M0FBaWdLbkl1Rk01QWc?oc=5",
-"o": "Fast Company",
-"via": "Google News: privacy",
-"lane": "search",
-"at": "2026-10-14T14:33:03+00:00",
-"seen": "2026-10-14T15:26:29+00:00",
-"status": "unverified headline"
-},
-{
-"id": "f528642a55d6",
-"t": "GOP Super PAC Says Senate Is the ‘Firewall’ as House Hopes Fade - Bloomberg.com",
-"u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQa2lQNWZjYUtHNHdRS0pvOVhxRWJhcExTV3o4NndfdHVpZ01pN05JR3lWQkozcUVqaU13OWd4akNlQ3hCMnVFU25ycW53WlZkcFZNeUlCNWpnTUd6RXdldkR3V1VONXZHcm5vOTQ1NXBMbEdKLW1mOXZCLWc5aFpoa0JqUXFQaGFzbElob2l5WFJmMm9oTGE3QzBzLUl1UDIyNnVLeEFmYzhOVFpzdHRJbkR3?oc=5",
-"o": "Bloomberg.com",
-"via": "Google News: money",
-"lane": "search",
-"at": "2026-10-14T14:27:09+00:00",
-"seen": "2026-10-14T15:26:29+00:00",
-"status": "unverified headline"
-},
-{
-"id": "7c827ab8378c",
-"t": "Is Accenture Worth Buying as AI Growth Meets Rising Execution Risk? - TradingView",
-"u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZ0V3d08zem5zcXQ3cjVrcUdxNDFpZmhCLWVPQVZwcTZUWUdWN1FsVmpLejdsaS1LN0o5QkticmtKa29GRFRhSW9TdmZzLXlMRDJTTWNrSWlPSVJQLWduODh4MkNRaks2V19mSHBMVFQzU2x5cFlFN1hjR3VIRzF4WWwyb29iLTNsa3RkRndMZnJIejZ0ZWZHVDh4SDRLM1RUNTd4U1VncW1YYVhlVlBPdy1SR0NrQWVjTmFEbGttOA?oc=5",
-"o": "TradingView",
-"via": "Google News: ai-deals",
-"lane": "search",
-"at": "2026-10-14T14:26:00+00:00",
-"seen": "2026-10-15T05:28:48+00:00",
-"status": "unverified headline"
-},
-{
-"id": "968079a9e78a",
-"t": "UPDATE: Walker Co. data center study group talks lighting, noise, water in recent meeting - Local 3 News",
-"u": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNcVUzVGVxY1c1Vk9BNE5ZM0tVWGllUkN3LTU0Sjh2QVdZZF80Ni14Y0plR0tXM256VFJWQXA4TGQwNG9vMkpaVDFPQ0J5NXpib2lDWkxiZUxDVUluaFpkZTFkOE5xVWNEUkJlam9MdFQ3YVltMzNiVzRhbFJFa3BIcFdyOVlpNi14Tzg3SFctX3JZNDUtd2lBUVB0RWVPenFucW1aUE1sbGVVZ3psb2ZPdW1Uak1hbkVfOXBPRVRTemJPMkQtTkFMZHVpYjhRcG54R2JnWnBXUS1COWdwMzhiWEN6WjFzVnZuT1BaV2UxYVhXYWU1WlAyeXVxdFBpTkZrWF9B?oc=5",
-"o": "Local 3 News",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-10-14T14:25:00+00:00",
-"seen": "2026-10-14T15:26:29+00:00",
-"status": "unverified headline"
-},
-{
-"id": "604d13fbd187",
-"t": "Netflix Layoffs 2026: Why the Streaming Giant is Cutting 1,000 Staffers - Forbes",
-"u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYlZKRzIybmJWWUtTV2xKV2lNZ3pVR3hJV0NaNk93aGlSV3JRUXFoOE42X3lFUFA2TmEzaURIbVc5b0ZHcy1NalV4SjZ4c3lqeVhQdVV1V0E1REVieHZ0TjBaWWhZbnJQa3pha2tUd0tRbnQ1NFBiRlUzVWRfRmZDT0w1dDZqcGpPemRIMVNudldfMEFRRzkyVUJaaERkbnM3MGJscllVVjN2UQ?oc=5",
-"o": "Forbes",
-"via": "Google News: labor",
-"lane": "search",
-"at": "2026-10-14T14:20:00+00:00",
-"seen": "2026-10-15T05:28:48+00:00",
-"status": "unverified headline"
-},
-{
-"id": "d03ed44d5197",
-"t": "Copart Clears U.S. Antitrust Waiting Period for $10.50-Per-Share Acquisition of ACV Auctions - citybiz",
-"u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcktzbXFhVzFNQ0VMNFVLRTJWV0h5WU1KRGd0amFidnZMS0p3d2hILVB2SlllbDhZQXp6UXpnWHBWQlZCSmR3anVDUk5OSFE0N0RkbnlYdnBPbGVQM2tLdXBKWnZCZldwYTJ3NDNwS2JYQzBMQUFXTUQ4QTUtNWFRR1pTOVgzRnZVUkM4SnNCVEpvcWVUVHVGTVUxQ3QzWVI0TDkzZzZ2MUkyV2lrMDRXU3o1N2lDM3FURzZGV2VXclpCTkN3bHFuLQ?oc=5",
-"o": "citybiz",
-"via": "Google News: antitrust",
-"lane": "search",
-"at": "2026-10-14T14:18:23+00:00",
 "seen": "2026-10-14T15:26:29+00:00",
 "status": "unverified headline"
 }
