@@ -1,6 +1,6 @@
 {
 "name": "Tracewire",
-"updated": "2026-10-16T00:27:04+00:00",
+"updated": "2026-10-16T04:52:42+00:00",
 "note": "Unverified headlines collected automatically from public feeds. Not checked by Tracewire. Verified items appear in the Feed.",
 "items": [
 {
@@ -492,6 +492,16 @@
 "lane": "search",
 "at": "2026-10-15T21:04:00+00:00",
 "seen": "2026-10-16T00:27:04+00:00",
+"status": "unverified headline"
+},
+{
+"id": "9acd26fe5451",
+"t": "Reliability Standards for AI Data Centers, Crypto Miners Move Closer to Adoption",
+"u": "https://www.datacenterknowledge.com/regulations/reliability-standards-for-ai-data-centers-crypto-miners-move-closer-to-adoption",
+"o": "Data Center Knowledge",
+"lane": "news",
+"at": "2026-10-15T21:03:05+00:00",
+"seen": "2026-10-16T04:52:42+00:00",
 "status": "unverified headline"
 },
 {
@@ -1566,6 +1576,16 @@
 "status": "unverified headline"
 },
 {
+"id": "e86ff66c4910",
+"t": "Benn Jordan on Flock, privacy, and the new surveillance backlash",
+"u": "https://www.theverge.com/podcast/1011170/benn-jordan-flock-cameras-alpr-ai-surveillance-privacy",
+"o": "The Verge",
+"lane": "news",
+"at": "2026-10-15T16:06:42+00:00",
+"seen": "2026-10-16T04:52:42+00:00",
+"status": "unverified headline"
+},
+{
 "id": "618e1a78fbd1",
 "t": "Community forums invite Bulloch County residents to talk through the data center question together - Grice Connect",
 "u": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQeC1Dc3BxWDJkSnpHcXd3VDF4V0FKQ0MzMEpaMzBjY2VJenJNMk1ON0lFYkF4TDhhc1pKTTNITGxJZ1h3d0h3U0U2YmZ0aF9fSkVMc1NQbUhQX1dxcUpjTkpKWDNaUnBsYUhGOTNqQjYwYkxhQ19PR0U3TmE1aWlxMUVzNjFlR0h3bTA3eFRjNXl6NHhyUVBSYnpWZERmN0x1dTNvNHcyekhfY21aRTJYRWxyb3RVUlJoMHBQUy10UWRjRGIwQkYyQ2gydmZUZXJ3RUJYdEh4R0tLR3IyS1diYjlPSW84QdIB5gFBVV95cUxQeC1Dc3BxWDJkSnpHcXd3VDF4V0FKQ0MzMEpaMzBjY2VJenJNMk1ON0lFYkF4TDhhc1pKTTNITGxJZ1h3d0h3U0U2YmZ0aF9fSkVMc1NQbUhQX1dxcUpjTkpKWDNaUnBsYUhGOTNqQjYwYkxhQ19PR0U3TmE1aWlxMUVzNjFlR0h3bTA3eFRjNXl6NHhyUVBSYnpWZERmN0x1dTNvNHcyekhfY21aRTJYRWxyb3RVUlJoMHBQUy10UWRjRGIwQkYyQ2gydmZUZXJ3RUJYdEh4R0tLR3IyS1diYjlPSW84QQ?oc=5",
@@ -1585,6 +1605,17 @@
 "lane": "search",
 "at": "2026-10-15T16:05:00+00:00",
 "seen": "2026-10-16T00:27:04+00:00",
+"status": "unverified headline"
+},
+{
+"id": "212123047643",
+"t": "An FBI arrest revives fears that U.S. tech companies are hiring spies - The Washington Post",
+"u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSW5QanFiUFNJZEN3SVpkSzdXWFNDVzRxdzNaMTVmTFVWOHdXV2RHVnZmRTc1QWJZT09GOTZjbmZfUmNXSEMyQlZ2V2pEendMLWlnMUtveUMySkF2a3pDeTlma204dmJUbmZrN2UwVi1nVnhtbmFEV2RLbXFJbVRNNWo5d1U4TzdiVUJDdEYtMU1qUUI3U2xERjZyM3Myd0VzZW4xNnhYWjlDUktRa2h6SnlxTmJGM0U?oc=5",
+"o": "The Washington Post",
+"via": "Google News: washingtonpost.com/technology",
+"lane": "search",
+"at": "2026-10-15T16:00:00+00:00",
+"seen": "2026-10-16T04:52:42+00:00",
 "status": "unverified headline"
 },
 {
@@ -2146,39 +2177,6 @@
 "via": "Google News: dc-water",
 "lane": "search",
 "at": "2026-10-15T14:00:00+00:00",
-"seen": "2026-10-15T15:07:00+00:00",
-"status": "unverified headline"
-},
-{
-"id": "4d1716d7ef26",
-"t": "Analysis | The midterms map is shifting as Republicans triage one-time battlegrounds - The Washington Post",
-"u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONTAyUGZuY004YURjVHc4TE1NbjRwbmlWOFNPZVQwcGc3aWhvQWxWSm96bzNMMklrb0p1a3hsLUVWeXBicnZ3ZllVaTNydms5MVVDNGRyMThCSHRxVkQ4aGdxTWlvUmhfNlZtTF82dEZHcjJzS2E2R1NxOXdXcjJmRklkWkNVbHdxOUphc082UGFXLWhoTFk4OWVUeVRtVXYwR0dDdEtUeE1VUDg2VFFucFpVUUpnX21CZWc?oc=5",
-"o": "The Washington Post",
-"via": "Google News: money",
-"lane": "search",
-"at": "2026-10-15T13:57:22+00:00",
-"seen": "2026-10-15T15:07:00+00:00",
-"status": "unverified headline"
-},
-{
-"id": "7acaffb00c7c",
-"t": "Who Is Susan Collins’ Husband? Thomas Daffron Lobbying Ties Under Scrutiny - Newsweek",
-"u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNS2lHVVhKVE9DMUxOdUdiQUg1YkJ6NE4ydnRkQjVMdFhHZ3duaXRDOVpJTWpXazUycXZyaklhbHQzYUt5aGwzT3laTjJhVnF1WWdPZ2E4LVkyS3hCMVh2RVZhTmlDeXlIUFN5d1FFT0JHa0ZFY2FmNGs1UV9UTllaaVVXYTd3R2hfd2oyeWppdTZ4RFpBYlZmaklZQU0xbE9YVFRrVVpQVE5CUQ?oc=5",
-"o": "Newsweek",
-"via": "Google News: money",
-"lane": "search",
-"at": "2026-10-15T13:53:00+00:00",
-"seen": "2026-10-15T15:07:00+00:00",
-"status": "unverified headline"
-},
-{
-"id": "f2b3b28bb5cd",
-"t": "INDIANA COUNTY PLANNING COMMISSION ACCEPTS PROPOSED AMAZON DATA CENTER PLAN FOR REVIEW - WCCS AM1160 & 101.1FM",
-"u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9TRmZLaEZLWHBDNVpjd0hnLUZtamVHcWNsMERSRGlYYmtoTGpVdnFtM2pBNVN0VVdpLUlfUDR4Rkl1MUxQQ3RENTRCdlNodGZWdl91YlhyLTE?oc=5",
-"o": "WCCS AM1160 & 101.1FM",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-10-15T13:52:38+00:00",
 "seen": "2026-10-15T15:07:00+00:00",
 "status": "unverified headline"
 }
