@@ -1,8 +1,28 @@
 {
 "name": "Tracewire",
-"updated": "2026-10-17T21:23:08+00:00",
+"updated": "2026-10-17T23:17:34+00:00",
 "note": "Unverified headlines collected automatically from public feeds. Not checked by Tracewire. Verified items appear in the Feed.",
 "items": [
+{
+"id": "4beb9f244296",
+"t": "FCC Convenes Meeting of International Partners from Australia, Canada, New Zealand, and the United Kingdom",
+"u": "https://www.fcc.gov/edoc/425926",
+"o": "FCC",
+"lane": "agency",
+"at": "2026-10-17T23:17:34+00:00",
+"seen": "2026-10-17T23:17:34+00:00",
+"status": "unverified headline"
+},
+{
+"id": "dd8c060fec65",
+"t": "FCC Cuts Off Mexico IP Phone for Violating Robocall Rules",
+"u": "https://www.fcc.gov/edoc/425933",
+"o": "FCC",
+"lane": "agency",
+"at": "2026-10-17T23:17:34+00:00",
+"seen": "2026-10-17T23:17:34+00:00",
+"status": "unverified headline"
+},
 {
 "id": "ba0f39b725ee",
 "t": "Local advocates rally against sale of Boston Dynamics’ robot dogs to ICE - Waltham Times",
@@ -2167,28 +2187,6 @@
 "lane": "search",
 "at": "2026-10-16T18:32:54+00:00",
 "seen": "2026-10-17T21:23:08+00:00",
-"status": "unverified headline"
-},
-{
-"id": "cfbe4e6cf865",
-"t": "Amazon Phases Out Some AI Models, Advances Others 07/29/2026 - MediaPost",
-"u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWWtMOHNiWnAxTTkxOGE5VVFOX181M0hyMFZOT3E3Ym5rZ3hNMHdLRHhMTWd1anVrZVFkVGxfdEtXN3FOY3pJZmpub2owNFFWSk0tTElna1Bxb2NjTGl5TWprZDdOcUxmdUhnZFJpZ3JkZXJ6MUdsckpQWWdrb3cyY2JTbjl5UXBaQUdIV09GSlc5VElJbVRCem1QTUgxa184Uk1OSXQxQ3gyV0k?oc=5",
-"o": "MediaPost",
-"via": "Google News: labor",
-"lane": "search",
-"at": "2026-10-16T18:32:28+00:00",
-"seen": "2026-10-17T06:04:17+00:00",
-"status": "unverified headline"
-},
-{
-"id": "0b9512ef8b8c",
-"t": "Lubbock, Texas, starts data center pause as Gov. Abbott blocks new permits pending audit - The Cool Down",
-"u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMFppVmJRaUQwRDRPeHQyeFRZNnEtNkZxdG9pMzJ3NlloQjg1MDVNZGpHRjlLY2dhbzFZeTRsV2UyVXl2aHptLVg3cE9NaERqbmpKemNoZjBqc0lNUlA0cUFDMGpILUNta3ZEWHFXNk9reUotLTVUUDhMMVF2MWZvUzg1NmE?oc=5",
-"o": "The Cool Down",
-"via": "Google News: dc-water",
-"lane": "search",
-"at": "2026-10-16T18:27:00+00:00",
-"seen": "2026-10-16T21:00:59+00:00",
 "status": "unverified headline"
 }
 ]
