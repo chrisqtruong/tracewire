@@ -1,8 +1,18 @@
 {
 "name": "Tracewire",
-"updated": "2026-10-17T16:51:57+00:00",
+"updated": "2026-10-17T18:57:56+00:00",
 "note": "Unverified headlines collected automatically from public feeds. Not checked by Tracewire. Verified items appear in the Feed.",
 "items": [
+{
+"id": "1b9b6ec35709",
+"t": "Elon Musk settles lawsuits over $1 million voter giveaway",
+"u": "https://www.theverge.com/tech/1013431/elon-musk-settles-lawsuits-over-1-million-voter-giveaway",
+"o": "The Verge",
+"lane": "news",
+"at": "2026-10-17T16:39:44+00:00",
+"seen": "2026-10-17T18:57:56+00:00",
+"status": "unverified headline"
+},
 {
 "id": "3e18766a8e8b",
 "t": "Privacy Act of 1974; System of Records",
@@ -2176,17 +2186,6 @@
 "lane": "search",
 "at": "2026-10-16T12:30:34+00:00",
 "seen": "2026-10-16T18:03:38+00:00",
-"status": "unverified headline"
-},
-{
-"id": "1ab73da274fc",
-"t": "Exactly how much of an environmental menace is AI? Here’s what we know - CNN",
-"u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTEgtNXhpZnU3U3FQVmR0NXpiQ0REaWhPbzZxOGxxTTR0YVRpZS02RTBiX1NTeEdIaXFTNlFHWV9zdDZMUlVQWmpERkMzV3RETElhZzljYkgyTjJKOVI2TzViU2dacnBGZDNzN3VUT2pFdXpTaWh4QmpwdVRWM1BONEJlM1M3WjdCYldaVjRQWm9oRG5MV0E?oc=5",
-"o": "CNN",
-"via": "Google News: dc-water",
-"lane": "search",
-"at": "2026-10-16T12:24:19+00:00",
-"seen": "2026-10-16T21:00:59+00:00",
 "status": "unverified headline"
 }
 ]
