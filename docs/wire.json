@@ -1,8 +1,38 @@
 {
 "name": "Tracewire",
-"updated": "2026-10-17T06:04:17+00:00",
+"updated": "2026-10-17T10:34:39+00:00",
 "note": "Unverified headlines collected automatically from public feeds. Not checked by Tracewire. Verified items appear in the Feed.",
 "items": [
+{
+"id": "3e18766a8e8b",
+"t": "Privacy Act of 1974; System of Records",
+"u": "https://www.federalregister.gov/documents/2026/10/19/2026-21265/privacy-act-of-1974-system-of-records",
+"o": "Federal Register",
+"lane": "agency",
+"at": "2026-10-17T10:34:39+00:00",
+"seen": "2026-10-17T10:34:39+00:00",
+"status": "unverified headline"
+},
+{
+"id": "fd3233cdd5b6",
+"t": "Notice of Revisions to Performance Area One of the LSC Performance Criteria",
+"u": "https://www.federalregister.gov/documents/2026/10/19/2026-21254/notice-of-revisions-to-performance-area-one-of-the-lsc-performance-criteria",
+"o": "Federal Register",
+"lane": "agency",
+"at": "2026-10-17T10:34:39+00:00",
+"seen": "2026-10-17T10:34:39+00:00",
+"status": "unverified headline"
+},
+{
+"id": "af9c624edbc9",
+"t": "Palantir patient data tech rejected by many NHS trusts in England",
+"u": "https://www.theguardian.com/technology/2026/oct/17/palantir-patient-data-tech-rejected-by-many-nhs-trusts-in-england",
+"o": "The Guardian",
+"lane": "news",
+"at": "2026-10-17T06:00:24+00:00",
+"seen": "2026-10-17T10:34:39+00:00",
+"status": "unverified headline"
+},
 {
 "id": "b98a7b8335dc",
 "t": "Data center backlash set to sway midterm elections - The Clinton Chronicle",
@@ -2157,39 +2187,6 @@
 "lane": "search",
 "at": "2026-10-16T12:24:19+00:00",
 "seen": "2026-10-16T21:00:59+00:00",
-"status": "unverified headline"
-},
-{
-"id": "d47aa018318c",
-"t": "Epic Games Claims AI Won't Take All Jobs Amid Fortnite Backlash - TechJuice",
-"u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNX0hTTmlfdkRfdHIxbF9DSHBQdGMtT01HMnlMTmlMcTBUU0FjVzhGYmphc1IyV1RFRHY1LWs5bncxdVo2N3cwLUc0ZURtRlNJU1BXLTNESS1Pck1xZUR6U2tkc1I2MmRrZWd2R3VUZllkY3N2WkVSdW5QUTRibnJNUEs4aVNGaF95Mk5kVEJHUl9rSkZw?oc=5",
-"o": "TechJuice",
-"via": "Google News: labor",
-"lane": "search",
-"at": "2026-10-16T12:23:16+00:00",
-"seen": "2026-10-16T23:29:34+00:00",
-"status": "unverified headline"
-},
-{
-"id": "f1731a94659f",
-"t": "Hegseth leaves troops exposed to spies as Pentagon ignores phone security warnings: report - Raw Story",
-"u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1sN3dyQnBLZDZ2NVM4dFVQbjRsRFJmN011M3RqSC1hQTRUSi1SLWtfZlNPUlk4Ty1tdks5bDJFUjR1YkxtRUNPVEFDSXJ0NDBmaDN6QkE4ZDZMRGRiTDFGWDhPbzN5d9IBeEFVX3lxTE5seWZmR0poTWRJVTgzX2RXSVRpQ05hT09abTg2b0p1c3FYV2dKVExuX2V6T2xDWldpeDE4T19KR1I0aEJlRmZUUjUyQk9mMG9Sb3pHcFhwQ0RCNkZIOXZKTDBlMjYwQUFUbDN3S2JvOFUtdzY5UXlqbg?oc=5",
-"o": "Raw Story",
-"via": "Google News: contracts",
-"lane": "search",
-"at": "2026-10-16T12:19:00+00:00",
-"seen": "2026-10-16T14:09:30+00:00",
-"status": "unverified headline"
-},
-{
-"id": "50eb999895cf",
-"t": "Proofpoint to acquire Varonis for $6.3B to boost data and AI security - MSSP Alert",
-"u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcFFhVFozc3BhMC0wZ0llaFdpdVhqc1hYcVVlU3FsS1F1N1BybzU5RTUzZ1ZZMlZlUUtzTC1MZVVsYnZCRm0yLW5Ibjg0LWNyMkp5U00ydWt2SHZFd2tIQnFucHRQSU84Vk5nUUgwV2RBck5uQnkxcElFZDhkN1N4TFo0QnVBeWt2RTM1Z3ZwaWdjSnMtbWNoc3AxQnNwNjExZ3g1LTlzRUtDNk5VYUE?oc=5",
-"o": "MSSP Alert",
-"via": "Google News: ai-deals",
-"lane": "search",
-"at": "2026-10-16T12:18:24+00:00",
-"seen": "2026-10-16T14:09:30+00:00",
 "status": "unverified headline"
 }
 ]
