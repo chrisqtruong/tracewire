@@ -1,8 +1,28 @@
 {
 "name": "Tracewire",
-"updated": "2026-10-18T10:53:06+00:00",
+"updated": "2026-10-18T14:15:53+00:00",
 "note": "Unverified headlines collected automatically from public feeds. Not checked by Tracewire. Verified items appear in the Feed.",
 "items": [
+{
+"id": "c7fbcff09d02",
+"t": "Trump says Google kisses his ass",
+"u": "https://www.theverge.com/policy/1013485/trump-google-kiss-my-ass",
+"o": "The Verge",
+"lane": "news",
+"at": "2026-10-18T13:26:28+00:00",
+"seen": "2026-10-18T14:15:53+00:00",
+"status": "unverified headline"
+},
+{
+"id": "eedf9302817a",
+"t": "Always on, always listening: New AI devices are pushing legal limits and could put users in jeopardy",
+"u": "https://www.cnbc.com/2026/10/18/ai-wearables-privacy-wiretap-laws.html",
+"o": "CNBC",
+"lane": "news",
+"at": "2026-10-18T12:00:01+00:00",
+"seen": "2026-10-18T14:15:53+00:00",
+"status": "unverified headline"
+},
 {
 "id": "3ef6507e3e12",
 "t": "Data Centers Have a New PR Plan: Your Kid’s Field Trip",
@@ -2164,28 +2184,6 @@
 "lane": "search",
 "at": "2026-10-16T18:39:52+00:00",
 "seen": "2026-10-17T06:04:17+00:00",
-"status": "unverified headline"
-},
-{
-"id": "b088faa4db4f",
-"t": "🗞️ Riverside News- October 16, 2026 - The Raincross Gazette",
-"u": "https://news.google.com/rss/articles/CBMickFVX3lxTE51WWRkQ083cG84b1JRR2hzWFp0emcwSS1iZTJ6eWZZWUNoOFRGU3E5czhXWFpvNS1rY2wwMUVIUnltUUU2NWNNMjNGQlpmZnA1VktHcWw4Y3BHV21NV25hMk1JSlpFS0hiQzU4Q0hNVVg3Zw?oc=5",
-"o": "The Raincross Gazette",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-10-16T18:37:28+00:00",
-"seen": "2026-10-16T21:00:59+00:00",
-"status": "unverified headline"
-},
-{
-"id": "f410909d50cc",
-"t": "Fredericksburg Targets Data Center Secrecy With Proposed NDA Ban: Report - Patch",
-"u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbUZwMUhkc2FIb0FUZU9uNW5kek9CLXBmOW1RaXFDX21FSFk5VDRzTC05dXJ4bzFYcXNjcXBaT2FMZnlNd0JGUXhKeWN2WlFyS0VQZFB0NFRsVWJPaE9tSnE5NkRqa3BvRlZzWVlxM3dhZ3NxbmllUmgxVWF3YkI2eEtzUFNtMEJpTVl4NWFubktOOUxFbHB2NjNvWTZOLWJKUDI2b0M0aWMtWHFq0gHEAUFVX3lxTE5tN1FuWjd1M0hpczlET3ZpMC1PMzY3XzJkd2VtRkpTN19tclVoTkhiRWlRZGZVbUh6SzBtNmxQQUF0N1B0UmxmWlRINFo5ZFFFQ2pEaTgyenM2Zm41Smg2c0JMRklfU1dTaTZuSTNHVXNJQmpVRlgwanhNUi1WRHpQMFFoX1BnUWZkVzZSVzd1dVFETG82MXlIUEhhelo0dTJTeENQaGlIRzRQTE1ucE5mUWhvS0d0XzFMLWdydldla2IyZWs?oc=5",
-"o": "Patch",
-"via": "Google News: dc-incent",
-"lane": "search",
-"at": "2026-10-16T18:35:35+00:00",
-"seen": "2026-10-16T23:29:34+00:00",
 "status": "unverified headline"
 }
 ]
