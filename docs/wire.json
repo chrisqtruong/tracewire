@@ -1,6 +1,6 @@
 {
 "name": "Tracewire",
-"updated": "2026-10-18T17:25:49+00:00",
+"updated": "2026-10-18T19:33:13+00:00",
 "note": "Unverified headlines collected automatically from public feeds. Not checked by Tracewire. Verified items appear in the Feed.",
 "items": [
 {
@@ -658,6 +658,16 @@
 "lane": "search",
 "at": "2026-10-18T05:16:45+00:00",
 "seen": "2026-10-18T17:25:49+00:00",
+"status": "unverified headline"
+},
+{
+"id": "e12ad48278c6",
+"t": "Another Week of Lawsuits Piling Up at OpenAI",
+"u": "https://techpolicy.press/another-week-of-lawsuits-piling-up-at-openai",
+"o": "Tech Policy Press",
+"lane": "news",
+"at": "2026-10-18T05:09:36+00:00",
+"seen": "2026-10-18T19:33:13+00:00",
 "status": "unverified headline"
 },
 {
@@ -2179,17 +2189,6 @@
 "lane": "search",
 "at": "2026-10-17T09:15:00+00:00",
 "seen": "2026-10-18T17:25:49+00:00",
-"status": "unverified headline"
-},
-{
-"id": "03b51baf4413",
-"t": "Readers weigh election stakes, water safety and county budget | Letters to the editor - Herald Times Reporter",
-"u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQzBJanJsUW96R2lNUHhjTmRDWDdhbzJjbGRTWncyMUJaeDVrYXlrUDJzYnNCeG1XdkozX25ZYU11c05RdkpOLThraFVaclNNby02RUtQNjdDSl96Um9QUXAzeTZjNTdtY3ExanBDS1BjM0l1ZEJ0MU9WbDFzMTlsUmFrM1lsdXVzNldYVnhWeE9teWlEckRZZmFoekpFdE5KWDlSeTN1YU1HSGxDV0VCcFMzdFlneklyMmJqcDZXZzA?oc=5",
-"o": "Herald Times Reporter",
-"via": "Google News: dc-water",
-"lane": "search",
-"at": "2026-10-17T09:06:00+00:00",
-"seen": "2026-10-17T21:23:08+00:00",
 "status": "unverified headline"
 }
 ]
