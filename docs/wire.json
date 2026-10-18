@@ -1,8 +1,18 @@
 {
 "name": "Tracewire",
-"updated": "2026-10-18T05:59:06+00:00",
+"updated": "2026-10-18T10:53:06+00:00",
 "note": "Unverified headlines collected automatically from public feeds. Not checked by Tracewire. Verified items appear in the Feed.",
 "items": [
+{
+"id": "3ef6507e3e12",
+"t": "Data Centers Have a New PR Plan: Your Kid’s Field Trip",
+"u": "https://www.wired.com/story/data-center-industry-is-trying-to-woo-kids/",
+"o": "Wired",
+"lane": "news",
+"at": "2026-10-18T10:30:00+00:00",
+"seen": "2026-10-18T10:53:06+00:00",
+"status": "unverified headline"
+},
 {
 "id": "4beb9f244296",
 "t": "FCC Convenes Meeting of International Partners from Australia, Canada, New Zealand, and the United Kingdom",
@@ -2176,17 +2186,6 @@
 "lane": "search",
 "at": "2026-10-16T18:35:35+00:00",
 "seen": "2026-10-16T23:29:34+00:00",
-"status": "unverified headline"
-},
-{
-"id": "23b10d435e66",
-"t": "What the City Said About Data Centers on Oct. 6, and What Residents Asked - Northfield.org",
-"u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRHp4RHA3WXpsRFlOMUpoUVdkdU5yWWNEMVlKRzBOWS1FNVQxVnJDWS1DalNxWWdnalB0M0NNZEoxYWxKNWZmVk43b3NLdHE0cm9QZXRkSk9QUTlHSnFhN0dQUk9Sd1lMb29SZW1BNGhnajJnOWJCenM1My0tTFZZNjQ5LWxiZmVza0pRQkFQS0pvaERZNzI4cTdRc25xQUhx?oc=5",
-"o": "Northfield.org",
-"via": "Google News: dc-incent",
-"lane": "search",
-"at": "2026-10-16T18:32:54+00:00",
-"seen": "2026-10-17T21:23:08+00:00",
 "status": "unverified headline"
 }
 ]
