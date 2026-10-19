@@ -1,8 +1,179 @@
 {
 "name": "Tracewire",
-"updated": "2026-10-19T14:38:22+00:00",
+"updated": "2026-10-19T20:12:56+00:00",
 "note": "Unverified headlines collected automatically from public feeds. Not checked by Tracewire. Verified items appear in the Feed.",
 "items": [
+{
+"id": "3023c9c0cad2",
+"t": "Nscale, Anthropic in talks for $45 billion cloud computing deal, Bloomberg News reports - Reuters",
+"u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcGMyclR5X0JrXzBKem90Uk1sZnBQNkcyRnlyc3ZnWTM4Q0ZoUWtKUzRrd1Y3aHlqaDRjT1pfaFdmV0pHYUFROFI3TFhTWVhtczJsM01PSF8tSEtXejB4emlhVjZGMmQzeWh0RXJoaS0tNDQ1SDhlZDRJZU5hZG5ibE85N3dxU21DS2ZKYm1NV2pVUUF4ZjF3XzQ1ZncwaHVMdXlWZ2FsWjRtQ1d0eFN2YUVQc2x4cTd6YjNwSTVuVUFQZw?oc=5",
+"o": "Reuters",
+"via": "Google News: reuters.com/technology",
+"lane": "search",
+"at": "2026-10-19T19:46:19+00:00",
+"seen": "2026-10-19T20:12:56+00:00",
+"status": "unverified headline"
+},
+{
+"id": "959d09bb67da",
+"t": "Californians accuse PG&E of violating privacy by routing calls through AI",
+"u": "https://www.courthousenews.com/californians-accuse-pge-of-violating-privacy-by-routing-calls-through-ai/",
+"o": "Courthouse News Service",
+"lane": "news",
+"at": "2026-10-19T19:42:04+00:00",
+"seen": "2026-10-19T20:12:56+00:00",
+"status": "unverified headline"
+},
+{
+"id": "141841bfba33",
+"t": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
+"u": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
+"o": "TechCrunch",
+"lane": "news",
+"at": "2026-10-19T19:28:34+00:00",
+"seen": "2026-10-19T20:12:56+00:00",
+"status": "unverified headline"
+},
+{
+"id": "bc3f359bce82",
+"t": "Microsoft exits data center deal in blow to UK AI ambitions",
+"u": "https://www.courthousenews.com/microsoft-exits-data-center-deal-in-blow-to-uk-ai-ambitions/",
+"o": "Courthouse News Service",
+"lane": "news",
+"at": "2026-10-19T19:00:46+00:00",
+"seen": "2026-10-19T20:12:56+00:00",
+"status": "unverified headline"
+},
+{
+"id": "25c38f880dd1",
+"t": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
+"u": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+"o": "TechCrunch",
+"lane": "news",
+"at": "2026-10-19T18:37:27+00:00",
+"seen": "2026-10-19T20:12:56+00:00",
+"status": "unverified headline"
+},
+{
+"id": "3de154836013",
+"t": "US bans DeepSeek AI from government use as tech tension with China continues",
+"u": "https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo?at_medium=RSS&at_campaign=rss",
+"o": "BBC",
+"lane": "news",
+"at": "2026-10-19T18:21:54+00:00",
+"seen": "2026-10-19T20:12:56+00:00",
+"status": "unverified headline"
+},
+{
+"id": "f96882fb85a1",
+"t": "Announcing Privacy Badger for Safari on macOS",
+"u": "https://www.eff.org/deeplinks/2026/10/announcing-privacy-badger-safari-macos",
+"o": "EFF",
+"lane": "news",
+"at": "2026-10-19T17:59:22+00:00",
+"seen": "2026-10-19T20:12:56+00:00",
+"status": "unverified headline"
+},
+{
+"id": "52af5a23bbe6",
+"t": "SEC Announces Roundtable on Machine-Understandable Data in the Age of Super Intelligence",
+"u": "https://www.sec.gov/newsroom/press-releases/2026-106-sec-announces-roundtable-machine-understandable-data-age-super-intelligence",
+"o": "SEC",
+"lane": "agency",
+"at": "2026-10-19T17:19:43+00:00",
+"seen": "2026-10-19T20:12:56+00:00",
+"status": "unverified headline"
+},
+{
+"id": "203cb0bac928",
+"t": "Amazon to fund 12 small nuclear reactors at former Indiana coal plant",
+"u": "https://techcrunch.com/2026/10/19/amazon-to-fund-12-small-nuclear-reactors-at-former-indiana-coal-plant/",
+"o": "TechCrunch",
+"lane": "news",
+"at": "2026-10-19T16:55:56+00:00",
+"seen": "2026-10-19T20:12:56+00:00",
+"status": "unverified headline"
+},
+{
+"id": "936c9d499b5a",
+"t": "Amazon and AEP to explore deployment of up to 960MW of X-energy SMRs in Indiana",
+"u": "https://www.datacenterdynamics.com/en/news/amazon-and-aep-to-explore-deployment-of-up-to-960mw-of-x-energy-smrs-in-indiana/",
+"o": "DatacenterDynamics",
+"lane": "news",
+"at": "2026-10-19T16:26:27+00:00",
+"seen": "2026-10-19T20:12:56+00:00",
+"status": "unverified headline"
+},
+{
+"id": "f9cad54fff25",
+"t": "Ex-OpenAI worker accused of planting device had Saudi support says court filing",
+"u": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
+"o": "BBC",
+"lane": "news",
+"at": "2026-10-19T16:22:12+00:00",
+"seen": "2026-10-19T20:12:56+00:00",
+"status": "unverified headline"
+},
+{
+"id": "c1bdaa223f93",
+"t": "What Google’s virtual power plant in PJM says about the race for electricity",
+"u": "https://www.utilitydive.com/news/what-googles-virtual-power-plant-in-pjm-says-about-the-race-for-electricit/833290/",
+"o": "Utility Dive",
+"lane": "news",
+"at": "2026-10-19T16:16:28+00:00",
+"seen": "2026-10-19T20:12:56+00:00",
+"status": "unverified headline"
+},
+{
+"id": "d4e1a3125e74",
+"t": "EFF Launches Privacy Badger for Safari on macOS",
+"u": "https://www.eff.org/press/releases/eff-launches-privacy-badger-safari-macos",
+"o": "EFF",
+"lane": "news",
+"at": "2026-10-19T16:00:25+00:00",
+"seen": "2026-10-19T20:12:56+00:00",
+"status": "unverified headline"
+},
+{
+"id": "292580429c9b",
+"t": "Amazon is funding a new nuclear plant in Indiana",
+"u": "https://www.theverge.com/tech/1013735/amazon-x-energy-aep-nuclear-indiana",
+"o": "The Verge",
+"lane": "news",
+"at": "2026-10-19T15:44:20+00:00",
+"seen": "2026-10-19T20:12:56+00:00",
+"status": "unverified headline"
+},
+{
+"id": "e6e64e55d5d0",
+"t": "Google explores data center site in Roanoke County, Virginia",
+"u": "https://www.datacenterdynamics.com/en/news/google-explores-data-center-site-in-roanoke-county-virginia/",
+"o": "DatacenterDynamics",
+"lane": "news",
+"at": "2026-10-19T15:40:28+00:00",
+"seen": "2026-10-19T20:12:56+00:00",
+"status": "unverified headline"
+},
+{
+"id": "df653d82d7ac",
+"t": "Nscale Loses Microsoft Deal as Power Delays Threaten AI",
+"u": "https://www.datacenterknowledge.com/build-design/microsoft-exits-nscale-data-center-deal-over-uk-power-delays",
+"o": "Data Center Knowledge",
+"lane": "news",
+"at": "2026-10-19T15:09:50+00:00",
+"seen": "2026-10-19T20:12:56+00:00",
+"status": "unverified headline"
+},
+{
+"id": "b3d41182461b",
+"t": "Disney found a way to buy Character.AI without buying its lawsuits",
+"u": "https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits/",
+"o": "Ars Technica",
+"lane": "news",
+"at": "2026-10-19T14:45:43+00:00",
+"seen": "2026-10-19T20:12:56+00:00",
+"status": "unverified headline"
+},
 {
 "id": "4beb9f244296",
 "t": "FCC Convenes Meeting of International Partners from Australia, Canada, New Zealand, and the United Kingdom",
@@ -55,6 +226,16 @@
 "status": "unverified headline"
 },
 {
+"id": "c9a091768991",
+"t": "AEP signs 960-MW Indiana nuclear pact with Amazon, X-energy",
+"u": "https://www.utilitydive.com/news/aep-signs-advanced-960-mw-nuclear-amazon-x-energy/833341/",
+"o": "Utility Dive",
+"lane": "news",
+"at": "2026-10-19T13:54:48+00:00",
+"seen": "2026-10-19T20:12:56+00:00",
+"status": "unverified headline"
+},
+{
 "id": "9496f49c21e7",
 "t": "Google says it can build data centers the right way. Some experts and residents are skeptical",
 "u": "https://www.cnbc.com/2026/10/19/how-data-centers-are-reshaping-americas-aging-grid-pine-island-minnesota-google.html",
@@ -102,6 +283,16 @@
 "lane": "news",
 "at": "2026-10-19T12:43:11+00:00",
 "seen": "2026-10-19T14:38:22+00:00",
+"status": "unverified headline"
+},
+{
+"id": "f6cda27004eb",
+"t": "America’s AI Boom Is Coming Apart",
+"u": "https://heatmap.news/am/ai-boom-fraying",
+"o": "Heatmap",
+"lane": "news",
+"at": "2026-10-19T12:12:35+00:00",
+"seen": "2026-10-19T20:12:56+00:00",
 "status": "unverified headline"
 },
 {
@@ -1969,214 +2160,6 @@
 "lane": "search",
 "at": "2026-10-18T10:40:54+00:00",
 "seen": "2026-10-18T17:25:49+00:00",
-"status": "unverified headline"
-},
-{
-"id": "42198a169560",
-"t": "AdaniConneX's data centers in Visakhapatnam to use air-based cooling - NewsBytes",
-"u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQLVRVRlVxc0hFWWlvZ2tJY0lkT1FGSnF3X0k1dHhodDV3YndZVnFSSGZSaWwzR21lUEh4MTlpcFd3bWV5TjhyYkRtRTZ4Uy1HYWZueS1YVWlObHNWZXpBbGRwQ1hIREFVU0hPYVJIWGRIdDU3YTdHaTRJc2dGQXUwMVppdE9Da2J3ZFNZY2RNOTg1UXRMSlFuaW5XRG1BV2VBN1F2Wi1jRFg?oc=5",
-"o": "NewsBytes",
-"via": "Google News: dc-water",
-"lane": "search",
-"at": "2026-10-18T10:30:31+00:00",
-"seen": "2026-10-18T17:25:49+00:00",
-"status": "unverified headline"
-},
-{
-"id": "3ef6507e3e12",
-"t": "Data Centers Have a New PR Plan: Your Kid’s Field Trip",
-"u": "https://www.wired.com/story/data-center-industry-is-trying-to-woo-kids/",
-"o": "Wired",
-"lane": "news",
-"at": "2026-10-18T10:30:00+00:00",
-"seen": "2026-10-18T10:53:06+00:00",
-"status": "unverified headline"
-},
-{
-"id": "5d91920178bb",
-"t": "Glenmark USA settles antitrust suits for $29.628 million - scanx.trade",
-"u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYlloUFVob0tKbXZxTHNTdkt0WmpMcGlUTVpXcmZhNU9NdDlEajhLRVljRlpEVG1Fc0s5R0s3aXloeURvRWRhaTVEakotVHBRQmlpU3dfcjNURURiT3JINHVJMU9EV2UtY1VtcHhjWU91b3laQ3V4OG56R0FKVDhyWGRXa3R5cjFGa3hzUW55ZWZwM0h6NnhJM0NSd1FvM1NOc3F1cmVXR1FxTlQ0RDRrOTl3?oc=5",
-"o": "scanx.trade",
-"via": "Google News: antitrust",
-"lane": "search",
-"at": "2026-10-18T10:25:18+00:00",
-"seen": "2026-10-19T07:05:57+00:00",
-"status": "unverified headline"
-},
-{
-"id": "a7009aad3962",
-"t": "Amazon layoffs continue in October after 30,000 job cuts. Why is Amazon laying off people? - Beinsure",
-"u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPN1N3UzBPYmZWUjFkak5iMU1yclJHTU9wWkZjZ2dIRmgzNkNPS0V0LUY1TENXNGU0Q01Zci1aM3FqdTRUd3d2U2RheHBwTlBFTmh3RHZ2cFIySWFTR25VZDRBNWVUSVdLY21WTE9qdEdMMlp3dC02ZjBwRE50LUFXcU1COFhVemc?oc=5",
-"o": "Beinsure",
-"via": "Google News: labor",
-"lane": "search",
-"at": "2026-10-18T10:20:14+00:00",
-"seen": "2026-10-18T17:25:49+00:00",
-"status": "unverified headline"
-},
-{
-"id": "4dfc3945c745",
-"t": "SpaceX Reportedly Nears $60B Cursor Acquisition — AI Startup Outlines Rebranding Plans - Stocktwits",
-"u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOT3JJQnJZdHRjQTVMbjh1LUlnU1pGaTBpUFFubzZWYXN4OTZJNUo0RjBkZGk1S2NvX29TUEd5TjY1ckpXaHFhV0JXTmdhdUJNWVk4U1M4RHJJc2VPQ1NQMUtUYjJjaHFYV3VjMG1ld01LOG1rNUlmN2szbVk3WXpVUWlwLThVNTNRbDNYSWQ4aExZeUp0dzVFbEpwMVUzRTZFMkE3cGpmS2xldjBhcHd4dnRR?oc=5",
-"o": "Stocktwits",
-"via": "Google News: ai-deals",
-"lane": "search",
-"at": "2026-10-18T10:17:42+00:00",
-"seen": "2026-10-18T17:25:49+00:00",
-"status": "unverified headline"
-},
-{
-"id": "93ffaeaa9377",
-"t": "Palantir in Europe: 127 organizations call for an end to public contracts - SecNews.gr",
-"u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14Q1V0cllNWmJiaGFKUUk2STRQT05sWWxicG1zNmNJOXlqVEhLMkJ2a3ZYOE9xbGJTOU9zYlhhaGJ0amxGeWhFczRJVm5FNThqTEZzTlFRS3pvZDRuR1Ixa1NuTEw1MmZZV0sxa2dtWE9NQUI5Vm5wQQ?oc=5",
-"o": "SecNews.gr",
-"via": "Google News: contracts",
-"lane": "search",
-"at": "2026-10-18T10:08:21+00:00",
-"seen": "2026-10-19T07:05:57+00:00",
-"status": "unverified headline"
-},
-{
-"id": "a8b1b74c5a7a",
-"t": "PJM Issues Electric Power Capacity Advisory For Oct. 19 As A Result Of About 72,000 MW Of Planned Generation Outages; About 60% Of Generating Capacity Is Available To Meet Demand - PA Environment Digest Blog",
-"u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbDZxWXozYU1tejIxY3B3bFBxUHowQ3BjSzdhZkdkeUhtUkFjUmk1b1ZOTVllMXIxTUpBZUVUbFNiaHFlSnliUW1JeDcxY0VqdFdfV0dELVNHY3BvVElETjlrOXdRbzBmZFBDSVY3dWZneExJREN6c3YzZU5LZ09YMnhNZHcwb1RISGZ3dHFtZw?oc=5",
-"o": "PA Environment Digest Blog",
-"via": "Google News: dc-utility",
-"lane": "search",
-"at": "2026-10-18T10:05:00+00:00",
-"seen": "2026-10-18T17:25:49+00:00",
-"status": "unverified headline"
-},
-{
-"id": "6f1298913af2",
-"t": "What’s true and what’s not in Michigan’s data center debate - The Oakland Press",
-"u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWDQ0NTlwWTNIM09HeHpFQkdyNkVoTDRZQ3RSUkhUYVMxNk9NWThhZUE4MTJXT0FyYzBPUl9DNDlGZHM4Ykx1NlRvOXJmNXlGdzQ2OXYyNGg1dHVYVlBrTlUtdjRJeTZCM251d0t6MzBxeXhhRVBSRlBHdzJ4a0V2RVRMbXltbnE1eUJfZ0tvellxTmJQUzN4R1FMQXFqRU1ibEE?oc=5",
-"o": "The Oakland Press",
-"via": "Google News: dc-utility",
-"lane": "search",
-"at": "2026-10-18T10:03:44+00:00",
-"seen": "2026-10-18T17:25:49+00:00",
-"status": "unverified headline"
-},
-{
-"id": "49f9ec23f431",
-"t": "How 5 Indiana data centers avoided needing federal water permits - Lebanon Reporter",
-"u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOSUc3SlpnNlA4WkJzcG9FUVFsakYyYjVkaVllVU5vTFhfalhNTzh5STVSbk9qR19JVHoycVljdTQxclF1ajZfQnU3cUUxRFl3QmdNeGVyWWlBbmVsU3o1VW03b1lOYWR5eUFRMFV2cU4xZ1NDOUxEb0Jmd3hxX1B6WlB5dEFKOXhwX21VbXlWRG11OXFLSDFHcmxwbkdWZ05ZUjVkNElHV09WVDlVMEVIMmpoSmF1UW1OY2tCYXh0bzNiaWNSekpyenB1RzlPOWt6QVc1OUY3WEd2Ni1n?oc=5",
-"o": "Lebanon Reporter",
-"via": "Google News: dc-water",
-"lane": "search",
-"at": "2026-10-18T10:00:00+00:00",
-"seen": "2026-10-18T17:25:49+00:00",
-"status": "unverified headline"
-},
-{
-"id": "8d9c7423fb9e",
-"t": "Few data centers are being proposed in Mass. — communities are still trying to stop them - MassLive.com",
-"u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNakZDRUQ4TXk2Yzl0RHlzMzg2dmExVjMzdFFadnpvX0dIS3oyWjJLS0NDeXFaQkxMX2NuRWY2VnBlamZ6eklkY1VKRHh1akJZOU0zZ3ZuY0pocW1UblFJNEllOGdqbDZRUXVwbF9NU2lnQWhyVmhCQ3BnMDRHQzM2OUM5Y054VE1PNFdpcU51YW1XaGZNeFNteUJpYlBFb0FuMGxoTk9IbTdvMm5xTlVZVE1tSEF5ODhiN2x2VnBRZXZLTVRjQk5F0gHbAUFVX3lxTE1ZQVRFNUVmWGc4SnZBZWFlbHBjMjMwSUVVX2pCLUZfWFFVdm14YWhZd3d3SmNtUldwR2NXTGR0M2duYlMtdkp1UDRIQWFVNWtFUEczZmlQcGVIZk9NNlNsSnpNSUJ6bmtDb1k0blVsZWFDVWdnNTl0N0xfQ3NPZWF4UGtTbjhEdnFXWnd6bU03RTlhb3lUeDA3XzQzRUlkaEN5d3JVQkU3X1dOUURtdnlMaHQyWHlhTHFKSml0bHhSWUF1WnNrNzJqZ2JZbFNBdk5nRHc2WlZNM0RkSQ?oc=5",
-"o": "MassLive.com",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-10-18T09:55:00+00:00",
-"seen": "2026-10-18T17:25:49+00:00",
-"status": "unverified headline"
-},
-{
-"id": "2ff1ecc2b063",
-"t": "The CEO of syrup brand Torani says layoffs are a choice - Business Insider",
-"u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcnVvZ08yY0FKX25pTXJNbDljdlIzdE1zYTVyRDg1SXN6aV9ZWmhLZC10Q3R0Ym80YkpOUmxuRzlMcTRxcmRqNklzV3BNeEtfOTE5cEFIQWFWcFgwSGtLTW1CcFBRdWMzWXV2UWpsLTIxdm44VU5GVGt2OC1UZ1ZQZThB?oc=5",
-"o": "Business Insider",
-"via": "Google News: labor",
-"lane": "search",
-"at": "2026-10-18T09:47:00+00:00",
-"seen": "2026-10-18T17:25:49+00:00",
-"status": "unverified headline"
-},
-{
-"id": "3e95ddffbeb5",
-"t": "Tech Giant Barred From Green Card Filings in $2 Million Discrimination Settlement - cristinaiglesias.com",
-"u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQzNhS0d1bVFLU01yaWtWYWdRMDFKczRLX014anFJTWFIeXVKSDFJekNvMDFvM2FSQ0tDOTZmTEdFX1BMNXc2Sm5vM1BhaVhXWkNRSWpQNzBoZWVMUU8tVWJMb0hKVFVsV1o1THBRaElCZ0wydlVPMjlEZkJMdFVaSUJFQVNBWXFSeG81SEpTOVJiTWZMeXA3MkNfNTZlSHhldUpiUzc1ZUNOMFlId2RRRUFreG5qejFUbnc?oc=5",
-"o": "cristinaiglesias.com",
-"via": "Google News: privacy",
-"lane": "search",
-"at": "2026-10-18T09:36:26+00:00",
-"seen": "2026-10-18T17:25:49+00:00",
-"status": "unverified headline"
-},
-{
-"id": "bdb05eedd399",
-"t": "Proofpoint Agrees to Acquire Varonis in $6.3 Billion Cybersecurity Deal - NewsAffinity",
-"u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbmlaRk5QYUdJRUc4eHE1NTR1czJ6TjJTZ1JOTS1VMnVXbDB0bFFCTEM4MklGdmtROEE4YVVSUkhjYnl3Z3lJQ2szb1dkcXdHY1NXUzZJdVRtQmRZWGxITUhzNnozQlprUF9USERfZ3FJZFFIM3JHeFdTRGdQem9MSFdvcHlYRU9WWEc0STdDaXUwQS1DNnpnZGtoNnM?oc=5",
-"o": "NewsAffinity",
-"via": "Google News: ai-deals",
-"lane": "search",
-"at": "2026-10-18T09:31:27+00:00",
-"seen": "2026-10-18T23:45:12+00:00",
-"status": "unverified headline"
-},
-{
-"id": "e5b71d3b578f",
-"t": "Susan Collins super PAC accidentally spends $25,000 attacking her rival in the wrong state - Wonderwall",
-"u": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQRWYwckFQVlBGbW5ZT2lwVk1nTTF5VW9RdmVpM2lBVTNpekJlMFJtS1FzMFVKdmozT2lxQ29WeE5KaGUycE1DR3VGQUIwLXA2em5LcjlfaXNDU21mQW1HT1J4dVRxZ1FieHpCbjc0ZHZ5SEFoZENfM2F2eHVjSTQ4N1RiUTVBMmlSc1JRNDd5TkQzNFlmWGtyT1F4dC1JYkRkaFI5dzF3dmdoUzFqM1E0UFN0N0pPZE9Ga3JCbUxadlhIY1dVTGtWN1JIc2NvNXZYaTBtRHZlYmw5RWFJTHUwS1BBaTU2NmRhZnlxb1NxV1pMZ3M0M1FHY2ozMElyTnVYbUlGNmdSUnI2ZmQ3OFpyWFhKQXhvblE?oc=5",
-"o": "Wonderwall",
-"via": "Google News: money",
-"lane": "search",
-"at": "2026-10-18T09:26:00+00:00",
-"seen": "2026-10-18T17:25:49+00:00",
-"status": "unverified headline"
-},
-{
-"id": "a0997f8bd7f9",
-"t": "AI Power Demand Fuels Nuclear Deals As NextEra-Dominion Merger Faces Scrutiny - Stocktwits",
-"u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPYXd1UHlnd0lpSlJqU2FlZWZ2WUZSMmJ5cWMxSnQ0OGllQ3pzT2c3TDVScjk3RDA5SS0yZi12MnA0UlpweWFKWDFIbkZUVE9FUFBOYzdBS3BHa3lON3ZBZFg3S3Bhdkw3VThsamtYMHdLLUhISG5uUll4d1IwSDBCY2lYZGNKQlVQM2MyM18zU19JSzVQWDI0eGtUaUpZLV9kR21VZDVqYkdzSVlMc1Q0clpjRTR6cXVxRTFOR2EzYThqaHRsRmtQN2hBY0ZkbE1oWVhvcg?oc=5",
-"o": "Stocktwits",
-"via": "Google News: ai-deals",
-"lane": "search",
-"at": "2026-10-18T09:03:45+00:00",
-"seen": "2026-10-18T21:49:37+00:00",
-"status": "unverified headline"
-},
-{
-"id": "5181e29e999c",
-"t": "YouTube to cut 100 workers as tech layoffs continue - Mashable",
-"u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9UWlZlcGFTcEVlNXJmOTR6ZXZWTUdTR01UNUZXZHo0YXhVcURITmZHZjZFM3RMeEIxWGE5VUVhUGxLOVVoUnBVSHUyWEZNdURwcWdCSjJCVFhGMTg4WWc?oc=5",
-"o": "Mashable",
-"via": "Google News: labor",
-"lane": "search",
-"at": "2026-10-18T09:00:00+00:00",
-"seen": "2026-10-19T07:05:57+00:00",
-"status": "unverified headline"
-},
-{
-"id": "25388b82cf25",
-"t": "WeWork's Adam Neumann got $1.7 billion. 2,400 employees just got fired. - Mashable",
-"u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5EQzQtSC11djFaVWc1T25pRE1zTW1SbkcydllYUC1lSlJsM3FwUHFmd3dOclZrU1Y2cFZPZ3lqQzh2Mk9fXzNlMnNUQ1RpRk1ySFV1bElnalJvQjNv?oc=5",
-"o": "Mashable",
-"via": "Google News: labor",
-"lane": "search",
-"at": "2026-10-18T09:00:00+00:00",
-"seen": "2026-10-19T07:05:57+00:00",
-"status": "unverified headline"
-},
-{
-"id": "1ed3b6c63b8f",
-"t": "Zuckerberg awkwardly insists his email about buying Google 'sounds like a joke' - Mashable",
-"u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTjM1N3VQV2V5WFBPamJFYlNIT2RINVozMGEycEd3YUQ0M19jeXQ2c1QybURiUmZlV3VBVElzdzR1VWpLSUZTTTZia2tqMm5vLW13MmhpakpjVXdLejdHa0ZkN2lsWGRSTDYweElnTFZvdDZyWHhLbFVtazJfeVNvUFdfQ0VpZ1pnaWhSNVAxVXgyQQ?oc=5",
-"o": "Mashable",
-"via": "Google News: antitrust",
-"lane": "search",
-"at": "2026-10-18T09:00:00+00:00",
-"seen": "2026-10-18T23:45:12+00:00",
-"status": "unverified headline"
-},
-{
-"id": "4797d9a02a35",
-"t": "India pledges to bring high-speed affordable internet access to 150,000 villages - Mashable",
-"u": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5CdVUtaTNWNHNUM0I0U29lZDZ3d1NLRWFKSS1wSjJIMkwwTy1MVmFENjEyMkk4UXlTZ1EwUXZENXpNNnREblNxV3JQRjdmb1BLNXdsSkJWS2FuTUFrVXNGalNfbDE4YnV0Y3FnaEtQaXIxd09fRkxOdkMtQQ?oc=5",
-"o": "Mashable",
-"via": "Google News: dc-utility",
-"lane": "search",
-"at": "2026-10-18T09:00:00+00:00",
-"seen": "2026-10-18T21:49:37+00:00",
 "status": "unverified headline"
 }
 ]
