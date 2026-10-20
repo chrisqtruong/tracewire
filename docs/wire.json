@@ -1,8 +1,78 @@
 {
 "name": "Tracewire",
-"updated": "2026-10-20T17:53:41+00:00",
+"updated": "2026-10-20T21:14:32+00:00",
 "note": "Unverified headlines collected automatically from public feeds. Not checked by Tracewire. Verified items appear in the Feed.",
 "items": [
+{
+"id": "0c1717b8f1dc",
+"t": "FCC Removes Convicted Fraudster from USF Programs",
+"u": "https://www.fcc.gov/edoc/426063",
+"o": "FCC",
+"lane": "agency",
+"at": "2026-10-20T21:14:32+00:00",
+"seen": "2026-10-20T21:14:32+00:00",
+"status": "unverified headline"
+},
+{
+"id": "aeaa448f66c5",
+"t": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
+"u": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
+"o": "TechCrunch",
+"lane": "news",
+"at": "2026-10-20T20:35:10+00:00",
+"seen": "2026-10-20T21:14:32+00:00",
+"status": "unverified headline"
+},
+{
+"id": "2209ec40a2a3",
+"t": "OpenAI CEO Sam Altman wins dismissal of sister's lawsuit",
+"u": "https://www.bbc.co.uk/news/articles/c94g1502el58o?at_medium=RSS&at_campaign=rss",
+"o": "BBC",
+"lane": "news",
+"at": "2026-10-20T19:42:32+00:00",
+"seen": "2026-10-20T21:14:32+00:00",
+"status": "unverified headline"
+},
+{
+"id": "c615ba115178",
+"t": "EPA plans weaker pollution limits for data center turbines",
+"u": "https://www.courthousenews.com/epa-plans-weaker-pollution-limits-for-data-center-turbines/",
+"o": "Courthouse News Service",
+"lane": "news",
+"at": "2026-10-20T18:50:31+00:00",
+"seen": "2026-10-20T21:14:32+00:00",
+"status": "unverified headline"
+},
+{
+"id": "4b3cd7933af4",
+"t": "German court calls Google aerial imagery ‘spying’",
+"u": "https://www.courthousenews.com/german-court-calls-google-aerial-imagery-spying/",
+"o": "Courthouse News Service",
+"lane": "news",
+"at": "2026-10-20T18:40:11+00:00",
+"seen": "2026-10-20T21:14:32+00:00",
+"status": "unverified headline"
+},
+{
+"id": "49417cd76579",
+"t": "Meta's lobbying chief plans to leave the tech giant",
+"u": "https://www.politico.com/news/2026/10/20/joel-kaplan-plans-to-leave-meta-01128079",
+"o": "Politico",
+"lane": "news",
+"at": "2026-10-20T17:57:57+00:00",
+"seen": "2026-10-20T21:14:32+00:00",
+"status": "unverified headline"
+},
+{
+"id": "9d0317701de1",
+"t": "Exclusive: OpenAI has acquired Orchestra Bio",
+"u": "https://www.axios.com/2026/10/20/exclusive-openai-biotech-startup-drug-development",
+"o": "Axios",
+"lane": "news",
+"at": "2026-10-20T17:55:04+00:00",
+"seen": "2026-10-20T21:14:32+00:00",
+"status": "unverified headline"
+},
 {
 "id": "4beb9f244296",
 "t": "FCC Convenes Meeting of International Partners from Australia, Canada, New Zealand, and the United Kingdom",
@@ -2074,82 +2144,6 @@
 "lane": "search",
 "at": "2026-10-19T15:57:51+00:00",
 "seen": "2026-10-19T23:45:20+00:00",
-"status": "unverified headline"
-},
-{
-"id": "3c7fcd6ad06e",
-"t": "Amazon moves for judgment in US antitrust case brought by FTC, states - MLex",
-"u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE05SV9ZaVhrSkhhaWc0N2tyaVVkWU9YazJ5eFBPX2loX3c4YVRpWXQ3bnh4bnFyTHBxWFRuX0hUSW1pb0dWQXlqdDh3STEtN3NqZ19hUE5Xcmp2QdIBWkFVX3lxTE05SV9ZaVhrSkhhaWc0N2tyaVVkWU9YazJ5eFBPX2loX3c4YVRpWXQ3bnh4bnFyTHBxWFRuX0hUSW1pb0dWQXlqdDh3STEtN3NqZ19hUE5Xcmp2QQ?oc=5",
-"o": "MLex",
-"via": "Google News: antitrust",
-"lane": "search",
-"at": "2026-10-19T15:57:00+00:00",
-"seen": "2026-10-19T23:45:20+00:00",
-"status": "unverified headline"
-},
-{
-"id": "cccac6816bd8",
-"t": "Could Google’s Ad Tech Ruling Reshape Publishers’ Operations? - A Media Operator",
-"u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8xTWF1ODU1aWM1UWJGVGFLX1RzSTlFR0ltdTBIdVBMWHRHYnhQclZJQzdXUGJVb3lGN1RXZUVWdWthOG9iQVF6SEJKWm13bW5pNHVJNmJJOXo1dW5pMVkxOUZ0U3pfR2lQdVBZVnh5TG90aDJ0Z2ZV?oc=5",
-"o": "A Media Operator",
-"via": "Google News: antitrust",
-"lane": "search",
-"at": "2026-10-19T15:56:02+00:00",
-"seen": "2026-10-19T23:45:20+00:00",
-"status": "unverified headline"
-},
-{
-"id": "23bf2883eec1",
-"t": "Utah Citizen Forum Calls for AI, Data Center Oversight - Hoodline",
-"u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNjhiNlYzSkxjYWpxVlZRZXg0VVNoVXp2eVVJM2hvbXZyUGpjUGc3aHNibEh0aTVMaW4tZ1lTUmtHV084WUxHdXZHdHlWaVlUS29MdGpVUEhMQmd3c3BIS212YTJmT1FucEdkYkN1NldIWnE0eHlFUEhieFNKMHphdFFNMzBVR0NuQWVpZ1N2QXZJLVVaNjlIVGh3VQ?oc=5",
-"o": "Hoodline",
-"via": "Google News: dc-water",
-"lane": "search",
-"at": "2026-10-19T15:50:08+00:00",
-"seen": "2026-10-19T23:45:20+00:00",
-"status": "unverified headline"
-},
-{
-"id": "7d0219535ab5",
-"t": "American College of Cardiology Lobbies Medicare Pay and AI Bills - Legis1",
-"u": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBrREhRZGxURnNDUlQyTWZMT0trelFKSDY0STJUeUZNTnN1dUdPZVdYS1YxSU5fb3NMcXpIZkNZbUItTnF5S3dPR2d5ajNfWnlKQlVJNnVVa2VDelJwcWt2dlJVNUQ4MV9xNWI2UWZDZ0l2WkxmVlZydENoVQ?oc=5",
-"o": "Legis1",
-"via": "Google News: money",
-"lane": "search",
-"at": "2026-10-19T15:49:20+00:00",
-"seen": "2026-10-19T23:45:20+00:00",
-"status": "unverified headline"
-},
-{
-"id": "8a27dc05d6d9",
-"t": "Siemens Energy CEO Sees Data Center Boom Lasting on Power Needs - EnergyNow.com",
-"u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNG9NWHo3c3FtVHkzbmxwZVEwcnJpeElka3czUTlpbjJkZFBiYXZGN3dlYjhKZ1pPOE1rVlotMVFoaFNKVEljSldhek5sX09KU3lQRDFCNGdDU2taVVR2RTY5RjBvWldXQ045WTY5YlZxOENLejdibnJpUkg4eFhhcVNjX3A5TTd4c2N2M0VyaUJMX2trN2ZRdzBn?oc=5",
-"o": "EnergyNow.com",
-"via": "Google News: dc-water",
-"lane": "search",
-"at": "2026-10-19T15:48:23+00:00",
-"seen": "2026-10-20T02:09:41+00:00",
-"status": "unverified headline"
-},
-{
-"id": "fcad362fd73c",
-"t": "Second data center developer meets with Warrick County commissioners - Courier & Press",
-"u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQY0YweVRPcW14OWZzZ1Fxb29qbUREQWF4MjhsNlh6Z1lINUR6a2gzUm5MVHRXLVFuUE5aXy0yMGlGTkRjSXYxVGJjTzhmTE9HOFNVeFlPNWpkVDNHTzBSZGVfcGtzMFNsZURFVVRIYjRsakx6RTE3VWJoVmpZVmFEQ3cwSkMxemFfaEI5Sy1OV0pEWW1EZjdmR01LeXFYdzNrN0lsSjRZLXF5TVh4anZneHF1WTk0N1d3YmxJX1FkSjBRUGdrd0NiR2M5TQ?oc=5",
-"o": "Courier & Press",
-"via": "Google News: dc-incent",
-"lane": "search",
-"at": "2026-10-19T15:45:00+00:00",
-"seen": "2026-10-19T23:45:20+00:00",
-"status": "unverified headline"
-},
-{
-"id": "292580429c9b",
-"t": "Amazon is funding a new nuclear plant in Indiana",
-"u": "https://www.theverge.com/tech/1013735/amazon-x-energy-aep-nuclear-indiana",
-"o": "The Verge",
-"lane": "news",
-"at": "2026-10-19T15:44:20+00:00",
-"seen": "2026-10-19T20:12:56+00:00",
 "status": "unverified headline"
 }
 ]
