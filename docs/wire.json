@@ -1,8 +1,29 @@
 {
 "name": "Tracewire",
-"updated": "2026-10-20T02:09:41+00:00",
+"updated": "2026-10-20T07:34:59+00:00",
 "note": "Unverified headlines collected automatically from public feeds. Not checked by Tracewire. Verified items appear in the Feed.",
 "items": [
+{
+"id": "8ce3a69a2d6d",
+"t": "U.S. bans DeepSeek from government agency systems amid AI rift with China",
+"u": "https://www.cnbc.com/2026/10/20/us-deepseek-federal-agency-ban.html",
+"o": "CNBC",
+"lane": "news",
+"at": "2026-10-20T06:25:26+00:00",
+"seen": "2026-10-20T07:34:59+00:00",
+"status": "unverified headline"
+},
+{
+"id": "a6fcca02187f",
+"t": "ABB posts record quarterly orders helped by data centre boom - Reuters",
+"u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZkFHUzZvYlhRNk11cUJiYnJwbEpidDYtWGduV1FBM2dsdG5yRU42TzExRHJ0V2dHNHlzSGJad2w3MmxIakpPR2tZZFM0M1NsRHRYQ0d0WmdWVjVHNk13YzdzQ3dSaDN1cjJKN0VIQm83WEFKblpDVlFqUmRTYl9janBtVmswM0x0czMyMnRQZjRmdG5HQ25XODFWcGRiWE9JNWR4UHNzVUZmQTVXVHhzUmZMQ3ZPZw?oc=5",
+"o": "Reuters",
+"via": "Google News: reuters.com/technology",
+"lane": "search",
+"at": "2026-10-20T05:04:00+00:00",
+"seen": "2026-10-20T07:34:59+00:00",
+"status": "unverified headline"
+},
 {
 "id": "8f00a4ca9f16",
 "t": "Forget Obsession and Carrie, the biggest horror story of 2026 is layoffs - India Today",
@@ -221,6 +242,26 @@
 "lane": "search",
 "at": "2026-10-20T00:01:53+00:00",
 "seen": "2026-10-20T02:09:41+00:00",
+"status": "unverified headline"
+},
+{
+"id": "16bcd6bc862c",
+"t": "Notice of Order Regarding Exclusion and Removal of DeepSeek Products From Federal Civilian Executive Branch Information Technology Systems and Procurements",
+"u": "https://www.federalregister.gov/documents/2026/10/20/2026-21447/notice-of-order-regarding-exclusion-and-removal-of-deepseek-products-from-federal-civilian-executive",
+"o": "Federal Register",
+"lane": "agency",
+"at": "2026-10-20T00:00:00+00:00",
+"seen": "2026-10-20T07:34:59+00:00",
+"status": "unverified headline"
+},
+{
+"id": "7a407d28a9ed",
+"t": "Medicare Program; Implementation of Sections 6219, 6220, and 6224 of the Consolidated Appropriations Act, 2026",
+"u": "https://www.federalregister.gov/documents/2026/10/20/2026-21420/medicare-program-implementation-of-sections-6219-6220-and-6224-of-the-consolidated-appropriations",
+"o": "Federal Register",
+"lane": "agency",
+"at": "2026-10-20T00:00:00+00:00",
+"seen": "2026-10-20T07:34:59+00:00",
 "status": "unverified headline"
 },
 {
@@ -676,6 +717,16 @@
 "lane": "search",
 "at": "2026-10-19T21:07:00+00:00",
 "seen": "2026-10-19T23:45:20+00:00",
+"status": "unverified headline"
+},
+{
+"id": "9496f49c21e7",
+"t": "Google says it can build data centers the right way. Some experts and residents are skeptical",
+"u": "https://www.cnbc.com/2026/10/19/how-data-centers-are-reshaping-americas-aging-grid-pine-island-minnesota-google.html",
+"o": "CNBC",
+"lane": "news",
+"at": "2026-10-19T21:05:20+00:00",
+"seen": "2026-10-20T07:34:59+00:00",
 "status": "unverified headline"
 },
 {
@@ -2118,61 +2169,6 @@
 "lane": "agency",
 "at": "2026-10-19T14:38:22+00:00",
 "seen": "2026-10-19T14:38:22+00:00",
-"status": "unverified headline"
-},
-{
-"id": "72ffea3f21c6",
-"t": "Market Chatter: Google's Challenge to Patent Review Rule Rejected by Supreme Court - Yahoo Finance",
-"u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdjJNdE9ZTkN0aWRmMnhTQjhuSmVSZ09pZEFUMEEtVmFfVmlhaDlvR203d2ZqRGliMUZwbnNYNkdNZGFRdm8wQ0doTE14dXlST3ZvbWc0ckNEWVNjRUMxcnc1RGlvd0ZYMDVaeU5RS1dqOXR3R3REWElpc1ZaYTA2dVA2T1FSSDJ4QkxSczNaSTFlUEJfcTNWVHRqWkdyOTBfTXA4?oc=5",
-"o": "Yahoo Finance",
-"via": "Google News: antitrust",
-"lane": "search",
-"at": "2026-10-19T14:31:54+00:00",
-"seen": "2026-10-20T02:09:41+00:00",
-"status": "unverified headline"
-},
-{
-"id": "70ad745c24b2",
-"t": "Bank of America’s 1000 AI Contractors Expose an HR Gap Training Partners Can Fill - AICERTs",
-"u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdlpUaFV2ZXhteXUzZWFleW4yRGk2RUkwTG5hQXp0OWotTlVtMF9OY2NqRDNjbUhhbmRDZzM0Z1lwR3JzMUxSX3hiN3NWOVNpNUFBdGF4b0tEQVhZT2tBejlHaDQ4a3d2UTM5azVGNUd6ckpsOXNnY0YyTnlSNkFzdWxDdVhMZmdhaW9TTklzY0RJYVBkSnFWZHJXSmJMeWVBYmFtd180eFVqTzJYNW9Z?oc=5",
-"o": "AICERTs",
-"via": "Google News: labor",
-"lane": "search",
-"at": "2026-10-19T14:30:11+00:00",
-"seen": "2026-10-19T23:45:20+00:00",
-"status": "unverified headline"
-},
-{
-"id": "8a6e9ccbd3e5",
-"t": "Illinois Billboard Taxation Case Sent Back for More Explanation - Bloomberg Law News",
-"u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWF9ZLW5oV3R6cWY2WXQ4Q3hVM1psN0k1cWwwdnJablJ2NEotSzhHS3FQYXpkWE5SZTNmbWxVM0w1TFBBR1dsVVJDcVFxT0V5UklvcWlpd19OWGJzTXhzRW9Ic2cxd0I0ajl6akQxM3ktN05pS1doUC1DSDVvZHFqeG1iWVpQdXp5RDQ1ZUZSX3hwRHhJTERQQXpYVlVOaG5FcHV1aUM2RkU4M3ZjcGlTTmlMdkU0eGc?oc=5",
-"o": "Bloomberg Law News",
-"via": "Google News: dc-incent",
-"lane": "search",
-"at": "2026-10-19T14:25:00+00:00",
-"seen": "2026-10-20T02:09:41+00:00",
-"status": "unverified headline"
-},
-{
-"id": "0473b00ffc9b",
-"t": "Ex-OpenAI employee accused of planting device appears to have Saudi backing, court filing shows - Reuters",
-"u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNN1EyODdFMHdNVDVJVW5YVW1rWE5YX042MFNLWldLeVJ1UFlydXJYQnB5YlNldDhNdURMRlRGYVZicEp3SkhEaEZ0eXQ2VUhkanA5QVhZeUIyRVg4dW4wbzhmblZvU01PX0hlUUp5YzJZZHBzT0FSemhVN2k1eXVycG1PcnR6TXBUSDZSUERsc3pEamlDR1FCUnRXZk5vaWJVZDVGd2VmNEd6MThaZ3FvcS13MXRIYlo5d1p4S2JYOA?oc=5",
-"o": "Reuters",
-"via": "Google News: reuters.com/technology",
-"lane": "search",
-"at": "2026-10-19T14:21:40+00:00",
-"seen": "2026-10-19T14:38:22+00:00",
-"status": "unverified headline"
-},
-{
-"id": "01b2211bb12c",
-"t": "Data Center Moratorium Rally: Gregory Pirio - LoudounNow.com",
-"u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWFI4UHhDLUR1ajJ6SmpVcGV3cXFmc2ZzU3doUDVYZTBLZjNhU2ozSmJTZVFmOTVseXNOZi15UndLT0EtdlZ4N3drb0pOTlU1V2dnSHVyTnplemxmY0c1WHNoOEtBbDJMOGF4azExOXlnVGlGQ25jZ1dGeWdKWlMweHJOZkZ3UW04Mm5uUWxPdE9lWTFqeWV2c1hMamJVc2NyalNzUlFzeHJuSTBZYlVHYlV5QkY1amlx?oc=5",
-"o": "LoudounNow.com",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-10-19T14:21:00+00:00",
-"seen": "2026-10-20T02:09:41+00:00",
 "status": "unverified headline"
 }
 ]
