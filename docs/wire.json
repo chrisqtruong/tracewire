@@ -1,8 +1,158 @@
 {
 "name": "Tracewire",
-"updated": "2026-10-20T12:57:41+00:00",
+"updated": "2026-10-20T17:53:41+00:00",
 "note": "Unverified headlines collected automatically from public feeds. Not checked by Tracewire. Verified items appear in the Feed.",
 "items": [
+{
+"id": "4beb9f244296",
+"t": "FCC Convenes Meeting of International Partners from Australia, Canada, New Zealand, and the United Kingdom",
+"u": "https://www.fcc.gov/edoc/425926",
+"o": "FCC",
+"lane": "agency",
+"at": "2026-10-20T17:53:41+00:00",
+"seen": "2026-10-20T17:53:41+00:00",
+"status": "unverified headline"
+},
+{
+"id": "dd8c060fec65",
+"t": "FCC Cuts Off Mexico IP Phone for Violating Robocall Rules",
+"u": "https://www.fcc.gov/edoc/425933",
+"o": "FCC",
+"lane": "agency",
+"at": "2026-10-20T17:53:41+00:00",
+"seen": "2026-10-20T17:53:41+00:00",
+"status": "unverified headline"
+},
+{
+"id": "4387259a097d",
+"t": "Georgia electric cooperative plans 50-MW home battery deployment",
+"u": "https://www.utilitydive.com/news/georgia-electric-cooperative-plans-50-mw-home-battery-deployment/833492/",
+"o": "Utility Dive",
+"lane": "news",
+"at": "2026-10-20T16:58:27+00:00",
+"seen": "2026-10-20T17:53:41+00:00",
+"status": "unverified headline"
+},
+{
+"id": "a4d16491f1fd",
+"t": "Nexfibre rejects \"fundamentally flawed\" CMA verdict on £2bn Netomnia acquisition",
+"u": "https://www.datacenterdynamics.com/en/news/nexfibre-rejects-fundamentally-flawed-cma-verdict-on-2bn-netomnia-acquisition/",
+"o": "DatacenterDynamics",
+"lane": "news",
+"at": "2026-10-20T16:04:56+00:00",
+"seen": "2026-10-20T17:53:41+00:00",
+"status": "unverified headline"
+},
+{
+"id": "7308b19b04d8",
+"t": "Closing the Loop: Are closed-loop systems the solution to data centers' water woes?",
+"u": "https://www.datacenterdynamics.com/en/analysis/closed-loop-cooling-data-center-gradiant/",
+"o": "DatacenterDynamics",
+"lane": "news",
+"at": "2026-10-20T16:01:09+00:00",
+"seen": "2026-10-20T17:53:41+00:00",
+"status": "unverified headline"
+},
+{
+"id": "87c5cb39af2e",
+"t": "Plants can speak using electricity, so this startup built an AI model to decipher their language",
+"u": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/",
+"o": "TechCrunch",
+"lane": "news",
+"at": "2026-10-20T16:00:00+00:00",
+"seen": "2026-10-20T17:53:41+00:00",
+"status": "unverified headline"
+},
+{
+"id": "7061c6deac0f",
+"t": "Veon to acquire rival Perfectum in $207m Uzbek consolidation push",
+"u": "https://www.datacenterdynamics.com/en/news/veon-to-acquire-rival-perfectum-in-207m-uzbek-consolidation-push/",
+"o": "DatacenterDynamics",
+"lane": "news",
+"at": "2026-10-20T15:56:13+00:00",
+"seen": "2026-10-20T17:53:41+00:00",
+"status": "unverified headline"
+},
+{
+"id": "dc6a9dbf8b59",
+"t": "DCD Studio: The data center workforce challenge with Andy Davis, Data eXec",
+"u": "https://www.datacenterdynamics.com/en/videos/dcd-studio-the-data-center-workforce-challenge-with-andy-davis-data-exec/",
+"o": "DatacenterDynamics",
+"lane": "news",
+"at": "2026-10-20T14:18:23+00:00",
+"seen": "2026-10-20T17:53:41+00:00",
+"status": "unverified headline"
+},
+{
+"id": "b574e6940176",
+"t": "Anthropic in talks with neocloud Nscale over second multibillion-dollar deal, source tells CNBC",
+"u": "https://www.cnbc.com/2026/10/20/anthropic-nscale-data-center-deal.html",
+"o": "CNBC",
+"lane": "news",
+"at": "2026-10-20T14:12:38+00:00",
+"seen": "2026-10-20T17:53:41+00:00",
+"status": "unverified headline"
+},
+{
+"id": "7d6eb88d05c1",
+"t": "The ultimate guide to li-ion BESS fire safety standards",
+"u": "https://www.datacenterdynamics.com/en/whitepapers/the-ultimate-guide-to-li-ion-bess-fire-safety-standards/",
+"o": "DatacenterDynamics",
+"lane": "news",
+"at": "2026-10-20T13:52:10+00:00",
+"seen": "2026-10-20T17:53:41+00:00",
+"status": "unverified headline"
+},
+{
+"id": "617b052683e9",
+"t": "People Are Using 'AI Decompiling' to Hack Their Things",
+"u": "https://www.404media.co/people-are-using-ai-decompiling-to-hack-their-things/",
+"o": "404 Media",
+"lane": "news",
+"at": "2026-10-20T13:51:57+00:00",
+"seen": "2026-10-20T17:53:41+00:00",
+"status": "unverified headline"
+},
+{
+"id": "422041ac87aa",
+"t": "CBRE acquires data center services firm Onnec",
+"u": "https://www.datacenterdynamics.com/en/news/cbre-acquires-data-center-services-firm-onnec/",
+"o": "DatacenterDynamics",
+"lane": "news",
+"at": "2026-10-20T13:24:17+00:00",
+"seen": "2026-10-20T17:53:41+00:00",
+"status": "unverified headline"
+},
+{
+"id": "6a32065e0c1d",
+"t": "Magnora Data Center acquires 2MW facility in Oslo, Norway",
+"u": "https://www.datacenterdynamics.com/en/news/magnora-data-center-acquires-2mw-facility-in-oslo-norway/",
+"o": "DatacenterDynamics",
+"lane": "news",
+"at": "2026-10-20T13:20:00+00:00",
+"seen": "2026-10-20T17:53:41+00:00",
+"status": "unverified headline"
+},
+{
+"id": "5c2af4ed7768",
+"t": "Former OpenAI exec has quietly built $1.5 billion startup, betting AI can revive U.S. manufacturing",
+"u": "https://www.cnbc.com/2026/10/20/ex-openai-executive-builds-1point5-billion-ai-manufacturing-startup-arda.html",
+"o": "CNBC",
+"lane": "news",
+"at": "2026-10-20T13:03:31+00:00",
+"seen": "2026-10-20T17:53:41+00:00",
+"status": "unverified headline"
+},
+{
+"id": "15705003f60b",
+"t": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
+"u": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
+"o": "TechCrunch",
+"lane": "news",
+"at": "2026-10-20T13:00:00+00:00",
+"seen": "2026-10-20T17:53:41+00:00",
+"status": "unverified headline"
+},
 {
 "id": "5ecb5ba802c4",
 "t": "US bans use of China’s DeepSeek AI tools by government agencies",
@@ -11,6 +161,16 @@
 "lane": "news",
 "at": "2026-10-20T12:33:27+00:00",
 "seen": "2026-10-20T12:57:41+00:00",
+"status": "unverified headline"
+},
+{
+"id": "9e287a7a5b88",
+"t": "Civil Rights Division and Equal Employment Opportunity Commission Secure $5,000,000 Joint Settlement with Instacart for Discriminating Against U.S. Workers",
+"u": "https://www.justice.gov/opa/pr/civil-rights-division-and-equal-employment-opportunity-commission-secure-5000000-joint",
+"o": "DOJ",
+"lane": "agency",
+"at": "2026-10-20T12:00:00+00:00",
+"seen": "2026-10-20T17:53:41+00:00",
 "status": "unverified headline"
 },
 {
@@ -1990,179 +2150,6 @@
 "lane": "news",
 "at": "2026-10-19T15:44:20+00:00",
 "seen": "2026-10-19T20:12:56+00:00",
-"status": "unverified headline"
-},
-{
-"id": "7e40722d671c",
-"t": "Pentagon official says AI labs could face export controls over security concerns - Crypto Briefing",
-"u": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBnSHhDaEVfRnl5VkUxRFlBaGRDRkJSWTJsMk52TFJnZTh5YTg2S3oxclZNd1p0OXplNlQ3Y1k4OFJOVndIczAzWDJCNHVZN19KamJCTGdEa2NLRTRrSnBFS1M5dzJGWDlQOVlpb2tJc0phU00y?oc=5",
-"o": "Crypto Briefing",
-"via": "Google News: contracts",
-"lane": "search",
-"at": "2026-10-19T15:43:52+00:00",
-"seen": "2026-10-19T23:45:20+00:00",
-"status": "unverified headline"
-},
-{
-"id": "e6e64e55d5d0",
-"t": "Google explores data center site in Roanoke County, Virginia",
-"u": "https://www.datacenterdynamics.com/en/news/google-explores-data-center-site-in-roanoke-county-virginia/",
-"o": "DatacenterDynamics",
-"lane": "news",
-"at": "2026-10-19T15:40:28+00:00",
-"seen": "2026-10-19T20:12:56+00:00",
-"status": "unverified headline"
-},
-{
-"id": "016320df5688",
-"t": "Nvidia wins fast-growing AI startup Modal for new central processors - The Economic Times",
-"u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVGRCNHZvbTVLZWpPMS1GYUNYam5IMnU3cDk3Ui1RXzkzdlBPSEFZczNQWXJ1NjZLeTEtNXdwU2pTMzZITU1EM09xTkMtUnh6ZnQ0NEpaQzJKWjg3ZnhYRXpwQ2c4ZWZRNFl1NTRJREQyS1ZGTUFXaUcyVTZQZlZlek04T0RraVNNVm12S0VoUGNsbEFXTmI1X3ZsWlJreDA5aG9YRnZILWR1ZEpNU3o4UFZYTkprTGlPSUJKU05YeHhtZjZ0SjZlMkItc2J0NUwwWmdlQdIB2gFBVV95cUxQSzdyZHNQT19uVnpzaTBrRDNqWUIxVzlELVFmcHgxRmFpM0Rabmt3M2MtYmR0eEV0RkptMFY2dUNtNGg4RHA0RFBqeDgyUFpoN2lBbXk0U3ZaZjIzWFlKamJvZmVYTzdQaGlXTDY2Sk9aYUYxbGtnQnU3UFRnNmhuQk5Tc2xDRVlWUHQ3TE9yZTBzb2RxeTQ4eTBRV3Y5dWs0ZWNXandzZ1pXU0RZTF9nVmNUOGNXRFNIa2ZTMlRkV3lxNUN4M0hWRDFLQ3hxWmphMS0xcFRUMmNSQQ?oc=5",
-"o": "The Economic Times",
-"via": "Google News: labor",
-"lane": "search",
-"at": "2026-10-19T15:37:24+00:00",
-"seen": "2026-10-19T23:45:20+00:00",
-"status": "unverified headline"
-},
-{
-"id": "f6393b638e7b",
-"t": "Monday Morning Accounting News Brief: Deloitte Starts the Week With Layoffs; AI Agent Audits Are Here | 10.19.26 - Going Concern",
-"u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNjRKd3hONWJjLWtRQVBqc1lrc3VvTmgwVWxUeVJrSEtxNUthbjJ2Y2pJLVo0ZXM4VmMtU2JlRFZKMXFGeV93VlBmQWFrUm50Szg4ZFVZVnFPd0JKSVg3ZlhoSDJGLVJaT245ZUlWekItV1FzU3ViQnJ5S05BcFBYSVhITzNMQTBkc0RpTmxGWGFtWGc2eVhYbUxQQzB1WktISTU0amw4b21CMmNieGNxT29GaGl2THJ4NEp1SHZGdktfX3JnTnA5TEkwM1RSTlphNGtUTA?oc=5",
-"o": "Going Concern",
-"via": "Google News: labor",
-"lane": "search",
-"at": "2026-10-19T15:30:00+00:00",
-"seen": "2026-10-19T23:45:20+00:00",
-"status": "unverified headline"
-},
-{
-"id": "34cba618605f",
-"t": "Targa Resources Lobbies on Environmental Policy - Legis1",
-"u": "https://news.google.com/rss/articles/CBMifEFVX3lxTE83VEFZSTI1TDRQQ2NnNEN6akFjUGY3OENVZDhXaTFkcGFPdmQtVE50UDVJNkZlMlNudU5MbkREd0o2Q2Z2eGhrQkUzOXlMWGZ6cFpibEp5WF9IQjRsRWhRZXBSR2dLV1RzVG5oR1NkUUIxUldvc3N4YnBPTVI?oc=5",
-"o": "Legis1",
-"via": "Google News: money",
-"lane": "search",
-"at": "2026-10-19T15:29:20+00:00",
-"seen": "2026-10-19T23:45:20+00:00",
-"status": "unverified headline"
-},
-{
-"id": "f2ebe8b6ba4f",
-"t": "General Assembly calls off Oct. 26 special session to elect judges - Virginia Mercury",
-"u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNc0JpdXZKYXZmajhiSG9rTFV0WTJuYm5FTVpLTnk3Y016WXFZVHlJcFd2Mkw4bHBmYXVWWEpCV0ZZWWk2dkNYN3FYMVEtU2ZYa3AzSnNHc0tZREkyRnlWNDJYY29EOV9LNjNLWUxWdE5NME1pYjJuVFZKSld5U3ZYU0pSMHR1M2VWaFJrNy1pRzY5U2Etd3VmdldFQVRhMnJOZURWc3RkRlA?oc=5",
-"o": "Virginia Mercury",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-10-19T15:19:55+00:00",
-"seen": "2026-10-19T23:45:20+00:00",
-"status": "unverified headline"
-},
-{
-"id": "0e1118a0d622",
-"t": "ICE Contractors Reward Susan Collins’ Loyalty with Campaign Donations - Maine AFL-CIO",
-"u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZzAxd1VqdU5xWm5kY3ZZbU5mUXk0LXIwd1NEM0dhVmR1YlQwZ1VtYWdsV0UwVUpTVjltSUxFaUM1QWhmLUxUOVJNSkEwMnlVOTJFeWswa05zTE1Za1ZOMjZLU194Z19nYXZMbWtHR2hvZFJFYkVhdTBROWVVeGZtNGh6REdNNFB6TEZmSmplbklSTFdNeVRv?oc=5",
-"o": "Maine AFL-CIO",
-"via": "Google News: contracts",
-"lane": "search",
-"at": "2026-10-19T15:18:22+00:00",
-"seen": "2026-10-19T23:45:20+00:00",
-"status": "unverified headline"
-},
-{
-"id": "7d181d1ed8e8",
-"t": "DHS Bans DeepSeek on Federal Systems Under 2018 Law [2026] - shattered.io",
-"u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9UYjQ1M3F6NjkyWGN3eEE1cnFpeDlBTzJvT1FlNEEyZFduMnUwa1c3cHRQRzFRbHh1MTlOblhXNDJGN1pzZFJLRXJ2Y1A4QTI4TGdIVW1aRTZRNVF1bmpwODNiWTNveVN1WUhIcWZ2NW5nRHBlTkp0TQ?oc=5",
-"o": "shattered.io",
-"via": "Google News: contracts",
-"lane": "search",
-"at": "2026-10-19T15:16:03+00:00",
-"seen": "2026-10-19T23:45:20+00:00",
-"status": "unverified headline"
-},
-{
-"id": "f4dc18420edf",
-"t": "Schneider Electric sees record-high Q3 revenue on global data center boom",
-"u": "https://www.utilitydive.com/news/schneider-electric-data-center-earnings/833358/",
-"o": "Utility Dive",
-"lane": "news",
-"at": "2026-10-19T15:10:29+00:00",
-"seen": "2026-10-20T02:09:41+00:00",
-"status": "unverified headline"
-},
-{
-"id": "df653d82d7ac",
-"t": "Nscale Loses Microsoft Deal as Power Delays Threaten AI",
-"u": "https://www.datacenterknowledge.com/build-design/microsoft-exits-nscale-data-center-deal-over-uk-power-delays",
-"o": "Data Center Knowledge",
-"lane": "news",
-"at": "2026-10-19T15:09:50+00:00",
-"seen": "2026-10-19T20:12:56+00:00",
-"status": "unverified headline"
-},
-{
-"id": "cedf72f3ef13",
-"t": "Alphabet is the best “Magnificent 7” stock, this investor says - Cantech Letter",
-"u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNnBuUUN6YjMyTmpRc0FtT3ctRmJacFBvQncyWlh2NmUxc3JvZEdPM3J3eUJYMUt3Y2Q4TjlnWGpURDhLRk9Xc19mMmd2ZWZiYTJOWEgyY3NsTmZJVC0wZkdYYV9HMXdPMnJWTG5td0dNaGMxdEhydlQ0aVRrS2tibDZscDI1ZFJoTmItcnF5cC1mUmpJOENGM1E0cW52Y03SAaQBQVVfeXFMTWtxWmwwVE9YX2c4WjlNcml6dkhieExMLVdmZDF6dEc1TXFmZlpJYWJhNTYzemY1bzlPenNkdXBIUmxjZk1yMmplMGZ4dmdxZzE1QVZkQ0lfcldyU1gzaTlIanZ2cnpoVFF3dFBESXJKRktqVzRiajBleWVyTlVobmZueVY0SmJrN0dHUkY3TzZuSnJJeDhXZnR0aXlBR0YxbGp3dFY?oc=5",
-"o": "Cantech Letter",
-"via": "Google News: antitrust",
-"lane": "search",
-"at": "2026-10-19T15:07:00+00:00",
-"seen": "2026-10-19T23:45:20+00:00",
-"status": "unverified headline"
-},
-{
-"id": "534c057eb56c",
-"t": "Saudi postpones FII in person after Wall Street lobbying - Yahoo",
-"u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTUNyZ3ZzNXB5amM3NE1VUFp6V3V4bEg3aXpZLWJ3LWNOUUs1UWtFTFNCLXhjUEZKckFQV2hXLUN3Q2xMcEpLN1FOLXZmSFJQeVFtRjdGRXQxN1BGei1aVUtXQ0JocGdHU2MxRVNrQjFSVHlfY1cxMExqaVBDZE01eFZQemo3VGdUNEhTSlJQZ0FfMms?oc=5",
-"o": "Yahoo",
-"via": "Google News: money",
-"lane": "search",
-"at": "2026-10-19T15:05:33+00:00",
-"seen": "2026-10-19T23:45:20+00:00",
-"status": "unverified headline"
-},
-{
-"id": "ea580cf1db4f",
-"t": "Train or Cut? From HSBC to Kroger, AI Layoffs Keep Rising. Here Is What They Really Cost Compared With Reskilling - AICERTs",
-"u": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVnctTFp4OUJ1Z1d1ZnJkd2NjdHFzNGVCdElaa1VNNXFlRHNyQXBvRXdvekxJaTZGcHJMd3RvbFRSM1lrZ3UwRk5hSkZ2NVVxMWN4MS1EZTZMRU9feGdxNVJSNlBOdDZMbi1oYS12c2ZOdEJwalNndUxkNEhERVVLdmItRHEwZU1QMnZzdHFMMWFYYmZ5empKaDdER3dHNTg1SUFGWXN5RGROUjVuWjUySWJHeE83ZWpmZUpjSGN5T3R1YnZvY2xPNmVCVTZYMVJJcTJjS3FHVQ?oc=5",
-"o": "AICERTs",
-"via": "Google News: labor",
-"lane": "search",
-"at": "2026-10-19T15:02:44+00:00",
-"seen": "2026-10-19T23:45:20+00:00",
-"status": "unverified headline"
-},
-{
-"id": "cd1e3bfd6e59",
-"t": "St. Cloud City Council to Set Public Hearing on Data Center Zoning Rules - KNSI",
-"u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYnlpY1hNSFZ5dkpROVU5Y1lPd1B5WldNLUV5YUw3d0kwOUxIaXBMcGp0TldWUmVGSk9KWjhidzVmNnpuU3ZmUU9paFRrbVBzT1NYT0F3eVFQYWN1aTlWWTNVTnhfbTdkTU5UTXRlNWJ4ZUdRWW9NTm5Sa002TGducmUxQWJNUHowOENNODFLWjVZVVdSRFc0eXVGSW1LVkhJTmFsVDRnTVo?oc=5",
-"o": "KNSI",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-10-19T15:00:41+00:00",
-"seen": "2026-10-19T23:45:20+00:00",
-"status": "unverified headline"
-},
-{
-"id": "f3ee2482e2f9",
-"t": "Cincinnati is seeking your opinion on data center zoning codes - WCPO 9 Cincinnati",
-"u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZ3FGbVlRY2w0LUQ0YmJGTm9JSUNIMjVWZG13WXZ5akdUXzFKZ1E4SS1iZlMyZHdWRHFpX3hnSVdkMDlrbFdIVmU0bE1KLTZKbU9pdUdfUjB0RkZFd0pvMmVUa2dETU9QbC1kaHdIWUpfTHllLVZyUFpSa2V0cE93ZXBvSzN4bnhJdjYteFdjbkFoSkJIYm53aE1PYUNoZnY1?oc=5",
-"o": "WCPO 9 Cincinnati",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-10-19T14:56:13+00:00",
-"seen": "2026-10-19T23:45:20+00:00",
-"status": "unverified headline"
-},
-{
-"id": "963fef18dac5",
-"t": "Cincinnati looks for public input on data center zoning - WCPO 9 Cincinnati",
-"u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQWhobWJlZEJpRUVzZ2w1MjRraURSakxfRFc3b3JILVBfVGc3bEZKbDRvZWhOSi1JR2h5bzRwWHJ6cjNjd05sc0k0ajFmMUxvSGFjWHZhOTNuWGZiZlI4SEVCQTZaV29jQmk4a2hUT2hkVjJqenJlekNscEdicGVTRGNTSWRKYWtkem5EelpZeU51Q01KMy1QZXVHcnJabUda?oc=5",
-"o": "WCPO 9 Cincinnati",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-10-19T14:56:13+00:00",
-"seen": "2026-10-19T23:45:20+00:00",
 "status": "unverified headline"
 }
 ]
