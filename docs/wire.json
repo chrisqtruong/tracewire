@@ -1,8 +1,98 @@
 {
 "name": "Tracewire",
-"updated": "2026-10-20T07:34:59+00:00",
+"updated": "2026-10-20T12:57:41+00:00",
 "note": "Unverified headlines collected automatically from public feeds. Not checked by Tracewire. Verified items appear in the Feed.",
 "items": [
+{
+"id": "5ecb5ba802c4",
+"t": "US bans use of China’s DeepSeek AI tools by government agencies",
+"u": "https://www.theguardian.com/us-news/2026/oct/20/us-bans-china-deepseek-ai-tools-government-agencies",
+"o": "The Guardian",
+"lane": "news",
+"at": "2026-10-20T12:33:27+00:00",
+"seen": "2026-10-20T12:57:41+00:00",
+"status": "unverified headline"
+},
+{
+"id": "b71f8243723e",
+"t": "Enersense and Betolar Oyj to develop security solutions for substations and data centers across the Baltics",
+"u": "https://www.datacenterdynamics.com/en/news/enersense-and-betolar-oyj-to-develop-security-solutions-for-substations-and-data-centers-across-the-baltics/",
+"o": "DatacenterDynamics",
+"lane": "news",
+"at": "2026-10-20T10:51:00+00:00",
+"seen": "2026-10-20T12:57:41+00:00",
+"status": "unverified headline"
+},
+{
+"id": "8bc86e8c7edb",
+"t": "HSBC CEO warns the AI boom won’t make every data center a good bet",
+"u": "https://www.cnbc.com/2026/10/20/data-center-financing-ai-debt-hsbc.html",
+"o": "CNBC",
+"lane": "news",
+"at": "2026-10-20T10:39:17+00:00",
+"seen": "2026-10-20T12:57:41+00:00",
+"status": "unverified headline"
+},
+{
+"id": "6cba97ffa33c",
+"t": "AI takes on great experiment in self-rule",
+"u": "https://www.axios.com/2026/10/20/ai-govern-anthropic-openai",
+"o": "Axios",
+"lane": "news",
+"at": "2026-10-20T09:38:57+00:00",
+"seen": "2026-10-20T12:57:41+00:00",
+"status": "unverified headline"
+},
+{
+"id": "d34e956463da",
+"t": "Google expands partnership with Entergy Arkansas, will fund renewable energy and grid upgrades for West Memphis data center",
+"u": "https://www.datacenterdynamics.com/en/news/google-expands-partnership-with-entergy-arkansas-will-fund-renewable-energy-and-grid-upgrades-for-west-memphis-data-center/",
+"o": "DatacenterDynamics",
+"lane": "news",
+"at": "2026-10-20T09:12:00+00:00",
+"seen": "2026-10-20T12:57:41+00:00",
+"status": "unverified headline"
+},
+{
+"id": "99fe5837d642",
+"t": "\"Power is probably the forever bottleneck\": Grid delays threaten the AI race.",
+"u": "https://www.axios.com/2026/10/20/goldman-ai-energy-infrastructure-bottleneck",
+"o": "Axios",
+"lane": "news",
+"at": "2026-10-20T09:00:06+00:00",
+"seen": "2026-10-20T12:57:41+00:00",
+"status": "unverified headline"
+},
+{
+"id": "321ec64407e4",
+"t": "Is Front-of-the-Meter Power the Next Data Center Play?",
+"u": "https://www.datacenterknowledge.com/energy-power-supply/is-front-of-the-meter-power-the-next-data-center-play-",
+"o": "Data Center Knowledge",
+"lane": "news",
+"at": "2026-10-20T09:00:00+00:00",
+"seen": "2026-10-20T12:57:41+00:00",
+"status": "unverified headline"
+},
+{
+"id": "7cbd30d2ca70",
+"t": "TikTok staff raised child safety alarms. Court records show executives failed to act",
+"u": "https://www.npr.org/2026/10/20/nx-s1-6005809/tiktok-child-safety-money-laundering",
+"o": "NPR",
+"lane": "news",
+"at": "2026-10-20T09:00:00+00:00",
+"seen": "2026-10-20T12:57:41+00:00",
+"status": "unverified headline"
+},
+{
+"id": "699a3254fdf1",
+"t": "With a Trifecta, Pennsylvania Democrats Would Pass Energy Reforms and Rein in Data Centers",
+"u": "https://insideclimatenews.org/news/20102026/pennsylvania-democrat-trifecta-energy-reform-data-centers/",
+"o": "Inside Climate News",
+"lane": "news",
+"at": "2026-10-20T08:50:00+00:00",
+"seen": "2026-10-20T12:57:41+00:00",
+"status": "unverified headline"
+},
 {
 "id": "8ce3a69a2d6d",
 "t": "U.S. bans DeepSeek from government agency systems amid AI rift with China",
@@ -2073,102 +2163,6 @@
 "lane": "search",
 "at": "2026-10-19T14:56:13+00:00",
 "seen": "2026-10-19T23:45:20+00:00",
-"status": "unverified headline"
-},
-{
-"id": "294a5a799a08",
-"t": "Deputy Injured In Officer-Involved Shooting In Spotsylvania County - Patch",
-"u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQU2RKazFuamxZV254OUxDaEMtZ1V4dmhjenRXVkg5TlpUX3R4NnV0RlRGcGppQTVWZHc0NDBNVlpzdHhsRmdlZXdmd0hHZC0xdng5dDlHUjFJVFFrdHhsY2x4aTNKQzdKUUJoNTdnVTFEWldyRXlHMkxkcThsbGhZbzBwcGJWM1RMM1VVSzNRRjZoV1dRVzdNQVlaeXVBZ1FfUTBzVXFOMnlwdi00c09FYUZhLUl0eE1qYzB1WDlB0gG-AUFVX3lxTFBTZEprMW5qbFlXbng5TENoQy1nVXh2aGN6dFdWSDlOWlRfdHg2dXRGVEZwamlBNVZkdzQ0ME1WWnN0eGxGZ2Vld2Z3SEdkLTF2eDl0OUdSMUlUUWt0eGxjbHhpM0pDN0pRQmg1N2dVMURaV3JFeUcyTGRxOGxsaFlvMHBwYlYzVEwzVVVLM1FGNmhXV1FXN01BWVp5dUFnUV9RMHNVcU4yeXB2LTRzT0VhRmEtSXR4TWpjMHVYOUE?oc=5",
-"o": "Patch",
-"via": "Google News: dc-incent",
-"lane": "search",
-"at": "2026-10-19T14:49:43+00:00",
-"seen": "2026-10-19T23:45:20+00:00",
-"status": "unverified headline"
-},
-{
-"id": "678be0329950",
-"t": "Gilroy to vote on extending data center development moratorium - NBC Bay Area",
-"u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZVJwaXVvZlJYRGZ3ZUJJS1JZV2E1NVFzVDJBU3lqMTVuSjVhVmdRZHBIcFJfR2hJZkZLOVlfYnk5bmlaazNwZS04WHFlNmZOaFNsc09LUkxpZWwxYVlzQkIwd1hCY2d5dGdHaEU0M0NMWmRNaXNuaDZBYTNraG4tRFFnQU9MSGR5LVlWUjNJT0tseVk3SWp1WdIBoAFBVV95cUxPdFhZNkxlbzJvYy05OGROeTFqRFFvV19mV1JFcnpXd1MzaUlaVFAwVUd2TzFCX3hneV9FclNOazZIRm9MVzQ1dzItVlBpZmJxekZDM1VnSXdCSEdCejZPTjJBN2JDdmdtSFplemVHSmFhVjA1YV80Z0F4WlBnRnpVRlljcnQxMWNESlNQSURzdi1fLW5fcVFFZDVEUEVYRkdR?oc=5",
-"o": "NBC Bay Area",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-10-19T14:48:43+00:00",
-"seen": "2026-10-19T23:45:20+00:00",
-"status": "unverified headline"
-},
-{
-"id": "7f85eae07211",
-"t": "Peak+ Unveils Data Center Adiabatic Pre-Cooling Demo Truck - Business Wire",
-"u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOREdTUTFXU2U4Z2lvT05LR1pUekcyanpob1VFMjZPcTRlQjBZTzE2WE1ndG5jZ0V1LVZwSmc2aGI3eWhMa0N2UWpCQnhfZ0htRkxrbzFicnA2M2lMTWFOOGozdEpXS0RYNklucGlfNXptT2N5eHJJMGFXVTBsWEh2blVPWTkxZUxjaXZVUE5fb1pTMFIyektJekF3M2ZNNHlQVDVzVWVBR3Rmb3hCSlUxTjhxUTc?oc=5",
-"o": "Business Wire",
-"via": "Google News: dc-water",
-"lane": "search",
-"at": "2026-10-19T14:48:00+00:00",
-"seen": "2026-10-19T23:45:20+00:00",
-"status": "unverified headline"
-},
-{
-"id": "b3d41182461b",
-"t": "Disney found a way to buy Character.AI without buying its lawsuits",
-"u": "https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits/",
-"o": "Ars Technica",
-"lane": "news",
-"at": "2026-10-19T14:45:43+00:00",
-"seen": "2026-10-19T20:12:56+00:00",
-"status": "unverified headline"
-},
-{
-"id": "4c6d4f445894",
-"t": "Google to pay Entergy Arkansas $103 million this year - Wynne Progress",
-"u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdm9kWVBLdWxQR0N6ZGNPZzBuS0wtVDZEVU5tQzR2YXFyd0VvYmRFOUpfbEJwd25EX1hXTHQtSEFLTmxkXzFvaU03b0psUE45TnQyWDFzRVd2cWU2aERlOUxzZTl1N0tmcVZkbnpZXzJ2ZlBNalZWYmlvZ3RCVGZ5UzQ0VkZXQzN6SVE?oc=5",
-"o": "Wynne Progress",
-"via": "Google News: dc-utility",
-"lane": "search",
-"at": "2026-10-19T14:43:58+00:00",
-"seen": "2026-10-19T23:45:20+00:00",
-"status": "unverified headline"
-},
-{
-"id": "d01844c72b55",
-"t": "Fact check: What’s true and what’s not in Michigan’s data center debate - The Manchester Mirror",
-"u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWGRMUFg3MEJ0V0FUd2pZR3ZFeDBXcE9uYzZPdTdTNFRoV0xsUFdmSTROZFd0TC1EMW1aRGtZckVrNnhadGZCdFVKQTNJUlBPS2NCWWk3Z1JhajBoY1lXbjdrYUlSMVVWaWxMLVNfZmtNV0NReDJUelBfck1odDNwQ19LaHV1SS1GdFNxVVFMMkRLYmtvb2lLVlRBd3h2Y25GeGJsc1B0WS1KcVp1Vm9MaQ?oc=5",
-"o": "The Manchester Mirror",
-"via": "Google News: dc-incent",
-"lane": "search",
-"at": "2026-10-19T14:41:19+00:00",
-"seen": "2026-10-19T23:45:20+00:00",
-"status": "unverified headline"
-},
-{
-"id": "0ee28bc5eb25",
-"t": "Cruise Lines International Association Lobbies on Visa Policy - Legis1",
-"u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1RMFlqY2ZyTDAwRC1NcDZVNV8wdzEtel9vbkdmLU51aVVzV3ZpdVpUdjJGREJaMWJIanVIaldfd1FvTVFrVnBWWTRhYnZBT2lUeWR6VkxuUDR1TEN1anN0VVhacC03alJ5cEZwanV0cy1vN3ZfRHc?oc=5",
-"o": "Legis1",
-"via": "Google News: money",
-"lane": "search",
-"at": "2026-10-19T14:39:20+00:00",
-"seen": "2026-10-19T23:45:20+00:00",
-"status": "unverified headline"
-},
-{
-"id": "4beb9f244296",
-"t": "FCC Convenes Meeting of International Partners from Australia, Canada, New Zealand, and the United Kingdom",
-"u": "https://www.fcc.gov/edoc/425926",
-"o": "FCC",
-"lane": "agency",
-"at": "2026-10-19T14:38:22+00:00",
-"seen": "2026-10-19T14:38:22+00:00",
-"status": "unverified headline"
-},
-{
-"id": "dd8c060fec65",
-"t": "FCC Cuts Off Mexico IP Phone for Violating Robocall Rules",
-"u": "https://www.fcc.gov/edoc/425933",
-"o": "FCC",
-"lane": "agency",
-"at": "2026-10-19T14:38:22+00:00",
-"seen": "2026-10-19T14:38:22+00:00",
 "status": "unverified headline"
 }
 ]
