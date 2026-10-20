@@ -1,8 +1,58 @@
 {
 "name": "Tracewire",
-"updated": "2026-10-20T21:14:32+00:00",
+"updated": "2026-10-20T23:57:13+00:00",
 "note": "Unverified headlines collected automatically from public feeds. Not checked by Tracewire. Verified items appear in the Feed.",
 "items": [
+{
+"id": "b17a25d8c48a",
+"t": "Elon Musk says Tesla-SpaceX merger being considered",
+"u": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
+"o": "BBC",
+"lane": "news",
+"at": "2026-10-20T23:24:47+00:00",
+"seen": "2026-10-20T23:57:13+00:00",
+"status": "unverified headline"
+},
+{
+"id": "b6629abae55b",
+"t": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+"u": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+"o": "TechCrunch",
+"lane": "news",
+"at": "2026-10-20T23:01:23+00:00",
+"seen": "2026-10-20T23:57:13+00:00",
+"status": "unverified headline"
+},
+{
+"id": "342f3b31d430",
+"t": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
+"u": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
+"o": "TechCrunch",
+"lane": "news",
+"at": "2026-10-20T22:24:02+00:00",
+"seen": "2026-10-20T23:57:13+00:00",
+"status": "unverified headline"
+},
+{
+"id": "589388b0b142",
+"t": "Tesla and SpaceX are discussing a possible merger, Musk says",
+"u": "https://www.theverge.com/science/1014984/spacex-tesla-merger-elon-musk-special-committees",
+"o": "The Verge",
+"lane": "news",
+"at": "2026-10-20T22:01:50+00:00",
+"seen": "2026-10-20T23:57:13+00:00",
+"status": "unverified headline"
+},
+{
+"id": "b13a3f7e6277",
+"t": "Space X and Tesla exploring merger, CEO Elon Musk says",
+"u": "https://www.axios.com/2026/10/20/spacex-tesla-merger-talks",
+"o": "Axios",
+"lane": "news",
+"at": "2026-10-20T21:43:40+00:00",
+"seen": "2026-10-20T23:57:13+00:00",
+"status": "unverified headline"
+},
 {
 "id": "0c1717b8f1dc",
 "t": "FCC Removes Convicted Fraudster from USF Programs",
@@ -21,6 +71,16 @@
 "lane": "news",
 "at": "2026-10-20T20:35:10+00:00",
 "seen": "2026-10-20T21:14:32+00:00",
+"status": "unverified headline"
+},
+{
+"id": "a054bcdb2791",
+"t": "Meta drops the word \"train\" from its commercial TOS after AI backlash",
+"u": "https://arstechnica.com/tech-policy/2026/10/meta-drops-the-word-train-from-its-commercial-tos-after-ai-backlash/",
+"o": "Ars Technica",
+"lane": "news",
+"at": "2026-10-20T20:07:58+00:00",
+"seen": "2026-10-20T23:57:13+00:00",
 "status": "unverified headline"
 },
 {
@@ -231,6 +291,16 @@
 "lane": "news",
 "at": "2026-10-20T12:33:27+00:00",
 "seen": "2026-10-20T12:57:41+00:00",
+"status": "unverified headline"
+},
+{
+"id": "c09e838a6bad",
+"t": "Wall Street’s AI Rout Ends, But Debt Fears Remain",
+"u": "https://heatmap.news/am/ai-rout-stocks",
+"o": "Heatmap",
+"lane": "news",
+"at": "2026-10-20T12:26:09+00:00",
+"seen": "2026-10-20T23:57:13+00:00",
 "status": "unverified headline"
 },
 {
@@ -2067,82 +2137,6 @@
 "via": "Google News: labor",
 "lane": "search",
 "at": "2026-10-19T16:04:54+00:00",
-"seen": "2026-10-19T23:45:20+00:00",
-"status": "unverified headline"
-},
-{
-"id": "24a5f938bf6b",
-"t": "Microsoft stock forecast: Consolidation likely as investors watch $535.96 resistance zone - Traders Union",
-"u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdXpoaHRhbXdmNkJ0R2lvVXk5ejNxVU9ZdVBVMUloX2VUYkltcTV6Q1JnVlBFZzdsV3Y1dDRmTmVUd0dvUUJNT1V0bWNzUi11WGhJN25OcU5CQ1pRRUJsb2g5TS1GWlRDSVUtMnZwZ1NjUmxObzAzc2tVYTl4YWpEdF9mSTVvMjNpbzdMNDRB?oc=5",
-"o": "Traders Union",
-"via": "Google News: antitrust",
-"lane": "search",
-"at": "2026-10-19T16:04:31+00:00",
-"seen": "2026-10-19T23:45:20+00:00",
-"status": "unverified headline"
-},
-{
-"id": "569865ae3c84",
-"t": "Raleigh could be forced to allow a new data center, despite moratorium - Cardinal & Pine",
-"u": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5IeTJnSjVlaWExem01N1M1bnBDemtYRWJvY01La081LWpHWXdnTjJzU09iVnZmV3pPYjJWZFJzeXJtWnVZYXMxZnhqeHUzMEZXaEpNM0ZtQzJqd3ZVc2hTbzVQVmM3ZFFjVU4xeWE3UmVJbkJEZkJ0WVNybnI?oc=5",
-"o": "Cardinal & Pine",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-10-19T16:04:29+00:00",
-"seen": "2026-10-19T23:45:20+00:00",
-"status": "unverified headline"
-},
-{
-"id": "59f3bed7e399",
-"t": "Temu accepts US data storage rules in Texas privacy settlement - Malaysia Sun",
-"u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSDJ0SVdtU3lHYWt0dE55azBfQXUtMVJEUGZYSVJCOURQWk53OW1fSm9tTkplSE1YWXIzR2dQdURBajRqckJiVGNxbDE3OXJ3Q2ltNFdGVTh3dlhOMENqcU5pX3JaU0pMWVVnSWhQMzltVkZsS19wT0JRNlc2VzdkUTkzTU9xektPSlk3QldxYm51X1hvVTMxUXJTNlRaZ2ZOX0tZRVFoWQ?oc=5",
-"o": "Malaysia Sun",
-"via": "Google News: privacy",
-"lane": "search",
-"at": "2026-10-19T16:04:00+00:00",
-"seen": "2026-10-19T23:45:20+00:00",
-"status": "unverified headline"
-},
-{
-"id": "77e52c3aad01",
-"t": "Deal Street: SpaceX, Tesla Earnings Put Musk’s Massive AI Capex To The Test Amid Merger Talk - NDTV Profit",
-"u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOX1RoMUZyTjR1a3N3VWpUNVVjY1FLT1VyTTYtRWhfYlE2WWNfWDFDZWRKWW4zLUtzZHdhS0tzN3VCNDdxbHZmTm5hYUdfVWdacjFicngxcHhJREIwblI0QmZ5VERxUVpCYjNlbmQ5MVlRMEgxUlZoUWNFVDBlU0ZydGZFX1pMNDhHd1NFS2cyYTFaQm5tdXF5Z2gxM3NRSDFFUGpvVDFhRGRtekVXTlpEOEE5U0d0ZmQ2alVnU003cmpYTm4tS2ltY3VtWWtTaEXSAdcBQVVfeXFMTUJTbEFJUUcycFg1RVAxc0J3aFkyZm1BYW1hQTQ2c1J0MVRYbUVBSnc4aDlWVU83bXdZNEF2UmttOGZNT3h4cDVkS1gtcWJldGZrUlV1UUxmOUtmdllvd3d4c3JzNE1yRUR6UHFmc3pMTGhOY3NnSGF5Rl9WVzdKOFZJWTYyS3lZX0FMUHlJYTJ4X3Z5YVFMcks5Nm53YmxqVUg0TmRVMWxmUEROcUtMOGh4aWlnZnhFUnRXeGkzanY0emNKbUozdUYzTUI3Wml0QzZCWWRhMFU?oc=5",
-"o": "NDTV Profit",
-"via": "Google News: ai-deals",
-"lane": "search",
-"at": "2026-10-19T16:00:39+00:00",
-"seen": "2026-10-19T23:45:20+00:00",
-"status": "unverified headline"
-},
-{
-"id": "d4e1a3125e74",
-"t": "EFF Launches Privacy Badger for Safari on macOS",
-"u": "https://www.eff.org/press/releases/eff-launches-privacy-badger-safari-macos",
-"o": "EFF",
-"lane": "news",
-"at": "2026-10-19T16:00:25+00:00",
-"seen": "2026-10-19T20:12:56+00:00",
-"status": "unverified headline"
-},
-{
-"id": "09dc959c2b7f",
-"t": "Ticketmaster Goes All-In on AI, Names Ex-Amazon Exec as Chief Technology Officer - Variety",
-"u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQX3B0dlc4dmdDelFOaUh5X1k4OFNWN3FwdG5uclpSSUo5T2FQTkl1dTVtTXNocGM4OEVtQ1RZTVFaSG5YQk9nQ2tPLWp1TTRIbVRGXzgxM1RVSTE0UFptbkdOUGRqR0dEeFB0MW1uUTkxRFZLYkhkVC1nN1lkdnExdm4zdGtJckhHaXU1RWd6bDVIcE1kcjlUTW05RmhNa09mT3ctZU1Wbk0?oc=5",
-"o": "Variety",
-"via": "Google News: antitrust",
-"lane": "search",
-"at": "2026-10-19T16:00:00+00:00",
-"seen": "2026-10-19T23:45:20+00:00",
-"status": "unverified headline"
-},
-{
-"id": "355e8cb7e66d",
-"t": "US FTC, states say Amazon's anticompetitive conduct not justified - MLex",
-"u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZUVwdVpxQWZhZnFnOWxzSVRTNVQyMVYzVUFXQVBWVkQ2NHVjcGVHaUNlekJ5cXZrNEJyTEdxTG11dHI2VG1sWWJTR3FhMlBVeXR4RkRpei1iQS1EbnRsSXhYQmhoQ0JoYnNIYWpNS21IeTBYWjJsY2ptSzA1bmZLS0FqS1lUNXRTd3VycHJUUTVNY2dOUHZKNE5KeWR3RGZhSjZRUGx4QjFVOGpJcjl2OWRzQ0ZGaFd30gFaQVVfeXFMUEZ5TEZfbXRidnN3SDZpQTdWekYyMG91RkNaX3U2N0lNbU9CTDZGcmRibWVXTDFSYjVfblM0TlA1emd6SUpHTEY4Zi1kOG1fODVQUzkzU01KbXhR?oc=5",
-"o": "MLex",
-"via": "Google News: antitrust",
-"lane": "search",
-"at": "2026-10-19T15:57:51+00:00",
 "seen": "2026-10-19T23:45:20+00:00",
 "status": "unverified headline"
 }
