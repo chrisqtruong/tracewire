@@ -1,8 +1,109 @@
 {
 "name": "Tracewire",
-"updated": "2026-10-21T14:36:52+00:00",
+"updated": "2026-10-21T18:54:58+00:00",
 "note": "Unverified headlines collected automatically from public feeds. Not checked by Tracewire. Verified items appear in the Feed.",
 "items": [
+{
+"id": "af5d3897eb07",
+"t": "Meta ordered to pay $25 billion penalty in New Mexico Cambridge Analytica case",
+"u": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
+"o": "CNBC",
+"lane": "news",
+"at": "2026-10-21T18:52:44+00:00",
+"seen": "2026-10-21T18:54:58+00:00",
+"status": "unverified headline"
+},
+{
+"id": "7029da4abf6c",
+"t": "Legal AI startup Legora raises $550M Series E at $8.8B valuation",
+"u": "https://techcrunch.com/2026/10/21/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation/",
+"o": "TechCrunch",
+"lane": "news",
+"at": "2026-10-21T18:51:56+00:00",
+"seen": "2026-10-21T18:54:58+00:00",
+"status": "unverified headline"
+},
+{
+"id": "a82165403f8b",
+"t": "Report says Musk, not Trump, ordered Starlink throttling that blindsided Ukraine",
+"u": "https://arstechnica.com/tech-policy/2026/10/report-says-musk-not-trump-ordered-starlink-throttling-that-blindsided-ukraine/",
+"o": "Ars Technica",
+"lane": "news",
+"at": "2026-10-21T18:35:38+00:00",
+"seen": "2026-10-21T18:54:58+00:00",
+"status": "unverified headline"
+},
+{
+"id": "66dc4bf7ddba",
+"t": "Meta ordered to pay $25B in New Mexico for misleading users on privacy - The Washington Post",
+"u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZTNCRjVTalpySlZUVFprZTdhMUJ4bENQLVFKSEwzbTdQMU96ekxveEQybDA5bno3UEdSc0xMd3NMeEVQNEJBcmVRSFM0Qktsc0V0LUZBbUNpV0NqUVhqSXFMem53YnVrMVVHWVZBV0V1ZkluYzF0eEcyazQxemR1T0RLTWZDdS1NVUtQaDRvNV9nTXN3dldBWVR6b2VmRE9DN2pXUzZoRGp1NXJycGFr?oc=5",
+"o": "The Washington Post",
+"via": "Google News: washingtonpost.com/technology",
+"lane": "search",
+"at": "2026-10-21T18:33:56+00:00",
+"seen": "2026-10-21T18:54:58+00:00",
+"status": "unverified headline"
+},
+{
+"id": "8b3dcb15f7a3",
+"t": "Judge rejects Trump’s wild claim EPA can dismiss data center pollution lawsuits",
+"u": "https://arstechnica.com/tech-policy/2026/10/judge-rejects-trumps-wild-claim-epa-can-dismiss-data-center-pollution-lawsuits/",
+"o": "Ars Technica",
+"lane": "news",
+"at": "2026-10-21T18:20:40+00:00",
+"seen": "2026-10-21T18:54:58+00:00",
+"status": "unverified headline"
+},
+{
+"id": "a7454b706f82",
+"t": "Cops Warned to Look for ‘Suspicious Behavior’ From People Opposing Flock at City Council Meetings",
+"u": "https://www.404media.co/cops-warned-to-look-for-suspicious-behavior-from-people-opposing-flock-at-city-council-meetings/",
+"o": "404 Media",
+"lane": "news",
+"at": "2026-10-21T17:09:47+00:00",
+"seen": "2026-10-21T18:54:58+00:00",
+"status": "unverified headline"
+},
+{
+"id": "a8d818105013",
+"t": "Memphis councilors reject 18-month data center moratorium",
+"u": "https://www.datacenterdynamics.com/en/news/memphis-data-center-moratorium-xai-elon-musk/",
+"o": "DatacenterDynamics",
+"lane": "news",
+"at": "2026-10-21T16:23:38+00:00",
+"seen": "2026-10-21T18:54:58+00:00",
+"status": "unverified headline"
+},
+{
+"id": "5864d3a895c4",
+"t": "EFF Launches Guide to Help Parents and Youth Protect Privacy Online",
+"u": "https://www.eff.org/press/releases/eff-launches-guide-help-parents-and-youth-protect-privacy-online",
+"o": "EFF",
+"lane": "news",
+"at": "2026-10-21T16:19:59+00:00",
+"seen": "2026-10-21T18:54:58+00:00",
+"status": "unverified headline"
+},
+{
+"id": "441e00918c21",
+"t": "Tesla earnings loom after Musk calls SpaceX merger a 'good idea'",
+"u": "https://www.cnbc.com/2026/10/21/tesla-tsla-q3-2026-earnings-report.html",
+"o": "CNBC",
+"lane": "news",
+"at": "2026-10-21T16:01:25+00:00",
+"seen": "2026-10-21T18:54:58+00:00",
+"status": "unverified headline"
+},
+{
+"id": "ba4f17145f64",
+"t": "Jensen Huang’s Vision for Europe Runs on Plug-In Data Centers",
+"u": "https://www.wired.com/story/jensen-huangs-vision-for-europe-runs-on-plug-in-data-centers/",
+"o": "Wired",
+"lane": "news",
+"at": "2026-10-21T15:02:15+00:00",
+"seen": "2026-10-21T18:54:58+00:00",
+"status": "unverified headline"
+},
 {
 "id": "4cc9bb7a0406",
 "t": "Most Americans give a thumbs down to AI and how Trump is handling it - The Washington Post",
@@ -2066,114 +2167,6 @@
 "lane": "search",
 "at": "2026-10-20T21:14:40+00:00",
 "seen": "2026-10-21T04:22:34+00:00",
-"status": "unverified headline"
-},
-{
-"id": "0c1717b8f1dc",
-"t": "FCC Removes Convicted Fraudster from USF Programs",
-"u": "https://www.fcc.gov/edoc/426063",
-"o": "FCC",
-"lane": "agency",
-"at": "2026-10-20T21:14:32+00:00",
-"seen": "2026-10-20T21:14:32+00:00",
-"status": "unverified headline"
-},
-{
-"id": "3d9550490c1d",
-"t": "European Antitrust Agenda: EU Commission Advances Nvidia Probe; Ministers Take on China Trade Strategy - The Capitol Forum",
-"u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQY2hoNHZkdjZJUC1zdE9QVlEwekMxV3gtWEt1NHVnUjJNMjRWdVpmdHZ0NWYtb2lFaDE5LWVFU0FEZHowOFpkWHZQUXVYd1AtLTBfdE5lUHFoWl9WM25NckZHdkE1WmRpZHNrRDk2cXo0aGhhWERjQzhhaklaMzgzU1JOTmJEQm5OYzFFUTZXUHJOMDNPRGlId0FTVm1Dd0otVE1TVmVxblZZR2dvTkdCUTM2TGNuQm5qOHVsdC1LZ001TUQtSkJtUA?oc=5",
-"o": "The Capitol Forum",
-"via": "Google News: antitrust",
-"lane": "search",
-"at": "2026-10-20T21:07:53+00:00",
-"seen": "2026-10-21T04:22:34+00:00",
-"status": "unverified headline"
-},
-{
-"id": "2a16ead64b4e",
-"t": "Trump pours 530 billion won to boost Republicans as US midterms near - CHOSUNBIZ - Chosunbiz",
-"u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSjhaRUVMZUpBbHlvWUVyTTJ0WU9tdGRjWW9RbGJ0ejZIdXBnd1gxVFpMejVzODBDQmdBeGx4OUJ4U1ZFYWxkb28wRXphZFgxNnFTWlB5VUVYMC1pRnVON0FUUzE1S3d5VFF1dVY5ZS1hMmxXOEFaSzBuZE81cDN4eXhCVTAwazlydnpXY2RHRU1WZ1FqVjZFRTR5ZC3SAZwBQVVfeXFMTko4WkVFTGVKQWx5b1lFck0ydFlPbXRkY1lvUWxidHo2SHVwZ3dYMVRaTHo1czgwQ0JnQXhseDlCeFNWRWFsZG9vMEV6YWRYMTZxU1pQeVVFWDAtaUZ1TjdBVFMxNUt3eVRRdXVWOWUtYTJsVzhBWkswbmRPNXAzeHl4QlUwMGs5cnZ6V2NkR0VNVmdRalY2RUU0eWQt?oc=5",
-"o": "Chosunbiz",
-"via": "Google News: money",
-"lane": "search",
-"at": "2026-10-20T21:06:00+00:00",
-"seen": "2026-10-21T04:22:34+00:00",
-"status": "unverified headline"
-},
-{
-"id": "1f9bd4e51f18",
-"t": "Georgia utility commission’s balance of power at stake in midterm election - Georgia Recorder",
-"u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUjBPQkpCS3dVOHBxS1hiRmFiUnluMUlCaFlxdldfTHRPOE80X2tyaTE0Z3JvUi1pSWRVTmNVN2ZycWtpczNYTXNhZE1IVVl3ODc0Z3VWN1NpeHVTY3ZfQ2FXQ2pXLWN1MUYwelV4STFvTmJyVUMtQ1RPV0FpR3g4RWxHQXZNeHh0am5rSUNvLUNDSXVlQWE3aUl0ck9zTHJVZ2hyVHBSTWJ1X3A0RW43a29kNA?oc=5",
-"o": "Georgia Recorder",
-"via": "Google News: dc-utility",
-"lane": "search",
-"at": "2026-10-20T21:02:39+00:00",
-"seen": "2026-10-21T04:22:34+00:00",
-"status": "unverified headline"
-},
-{
-"id": "c2a33758f24c",
-"t": "FIRST ON FLAG FAMILY: Billions at stake as Harmony Township weighs data center pause - The Flag - AM 1100 and FM 92.3 WZFG",
-"u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQb1JrUElSdW5FVU95OU11cVRla0c4OW90WF9iT0U2bHZ5SXBhZDczMjFYMV9nQXNnaV9VN0ZOaE5yR2w4UWlEaExOaWVZR3NWU2RGQ0JOOGJOdFVmbENHbjBiQjdabDVPWUwwTnBFeVRiUFdJU29TQWxybXQwczJOQl81TlFBLVhud2lCaXRVUkZ3MlIwQVFUNlNaV3NiS080amVsaWxQMklqcC1XcmZDd1I3SFpIUGhxWXNR?oc=5",
-"o": "The Flag - AM 1100 and FM 92.3 WZFG",
-"via": "Google News: dc-utility",
-"lane": "search",
-"at": "2026-10-20T20:58:06+00:00",
-"seen": "2026-10-21T04:22:34+00:00",
-"status": "unverified headline"
-},
-{
-"id": "f4c0d6bec96f",
-"t": "Umatilla considers emergency over lost revenue from Gov. Kotek data center permit pause - Oregon Capital Chronicle",
-"u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOc2NzTWxlZ1FfY08tcVJ4ZXhibFNvVGpvRU1oZVViVHFJdHREQXRqRkpVMFd6c1I4SHNKSDRYMmxLY1lmbGJGaXZyRmRJSW1HVWtXWUZYZHZYM1dmMDBjZkdPN0lXekFGck8yeWU1X1YxR2JvcmFyQ2xNMXZUUEhOc25nT2RQbHc2UFcxa1VWTWFORkdkYzk5YlZtaGNiTEJmbUV2TnZYMExqZE1aVVhnaFRnemNaZWN4MXAxdlFHWnVqeGlnaWctYUUxMktSQQ?oc=5",
-"o": "Oregon Capital Chronicle",
-"via": "Google News: dc-incent",
-"lane": "search",
-"at": "2026-10-20T20:56:04+00:00",
-"seen": "2026-10-21T04:22:34+00:00",
-"status": "unverified headline"
-},
-{
-"id": "93065fff3e96",
-"t": "A Colchester Tech Firm Has Been Leaning Into AI. On Tuesday, It Announced Layoffs. - Seven Days Vermont",
-"u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNU3FNcjlZbWptT1NpRk9zNS1SRmlnWGhDSzhOMDJwQjBvZ25sTXJ3Ynp0bEFwM3hnNjRDVEcwNng2SWNraC1uNHJDMWRwNG5CYWVLUDZRWXZxMzlHMFFxRmM0ZkxyYVFSQTN5YzA1bWVJZmJrMVFNRmRYcjc3QXJBVTBXUTJ5Nlgzb0RxNUlQdDZNU3h5ZXVaWGFmaEJnNUZKbXZXY2ZNYk01QVREWmpldG1nTGhaUGhDYkRtQjNnRQ?oc=5",
-"o": "Seven Days Vermont",
-"via": "Google News: labor",
-"lane": "search",
-"at": "2026-10-20T20:54:34+00:00",
-"seen": "2026-10-21T04:22:34+00:00",
-"status": "unverified headline"
-},
-{
-"id": "112d84a42596",
-"t": "Importer sues over $40M in cheese duties under 1930 tariff law - The Center Square",
-"u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQU1QYmFLMzd3MXVnR1ZGeHk1dWNLT21yM19IRUJCLTZKNWhwaHJrRFVBLVJnYVdRMVlvSnctWFFVb3lTNGZXdFVOUkRvdURXU29lZXZnOFVYZmNrcGJiNlJQd3c3c3hrbDRTOURETjQ3eTMzU0VMRGU3RmJSdHoxXzkzVVdqQXZsaUxMNFk3NHd2YXlp0gGaAUFVX3lxTE1od041RmZLWE5INHBiSG1JRXJLaUR0bDdGQUdRZWtiX1hfQ2tSeFRpdm95djk0a0ppM3ExXzZycC1vYXRWYnp6SnZDaFktQXZmRGN6emVHWmVhbjRfVDVFX3F3cWxSS1pIUnV2VWd1Q0xGT29scDR2cjVyd21SWDJkdEpNTTc4MWMycHlmX0o2VkI0NWhVUG5CMFE?oc=5",
-"o": "The Center Square",
-"via": "Google News: dc-utility",
-"lane": "search",
-"at": "2026-10-20T20:49:00+00:00",
-"seen": "2026-10-21T04:22:34+00:00",
-"status": "unverified headline"
-},
-{
-"id": "ce4342515283",
-"t": "Trump launches fraud tip program that could pay Americans up to $30K - The Commercial Appeal",
-"u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbWM3aGdRQ1JJR3owWTIza2RhM1YzaFRoeklyTzRheHdSM0N1WE5XUDdrNWtndUREZmNNbVVkWDhEUWMtalZrVVFRcXJkcmp1ZDE3Y3c3SXJFSlRkY0Q3aUUxR1dLUWlyLVYxRF9GQW4tMXJBX2czVlNMbFFEVEtBVkFmZmZmMnBiV0tXRkkyVzRyUG1JUHA1YTVaZjdDanpQczhOSWNHOEFmZ0lyY3NpSHpTTzJRNnJxb0RwUXdBSGxyR3JjVUN2cGJBWW0ycXhNbDh5c0lR?oc=5",
-"o": "The Commercial Appeal",
-"via": "Google News: dc-incent",
-"lane": "search",
-"at": "2026-10-20T20:44:00+00:00",
-"seen": "2026-10-21T04:22:34+00:00",
-"status": "unverified headline"
-},
-{
-"id": "aeaa448f66c5",
-"t": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
-"u": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
-"o": "TechCrunch",
-"lane": "news",
-"at": "2026-10-20T20:35:10+00:00",
-"seen": "2026-10-20T21:14:32+00:00",
 "status": "unverified headline"
 }
 ]
