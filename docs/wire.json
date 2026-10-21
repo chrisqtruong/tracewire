@@ -1,8 +1,130 @@
 {
 "name": "Tracewire",
-"updated": "2026-10-21T09:29:00+00:00",
+"updated": "2026-10-21T14:36:52+00:00",
 "note": "Unverified headlines collected automatically from public feeds. Not checked by Tracewire. Verified items appear in the Feed.",
 "items": [
+{
+"id": "4cc9bb7a0406",
+"t": "Most Americans give a thumbs down to AI and how Trump is handling it - The Washington Post",
+"u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNd3J3MVVaTHZsMmxRYVpfTEZOcWZaV0dDUmwwdUVzX0pZeERJOVNPUGtmdW5BTlY2NE4wY1lVVENZemVFdWJ1MFdWcTZrSF9tWll3aUtvOEhFUW5EcUg2S0g3VzRWZmQxblhsSl9pSTdKMUlydmVDdm52cjAtcGZqM3VvY1hiQmpkUkRBdkZrS0VuRzE1Y0p5d0ZVTzh5Tkc0Z3BBYnhyVnBPYUl0Y2wtLW1n?oc=5",
+"o": "The Washington Post",
+"via": "Google News: washingtonpost.com/technology",
+"lane": "search",
+"at": "2026-10-21T14:04:24+00:00",
+"seen": "2026-10-21T14:36:52+00:00",
+"status": "unverified headline"
+},
+{
+"id": "eed2a5e7fe9f",
+"t": "Water harvesting firm Aquaria launches pilot for modular onsite water supply system for data center sector",
+"u": "https://www.datacenterdynamics.com/en/news/water-harvesting-firm-aquaria-launches-pilot-for-modular-onsite-water-supply-system-for-data-center-sector/",
+"o": "DatacenterDynamics",
+"lane": "news",
+"at": "2026-10-21T14:00:08+00:00",
+"seen": "2026-10-21T14:36:52+00:00",
+"status": "unverified headline"
+},
+{
+"id": "69f63b59d03a",
+"t": "AI Guardrails Aren’t Stopping Criminal Hackers",
+"u": "https://www.wired.com/story/ai-guardrails-arent-stopping-criminal-hackers/",
+"o": "Wired",
+"lane": "news",
+"at": "2026-10-21T14:00:00+00:00",
+"seen": "2026-10-21T14:36:52+00:00",
+"status": "unverified headline"
+},
+{
+"id": "38e6cfcb6002",
+"t": "Chestnuts Roasting on a Data Center",
+"u": "https://www.404media.co/chestnuts-roasting-on-a-data-center/",
+"o": "404 Media",
+"lane": "news",
+"at": "2026-10-21T13:56:25+00:00",
+"seen": "2026-10-21T14:36:52+00:00",
+"status": "unverified headline"
+},
+{
+"id": "e4d9e40076b6",
+"t": "The Chestnut Grove Caught in the Middle of A Years-Long Data Center Fight",
+"u": "https://www.404media.co/west-virginia-american-chestnut-trees-data-center/",
+"o": "404 Media",
+"lane": "news",
+"at": "2026-10-21T13:31:16+00:00",
+"seen": "2026-10-21T14:36:52+00:00",
+"status": "unverified headline"
+},
+{
+"id": "afc6b01d70af",
+"t": "Amazon withdraws application for data center campus at GWU site in Ashburn, Virginia",
+"u": "https://www.datacenterdynamics.com/en/news/amazon-withdraws-application-for-data-center-campus-at-gwu-site-in-ashburn-virginia/",
+"o": "DatacenterDynamics",
+"lane": "news",
+"at": "2026-10-21T13:26:00+00:00",
+"seen": "2026-10-21T14:36:52+00:00",
+"status": "unverified headline"
+},
+{
+"id": "f39eae396270",
+"t": "European Commission accuses KKR of misleading EU regulators over €22bn Italian NetCo deal",
+"u": "https://www.datacenterdynamics.com/en/news/virgin-media-o2/",
+"o": "DatacenterDynamics",
+"lane": "news",
+"at": "2026-10-21T13:14:53+00:00",
+"seen": "2026-10-21T14:36:52+00:00",
+"status": "unverified headline"
+},
+{
+"id": "dc96c2d4cca6",
+"t": "AI is getting better at hacking power and water systems, new research shows",
+"u": "https://www.axios.com/2026/10/21/ai-hacking-cybersecurity-water-power-grid",
+"o": "Axios",
+"lane": "news",
+"at": "2026-10-21T12:00:07+00:00",
+"seen": "2026-10-21T14:36:52+00:00",
+"status": "unverified headline"
+},
+{
+"id": "80734ee8abb6",
+"t": "Poland says social media firms are 'silent ally' of Russia, threatens fines - Reuters",
+"u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcnFXRkhzdXVEeUFpUWlwbFJ5NUU3OWgyVkFya2VOeFVsM1ZVTnhMX2ZXc0J3a3daNEI1d3ZOSVhoUzFOMWIxQzU2cVRtbUhJOVlaV04tTHZsQklmT0xwYVZTU09rU0ViRlotSXA1dDJDU0ZGd2pPWHFtV2pvTEZUS2hqUjBiZHRaMVVLZzIwdENGbEsyZlR0T0dWX0RDVVVGU1JvenJwUnZyUWVZU284ejk0emI1SkE?oc=5",
+"o": "Reuters",
+"via": "Google News: reuters.com/technology",
+"lane": "search",
+"at": "2026-10-21T11:13:44+00:00",
+"seen": "2026-10-21T14:36:52+00:00",
+"status": "unverified headline"
+},
+{
+"id": "709d3c9e2a41",
+"t": "President Trump: Data center firms should offer local residents dividends to get communities on-side",
+"u": "https://www.datacenterdynamics.com/en/news/president-trump-data-center-firms-should-offer-local-residents-dividends-to-get-communities-on-side/",
+"o": "DatacenterDynamics",
+"lane": "news",
+"at": "2026-10-21T10:42:29+00:00",
+"seen": "2026-10-21T14:36:52+00:00",
+"status": "unverified headline"
+},
+{
+"id": "a99726601574",
+"t": "Hitachi Energy teams up with Ansaldo to develop integrated power solutions for data center sector and grid",
+"u": "https://www.datacenterdynamics.com/en/news/hitachi-energy-teams-up-with-ansaldo-to-develop-integrated-power-solutions-for-data-center-sector-and-grid/",
+"o": "DatacenterDynamics",
+"lane": "news",
+"at": "2026-10-21T10:35:52+00:00",
+"seen": "2026-10-21T14:36:52+00:00",
+"status": "unverified headline"
+},
+{
+"id": "7eff0b7f2d7e",
+"t": "Nvidia launches DSX POD, claims the Vera-Rubin reference architecture will make AI data centers more water and energy efficient",
+"u": "https://www.datacenterdynamics.com/en/news/nvidia-launches-dsx-pod-claims-the-vera-rubin-reference-architecture-will-make-ai-data-centers-more-water-and-energy-efficient/",
+"o": "DatacenterDynamics",
+"lane": "news",
+"at": "2026-10-21T09:39:00+00:00",
+"seen": "2026-10-21T14:36:52+00:00",
+"status": "unverified headline"
+},
 {
 "id": "fed268ff2ada",
 "t": "Microsoft Drops UK AI Data Center Project Over Power Shortages - Windows Report",
@@ -56,6 +178,16 @@
 "lane": "search",
 "at": "2026-10-21T09:02:26+00:00",
 "seen": "2026-10-21T09:29:00+00:00",
+"status": "unverified headline"
+},
+{
+"id": "db4748789cff",
+"t": "Transcript: The Weird State-Level Races That Matter for Climate Change",
+"u": "https://heatmap.news/shift-key-157-caroline-spears-transcript",
+"o": "Heatmap",
+"lane": "news",
+"at": "2026-10-21T09:00:05+00:00",
+"seen": "2026-10-21T14:36:52+00:00",
 "status": "unverified headline"
 },
 {
@@ -1283,6 +1415,16 @@
 "status": "unverified headline"
 },
 {
+"id": "70f6eb496e9a",
+"t": "Grant Guideline; Notice",
+"u": "https://www.federalregister.gov/documents/2026/10/21/2026-21505/grant-guideline-notice",
+"o": "Federal Register",
+"lane": "agency",
+"at": "2026-10-21T00:00:00+00:00",
+"seen": "2026-10-21T14:36:52+00:00",
+"status": "unverified headline"
+},
+{
 "id": "c6dae012c214",
 "t": "4 Georgia families sue Meta, claim data center construction contaminated well water - WSB-TV",
 "u": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNQXdnY0ZqemlEb1NOWUVWcWtiby1RYVpGaXBqenRSZW5BdWdJS3JGSldzQ2FaYkJOcS1Pa0dISmZ3R1NoWUlrQXR6X291MXBSOVU2cW9tTE5HVGhtdV9pTVM0ZktfQjZEekJXbVR0amNtbVJHdTRkajNWZVFteG8zSDJxd3d3UHlNdTdaRVgzYjZSS253Y3NmZEZnQjJZWXFVM1JaR3Nnek01QUZSTmpEVjNxUjh0YVd2ZEVkUjMxeXNucjQ5YlM4elZZa3lEWE5FLXYwMm4xUGd6U2tpbGl6U2wwU01hVUo0cUVOS0JOVHN4dw?oc=5",
@@ -2032,159 +2174,6 @@
 "lane": "news",
 "at": "2026-10-20T20:35:10+00:00",
 "seen": "2026-10-20T21:14:32+00:00",
-"status": "unverified headline"
-},
-{
-"id": "c3a15902ee0d",
-"t": "Divide reviews data center zoning rules after tour - www.journalnd.com",
-"u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZWZfWVgwM3c4bUxsdkRxYnhwcC1Ydm9IQVozVU1vdXFTTlNKTlF2NmhaVTkyVGRiQ1VVSkZiUFh0dFNOMklXb1BYZFlESzJhVVFhaElwNldzeEtxUHZKRGFSSHdsZmdNOTVkYjZnTTVZMENLQWdzRmZDazFZTGsyMWMyNW1mT0NZeGRES0YyeUdqM3ctb05CNlU4SWw3TUpj?oc=5",
-"o": "www.journalnd.com",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-10-20T20:34:15+00:00",
-"seen": "2026-10-21T04:22:34+00:00",
-"status": "unverified headline"
-},
-{
-"id": "ac7eb826e99e",
-"t": "Spanberger Wants a Six-Year Rate Freeze. Her Merger Terms Push Clean Energy, Too - Energy News Beat",
-"u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdW9CX3BqMDlYU0V4eE5jZ255UUtHWW81VVMxNEdPVXRWVGxFWjN0YTltS01YRFRkTzFNanJLUXZZaFdDS21MNlBKRjIzZTl1TmJDbzl5Tkt3LXcwNkVYbndaMkNJdzBZZ1BLc3FIb1BMa052RHp2eHJtVS1YTGZiSUN6RzVVVlRmcFNWUjdVSUJKSEt4b1ItRFZYT1VzdjY2dnlyR1lDVHBRQTNOcEREd0gzSks?oc=5",
-"o": "Energy News Beat",
-"via": "Google News: dc-utility",
-"lane": "search",
-"at": "2026-10-20T20:23:25+00:00",
-"seen": "2026-10-21T04:22:34+00:00",
-"status": "unverified headline"
-},
-{
-"id": "1fb61e7f325b",
-"t": "INVESTOR ACTION NOTICE: Moore Law PLLC Encourages Investors in Innventure, Inc. to Contact Law Firm - TradingView",
-"u": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPaS1va0dJZkpzT0ZqRlFaY2JXMkZhdE9OTFdBMkRpLW1DNUdzZDg1TlBtbFJnMnVkU3RsMDBORzl6OFowd0xOd2R1eFNHQXd5QkQ1XzRDbFZDT1dCcEpIVVBuWGZ5SEcyYTBJZGttbW9SVE91NXRQRVNudzNsVUs5eGpqZmppS2xxd2k0UlNiUUZQbU12TnAwUk5ndUNlN2FjblBXckF2M1d0NUZPX3ltVkhSNXN1V2NQMlREbFltc3oyYkVUX1dDM1E1TThaRERuVHZiOEVDLWJubFNmcktGTFZ4UlE5d0hXMURsbEJ3?oc=5",
-"o": "TradingView",
-"via": "Google News: dc-incent",
-"lane": "search",
-"at": "2026-10-20T20:21:00+00:00",
-"seen": "2026-10-21T04:22:34+00:00",
-"status": "unverified headline"
-},
-{
-"id": "088498d37d3c",
-"t": "ICE kicks off its search for eDiscovery software - Washington Technology",
-"u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUzE1cFR0NVZsc1ZjLWF2LXNEZzEycTdtMkFOQmpMOFlRS29HQ2p0T1E4LXJteHV6aVFFZld5SlFIYXhtRC1KNlNnUHFsZ3NBa3ZwV09HNEFLR0V6RlFHN2x2X3JKeS1qcFdKeHdVOWJObk1XaWtBdHlncmxTaW9oRlVaS0dsYTJFaHJabktYa2huSS1TdVAxXzJRLXpjVlFHVE9VWjdfM1E1b0dFczlRdVpwRHNxWkNBbVFOd001VXZzSUpu?oc=5",
-"o": "Washington Technology",
-"via": "Google News: contracts",
-"lane": "search",
-"at": "2026-10-20T20:19:42+00:00",
-"seen": "2026-10-21T04:22:34+00:00",
-"status": "unverified headline"
-},
-{
-"id": "420f4915a11d",
-"t": "Data center regulations postponed again as Planning Commission reviews UDC amendments - Wyoming Tribune Eagle",
-"u": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOM1NES1BGZy1rOGpqVzBQTlRNRURoRkpCNVB2RG5PWXpHVS1RSy1GUkp5V2t5VHJGX09Zb05KRkxmb2duZnBoSlozbXRJODA2bW5MR2FzMlVFS3VGeWk1Z1hEZ2JpdlpoUTdhMlFoTGVoN0JRVEpUa28wRmpCbDB6XzlLTUNqTmZyWDBpVXowRUZxWklDRTRHd01TODdWb2lyb0JZcWhpN2g3VFo4Sl9SbmhzQlJVZ3NhOV84UDJreVU2LWlMN3RlZ21hSGFuVFYwQnNPRVF3S05iS2o4TzVuMFhseDJUalVYaFZka1VXUG83ZGVsWTA3NHNyalN0NDdmQUVOb1RMV1RsT1k?oc=5",
-"o": "Wyoming Tribune Eagle",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-10-20T20:16:00+00:00",
-"seen": "2026-10-21T04:22:34+00:00",
-"status": "unverified headline"
-},
-{
-"id": "802b0666888d",
-"t": "Dan Lin Out At Netflix; AI Staff In At Disney; Jinko Gotoh To Lead WIA - Cartoon Brew",
-"u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYWhZZTl0d1k4WngzbFNUOWRhVVBVNURHa0NhSU0tMzY2Wk9IdFpRdXlUcll1YXJHeU5fTmNRUS04QXpicUN3Nklod2VYb09BaElRVmNmeHlya0t1d05hZDZzM1loNDVJUGhYZnEtSFBtNVF2Zm1RNlloTVg4dlhrUlJkelhlRklIRm9Ec2JrbGZRcUVEbEJ4TnpaZnRUUGJmQjJMREx1YWVuOFRzUGxmdFk3bTQ2bk9hWXpR?oc=5",
-"o": "Cartoon Brew",
-"via": "Google News: labor",
-"lane": "search",
-"at": "2026-10-20T20:15:17+00:00",
-"seen": "2026-10-21T04:22:34+00:00",
-"status": "unverified headline"
-},
-{
-"id": "00ee1bdd8214",
-"t": "Hermantown Planning and Zoning Commission to review data center permits Tuesday night - Northern News Now",
-"u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRmh5bjFYMlV3SDVCTUtiMmExUC1rbUktZ0RSb3k5WGtzdkh4a1BUYjNJbEhGT3VuMmZvWTZQV2pIckJXVm1vZ2VHaDk3QzloR1BJZGsyUk5yeGJtQld5eG1McWhXTjZJNjNDQmoyZVFlZlh5b08yWjhNSGJBOEViRWkta3hTUkhZbUtzWWFFV013dHZ2UzJpdGdFcmRQNThLSUpYQTVIaHFTQTdReGJ2dVh3TUxmWHhLZmJ5LTVXMNIB0wFBVV95cUxQWTEzUlgtdy1sQURqX2lzUTFVbDNod1g0cVc3LWM0RkFVVWU1cF8yUnlDYVFxdzBzY2Q2cDBJbjBWZkVfc2VqWnR3OElEMUNOblVocVBQaXRBaTBxUFR0RWROM3Y0Y0xPeGZ1azRib0RtMmJJNS1GVTRRUkNEbGNtcnc0cEpVUEplSmdTYVdvMGtrN1FuRDNlUG5RQWhiN2cza1FsRFhNaEJZUmR2eElueXhFazh3Qmo1VFc1MUtzZVdFVjc0bThGazNPRkZSYTh3cWFN?oc=5",
-"o": "Northern News Now",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-10-20T20:14:00+00:00",
-"seen": "2026-10-21T04:22:34+00:00",
-"status": "unverified headline"
-},
-{
-"id": "146a3b4ffeb2",
-"t": "City of Littleton considers six month moratorium on data centers - Denver7",
-"u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOOUlNRmthcmNiX0V0R0xPQWY5Rm9QOEtVbnl1M3EwYjNFTU1qWFlqNUNkbmNkVUFoMlZGbmJfMzNWRFVCTklRaUZ6Nk5Qc0ZJUlg5Z3NBeTFEdlBhNVdKR1htWkw5RkZFMElWQ2dQUXg2amZGTk9FbXh6ZHRROVRIQmZvYlJ6VHIzYklZMGQ2RG1TWVVrbGRHQkVjaGpoa214bG5RV1VmMVVjc0Q0UG92N0hZRTdESVhvZTAxRmhXbnk1SFJXNXNWQ2M4MEY5U0U?oc=5",
-"o": "Denver7",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-10-20T20:13:37+00:00",
-"seen": "2026-10-21T04:22:34+00:00",
-"status": "unverified headline"
-},
-{
-"id": "4203290a90a8",
-"t": "Musk says SpaceX-Tesla merger is 'a good idea' as companies form deal committees - Reuters",
-"u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONHZoMzBtaGg1TmlMN19NRUEzM1lOZkpYb1ZXeWlLTnR4SkxObm1xbDBlN0RsQ2huaHBCMzRxU0VLb3ZPSS1ZeEdhampNY3VNclpoU2xGOWpoQjNfVzVDTHpqOVVRd0pZcVY3eGlpVkxjWTRrMGh4aWtCbVJVVnZ1Nnd1RkU1dFNtcUZCUnVxX1pRWXRTd09QUnpodWJSeEhpS3BKcmxsQkM1aFA1eExGSkNMMVIteV93OXZWa0Q2Vl9yUQ?oc=5",
-"o": "Reuters",
-"via": "Google News: ai-deals",
-"lane": "search",
-"at": "2026-10-20T20:08:00+00:00",
-"seen": "2026-10-21T04:22:34+00:00",
-"status": "unverified headline"
-},
-{
-"id": "a054bcdb2791",
-"t": "Meta drops the word \"train\" from its commercial TOS after AI backlash",
-"u": "https://arstechnica.com/tech-policy/2026/10/meta-drops-the-word-train-from-its-commercial-tos-after-ai-backlash/",
-"o": "Ars Technica",
-"lane": "news",
-"at": "2026-10-20T20:07:58+00:00",
-"seen": "2026-10-20T23:57:13+00:00",
-"status": "unverified headline"
-},
-{
-"id": "320b151c3c79",
-"t": "New Braunfels Council moves forward with draft zoning ordinance to regulate data centers - Herald-Zeitung",
-"u": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPRnRlTURtckIta2QxbWs1MW52TUFUSHdPdHRiMVVvQWtyc0FleEpQNXBJdjg1MUJxTkpTUEN2QnRrYUFVR1lIa2tzWGlsRkEwOVpETE41WTRIRVB3TW9hOVAwSlMyZ3FuWDNidUNiQ1RpX2JJbnloODgwN2wybnUwUkJCNjBNX3h1SUtXT0ZFbkJ6T2xmRkVYRXlBSVd5ekZlaktxdGhHTTBNZUpxb2lnbGktOFpkaGszeVh0UVNUVkJNdzFQaDFCMl8wVkdhZE53Q241RGFUaUM5SEVOVTJNU2IzNWNFOGhJUjhDMWs2Ul84V3hycjdjbkVfV1l4Unc?oc=5",
-"o": "Herald-Zeitung",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-10-20T20:06:00+00:00",
-"seen": "2026-10-21T04:22:34+00:00",
-"status": "unverified headline"
-},
-{
-"id": "ee9f50a99e0e",
-"t": "Boone approves site plan for two 125,000-square-foot data centers - The Ames Tribune",
-"u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOWlRSbmRseHVhTElnSlRuWXFzMjFTb2V3RWZ0TVFEV3NxRUtnVXVfU1VkbndaX3VlWUdDcVNXazVPWWRmbE03LUlyS3ZJTkc0ZkFkWWMwQ3lEQjd4VDJacDFrOHZva2hpN1VmNVQtV1dBU3NlMWZNYmxMY0loZGlUajlHWlAyOUxsQ0pyUGZkdWo5eGwwXzBldk9nWG1weWN1RTVlSGdCX19OY3R3YzhVRlNtSXpaUk5RZlppMjZBLTBLa3pVeXJyWjktVm5JMUNyc1JZRmZ0WVhuZw?oc=5",
-"o": "The Ames Tribune",
-"via": "Google News: dc-incent",
-"lane": "search",
-"at": "2026-10-20T20:01:00+00:00",
-"seen": "2026-10-21T04:22:34+00:00",
-"status": "unverified headline"
-},
-{
-"id": "5d674a4ecf88",
-"t": "East Lyme zoning commission bans data centers - WFSB",
-"u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNWYxcDB4cXBNajF6a3VEMFZfWks4dUFiNm5ETmdXdE9oRGJsSEJfTjdEdGllcWhtalQ5a2EzQ0lPMGltcXloUWpxc2ZTUWtqUjBfZl9fbDQzb2NIMDUxYkxjTFdFWWRqSUd3YW4zeHBiWjlwd05lMW1FUm5sWkJBckZHb2s?oc=5",
-"o": "WFSB",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-10-20T19:57:00+00:00",
-"seen": "2026-10-21T04:22:34+00:00",
-"status": "unverified headline"
-},
-{
-"id": "20ec3b7c7445",
-"t": "DoD Contractor Fights $5M Demand Over Forgiven PPP Loan - Law360",
-"u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVnR2NjRmVi1xMHB6UEREX1gtTVJHZGNYeFJ5c1kzVUd6djlxNXpxTkJCZEJjdFRBdTZKMWNCOWFQTS1uY2ZrdUM4NU1SbndqbXREREZuMFJ2SktDa1VsSzZMQ2ZLMzh6RzFhVF96bXplZmJRanMtWjRkLXFCa3Q0YTJrbmE4am1uZkpBVkRqVm1kcTRCWkJZYXBiY2p4UlljNHF4SzdZUdIBVkFVX3lxTE92LW1kZWR3eURFS05TZkNmY19tUVBxdGo2cUNkMUFyOGplSjdoN19KYllIX0drMGdjcXYxQXg5MzlLblZrbng3Q3hfTUlWdFFTeDMtblRR?oc=5",
-"o": "Law360",
-"via": "Google News: contracts",
-"lane": "search",
-"at": "2026-10-20T19:55:52+00:00",
-"seen": "2026-10-21T04:22:34+00:00",
 "status": "unverified headline"
 }
 ]
