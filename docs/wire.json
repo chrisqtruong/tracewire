@@ -1,8 +1,119 @@
 {
 "name": "Tracewire",
-"updated": "2026-10-22T19:25:58+00:00",
+"updated": "2026-10-22T22:38:33+00:00",
 "note": "Unverified headlines collected automatically from public feeds. Not checked by Tracewire. Verified items appear in the Feed.",
 "items": [
+{
+"id": "7d6a3554c2c3",
+"t": "FCC To Hold Open Commission Meeting Thursday, October 29, 2026",
+"u": "https://www.fcc.gov/edoc/426131",
+"o": "FCC",
+"lane": "agency",
+"at": "2026-10-22T22:38:33+00:00",
+"seen": "2026-10-22T22:38:33+00:00",
+"status": "unverified headline"
+},
+{
+"id": "9cc953d3eea9",
+"t": "Meta’s deal to keep Zuckerberg in California adds fuel to wealth tax debate ahead of election",
+"u": "https://www.cnbc.com/2026/10/22/meta-mark-zuckerberg-california-billionaire-tax.html",
+"o": "CNBC",
+"lane": "news",
+"at": "2026-10-22T22:21:08+00:00",
+"seen": "2026-10-22T22:38:33+00:00",
+"status": "unverified headline"
+},
+{
+"id": "d54138f3099c",
+"t": "‘Just the beginning’: New Mexico AG warns AI industry after $25B Meta ruling",
+"u": "https://www.politico.com/news/2026/10/22/just-the-beginning-new-mexico-ag-warns-ai-industry-after-25b-meta-ruling-01133294",
+"o": "Politico",
+"lane": "news",
+"at": "2026-10-22T22:14:54+00:00",
+"seen": "2026-10-22T22:38:33+00:00",
+"status": "unverified headline"
+},
+{
+"id": "22abd3e4334d",
+"t": "Canadians Are Running Out Of Time To Oppose The Dangerous C-22 Surveillance Bill",
+"u": "https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill",
+"o": "EFF",
+"lane": "news",
+"at": "2026-10-22T22:10:21+00:00",
+"seen": "2026-10-22T22:38:33+00:00",
+"status": "unverified headline"
+},
+{
+"id": "6372ebaa66c8",
+"t": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+"u": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+"o": "TechCrunch",
+"lane": "news",
+"at": "2026-10-22T22:08:24+00:00",
+"seen": "2026-10-22T22:38:33+00:00",
+"status": "unverified headline"
+},
+{
+"id": "7b297eca3d9c",
+"t": "Five ways to keep safe online in the wake of AI-supercharged hacking - Reuters",
+"u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSHRlcmF2d1RiRG56QzU3azZ0QnNaU0twQ3luRE90U0hsMUhfbGd1N1B2Y29INEt4SHR4NTltNW5EeHQzUHAwUU93YzhMTEt5Ym1VYl9sR1N3SzFiX3htQkFmMkZrTEx5ZTd6b1ZvZkZOQy1OUDYzenhzaktzVHBsWElFRzZIMlY4MEhubUhHemoxdnN2LVpiQ2ltU0dRSVJfd2hRTw?oc=5",
+"o": "Reuters",
+"via": "Google News: reuters.com/technology",
+"lane": "search",
+"at": "2026-10-22T21:58:37+00:00",
+"seen": "2026-10-22T22:38:33+00:00",
+"status": "unverified headline"
+},
+{
+"id": "835262019fa4",
+"t": "OpenAI nears up to $30 billion funding round at $1.25 trillion valuation led by UAE investors",
+"u": "https://www.cnbc.com/2026/10/22/openai-funding-round-uae-investors.html",
+"o": "CNBC",
+"lane": "news",
+"at": "2026-10-22T20:41:37+00:00",
+"seen": "2026-10-22T22:38:33+00:00",
+"status": "unverified headline"
+},
+{
+"id": "29a87826b845",
+"t": "Meta’s AI could still scrape news sites, legal experts say",
+"u": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
+"o": "The Verge",
+"lane": "news",
+"at": "2026-10-22T20:32:05+00:00",
+"seen": "2026-10-22T22:38:33+00:00",
+"status": "unverified headline"
+},
+{
+"id": "6c32ed80e666",
+"t": "Portal Texas Used to ‘Rubber Stamp’ Data Centers Down After 404 Media Reporting",
+"u": "https://www.404media.co/texas-commission-on-environmental-quality-portal-down/",
+"o": "404 Media",
+"lane": "news",
+"at": "2026-10-22T20:26:43+00:00",
+"seen": "2026-10-22T22:38:33+00:00",
+"status": "unverified headline"
+},
+{
+"id": "ef15a766aba1",
+"t": "The FCC is beginning to block gadgets with ‘foreign surveillance chips’",
+"u": "https://www.theverge.com/policy/1017016/fcc-block-foreign-surveillance-chips-hivision-huawei-loophole",
+"o": "The Verge",
+"lane": "news",
+"at": "2026-10-22T20:23:48+00:00",
+"seen": "2026-10-22T22:38:33+00:00",
+"status": "unverified headline"
+},
+{
+"id": "c96fc93b88ff",
+"t": "Judge wants California social media addiction cases to move forward despite appeal",
+"u": "https://www.courthousenews.com/judge-wants-california-social-media-addiction-cases-to-move-forward-despite-appeal/",
+"o": "Courthouse News Service",
+"lane": "news",
+"at": "2026-10-22T19:47:31+00:00",
+"seen": "2026-10-22T22:38:33+00:00",
+"status": "unverified headline"
+},
 {
 "id": "e73512b64636",
 "t": "FCC Blocks Two Devices Containing Foreign Surveillance Chips",
@@ -2050,126 +2161,6 @@
 "via": "Google News: contracts",
 "lane": "search",
 "at": "2026-10-22T07:00:00+00:00",
-"seen": "2026-10-22T10:27:19+00:00",
-"status": "unverified headline"
-},
-{
-"id": "6b54875bfcc3",
-"t": "DeepMind Researchers Quit Google Over Military A.I. Deals - www.trendingtopics.eu",
-"u": "https://news.google.com/rss/articles/CBMie0FVX3lxTE50WUlLNjN1bG42ZHpXRVJpaHljbzhFMVBiZUNTY2VzalJzaVd4M0owT1k0NzlqU0FNU21ELTctM190Y01hc3ZOTHBLQUNSQzdlbEF5NC0zWExKbFdxWFl5dXdoSjVhZE9uM1ZLYWV5T2RmQkFQN2NGaVFoMA?oc=5",
-"o": "www.trendingtopics.eu",
-"via": "Google News: contracts",
-"lane": "search",
-"at": "2026-10-22T06:32:45+00:00",
-"seen": "2026-10-22T10:27:19+00:00",
-"status": "unverified headline"
-},
-{
-"id": "d15dfe8e522e",
-"t": "In Ohio’s U.S. Senate race, GOP-connected group now spending $1.8M to support socialist - NBC4 WCMH-TV",
-"u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQ210ZFU3Qm9EOWJjOFdxN2VJczN0QWpwYVc3RkN3c0dTVGRKZU9jS292SVVMUlkwcmNNZnNJLVl6RUhpU2NNcmQ2dER1UG04ZHJxRWNWaURpb1F5UUYtYi1Cekw1LS1uZ3JsVmtxVlYwV2l6ZFgyQlgxUklDam1kdENYT3YyU2tHUUNwTU51cjlZamdKeTlVZERDSFpJbE95djh6Z1F1bFp0Wks5MmFZNUMzNm9sM0RydXl3ZEF0SDIzSjFabnZ2WGlkdXNleHE5UXNYQdIB1AFBVV95cUxNQ210ZFU3Qm9EOWJjOFdxN2VJczN0QWpwYVc3RkN3c0dTVGRKZU9jS292SVVMUlkwcmNNZnNJLVl6RUhpU2NNcmQ2dER1UG04ZHJxRWNWaURpb1F5UUYtYi1Cekw1LS1uZ3JsVmtxVlYwV2l6ZFgyQlgxUklDam1kdENYT3YyU2tHUUNwTU51cjlZamdKeTlVZERDSFpJbE95djh6Z1F1bFp0Wks5MmFZNUMzNm9sM0RydXl3ZEF0SDIzSjFabnZ2WGlkdXNleHE5UXNYQQ?oc=5",
-"o": "NBC4 WCMH-TV",
-"via": "Google News: money",
-"lane": "search",
-"at": "2026-10-22T06:30:00+00:00",
-"seen": "2026-10-22T19:25:58+00:00",
-"status": "unverified headline"
-},
-{
-"id": "7d4b137f68e6",
-"t": "Tech giant Meta to pay historic $25bn fine in data privacy case - Irish Independent",
-"u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOVoyYUNwdEs3cGRVTDQwdVVFQ0VHMUZKb2NjU2dFbVgtZ3JQTFlaY09yQlNpOEpFNzAtQ2RVMGlTVTZtN1J6MFdYUUFraFdMWkJfaVJTel9nYmNkcXZkTDUyMkxsTFNIVm0tNjhQanR4YlEtX3ZnZlkzd0ZxbndIcWI4ZVBUTHY2b2RtenVRa0l4UVlqak5nQVRwRXVndm41cWU0bTBvSmNMSGltalJXdzlMWTlRY3ZH?oc=5",
-"o": "Irish Independent",
-"via": "Google News: privacy",
-"lane": "search",
-"at": "2026-10-22T06:30:00+00:00",
-"seen": "2026-10-22T10:27:19+00:00",
-"status": "unverified headline"
-},
-{
-"id": "daecd6e8733b",
-"t": "LSEG to buy Octus in $3.5 billion deal to shield from AI disruption - Reuters",
-"u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYlhBWjdBekVLajlGM3MwN1ZnWjRRMGR5OWxkalNveEVuNEJrUTBVOFBNM0x1dENhckFRUzFzMnh6VHVJd2dHMXFLa1ZGdkU4Qk1hUTRuYU9MRGJmcnJXNjRnOWEzdW83cktMemxLYUdyX0F5bTJfSTZFOU1wclRsWlkwRkdodHBEeG1qVW5GUFRsVXBsV05ScEdjbTJHNDg?oc=5",
-"o": "Reuters",
-"via": "Google News: ai-deals",
-"lane": "search",
-"at": "2026-10-22T06:05:00+00:00",
-"seen": "2026-10-22T19:25:58+00:00",
-"status": "unverified headline"
-},
-{
-"id": "b075a2d64528",
-"t": "The Techlash Is Coming - Liberal Currents",
-"u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1PVko4c0d3MmpFb3lDQWJrSC14ZEh5RGdQMXFGTFBEUnFTczlzY2hGWEtUOWgyd2d3YzIxNWlVZ09UV21GVWdHdlpGc3ZVVUIxdGxWNUhhQlZqNTU0YVZtcG5WdTZHZw?oc=5",
-"o": "Liberal Currents",
-"via": "Google News: antitrust",
-"lane": "search",
-"at": "2026-10-22T06:04:13+00:00",
-"seen": "2026-10-22T10:27:19+00:00",
-"status": "unverified headline"
-},
-{
-"id": "d9268fa073ba",
-"t": "Apple must open iOS to rival app stores, payments in Australia, judge rules (update*) - MLex",
-"u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQaGFYYVdjVWNMZUNfOU8yYVZ6QmVPdTF0OXp4ckFCdGdIcDhvNmtnOWxIQVY1czRiZFRXU1pIdFhURjB6bElBbzRfRkJuS1lOOEFLWVhhTXZsemFraW5nZkVRSUZjdUp3N0JVNXpZYU5vbU5hdHJ0OW94VGdfYkk2cXMzdU93bXFwVDFrc09hMEk2QkVDajVWS2tVZ1hjZVRia1ZGTWFhRS1yUkh5TVpRUVloMTk0cWZzOWFWOTNBUFV3anhxUFVuRzdnZUtjOVXSAVpBVV95cUxNNGYydU9hVWVkRi1POHhlY0pXTDU0Sm1OWnJoZUozWFdNeVlmYlJETGp6Q2kxNHlQY0xkcTZxX29aa0d3VVdpSkl4YjI1SWZIYkpzTFZKMldzM2c?oc=5",
-"o": "MLex",
-"via": "Google News: antitrust",
-"lane": "search",
-"at": "2026-10-22T05:33:35+00:00",
-"seen": "2026-10-22T10:27:19+00:00",
-"status": "unverified headline"
-},
-{
-"id": "949445933f2b",
-"t": "Trump's MAGA Inc unleashes US$277 million last-ditch effort to save Republicans in key US races - Awani International",
-"u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSDhvdEM4X2pnN09CRXVaeGh4aTVYbDJENUJoVnRhc01vT2hDd19QV0REanBod0VZU2pKR0duNi1MR1VmVHNPbDhFRTRwaFo2dkFST0taX2NvdUN4Vm1TSjVEUG1IZTByckJDX0lsbkk3dUNuQjdlSVRYdi1mUFM0Qi10b3lKcm9Ea0xBUEhYRHMwM3ZZVHdWeUxrSUs1YW1uZldfYW90Zk01NURwcTRfNHpTQ3NVQWFodGs0NG9VN0JlenFTZXY5WmF5dVB0MWVQUFh5OA?oc=5",
-"o": "Awani International",
-"via": "Google News: money",
-"lane": "search",
-"at": "2026-10-22T05:33:26+00:00",
-"seen": "2026-10-22T10:27:19+00:00",
-"status": "unverified headline"
-},
-{
-"id": "fda4cc97f8c1",
-"t": "His ice formation research was cited by the Nobel Committee in 2024; Princeton PhD graduate Jack Weiss ap - The Times of India",
-"u": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxNZEVaQmZ1bWNMcG43UG1TU0gyUWtNNlhFc1pnYkoydk41elE3WHR5RFMtbDF4U2drVmxnSzhkQTVzWklUSkhNbmtFUlFNXy1UUlpaSW05Z2h5cXktTTJCbUtFQTgzdTh6enlZbmZEQWZhYVhoZkx4cDhiY2VnZkROenBGaHVQemRZeXRQWmlMTFNVcTQ1YW9zcGdPQ204UzlEUnBSb01mSERCWWZMV2RYMzlPVXJsZV9nS09oeFQyR01jdk9uSkhZam1tQXk1OXB3TXUwOXlVZHoxbTQ2Mm52WFBXRnNlZGctZVRXSFJZbFRMVnMydDFFZkhsVG55VVhELVlIUnFMS2NVSEZlN0oxQnIwdFRweHl1NF9jVWRMMEk5cHpKa1JKZ0FCbTlMN1Q3c20wcFA5dzRkSGs0eEdjeU5CQkd1ZGVMS0xDeThHTE9UeWNLOWNRTjljWG9UOXYtTWfSAecCQVVfeXFMT1NYblcyVERDQzVPM01rS1AxX2pfeldNbEhCZlR2SzhpeEtqdzVsRnhtMTl4djItQkh0bGZUZmozTDZmR2JTTzNVbjNub1Zkai1tb3hnQ3lkVF9lTldMOW9SXzFuU2VOdE1GTjRwWFp1bEJGcHRreWF2aWp6TTFleGluaXFFTmtfWjdwZzlPWTI5dlVXbHBBdHhKYW41R1d0cjZkVVhqMUJEZWI1MF9nNHhqMVF0Y2xNdmRLRUlYeTAycktrTkRKV19pbG1aSlhXWDAtajNPTWt2bXNMUlBjMGRIYW5CQXhJYWY0X1JpUTZTZ2ZSLXRDczBBYW5TQ1lNcHlLcEZnaGxrV1kyYnp1VTBPaGNlN1hBek5UdFRNQUMwZjVaR1dVZVpxUVVaajBXbEIxNkRYbUFRSzZJSHZsRmxKaUtyeWVycFo3S0VRTl9ZbGl0SE04d2RDSXl2X184ME4tRjZzaVU?oc=5",
-"o": "The Times of India",
-"via": "Google News: contracts",
-"lane": "search",
-"at": "2026-10-22T05:23:00+00:00",
-"seen": "2026-10-22T10:27:19+00:00",
-"status": "unverified headline"
-},
-{
-"id": "cd78e4bd2501",
-"t": "Apple ordered to open iPhone to third-party app stores in Australia - news.lavx.hu",
-"u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWmNKNkdiN0lEQWpaSjhXUk4zSlJUMEdRbTJwVGtta2ZCbU5MUVZ0ekNqTUpWLXBvbDJqYjBQU3U1V293SC1rRUNKMUYzVl81MWJ0cjlxcWVVOVBiQWhPOTdUR3FRRElma2VXZWpGa0ljM2twN04wYS11ZXZSX040cWJldFRXWlFRdk9TM3pMcWZKcWJWV2xycXVIQWk?oc=5",
-"o": "news.lavx.hu",
-"via": "Google News: antitrust",
-"lane": "search",
-"at": "2026-10-22T05:07:26+00:00",
-"seen": "2026-10-22T10:27:19+00:00",
-"status": "unverified headline"
-},
-{
-"id": "45978161846b",
-"t": "AI firms say UK has a year to head off datacentre protests before construction is threatened",
-"u": "https://www.theguardian.com/uk-news/2026/oct/22/ai-firms-say-uk-has-a-year-to-head-off-datacentre-protests-before-construction-is-threatened",
-"o": "The Guardian",
-"lane": "news",
-"at": "2026-10-22T05:00:08+00:00",
-"seen": "2026-10-22T05:24:52+00:00",
-"status": "unverified headline"
-},
-{
-"id": "dccf575834a2",
-"t": "DS Council holds first reading on data center moratorium and more - The Messenger",
-"u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNY1dIaXNKM1BlMU5fVmNwN0tnM081ZmFyR3doeEdpbndjN1NLeEFTcDNORnNYTW54LWFmUjdpM3FwSDdGSGZwQ3Zta0V5cVJyaDJwWTRxR3IxcDJLUXRJU2tPb0xqMFFRNjNSV2Z6RDRTYkxWSDFYWHh1MkhQMDlqRTlRdHFfOEJtNVFUR0cteU1MeFgxQWYzak8yRzhpOVloSDhIY1hrVmFBV2Jk?oc=5",
-"o": "The Messenger",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-10-22T05:00:00+00:00",
 "seen": "2026-10-22T10:27:19+00:00",
 "status": "unverified headline"
 }
