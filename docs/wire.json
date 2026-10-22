@@ -1,8 +1,129 @@
 {
 "name": "Tracewire",
-"updated": "2026-10-22T10:27:19+00:00",
+"updated": "2026-10-22T15:31:45+00:00",
 "note": "Unverified headlines collected automatically from public feeds. Not checked by Tracewire. Verified items appear in the Feed.",
 "items": [
+{
+"id": "013ae7cc0c1e",
+"t": "Fusion startup Helion is developing new semiconductors that could double output of its power plants",
+"u": "https://techcrunch.com/2026/10/22/fusion-startup-helion-is-developing-new-semiconductors-that-could-double-output-of-its-power-plants/",
+"o": "TechCrunch",
+"lane": "news",
+"at": "2026-10-22T14:59:28+00:00",
+"seen": "2026-10-22T15:31:45+00:00",
+"status": "unverified headline"
+},
+{
+"id": "24fe5ab62d36",
+"t": "AI Is Changing Everything About Hacking. No One Knows What Happens Next",
+"u": "https://www.404media.co/php2shell-black-october-ai-is-changing-everything-about-hacking-no-one-knows-what-happens-next/",
+"o": "404 Media",
+"lane": "news",
+"at": "2026-10-22T14:23:36+00:00",
+"seen": "2026-10-22T15:31:45+00:00",
+"status": "unverified headline"
+},
+{
+"id": "12686626013b",
+"t": "Bill Gates says to prepare for 20 years of ‘tumultuous’ AI disruption",
+"u": "https://www.theverge.com/podcast/1015408/bill-gates-ai-interview-microsoft-openai-anthropic-risk-policy-regulation",
+"o": "The Verge",
+"lane": "news",
+"at": "2026-10-22T13:20:55+00:00",
+"seen": "2026-10-22T15:31:45+00:00",
+"status": "unverified headline"
+},
+{
+"id": "c08b5886f8d4",
+"t": "France’s Protests Reveal Europe’s Expanding Surveillance of Dissent",
+"u": "https://techpolicy.press/frances-protests-reveal-europes-expanding-surveillance-of-dissent",
+"o": "Tech Policy Press",
+"lane": "news",
+"at": "2026-10-22T13:01:08+00:00",
+"seen": "2026-10-22T15:31:45+00:00",
+"status": "unverified headline"
+},
+{
+"id": "7b8fb797cae7",
+"t": "Where Opposition to Data Centers and Renewable Energy Projects Converge",
+"u": "https://insideclimatenews.org/news/22102026/inside-clean-energy-rural-data-center-opposition/",
+"o": "Inside Climate News",
+"lane": "news",
+"at": "2026-10-22T13:00:00+00:00",
+"seen": "2026-10-22T15:31:45+00:00",
+"status": "unverified headline"
+},
+{
+"id": "bb91ef78ceb8",
+"t": "‘The tech bro fight club is real!’ The titans of AI get the Succession treatment in a wild new TV show",
+"u": "https://www.theguardian.com/tv-and-radio/2026/oct/22/the-audacity-hbo-max-billionaires-succession-treatment",
+"o": "The Guardian",
+"lane": "news",
+"at": "2026-10-22T12:34:33+00:00",
+"seen": "2026-10-22T15:31:45+00:00",
+"status": "unverified headline"
+},
+{
+"id": "72344049e5cf",
+"t": "Google Bets Big on Virtual Power Plants With 1 Gigawatt Voltus Deal",
+"u": "https://heatmap.news/climate-tech/google-virtual-power-plant-voltus",
+"o": "Heatmap",
+"lane": "news",
+"at": "2026-10-22T11:30:03+00:00",
+"seen": "2026-10-22T15:31:45+00:00",
+"status": "unverified headline"
+},
+{
+"id": "5803b7ccf88e",
+"t": "Google plans big virtual power plant in energy-strapped PJM grid",
+"u": "https://www.canarymedia.com/articles/virtual-power-plants/google-plans-big-virtual-power-plant-in-energy-strapped-pjm-grid",
+"o": "Canary Media",
+"lane": "news",
+"at": "2026-10-22T11:30:00+00:00",
+"seen": "2026-10-22T15:31:45+00:00",
+"status": "unverified headline"
+},
+{
+"id": "74f393ebd947",
+"t": "‘Pure arrogance’: anger in Finland as Google illegally fells 250,000 trees for datacentre",
+"u": "https://www.theguardian.com/environment/ng-interactive/2026/oct/22/finland-google-felling-trees-datacentre",
+"o": "The Guardian",
+"lane": "news",
+"at": "2026-10-22T11:22:23+00:00",
+"seen": "2026-10-22T15:31:45+00:00",
+"status": "unverified headline"
+},
+{
+"id": "0079e32d813c",
+"t": "Nebius gets $3.5 billion Citi facility for data center growth - Reuters",
+"u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMkVEMW1MRy1WVS1lMXhwMmxPV0ZieGVlUXlsaW9hUEczbDlsOUliSktHT1ZVTEdsR2k4YldJWS1ZejJaVDZPRTgxd3NGdUE4TlZ6Rng3WHJwUEVvTDN0NVFXTlJPalhlUTN2T1V5V0ZKMDhEMUhLS2JISkJLbEFXd29ZZldpNHNQV0NqV0U2NmZJYlFCYldqZ29XUy1STnNmWVVhRw?oc=5",
+"o": "Reuters",
+"via": "Google News: reuters.com/technology",
+"lane": "search",
+"at": "2026-10-22T11:10:07+00:00",
+"seen": "2026-10-22T15:31:45+00:00",
+"status": "unverified headline"
+},
+{
+"id": "2a9276d18af2",
+"t": "Age Checks, AI Regulation and Censorship Put Internet Freedom Under Pressure",
+"u": "https://techpolicy.press/age-checks-ai-regulation-and-censorship-put-internet-freedom-under-pressure",
+"o": "Tech Policy Press",
+"lane": "news",
+"at": "2026-10-22T10:57:28+00:00",
+"seen": "2026-10-22T15:31:45+00:00",
+"status": "unverified headline"
+},
+{
+"id": "19c7705452b3",
+"t": "OVHcloud wins approval to connect data centers in Roubaix, France, to local district heating network",
+"u": "https://www.datacenterdynamics.com/en/news/ovhcloud-wins-approval-to-connect-data-centers-in-roubaix-france-to-local-district-heating-network/",
+"o": "DatacenterDynamics",
+"lane": "news",
+"at": "2026-10-22T10:55:09+00:00",
+"seen": "2026-10-22T15:31:45+00:00",
+"status": "unverified headline"
+},
 {
 "id": "27b2df8217ad",
 "t": "Barclays Layoffs: UK-Based Bank Slashing 5,000 Jobs, Nearly 5% Workforce, Amid AI Push - News18",
@@ -23,6 +144,16 @@
 "lane": "search",
 "at": "2026-10-22T10:11:07+00:00",
 "seen": "2026-10-22T10:27:19+00:00",
+"status": "unverified headline"
+},
+{
+"id": "771f8b81cd83",
+"t": "Meta strikes deal with Zuckerberg to help him foot billionaire tax bill",
+"u": "https://www.theguardian.com/technology/2026/oct/22/meta-mark-zuckerberg-california-wealth-tax",
+"o": "The Guardian",
+"lane": "news",
+"at": "2026-10-22T10:10:03+00:00",
+"seen": "2026-10-22T15:31:45+00:00",
 "status": "unverified headline"
 },
 {
@@ -209,6 +340,16 @@
 "lane": "search",
 "at": "2026-10-22T09:05:00+00:00",
 "seen": "2026-10-22T10:27:19+00:00",
+"status": "unverified headline"
+},
+{
+"id": "e80d8801358e",
+"t": "What India’s Forest Rights Act Can Teach Us About Data Centers",
+"u": "https://techpolicy.press/what-indias-forest-rights-act-can-teach-us-about-data-centers",
+"o": "Tech Policy Press",
+"lane": "news",
+"at": "2026-10-22T09:03:40+00:00",
+"seen": "2026-10-22T15:31:45+00:00",
 "status": "unverified headline"
 },
 {
@@ -661,6 +802,17 @@
 "status": "unverified headline"
 },
 {
+"id": "66dc4bf7ddba",
+"t": "Meta ordered to pay $25B in New Mexico for misleading users on privacy - The Washington Post",
+"u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZTNCRjVTalpySlZUVFprZTdhMUJ4bENQLVFKSEwzbTdQMU96ekxveEQybDA5bno3UEdSc0xMd3NMeEVQNEJBcmVRSFM0Qktsc0V0LUZBbUNpV0NqUVhqSXFMem53YnVrMVVHWVZBV0V1ZkluYzF0eEcyazQxemR1T0RLTWZDdS1NVUtQaDRvNV9nTXN3dldBWVR6b2VmRE9DN2pXUzZoRGp1NXJycGFr?oc=5",
+"o": "The Washington Post",
+"via": "Google News: washingtonpost.com/technology",
+"lane": "search",
+"at": "2026-10-22T02:58:10+00:00",
+"seen": "2026-10-22T15:31:45+00:00",
+"status": "unverified headline"
+},
+{
 "id": "c71b9e436598",
 "t": "Shelby Co Commission debates data center rules day after Memphis City Council passes moratorium - Action News 5",
 "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWUduTmdTaWx5TzFOd1ZHbHNHa0xhN0pIMXhBdHo4Q21ULXB3VGd5b1NrVTFWNXhBMzRuNGk5cWtCdEYwekFDNGdPbVpPZEYwUjQ0dWNKaTFiT2lOcnhaeTBJRl9RQUE3Y0s4RU1wVU5Bc3gtTUdpVlNrX3JDT09wSk5BUUdNaE1JbWFPMUhlUmZjWHhpOHIzdlVCbDFtcV8yczVOb2FNMmdDNDVzQkQ3eXp0SUktX1VyeE5zbXZDMUd2MzFNMlI4YTlid0FjUzJK0gHkAUFVX3lxTFBLT1lBdFVKMG1nZFduMUpDdEJzWjViMnFRRktqeWx5VW5ud1U2bzhtUmdIQkxJSmpqQlZ6NWw4NFFBazVLNjUtbVpROW5PM3pqaXdDa2hlNUNGb0hqWDJPbmlsZi1tTXR1UFBfVERqcjZ0TW01TWNaRzRqR04wZDBmODJteUoyOW9oSDZITDdORjJFdVJWNmg1ZkNRWUZNRjFLeXc5TXlteElLaU90bXNJNDUxMVlNZ2JFOXhCUUktZ21rcFVPTHBvdHduY3pmLUdqNk9yVzNjNGVHd0xnWnBMMnZ3bw?oc=5",
@@ -947,6 +1099,26 @@
 "status": "unverified headline"
 },
 {
+"id": "82b3593b3501",
+"t": "President's Council of Advisors on Science and Technology (PCAST)",
+"u": "https://www.federalregister.gov/documents/2026/10/22/2026-21614/presidents-council-of-advisors-on-science-and-technology-pcast",
+"o": "Federal Register",
+"lane": "agency",
+"at": "2026-10-22T00:00:00+00:00",
+"seen": "2026-10-22T15:31:45+00:00",
+"status": "unverified headline"
+},
+{
+"id": "56b7edb0d75f",
+"t": "Agency Information Collection Activities; Proposed Collection; Comment Request; Fraud.gov Tip Intake and Referral Form",
+"u": "https://www.federalregister.gov/documents/2026/10/22/2026-21578/agency-information-collection-activities-proposed-collection-comment-request-fraudgov-tip-intake-and",
+"o": "Federal Register",
+"lane": "agency",
+"at": "2026-10-22T00:00:00+00:00",
+"seen": "2026-10-22T15:31:45+00:00",
+"status": "unverified headline"
+},
+{
 "id": "e66351c11d94",
 "t": "City Council to discuss data center zoning regulations in work session - News-Press NOW",
 "u": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNU2RHVTFZcWc4WnJYbzZqZnVuN2E1V01fcS1XaW15NXhVeC1TRm1OZWhUU0FIQ2JEeXlBbzk0VEVpRG9ad09IVm15R240clRoYXJLRU1ESHNRa3V2Vl9fVTBPRmFna091UWp3SjM5Nmp2RGNvdHczZnpLQTliSllUdUFQZEFfdVpnWFNwQVExRjBiekJFMXFzby0wZy1wTGw1UkhDRk4xY3Bua2o0anA5MTZDc0dRVlMyTFlEZE5UTFJQTndubHF5VGdFNGl6d25nVjNVOVNsMGVSYmZacnNaaU41SVR4cHFnVFYyNUI3ZjZUUVdkMkhDcWFMOG9BOFJ5cmxrcmtzcw?oc=5",
@@ -1032,6 +1204,16 @@
 "lane": "search",
 "at": "2026-10-21T23:35:00+00:00",
 "seen": "2026-10-22T00:41:21+00:00",
+"status": "unverified headline"
+},
+{
+"id": "bc3f63f707cf",
+"t": "Meta ordered to pay $25bn to New Mexico in Cambridge Analytica data-privacy case",
+"u": "https://www.theguardian.com/technology/2026/oct/21/meta-fined-new-mexico-data-privacy-case",
+"o": "The Guardian",
+"lane": "news",
+"at": "2026-10-21T23:33:34+00:00",
+"seen": "2026-10-22T15:31:45+00:00",
 "status": "unverified headline"
 },
 {
@@ -1984,200 +2166,6 @@
 "lane": "news",
 "at": "2026-10-21T19:42:32+00:00",
 "seen": "2026-10-21T22:09:32+00:00",
-"status": "unverified headline"
-},
-{
-"id": "77074eb5b3cf",
-"t": "Meta ordered to pay $25 billion to New Mexico after jury finds it misled consumers about data privacy - NBC News",
-"u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTlY4aldzTTg2TWlhckxfQ3FHbEQxQUhubGQ0OTBzc281WUZUNURMbkQ1WGFDdnBQRWY3MERaU3hJN2QtdlVrd3UtQXdBSmt1VHhjY0JES1lPckNia3l0THc1NmVXNG9MbU1aQWt4ekFBcnphVjJnV1hFZUY4OHA5N09rM1dNTFM0QXZaa05tekh2ZWhiNFpldE9yc1d3MHdia2llWjN5RHNaZWlhb0dPUQ?oc=5",
-"o": "NBC News",
-"via": "Google News: privacy",
-"lane": "search",
-"at": "2026-10-21T19:31:58+00:00",
-"seen": "2026-10-22T05:24:52+00:00",
-"status": "unverified headline"
-},
-{
-"id": "c88393346391",
-"t": "One Man’s Quest to Build a Very Small Data Center on a Remote Plot of Sand - Pirate Wires",
-"u": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5WcUhpRDhpQXdoNUtTU2htLTlDdGJHbWpFQnYtZXV6TDR5aFlQNGpqMmlzOURPeGVSMDhfS1NXUWc4amFXX212NVFTUnVWMDdYa2pocURYeEIyRW1TVkgySS1pVk4wNXJ0ZGVud1ZVU0VCUlpXVWxHbWhB?oc=5",
-"o": "Pirate Wires",
-"via": "Google News: dc-water",
-"lane": "search",
-"at": "2026-10-21T19:31:13+00:00",
-"seen": "2026-10-21T22:09:32+00:00",
-"status": "unverified headline"
-},
-{
-"id": "5c9874087b55",
-"t": "Meta Ordered to Pay $25B in New Mexico Privacy Case [2026] - tech-insider.org",
-"u": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5UMU1BcjNPdG5EenRQMEhlU2ZON3VyTC1wTUZHUU9uZ1ptWU5BOWxKYWdpRmVDVi1CaTFCY0RfdklvdTlVZXRHTXNGN1hiSW5QZEFvRjRYYTg5WWEzVDZBb1AwWEt1bU5pcmpLUkJwNTR3VHdlYTJ1S2Rn?oc=5",
-"o": "tech-insider.org",
-"via": "Google News: privacy",
-"lane": "search",
-"at": "2026-10-21T19:18:02+00:00",
-"seen": "2026-10-21T22:09:32+00:00",
-"status": "unverified headline"
-},
-{
-"id": "c32a385a1b86",
-"t": "Meta ordered to pay $25 billion in penalties over the Cambridge Analytica scandal",
-"u": "https://www.theverge.com/policy/1015782/meta-new-mexico-cambridge-analytica-penalty",
-"o": "The Verge",
-"lane": "news",
-"at": "2026-10-21T19:15:18+00:00",
-"seen": "2026-10-21T22:09:32+00:00",
-"status": "unverified headline"
-},
-{
-"id": "4de16eb56075",
-"t": "Vantage Eyes Earlier Removal of Gas Turbines Amid Agreements with Saines, Dominion - LoudounNow.com",
-"u": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOdHVYMlVILWtyRjdMZjhjdUV5WWVsdEM2Vlp5RjFXbm1XNG5rS1lPRXNhOW1GQWx2V1JFMnVxVGd2dG9YTHRJVHpLZ1RzVFBoZUV3WjhETGY1MXNsVTZaSzduZ3JBeExod3ZvQV8ydHJnUUJab2ctX2FYWnRSQjY0c19rX3ZyLWdQU1JfLXl2SzhQWE0td3lMNGJGenpKbDBlM0MydGxuYldfVS1JWnVhNGVvM1lucEE4R296RHRJdmVBeVRBMlVTc2puV1h1aVA2U2tGZ0l3MVhZcm5rS2dOZlNYd2MwcTQ2MVZFc0t2aTFkal82X2c?oc=5",
-"o": "LoudounNow.com",
-"via": "Google News: dc-water",
-"lane": "search",
-"at": "2026-10-21T19:07:00+00:00",
-"seen": "2026-10-21T22:09:32+00:00",
-"status": "unverified headline"
-},
-{
-"id": "0863e7778d0d",
-"t": "US Park Police spend $343,000 on mobile surveillance cameras in Washington DC - The Guardian",
-"u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPY0V0azcwV0lXd2tvRExrbHJybHhDaXVjRUs2NFFHRWxMeTBOXzVUamZBUXo0eERBRUlwNG1FRlVGRTdnUVpkQi1vNjZLZ0hHU2lmWDNpbV9zZ1ZFTy0wYzEwaC1EYm45QXRQWi1ReW1Ya3p2WGItNG5PenI1Mno5RWVjNHpWcUhtRUZrVTRzZGFETXpFQnFLZ2R3?oc=5",
-"o": "The Guardian",
-"via": "Google News: contracts",
-"lane": "search",
-"at": "2026-10-21T19:05:00+00:00",
-"seen": "2026-10-21T22:09:32+00:00",
-"status": "unverified headline"
-},
-{
-"id": "5307c0dba267",
-"t": "Mass layoffs rock California gaming giant as boss’ memo released - Yahoo Finance",
-"u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRkFwXzI0SkJVV0UzNng1NERSMnAxdEc4dlBBczNvUVFfcTl0c3g3M3VwZGs4VUZOYXRWcDVYYVZ1WW9kQl9QWV9Xa0NTVFY0QUtONV9DMGQ4ZUoyeUctT1F5b1RCVmhZWkotRmhkSVRpTlVURVE1bW1qQndXaEZRSmU1Qy1tanBCMUdfQW1wU19VcTE2azVpWXM4V0g?oc=5",
-"o": "Yahoo Finance",
-"via": "Google News: labor",
-"lane": "search",
-"at": "2026-10-21T19:03:40+00:00",
-"seen": "2026-10-21T22:09:32+00:00",
-"status": "unverified headline"
-},
-{
-"id": "b48a45781506",
-"t": "CALPRIVACY REMINDER—DROP Cycle 1 Deadline Approaching—October 29, 2026 (and other reminders) - The National Law Review",
-"u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNb01RcDJGOXc2TlZKa1hDSUkzZUpNTEJhTFFKYi1JNmpzejdmMDNHbWowYVAwQWxnX3RMZUdnWGp6SlhRZHFVMG1zdFVvMF9hTlB4OEp1RWVCME84UUx1bFE5ekdqQVhhT01qblh2a2tSTnpMV3VlOVFQZ192cE1CdURTb1FxMHNuT3NPOEJuN3BCOUFmcmgwQlhjXzlDM1BxLWtaWGhweUhqWTJQWnpiVGtLNmlmOE3SAbcBQVVfeXFMTW9NUXAyRjl3Nk5WSmtYQ0lJM2VKTUxCYUxRSmItSTZqc3o3ZjAzR21qMGFQMEFsZ190TGVHZ1hqekpYUWRxVTBtc3RVbzBfYU5QeDhKdUVlQjBPOFFMdWxROXpHakFYYU9Nam5YdmtrUk56TFd1ZTlRUGdfdnBNQnVEU29RcTBzbk9zTzhCbjdwQjlBZnJoMEJYY185QzNQcS1rWlhocHlIalkyUFp6YlRrSzZpZjhN?oc=5",
-"o": "The National Law Review",
-"via": "Google News: California privacy agency",
-"lane": "search",
-"at": "2026-10-21T19:03:26+00:00",
-"seen": "2026-10-21T22:09:32+00:00",
-"status": "unverified headline"
-},
-{
-"id": "1ac58ce01c25",
-"t": "Meta fined $25 billion by US court over privacy violations - JFeed",
-"u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBpc2ExWEJNazhCbVlrUDhVeTc4Um5PcDdSQ3plV1BPS2wtS2F4TVc5OFp2R1Rhc1VRaDdtdnE1ODBrUkMxTEp6eA?oc=5",
-"o": "JFeed",
-"via": "Google News: privacy",
-"lane": "search",
-"at": "2026-10-21T19:01:11+00:00",
-"seen": "2026-10-21T22:09:32+00:00",
-"status": "unverified headline"
-},
-{
-"id": "0baf59f0bf9a",
-"t": "Memphis rejects data center moratorium in favor of 135-day review - The Center Square",
-"u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNWd6MmxZRnRFTTVYT01YNDN1TnpMX1NLSFI1OGM1QUNqQlg1d3VCcDJkUko5c2FyUmVxa2NYNXZFRUdEZ1J0VFJjMC1LeEhPdDdVcUZMbFdTdThWMEpwWmNza0V0bmhFaXhqVS02N0JlQXpRY0p0Z1MzVDZsM3hpVzVsQVVWNDR4UldjcVhrUmpydWJYc1puZjRUa9IBmwFBVV95cUxNNWd6MmxZRnRFTTVYT01YNDN1TnpMX1NLSFI1OGM1QUNqQlg1d3VCcDJkUko5c2FyUmVxa2NYNXZFRUdEZ1J0VFJjMC1LeEhPdDdVcUZMbFdTdThWMEpwWmNza0V0bmhFaXhqVS02N0JlQXpRY0p0Z1MzVDZsM3hpVzVsQVVWNDR4UldjcVhrUmpydWJYc1puZjRUaw?oc=5",
-"o": "The Center Square",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-10-21T19:01:00+00:00",
-"seen": "2026-10-21T22:09:32+00:00",
-"status": "unverified headline"
-},
-{
-"id": "8c009127ec16",
-"t": "2026 race for Ohio governor: the candidates on tax policies they'd put in place - The Statehouse News Bureau",
-"u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPdTg1cUJxTnk4UDY0QzloZHZOWjhmMy1oYkpZNTA5TWlFZjNQUEN5SS1OX3FGMC02cF9DOFFSdUR6QklZNkRmOWhtZW52M2lmUUtGaEJvM2hQMUg3Ry1tSkYtbFkweGVmdXV3cmc5MFpkdW1TMlBNRDZXTnVqUGFlNkEwbHJqNDhjaTVKd0Y5Y2R3aEpoUThKbXl2NkNBaDBvZVF0ZUJiNmd5aXNtbXNqd2N2bVJ5M3hfMWVDNzd3TVhFUVNtYU9rV0JHTURIdk0?oc=5",
-"o": "The Statehouse News Bureau",
-"via": "Google News: dc-incent",
-"lane": "search",
-"at": "2026-10-21T19:00:00+00:00",
-"seen": "2026-10-22T00:41:21+00:00",
-"status": "unverified headline"
-},
-{
-"id": "181b7f5f5700",
-"t": "Catholic Moral Theologians Urge Federal Court To Support ‘Clear Boundaries’ Around Military AI Usage - Eurasia Review",
-"u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNThHSkhzNTE2WE9XTF94UE9LZnFfcmFvN1R0WGM3T3JnYUpVR0F0NDVQY2o4aW1xTHcyRkE2VEc5NncxbHgxemw1V3pwX2RDNVpub25XU1ladlZYYWU4RDRJTS1NNXlBVjZzd1ZoeDJDbVRiZUlqNEJ1dGxEOUlybXJzcjhLY0txczN6Sml3Q3JkaUh2dW0xZFo4VENVUWhGZDBhT1ctVDlFRlF2bnhKaW5BRXFsNFFJWlEtc2pEbzB5NjJSaHpWNk8xazVuV242VS1RZw?oc=5",
-"o": "Eurasia Review",
-"via": "Google News: contracts",
-"lane": "search",
-"at": "2026-10-21T18:59:06+00:00",
-"seen": "2026-10-21T22:09:32+00:00",
-"status": "unverified headline"
-},
-{
-"id": "f9c20f3d7717",
-"t": "Is Data Center Expansion in Utah a Concern? - uvu review",
-"u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5uSGxHQ1gxOURSTVdoYnJfVTlFUmZsUjdDMHo0Y3RqbVhMOXZoSGdmS1NPcmxfb201aGVoMll1RTNfWmkwd1NKWDdZdVR4NURxNWRfZURvLUVxd1JIeWE3c0NEUHcyN3N2WFA3bjFkVjhTem1hZlcybA?oc=5",
-"o": "uvu review",
-"via": "Google News: dc-water",
-"lane": "search",
-"at": "2026-10-21T18:56:00+00:00",
-"seen": "2026-10-22T05:24:52+00:00",
-"status": "unverified headline"
-},
-{
-"id": "af5d3897eb07",
-"t": "Meta ordered to pay $25 billion penalty in New Mexico Cambridge Analytica case",
-"u": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
-"o": "CNBC",
-"lane": "news",
-"at": "2026-10-21T18:52:44+00:00",
-"seen": "2026-10-21T18:54:58+00:00",
-"status": "unverified headline"
-},
-{
-"id": "7029da4abf6c",
-"t": "Legal AI startup Legora raises $550M Series E at $8.8B valuation",
-"u": "https://techcrunch.com/2026/10/21/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation/",
-"o": "TechCrunch",
-"lane": "news",
-"at": "2026-10-21T18:51:56+00:00",
-"seen": "2026-10-21T18:54:58+00:00",
-"status": "unverified headline"
-},
-{
-"id": "8482db45cced",
-"t": "Jay Feely has AI industry backing. Now a $750K campaign wants him out - Copper Courier",
-"u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1meEdiSzVqTlZxUXJ5NzhMd2lGUEozR2ZtOTZpR2pJNmFaNEtRbFctelo5OHJKLVZvZ3ZzeXlQT2VoQmlpSHREclVJUE1mTS03eGkxeHlmRWpFcm0zMFJWUGxweHl0N2hLNUE2b3RZY3E4VzhaYnc?oc=5",
-"o": "Copper Courier",
-"via": "Google News: money",
-"lane": "search",
-"at": "2026-10-21T18:46:19+00:00",
-"seen": "2026-10-21T22:09:32+00:00",
-"status": "unverified headline"
-},
-{
-"id": "f2d8418847e3",
-"t": "Data center owners should be transparent to rebuild public trust - 10/12 Industry Report",
-"u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTmZDTzllSGxCekl4WUtHVGxRTmltQXlqNjgydm5qeE5IUTJkaFdXUlZQYmJvdWVXd1lGWm9tNlB6UnRVSEphLWRnUDFVZVhoc3V0M3Y1MDFPNHllaWtILWcwNDNwcTZ3Wk96UXRSUjllLTZZdmtDXy1vVjl6cy00eXlYR1drLWNfSk1pelJOaWM1d19KUWFUcmVTVUFYMVNXZl9QZFJoN1VxLUtySVN0M2szSUM?oc=5",
-"o": "10/12 Industry Report",
-"via": "Google News: dc-water",
-"lane": "search",
-"at": "2026-10-21T18:38:26+00:00",
-"seen": "2026-10-21T22:09:32+00:00",
-"status": "unverified headline"
-},
-{
-"id": "a82165403f8b",
-"t": "Report says Musk, not Trump, ordered Starlink throttling that blindsided Ukraine",
-"u": "https://arstechnica.com/tech-policy/2026/10/report-says-musk-not-trump-ordered-starlink-throttling-that-blindsided-ukraine/",
-"o": "Ars Technica",
-"lane": "news",
-"at": "2026-10-21T18:35:38+00:00",
-"seen": "2026-10-21T18:54:58+00:00",
 "status": "unverified headline"
 }
 ]
