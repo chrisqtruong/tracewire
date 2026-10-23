@@ -1,8 +1,38 @@
 {
 "name": "Tracewire",
-"updated": "2026-10-23T19:33:51+00:00",
+"updated": "2026-10-23T22:36:25+00:00",
 "note": "Unverified headlines collected automatically from public feeds. Not checked by Tracewire. Verified items appear in the Feed.",
 "items": [
+{
+"id": "99cce65ae02f",
+"t": "Texas attorney general accuses OpenAI of lying about ChatGPT safety and safeguards",
+"u": "https://www.courthousenews.com/texas-attorney-general-accuses-openai-of-lying-about-chatgpt-safety-and-safeguards/",
+"o": "Courthouse News Service",
+"lane": "news",
+"at": "2026-10-23T21:10:36+00:00",
+"seen": "2026-10-23T22:36:25+00:00",
+"status": "unverified headline"
+},
+{
+"id": "3e7f517c4d12",
+"t": "Texas sues OpenAI, Sam Altman over product safety",
+"u": "https://www.politico.com/news/2026/10/23/texas-sues-openai-over-product-safety-01134162",
+"o": "Politico",
+"lane": "news",
+"at": "2026-10-23T20:39:19+00:00",
+"seen": "2026-10-23T22:36:25+00:00",
+"status": "unverified headline"
+},
+{
+"id": "76e62c7a5420",
+"t": "Alabama’s New Data Center Rules Still Leave Customers in the Dark, Critics Say",
+"u": "https://insideclimatenews.org/news/23102026/alabamas-new-data-center-rules-still-leave-customers-in-the-dark-critics-say/",
+"o": "Inside Climate News",
+"lane": "news",
+"at": "2026-10-23T19:48:08+00:00",
+"seen": "2026-10-23T22:36:25+00:00",
+"status": "unverified headline"
+},
 {
 "id": "e3a8681480c3",
 "t": "Gomez Urges Broadcasters to Push Back on Election-Year Intimidation",
@@ -447,6 +477,16 @@
 "lane": "search",
 "at": "2026-10-23T12:44:34+00:00",
 "seen": "2026-10-23T15:43:20+00:00",
+"status": "unverified headline"
+},
+{
+"id": "8f96d9e15097",
+"t": "U.S. Government Contractor Arrested for Allegedly Leaking National Defense Information",
+"u": "https://www.justice.gov/opa/pr/us-government-contractor-arrested-allegedly-leaking-national-defense-information",
+"o": "DOJ",
+"lane": "agency",
+"at": "2026-10-23T12:00:00+00:00",
+"seen": "2026-10-23T22:36:25+00:00",
 "status": "unverified headline"
 },
 {
@@ -2120,49 +2160,6 @@
 "via": "Google News: contracts",
 "lane": "search",
 "at": "2026-10-22T20:42:16+00:00",
-"seen": "2026-10-23T11:03:22+00:00",
-"status": "unverified headline"
-},
-{
-"id": "835262019fa4",
-"t": "OpenAI nears up to $30 billion funding round at $1.25 trillion valuation led by UAE investors",
-"u": "https://www.cnbc.com/2026/10/22/openai-funding-round-uae-investors.html",
-"o": "CNBC",
-"lane": "news",
-"at": "2026-10-22T20:41:37+00:00",
-"seen": "2026-10-22T22:38:33+00:00",
-"status": "unverified headline"
-},
-{
-"id": "503d3a87cf56",
-"t": "Mitchell vs. James: What stood out in Iowa 2nd's debates? - Iowa Starting Line",
-"u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeFFVTm1fWjAtUElBSG1JSHlrQWx2bXNGYnlscWFxTHdYOHZvT3E5eENDSTdRRm10czJvYmNJNkoyX19BcTlXaHg4ODduMHdCUkZpQmVlclBzS3JYQzNlWHY4Q21nVE9GZE5xaUNyNFlTbUR3YTNBdWNuNDhnRk13NA?oc=5",
-"o": "Iowa Starting Line",
-"via": "Google News: dc-water",
-"lane": "search",
-"at": "2026-10-22T20:41:33+00:00",
-"seen": "2026-10-23T15:43:20+00:00",
-"status": "unverified headline"
-},
-{
-"id": "6b5dd2bdd6dc",
-"t": "Musk Says AI Is Short on Power. Here’s Why Constellation Energy Still Has a Rules Problem - TIKR.com",
-"u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUnZGcEI5UUpSRk9VTEJHTHMxRDVPN0hXcmxjZTlQeW56SHBYWFBBMndJVm5WdnJzSU9WeHkwU3k4SG5oaU1vYWxvanFfbl9KZmIzSmtuY2Mtd0toMTBIV0Vyd2Z0TzRXZjdHZFV0akxJYU1SSFdyU29YWjFCeG1GWDItSUtKTlNvdWlGNGFaQlVPakFydnk0eWxGWEJmWmd2RlRxRkxzVUZwVzRRbXBMa29Cbw?oc=5",
-"o": "TIKR.com",
-"via": "Google News: dc-utility",
-"lane": "search",
-"at": "2026-10-22T20:40:30+00:00",
-"seen": "2026-10-23T11:03:22+00:00",
-"status": "unverified headline"
-},
-{
-"id": "03b1a2faa87b",
-"t": "Musk Invests $1 Billion In Skydance As It Stares Down High Debt After WBD Acquisition - Forbes",
-"u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOTHVOcFVrbUtnZVdsUDJrZXVMMnVORTVSU3QtUGpsX3MtaHY3Um9QX09tM0tfdXpHZmVlUG5oaTUwc0RHNGJUbnBUQzk4aWxtOUNkVVJVZHByZFdkVEx4WUViU0JBa2pQakMyWUpDOU45Z0VZMUNqcG5XRkNVZ05ZUlc4bW8xV0JDMUNvT1FzWXNnRW9NT1pvUU5wQjBPellmcXdUNXVzaU1PdU5YQmhtelJCYXN0QTQ5VE5sRFdnajNOZHBXM18xR0U2clE2aEdfWkUxa1AyTFptdw?oc=5",
-"o": "Forbes",
-"via": "Google News: ai-deals",
-"lane": "search",
-"at": "2026-10-22T20:37:01+00:00",
 "seen": "2026-10-23T11:03:22+00:00",
 "status": "unverified headline"
 }
