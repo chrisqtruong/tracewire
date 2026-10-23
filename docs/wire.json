@@ -1,8 +1,18 @@
 {
 "name": "Tracewire",
-"updated": "2026-10-23T00:57:21+00:00",
+"updated": "2026-10-23T05:54:06+00:00",
 "note": "Unverified headlines collected automatically from public feeds. Not checked by Tracewire. Verified items appear in the Feed.",
 "items": [
+{
+"id": "9abbea2812de",
+"t": "Internet trade group sues California over social media warning labels",
+"u": "https://www.courthousenews.com/internet-trade-group-sues-california-over-social-media-warning-labels/",
+"o": "Courthouse News Service",
+"lane": "news",
+"at": "2026-10-23T01:32:48+00:00",
+"seen": "2026-10-23T05:54:06+00:00",
+"status": "unverified headline"
+},
 {
 "id": "a5e9bde7abb3",
 "t": "Etsy bans AI-generated recipes and patterns from its online marketplace",
@@ -2150,17 +2160,6 @@
 "lane": "search",
 "at": "2026-10-22T07:33:46+00:00",
 "seen": "2026-10-22T10:27:19+00:00",
-"status": "unverified headline"
-},
-{
-"id": "b97d4a838722",
-"t": "Elon Musk’s dream merger is a nightmare for SpaceX shareholders - Fortune",
-"u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNURJRmhWdmFQMXNhZEhqcklsM05rRGhIS2t2dHEyejd4RDJSTl9hd2lXMDFKTVY4VmNZNXJSZVI0NzYydklFSy0wRzVvY3F1SmZSSW9yamhjVlRrMGwxdDBEZVRjeFhsRzVsc2JfU1BKVFg4NEZzQ2pkdjBGbHRxOW9DYlRBSkdSSDF3QVVfa3A5TXc?oc=5",
-"o": "Fortune",
-"via": "Google News: ai-deals",
-"lane": "search",
-"at": "2026-10-22T07:00:00+00:00",
-"seen": "2026-10-22T19:25:58+00:00",
 "status": "unverified headline"
 }
 ]
