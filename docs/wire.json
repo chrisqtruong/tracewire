@@ -1,8 +1,18 @@
 {
 "name": "Tracewire",
-"updated": "2026-10-22T22:38:33+00:00",
+"updated": "2026-10-23T00:57:21+00:00",
 "note": "Unverified headlines collected automatically from public feeds. Not checked by Tracewire. Verified items appear in the Feed.",
 "items": [
+{
+"id": "a5e9bde7abb3",
+"t": "Etsy bans AI-generated recipes and patterns from its online marketplace",
+"u": "https://www.cnbc.com/2026/10/22/etsy-bans-ai-generated-recipes-patterns-from-its-online-marketplace.html",
+"o": "CNBC",
+"lane": "news",
+"at": "2026-10-22T23:45:50+00:00",
+"seen": "2026-10-23T00:57:21+00:00",
+"status": "unverified headline"
+},
 {
 "id": "7d6a3554c2c3",
 "t": "FCC To Hold Open Commission Meeting Thursday, October 29, 2026",
@@ -2151,17 +2161,6 @@
 "lane": "search",
 "at": "2026-10-22T07:00:00+00:00",
 "seen": "2026-10-22T19:25:58+00:00",
-"status": "unverified headline"
-},
-{
-"id": "a1520c9a8b4f",
-"t": "Refurbed Is on Track to Top €100 Million in Revenue in 2026 - www.trendingtopics.eu",
-"u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5JOHhzdk5OcTh5bmx5UktDa2VFWnprNW83ellPRmx4c1JkR0JXNGpHUzJuc3ZhX2JGZG1GX1dRNXVPdzgwamdKd1RIaFJFdE5QZnFxN1BxS1JYUnU2TVJxSko2bXJJdUpOTmhnWEFn?oc=5",
-"o": "www.trendingtopics.eu",
-"via": "Google News: contracts",
-"lane": "search",
-"at": "2026-10-22T07:00:00+00:00",
-"seen": "2026-10-22T10:27:19+00:00",
 "status": "unverified headline"
 }
 ]
