@@ -1,8 +1,108 @@
 {
 "name": "Tracewire",
-"updated": "2026-10-23T15:43:20+00:00",
+"updated": "2026-10-23T19:33:51+00:00",
 "note": "Unverified headlines collected automatically from public feeds. Not checked by Tracewire. Verified items appear in the Feed.",
 "items": [
+{
+"id": "e3a8681480c3",
+"t": "Gomez Urges Broadcasters to Push Back on Election-Year Intimidation",
+"u": "https://www.fcc.gov/edoc/426167",
+"o": "FCC",
+"lane": "agency",
+"at": "2026-10-23T19:33:51+00:00",
+"seen": "2026-10-23T19:33:51+00:00",
+"status": "unverified headline"
+},
+{
+"id": "3db6bf809727",
+"t": "Judge sides with Google in AI wiretapping customer service calls case",
+"u": "https://www.courthousenews.com/judge-sides-with-google-in-ai-wiretapping-customer-service-calls-case/",
+"o": "Courthouse News Service",
+"lane": "news",
+"at": "2026-10-23T19:03:28+00:00",
+"seen": "2026-10-23T19:33:51+00:00",
+"status": "unverified headline"
+},
+{
+"id": "ab3a1ce196d8",
+"t": "Two States Can Now Restrict Social Media Access—Here’s What To Do Next",
+"u": "https://www.eff.org/deeplinks/2026/10/two-states-can-now-restrict-social-media-access-heres-what-do-next",
+"o": "EFF",
+"lane": "news",
+"at": "2026-10-23T18:19:34+00:00",
+"seen": "2026-10-23T19:33:51+00:00",
+"status": "unverified headline"
+},
+{
+"id": "6b8c8048d855",
+"t": "GoodPower Is Sussing Out What People Actually Want from Data Centers",
+"u": "https://heatmap.news/plus/the-fight/qa/leah-qusba-goodpower-qanda",
+"o": "Heatmap",
+"lane": "news",
+"at": "2026-10-23T17:58:11+00:00",
+"seen": "2026-10-23T19:33:51+00:00",
+"status": "unverified headline"
+},
+{
+"id": "e8eea8953d15",
+"t": "A First-Of-Its-Kind State of Emergency — Over a Permitting Pause",
+"u": "https://heatmap.news/plus/the-fight/hotspots/state-of-emergency-permitting-pause",
+"o": "Heatmap",
+"lane": "news",
+"at": "2026-10-23T17:57:44+00:00",
+"seen": "2026-10-23T19:33:51+00:00",
+"status": "unverified headline"
+},
+{
+"id": "939986ca9a0e",
+"t": "The Most Important Data Center Election You’ve Never Heard Of",
+"u": "https://heatmap.news/plus/the-fight/spotlight/the-most-important-data-center-election-youve-never-heard-of",
+"o": "Heatmap",
+"lane": "news",
+"at": "2026-10-23T17:57:04+00:00",
+"seen": "2026-10-23T19:33:51+00:00",
+"status": "unverified headline"
+},
+{
+"id": "e150ccaa6da7",
+"t": "New Greece law bans social media for under-15s",
+"u": "https://www.courthousenews.com/new-greece-law-bans-social-media-for-under-15s/",
+"o": "Courthouse News Service",
+"lane": "news",
+"at": "2026-10-23T17:15:19+00:00",
+"seen": "2026-10-23T19:33:51+00:00",
+"status": "unverified headline"
+},
+{
+"id": "810c1d05b838",
+"t": "Opposition deepfake video sparks outrage in Spain ahead of election",
+"u": "https://www.theguardian.com/world/2026/oct/23/opposition-deepfake-video-spain-election",
+"o": "The Guardian",
+"lane": "news",
+"at": "2026-10-23T16:35:48+00:00",
+"seen": "2026-10-23T19:33:51+00:00",
+"status": "unverified headline"
+},
+{
+"id": "794617893429",
+"t": "Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who’s who of angels",
+"u": "https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/",
+"o": "TechCrunch",
+"lane": "news",
+"at": "2026-10-23T16:26:29+00:00",
+"seen": "2026-10-23T19:33:51+00:00",
+"status": "unverified headline"
+},
+{
+"id": "05712ed2c030",
+"t": "In Brazil’s Runoff, Lula Faces Bolsonaro, Trump—and Big Tech",
+"u": "https://techpolicy.press/in-brazils-runoff-lula-faces-bolsonaro-trump-and-big-tech",
+"o": "Tech Policy Press",
+"lane": "news",
+"at": "2026-10-23T16:00:11+00:00",
+"seen": "2026-10-23T19:33:51+00:00",
+"status": "unverified headline"
+},
 {
 "id": "90c088421e98",
 "t": "Oregon city declares state of emergency over lost data center revenue amid state-wide ban",
@@ -77,6 +177,16 @@
 "lane": "search",
 "at": "2026-10-23T14:45:00+00:00",
 "seen": "2026-10-23T15:43:20+00:00",
+"status": "unverified headline"
+},
+{
+"id": "244bedde6ce3",
+"t": "A Congressional Commission on AI Risk is Overdue",
+"u": "https://techpolicy.press/a-congressional-commission-on-ai-risk-is-overdue",
+"o": "Tech Policy Press",
+"lane": "news",
+"at": "2026-10-23T14:44:02+00:00",
+"seen": "2026-10-23T19:33:51+00:00",
 "status": "unverified headline"
 },
 {
@@ -1729,6 +1839,16 @@
 "status": "unverified headline"
 },
 {
+"id": "067782d71ebd",
+"t": "SpaceX and Tesla have high election stakes as Elon Musk pours $366 million into campaigns",
+"u": "https://www.cnbc.com/2026/10/22/elon-musk-midterm-election-spacex-tesla.html",
+"o": "CNBC",
+"lane": "news",
+"at": "2026-10-22T21:58:42+00:00",
+"seen": "2026-10-23T19:33:51+00:00",
+"status": "unverified headline"
+},
+{
 "id": "7b297eca3d9c",
 "t": "Five ways to keep safe online in the wake of AI-supercharged hacking - Reuters",
 "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSHRlcmF2d1RiRG56QzU3azZ0QnNaU0twQ3luRE90U0hsMUhfbGd1N1B2Y29INEt4SHR4NTltNW5EeHQzUHAwUU93YzhMTEt5Ym1VYl9sR1N3SzFiX3htQkFmMkZrTEx5ZTd6b1ZvZkZOQy1OUDYzenhzaktzVHBsWElFRzZIMlY4MEhubUhHemoxdnN2LVpiQ2ltU0dRSVJfd2hRTw?oc=5",
@@ -2043,135 +2163,6 @@
 "via": "Google News: ai-deals",
 "lane": "search",
 "at": "2026-10-22T20:37:01+00:00",
-"seen": "2026-10-23T11:03:22+00:00",
-"status": "unverified headline"
-},
-{
-"id": "29a87826b845",
-"t": "Meta’s AI could still scrape news sites, legal experts say",
-"u": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
-"o": "The Verge",
-"lane": "news",
-"at": "2026-10-22T20:32:05+00:00",
-"seen": "2026-10-22T22:38:33+00:00",
-"status": "unverified headline"
-},
-{
-"id": "6c32ed80e666",
-"t": "Portal Texas Used to ‘Rubber Stamp’ Data Centers Down After 404 Media Reporting",
-"u": "https://www.404media.co/texas-commission-on-environmental-quality-portal-down/",
-"o": "404 Media",
-"lane": "news",
-"at": "2026-10-22T20:26:43+00:00",
-"seen": "2026-10-22T22:38:33+00:00",
-"status": "unverified headline"
-},
-{
-"id": "d3f1f25baf81",
-"t": "Harmony Township meeting on development moratorium canceled - Valley News Live",
-"u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcm9HNFpwSHBma012M2VQVzRhM1B2cWJNQlQ5OG92Y1RGSUUzZl9Wamt6YVFJcXZDallQWHdCRDRaaXNDaXg1d3dZcVpjcXJ6VlhsYVhJVUVxUE8tdktDTmtZT1YxSTVSSlJrcXJKRUJjS29jeExBU054NTBvSGJQbjBIS3ZDUWlRcXE5NjlMRDV4ZXkxTkRkUEk1MXZ2b3FL0gG0AUFVX3lxTE5oTmM3TE96Y2swVVVWU2d0RThwSE1CNmFBMU5lNzh2cDNaQThvTXZMSkVFeDVGSTAyREhqak5MZ1JtN0puMWkzdVRyWnkzaHM2S2R1QVRmWTkzU3F6c2Rqa2Z3c29KalFvckVwZzlIbUhnMUQ4M0hNUDFuMXBpNmNzaFRYSXM2czI2SXpZNElhcUZkUGpIcXJpdm1mTlpUcEk5NXlROHpxaEp2dUhHSTRKZ0VKTg?oc=5",
-"o": "Valley News Live",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-10-22T20:25:00+00:00",
-"seen": "2026-10-23T11:03:22+00:00",
-"status": "unverified headline"
-},
-{
-"id": "ef15a766aba1",
-"t": "The FCC is beginning to block gadgets with ‘foreign surveillance chips’",
-"u": "https://www.theverge.com/policy/1017016/fcc-block-foreign-surveillance-chips-hivision-huawei-loophole",
-"o": "The Verge",
-"lane": "news",
-"at": "2026-10-22T20:23:48+00:00",
-"seen": "2026-10-22T22:38:33+00:00",
-"status": "unverified headline"
-},
-{
-"id": "989294006380",
-"t": "Suffolk bans data centers, but it won’t last forever - The Virginian-Pilot",
-"u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9WVUFFLTR6XzRXZmVFLWN4akVWNmdnREJlVG5YUjBLTjI0Nkh2RzFZR0dEbnRLOXZDNXNlVkxhaHVlUmVDckY3Y0VmSHZCTjF0NThwTzEydDh3MFJXZlZzY2pIZVU4a05TNDFvcTM4MW0?oc=5",
-"o": "The Virginian-Pilot",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-10-22T20:23:31+00:00",
-"seen": "2026-10-23T11:03:22+00:00",
-"status": "unverified headline"
-},
-{
-"id": "a88015bf7017",
-"t": "Tippecanoe Area Plan OKs restrictions on large-scale data centers - Journal & Courier",
-"u": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSlJwN0xLZDB0aDcwWndjZ2htckRKMHBaM1l3WkNPbFNabDBVYnAwaVVzMElCa25vT3dxTTd1Y3V1Sm9Pazl3Ylh4TDl0T0NPdklzSzFPdkRkRmNNNlFLV3ZoNmNMMnRfVTdfdk8tUmdXTF9CSmxwT20zZXNXVDIxMnJKdGdvNmxlU2haSnpGbjZUbEdFall2N2tHTjVvRGU0M0NGR2xUMHZCUkJPLTQtQ2dVaEo0XzNlMURGZF8zWmg5WWtVYTdVZElaZzJ3bkhmUjdkN3BFOGd2Yjg?oc=5",
-"o": "Journal & Courier",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-10-22T20:09:00+00:00",
-"seen": "2026-10-23T11:03:22+00:00",
-"status": "unverified headline"
-},
-{
-"id": "e250d94b8fe9",
-"t": "O'Leary Digital's CEO says skeptics are missing the full picture on its massive AI data center plans - Business Insider",
-"u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUm5MTWpSLV9GMWx0THlaazlUazJ1eW5IUVY0Z1ljSUtLaC1TMlZXeTJWZ3czbHNYd1pVVElHZk9OOWtfSWxZVFVIV2x4R0Q5UmVTWFlXNGVaNjhNd0ZGTDh1TmhpTm1BVm12cW5GU0IwS2FoeDdyOTJyMVdiRy1ISHYyTzVtZVhheHZBUDVhbkZSREdpQ0lCMUZOOHR6WV9jaFhnUkJKWUNCS2xfZlA4?oc=5",
-"o": "Business Insider",
-"via": "Google News: dc-water",
-"lane": "search",
-"at": "2026-10-22T20:06:00+00:00",
-"seen": "2026-10-23T11:03:22+00:00",
-"status": "unverified headline"
-},
-{
-"id": "4a24f03b7aab",
-"t": "Pittsburg weighs moratorium on data centers - KALW",
-"u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVVZ5YXhDalNtQ05NTU8ya1hfMlE5d19wdFp0ZTZqeTJJaVBKVkpqQW5CdlJ2Yml6MUVza0E5UUxYQ2tLOG5WTFI4YnZWd1VlWFR6cGxwUnlvNGNiUUFZeEd2S0VmYmRON1RhVWhGNDBXVHFFVVU5MVYyamR0OV94enA5S3dGN25uX1hXWEFBNXRMVVk?oc=5",
-"o": "KALW",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-10-22T20:05:00+00:00",
-"seen": "2026-10-23T11:03:22+00:00",
-"status": "unverified headline"
-},
-{
-"id": "06b15d8ec5f7",
-"t": "Acquisition Lets AI and Operators Learn From Nearly $2 Billion in Annual Aesthetics Transactions - Healthcare IT Today",
-"u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOYnQxOEQ4ajU3Rnl1V2UzNG5Hd1VuVllkX2V5SmZCU2xxWV9Xc2ZHVEMzQWc2M3kwdVg5TFNEbjNlaVlON0xzRHNEZVp5cWZpYTAzdzRjbGhTMlZjQ1RhRmllX3pfUU1VOW1sanFYQ3I5NW5DUU0wcWstanZrdlJkVUVONW9Qbm42cENISDM3MTRIMUhEdUhJdG1xNVBXaUNQWjI4SS1jUm8wUFd1dEI5eTlaeHNuck85bEhLeEpOMmYtbmg0bFZJVGZrRFJ6WnY5UGs5SlM2UGc?oc=5",
-"o": "Healthcare IT Today",
-"via": "Google News: ai-deals",
-"lane": "search",
-"at": "2026-10-22T20:01:35+00:00",
-"seen": "2026-10-23T15:43:20+00:00",
-"status": "unverified headline"
-},
-{
-"id": "299920aa1a4b",
-"t": "Palm Beach County approves additional data center space - The Palm Beach Post",
-"u": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPcDc5ZVlrQWFMS0UtVVg2aW9VQWJWTThZYlBwal9VLS03ajhlXzU5SmdUckxkT0k4b2ozNWtKdThocEJrOGdWZ1hqMm1CNW5kNTJ1ZF9JanMydXZLS1BaaWNwQWZ6Z0tVTTFhWTBqdW9abGNxQXRvMmhFVExhS3B1d3ZBdl9jc1RjU0JNZ1Z5Q0JSYXZ2ZDVpcHZURUh2Q2dvTVA2V2MwSi1qTnJKcVBLZUYyczI4U1BqQ1BjQjFpQmxaYUZqNUNBWk5UT1ppVVhwdGJKRE1hUXo3MGtJSFFLeVZQbHA4bUlubnc?oc=5",
-"o": "The Palm Beach Post",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-10-22T19:54:00+00:00",
-"seen": "2026-10-23T15:43:20+00:00",
-"status": "unverified headline"
-},
-{
-"id": "55776965d02b",
-"t": "Datadog Reportedly Bids Nearly $4B For Cloud Security Startup Upwind To Fortify AI Defenses - Yahoo Finance",
-"u": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbGNxNVNYTzBqbE1Ha01jSnpGRVBIVHR5TkhMSVl0SDl4RDlqMDhYd3g2eUdJa1ZkRFhVRFhOT2gwLW5FbGl0bzEwUEt5VEZQOVhUVHB3bjhjZEhGLWlhRzhGcEtWNm5nTnpiT3l3bGk5OFQ3b1FHVFNtRXltVU8ybzlOYXIwc1lxTFFmN19vaE1ReW5aMzhGTGFjSkQydw?oc=5",
-"o": "Yahoo Finance",
-"via": "Google News: ai-deals",
-"lane": "search",
-"at": "2026-10-22T19:53:39+00:00",
-"seen": "2026-10-23T15:43:20+00:00",
-"status": "unverified headline"
-},
-{
-"id": "afdefc7cc17d",
-"t": "Did Datadog really offer $4 billion for Israeli cyber startup Upwind? - CTech",
-"u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9mQm9jQjNVOE5CdWNHZUNjeXMtbWxRdHRxVHBMTWpnTTVJcGRBeFpjZll2cFgydUdQY0VPSkRvdXVDN3kwNXlybjZ6aW5FaWt0N1BFQl8zclJvY2E1Ym5PdGJwMU1vb0E?oc=5",
-"o": "CTech",
-"via": "Google News: ai-deals",
-"lane": "search",
-"at": "2026-10-22T19:51:00+00:00",
 "seen": "2026-10-23T11:03:22+00:00",
 "status": "unverified headline"
 }
