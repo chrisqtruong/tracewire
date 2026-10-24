@@ -1,8 +1,18 @@
 {
 "name": "Tracewire",
-"updated": "2026-10-24T05:44:50+00:00",
+"updated": "2026-10-24T09:50:34+00:00",
 "note": "Unverified headlines collected automatically from public feeds. Not checked by Tracewire. Verified items appear in the Feed.",
 "items": [
+{
+"id": "013c63072247",
+"t": "Ray-Ban Meta Audio Review: The Best Smart Glasses",
+"u": "https://www.wired.com/review/ray-ban-meta-audio/",
+"o": "Wired",
+"lane": "news",
+"at": "2026-10-24T09:15:00+00:00",
+"seen": "2026-10-24T09:50:34+00:00",
+"status": "unverified headline"
+},
 {
 "id": "907b66f5b45a",
 "t": "Yukon mayor recall election fueled by data center angst, transparency concerns - NonDoc Media",
@@ -2167,17 +2177,6 @@
 "via": "Google News: dc-water",
 "lane": "search",
 "at": "2026-10-23T11:19:53+00:00",
-"seen": "2026-10-23T15:43:20+00:00",
-"status": "unverified headline"
-},
-{
-"id": "227005881935",
-"t": "Salesforce to acquire Braze for $5.6 billion - https://marketingreport.one/",
-"u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONmY2NXQ2cVdkRmFEVEZlQjFjY0hEbU1YNDlBek4tR0J1ZlJvYkQwcmp2OURBZHNGc2Q1bS1xWXFtT2lUcG9ubkk5b1ppekt3TDdZOFF2c1lGai1ZdUtPRm14Mkk1blJVSHNrTHBzc0hyaG5EOVpSVXY3bXh1WDRnZ05zNlByaldBQ05Bb1pjZnprTFNaR3pZRA?oc=5",
-"o": "https://marketingreport.one/",
-"via": "Google News: ai-deals",
-"lane": "search",
-"at": "2026-10-23T11:11:32+00:00",
 "seen": "2026-10-23T15:43:20+00:00",
 "status": "unverified headline"
 }
