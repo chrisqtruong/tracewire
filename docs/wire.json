@@ -1,8 +1,18 @@
 {
 "name": "Tracewire",
-"updated": "2026-10-25T16:45:46+00:00",
+"updated": "2026-10-25T19:19:42+00:00",
 "note": "Unverified headlines collected automatically from public feeds. Not checked by Tracewire. Verified items appear in the Feed.",
 "items": [
+{
+"id": "d3990852490c",
+"t": "Anthropic sued for allegedly using 274 Elvis Presley songs to train AI models",
+"u": "https://www.theguardian.com/us-news/2026/oct/25/elvis-presley-anthropic-lawsuit-ai-models-music",
+"o": "The Guardian",
+"lane": "news",
+"at": "2026-10-25T18:25:59+00:00",
+"seen": "2026-10-25T19:19:42+00:00",
+"status": "unverified headline"
+},
 {
 "id": "50dfdd117bf3",
 "t": "Data center development in Spartanburg County sparks ongoing protest. Here's what to know - WYFF",
@@ -2179,17 +2189,6 @@
 "via": "Google News: dc-incent",
 "lane": "search",
 "at": "2026-10-24T06:26:34+00:00",
-"seen": "2026-10-24T13:42:22+00:00",
-"status": "unverified headline"
-},
-{
-"id": "08a7414efc9e",
-"t": "GJ data center moratorium approved - The Grand Junction Daily Sentinel",
-"u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRURqSWt1ZnRKODVwR0xUNGdad1ptd1Y2QTR4UklJMk5BZl81S284MlVDXzlSRzFaUE50THV5U1FVdGxXLURWZmo5YU5sRm42WFpwV2VVcmh6ZVhxZko1WHgyMkQ1V2JrNXlTSzRUTVp2WEZZUkVlalJsMGZUYjVQMlY5cmUzXzBZdy1XUVplNHpjbVIyMDJBUkZZMjc2TXJxdTJsMHhwMjF3RThFT3pua3pWY193ZzdsQUJhTnd6NmFUZ1YtdUgzN0plaDRid9IB0wFBVV95cUxPQ1J5VDVycy1iWnZ1VmNNRmZFRGFya1JkNHNuc2hDZHY3R2gwVFU2dUd1QjlNUDRVd1JnZnhPSTdyVFNvVlhhTGhHSnpBdXhRWjk5V2RvS3h2UmRSY2JMbjJfMFVsT21KWm40MGR6ZTg3V2ZLSWgya3pYOTVyblVJQklJemlfUnZlNjJaaktWT29fMXFNeHAxVHA0QTdVTS1sN0puVlVvdGw4Z1JlaWh1c2ltUFJ2dzNzSHg0bncwQWNZNEN3VFN2dHlKQWlBMjVCSTU0?oc=5",
-"o": "The Grand Junction Daily Sentinel",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-10-24T06:15:00+00:00",
 "seen": "2026-10-24T13:42:22+00:00",
 "status": "unverified headline"
 }
