@@ -1,8 +1,28 @@
 {
 "name": "Tracewire",
-"updated": "2026-10-25T07:00:03+00:00",
+"updated": "2026-10-25T12:30:37+00:00",
 "note": "Unverified headlines collected automatically from public feeds. Not checked by Tracewire. Verified items appear in the Feed.",
 "items": [
+{
+"id": "3d6f230c375c",
+"t": "Poll: Data center backlash builds as midterms near",
+"u": "https://www.politico.com/news/2026/10/25/poll-data-centers-midterms-political-risk-01132260",
+"o": "Politico",
+"lane": "news",
+"at": "2026-10-25T11:00:00+00:00",
+"seen": "2026-10-25T12:30:37+00:00",
+"status": "unverified headline"
+},
+{
+"id": "14b3a965d4fb",
+"t": "What the US Movement Against Data Centers Can Learn From Abroad",
+"u": "https://www.wired.com/story/what-the-us-anti-data-center-movement-can-learn-from-everywhere-else/",
+"o": "Wired",
+"lane": "news",
+"at": "2026-10-25T10:00:00+00:00",
+"seen": "2026-10-25T12:30:37+00:00",
+"status": "unverified headline"
+},
 {
 "id": "e3a8681480c3",
 "t": "Gomez Urges Broadcasters to Push Back on Election-Year Intimidation",
@@ -2169,28 +2189,6 @@
 "via": "Google News: dc-zoning",
 "lane": "search",
 "at": "2026-10-23T21:06:16+00:00",
-"seen": "2026-10-24T01:03:41+00:00",
-"status": "unverified headline"
-},
-{
-"id": "33643585283e",
-"t": "AI-Related-Layoffs - TelegraphHerald.com",
-"u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWTNGUlpabGZNR0RpR2JoR2tGWFJWNldleVJnV1phS0hKaE5VWTdlTFBFWWxoTmdmUk5PeGpoNU8xU3dBTXYzSnp6ZXpvU2s0djB1TXY0UkVBR2ItMDNzS0FXdHV3bnFKd3dsZXpKY2QyMmFZUE9UTkhPSXVjUWdaMHhlYllVcVpMSGRnVHhXRnJEQzJCQVJtVA?oc=5",
-"o": "TelegraphHerald.com",
-"via": "Google News: labor",
-"lane": "search",
-"at": "2026-10-23T20:46:03+00:00",
-"seen": "2026-10-24T01:03:41+00:00",
-"status": "unverified headline"
-},
-{
-"id": "51343c2fd0ff",
-"t": "AI-backed super PAC supports Laurie Buckhout in key NC Race - Cardinal & Pine",
-"u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1XSlRWQVhETEprOHV0clZEOEVjTGpnUVdzRG82Q01oU09UX2g0SmpHbGIxNmRKOThDTXJWZm52cVlsRlo0U09qa3hOMUY1VG0tWEpRR2JlQzhEZmU4dVFwdGtaVnYyZ0o3cFl4VGlhVVhhOV8t?oc=5",
-"o": "Cardinal & Pine",
-"via": "Google News: money",
-"lane": "search",
-"at": "2026-10-23T20:43:44+00:00",
 "seen": "2026-10-24T01:03:41+00:00",
 "status": "unverified headline"
 }
