@@ -1,8 +1,18 @@
 {
 "name": "Tracewire",
-"updated": "2026-10-25T21:56:06+00:00",
+"updated": "2026-10-25T23:57:43+00:00",
 "note": "Unverified headlines collected automatically from public feeds. Not checked by Tracewire. Verified items appear in the Feed.",
 "items": [
+{
+"id": "226eb026b7b0",
+"t": "Data centre debate heats up ahead of US midterms - here's what you need to know",
+"u": "https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo?at_medium=RSS&at_campaign=rss",
+"o": "BBC",
+"lane": "news",
+"at": "2026-10-25T23:44:34+00:00",
+"seen": "2026-10-25T23:57:43+00:00",
+"status": "unverified headline"
+},
 {
 "id": "d3990852490c",
 "t": "Anthropic sued for allegedly using 274 Elvis Presley songs to train AI models",
@@ -2179,17 +2189,6 @@
 "lane": "search",
 "at": "2026-10-24T06:30:56+00:00",
 "seen": "2026-10-24T17:01:13+00:00",
-"status": "unverified headline"
-},
-{
-"id": "582c86483f29",
-"t": "Republican incumbent faces independent challenger in 46th state Senate race - Observer-Reporter",
-"u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOLTVjT21BQ1EzMHc3NVZJUUtkbHVmbXZKalp5TmpIYkxRTUdHWVM4cU5lbEJBVnpVVVo1bEZ0LWI3Wi1QY1pGajFpSFFVVkxNbmVFU05LaFJpZk1VSnhvcVBSZm9WbmVNaUVIbE9ocThBdHJhSFZyUk5pUmVQVEpTb01fOVNRdHR3VG1Bd1dNTS13RlRsTGdad1dfZkdMRmtCNkFkbld3YmowcUFjN3dVVjJtQ3ZjRFFNR21DdHFlTUZUUXFQV2hIX0VWRHpfLWNLSmI4ZA?oc=5",
-"o": "Observer-Reporter",
-"via": "Google News: dc-incent",
-"lane": "search",
-"at": "2026-10-24T06:26:34+00:00",
-"seen": "2026-10-24T13:42:22+00:00",
 "status": "unverified headline"
 }
 ]
