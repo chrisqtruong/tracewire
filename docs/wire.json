@@ -1,8 +1,49 @@
 {
 "name": "Tracewire",
-"updated": "2026-10-26T16:53:36+00:00",
+"updated": "2026-10-26T21:19:55+00:00",
 "note": "Unverified headlines collected automatically from public feeds. Not checked by Tracewire. Verified items appear in the Feed.",
 "items": [
+{
+"id": "98295673a19b",
+"t": "Anthropic’s IPO Filing Is Worried About Data Center Power, ESG Backlash, and California Wildfires",
+"u": "https://heatmap.news/energy/anthropic-ipo",
+"o": "Heatmap",
+"lane": "news",
+"at": "2026-10-26T20:05:12+00:00",
+"seen": "2026-10-26T21:19:55+00:00",
+"status": "unverified headline"
+},
+{
+"id": "fa0b44628b0e",
+"t": "Microsoft offers buyouts to around 60,000 employees to contain costs - Reuters",
+"u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOY3V6RnhJNUdQRC1uU19vNFk4YUR3MVlHbmpOdnUxMGo4R2RoWVhvXzAzTGczekw4akxaVjB3VzF4bHRhRFZFTFJ5eGY0ZGFOZ2NtcTBQa0RqZlgzVHlQb0pUcVJjN3RBM3lZTFhjaTNCM3JXLWxzR1F3NTZDLU0teHZyb2FpX2xzajM1UlpVVFRDTmhTRFhpeVR1WWxaT1dva0E0TEVoTjllb3hMSDVFVkRYTnpaQXRhZ0w3ZU9vR1hhQQ?oc=5",
+"o": "Reuters",
+"via": "Google News: reuters.com/technology",
+"lane": "search",
+"at": "2026-10-26T19:18:06+00:00",
+"seen": "2026-10-26T21:19:55+00:00",
+"status": "unverified headline"
+},
+{
+"id": "24063c118384",
+"t": "In Leaked Audio, Flock CEO Tells Cops Backlash to the Company Isn’t Real",
+"u": "https://www.404media.co/in-leaked-audio-flock-ceo-tells-cops-backlash-to-the-company-isnt-real/",
+"o": "404 Media",
+"lane": "news",
+"at": "2026-10-26T17:43:23+00:00",
+"seen": "2026-10-26T21:19:55+00:00",
+"status": "unverified headline"
+},
+{
+"id": "e2358621b2db",
+"t": "Highway thieves are spoofing GPS to steal millions in data center-bound cargo",
+"u": "https://arstechnica.com/tech-policy/2026/10/highway-thieves-are-spoofing-gps-to-steal-millions-in-data-center-bound-cargo/",
+"o": "Ars Technica",
+"lane": "news",
+"at": "2026-10-26T17:26:36+00:00",
+"seen": "2026-10-26T21:19:55+00:00",
+"status": "unverified headline"
+},
 {
 "id": "e3a8681480c3",
 "t": "Gomez Urges Broadcasters to Push Back on Election-Year Intimidation",
@@ -2145,50 +2186,6 @@
 "lane": "search",
 "at": "2026-10-25T13:53:47+00:00",
 "seen": "2026-10-26T10:26:05+00:00",
-"status": "unverified headline"
-},
-{
-"id": "3a7def3633e9",
-"t": "ENGIE’s North America Chief Says AI Boom Needn’t Raise Power Bills - TheEnergyMag",
-"u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRE1FTEdhTTJyS2M2RFl2ZUNjMndSbndwZTUwZ0V4aW1xcTdPdTZpejRKYVdFcWxhQXZlQlJrYzNOM0IzeWhUVjMyME1SYWQ0dDZYMndGZlBCeEZ4eUxkOEtfTnRjQUR2ZDAzdFF4dHJ6OHdtb0t2S2dFLWROOW5QOE1fVTRrdkRX?oc=5",
-"o": "TheEnergyMag",
-"via": "Google News: dc-utility",
-"lane": "search",
-"at": "2026-10-25T13:19:10+00:00",
-"seen": "2026-10-25T16:45:46+00:00",
-"status": "unverified headline"
-},
-{
-"id": "004454fc161a",
-"t": "DC's most powerful legal strategy crumbles under MAGA pressure - Alternet",
-"u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5DUUlSSkotZUFvazJCd3FXa2ltTndVWlFGTnJKRFNBWUFJVGpLTlBQVUF1TFM4M1VtZjJUVXhPcjhXdmU1SjFOLUNVejZWa0ZFeXNXag?oc=5",
-"o": "Alternet",
-"via": "Google News: antitrust",
-"lane": "search",
-"at": "2026-10-25T13:17:00+00:00",
-"seen": "2026-10-26T04:29:10+00:00",
-"status": "unverified headline"
-},
-{
-"id": "025f5013c81f",
-"t": "Getty Images files Chapter 11 after failed merger: what it means for Shutterstock stock - ad-hoc-news.de",
-"u": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPbjZJZUY1TjFmb2ppUmxGanZIeEFkc3NVQm5xaHNoSWlKY2lZNUhtTTljRWRvYjZzckI3SEdpNVhHLS1lbnpJaGlNTklac0NEOU9TcTlkQTF6cWtZUm9HN3NKVHdnejBqQXBTbThURGpPYXBvQlFVdlhNZVlLMGxlVlRUUy11dzVkR1pQSzl0WUcxVDJQNGZCbmdVUDd2ajR0Q3g4Qk5aZUpIN0hza0UwNTJyQzBjVWlwV2xieHZFU3U1Szk1QW53SzJQTUp5eERhd2Y0bWVfenh6R29Fc2M1TDd6MA?oc=5",
-"o": "ad-hoc-news.de",
-"via": "Google News: ai-deals",
-"lane": "search",
-"at": "2026-10-25T13:09:10+00:00",
-"seen": "2026-10-26T04:29:10+00:00",
-"status": "unverified headline"
-},
-{
-"id": "e473412d45cb",
-"t": "'Dead Within the Democratic Party': How AIPAC's Electoral Adventure Unraveled - Haaretz",
-"u": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOWXhXUUgxMWdIU2VZa0RYbG44ak1NOHhiUkRBR0o0N3FlNmhUWjFSMktzMWI1RXBOTkVvTVZreU9VekNVVUJYSVFOUmtKZjFYaWZWbDhCVFhfb191Uk5EeWtpSzVFc1J3SHc4dHZVeTZMUmtxODRaaENQVGVBMV81MWdJbC10YnRWelZhZGFGdkl0bFdOcV8xUmpLZnNtbTBDNEx3LWRQNVFWX0lxa0J0cnFPYzZnT05BUlVCdnBxOGwybXNjQzJiNWpic1ZxV3JZY2pzWHZCUkljM203WU9DUUc1Vi0wZFNvTmJ4cXZSc19LczBxbVJVOTBHTHFKSkJ1ZzNudnVjLVBONEtUZ2VB?oc=5",
-"o": "Haaretz",
-"via": "Google News: money",
-"lane": "search",
-"at": "2026-10-25T13:06:00+00:00",
-"seen": "2026-10-25T16:45:46+00:00",
 "status": "unverified headline"
 }
 ]
