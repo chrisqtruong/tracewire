@@ -1,8 +1,69 @@
 {
 "name": "Tracewire",
-"updated": "2026-10-26T10:26:05+00:00",
+"updated": "2026-10-26T16:53:36+00:00",
 "note": "Unverified headlines collected automatically from public feeds. Not checked by Tracewire. Verified items appear in the Feed.",
 "items": [
+{
+"id": "e3a8681480c3",
+"t": "Gomez Urges Broadcasters to Push Back on Election-Year Intimidation",
+"u": "https://www.fcc.gov/edoc/426167",
+"o": "FCC",
+"lane": "agency",
+"at": "2026-10-26T16:53:36+00:00",
+"seen": "2026-10-26T16:53:36+00:00",
+"status": "unverified headline"
+},
+{
+"id": "55eeb3b40ac1",
+"t": "Anthropic reveals $80 billion loss, surging revenue as it prepares to go public - The Washington Post",
+"u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNmtiU2pPX05WX0lNRndwX1E5VkZ5ejV6azhBVUpfWWJMM1RMeHcycHo5OGcyemtKZUVWOFdwQ3FYUW1zR2N0eEFqUEJPZ09JSkU0NzNZQzExX1FuMjRXaUtyODNSeDlRdWpsLVItdE01YXhwc0JreW5veWdHSUJXRjI5c0hTa0pmQ0ZKYzlVZGhKbmNmdlN6QTJjX3dRZU93LWZpVFc1UWppSEl5UlVrWnQ4SWsybkE?oc=5",
+"o": "The Washington Post",
+"via": "Google News: washingtonpost.com/technology",
+"lane": "search",
+"at": "2026-10-26T16:44:11+00:00",
+"seen": "2026-10-26T16:53:36+00:00",
+"status": "unverified headline"
+},
+{
+"id": "407a93573a86",
+"t": "Meta announces $95 billion stock offering to fund AI expansion",
+"u": "https://www.cnbc.com/2026/10/26/meta-stock-offering-ai.html",
+"o": "CNBC",
+"lane": "news",
+"at": "2026-10-26T14:05:36+00:00",
+"seen": "2026-10-26T16:53:36+00:00",
+"status": "unverified headline"
+},
+{
+"id": "8a7e0c60118d",
+"t": "DCD Studio: Equipping an AI future with Adrian Guggisberg, ABB",
+"u": "https://www.datacenterdynamics.com/en/videos/dcd-studio-equipping-an-ai-future-with-adrian-guggisberg-abb/",
+"o": "DatacenterDynamics",
+"lane": "news",
+"at": "2026-10-26T14:05:24+00:00",
+"seen": "2026-10-26T16:53:36+00:00",
+"status": "unverified headline"
+},
+{
+"id": "c2dedae5ef9f",
+"t": "Clean energy groups, states oppose MISO’s large load-generation study plan",
+"u": "https://www.utilitydive.com/news/miso-large-load-lars-ferc-google-oms/849887/",
+"o": "Utility Dive",
+"lane": "news",
+"at": "2026-10-26T13:58:16+00:00",
+"seen": "2026-10-26T16:53:36+00:00",
+"status": "unverified headline"
+},
+{
+"id": "ca2e05ea5c10",
+"t": "DCD Studio: AI’s power problem with Varun Sivaram, Emerald AI",
+"u": "https://www.datacenterdynamics.com/en/videos/dcd-studio-ais-power-problem-with-varun-sivaram-emerald-ai/",
+"o": "DatacenterDynamics",
+"lane": "news",
+"at": "2026-10-26T13:44:24+00:00",
+"seen": "2026-10-26T16:53:36+00:00",
+"status": "unverified headline"
+},
 {
 "id": "57ff9d3d844f",
 "t": "US political candidates tailor messages for AI models used by voters - The Economic Times",
@@ -2127,72 +2188,6 @@
 "via": "Google News: money",
 "lane": "search",
 "at": "2026-10-25T13:06:00+00:00",
-"seen": "2026-10-25T16:45:46+00:00",
-"status": "unverified headline"
-},
-{
-"id": "4c655f0f4ac2",
-"t": "Leidos Wins $95M DLA Contract to Modernize Asset Management System - WashingtonExec",
-"u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE00STNzTVlBcVpRcW1XSkhvWnZjUkZocHA5VW9CUWJkekdjUnRxeVMyaURBU2pCVHYwRXdaZVdBSWh1SE5vcnF4QW5zcW1WbkYyWWtLbUxPeHdvR0lPeVVIVGp0X3k1S2dTVmstNQ?oc=5",
-"o": "WashingtonExec",
-"via": "Google News: contracts",
-"lane": "search",
-"at": "2026-10-25T13:01:25+00:00",
-"seen": "2026-10-25T16:45:46+00:00",
-"status": "unverified headline"
-},
-{
-"id": "534bb540509a",
-"t": "Apple’s iPhone Duo, Musk’s Merger Challenge, AI Spending Questions and More: This Week in Tech - TradingView",
-"u": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOdlRDeFlqMFoxcE81eno5LTdTempwQXB2SWI2UkNuaUJNSU81YzJYTUpVb2lFYUpGRk1fbEp4enF0YlpsUHFSMjBrR0FxZGUxMWFVY1RBaVJkbEVhcmRFTG1Mbkw4WlJOa0lNWTJZN1VuazBBVGo5OTZLcEFkSFpRZ0ZNZmpILTEtdFQ2dVQxVnoybVJvYmtyU2RGU0RnTkF4UU9DQXJBMk9Na0RiWkpQQmM5aWh4RGE4a1ljZnBVTkVlOEdkMklfY1lSTnNSNndZaDE5dUtsbEdvcWp6clV4U0lsRTE?oc=5",
-"o": "TradingView",
-"via": "Google News: ai-deals",
-"lane": "search",
-"at": "2026-10-25T13:00:18+00:00",
-"seen": "2026-10-25T16:45:46+00:00",
-"status": "unverified headline"
-},
-{
-"id": "b6f4da4c5c3b",
-"t": "Meta’s Huntsville data center’s utility usage isn’t raising electric rates, company says - AL.com",
-"u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNkt3bHhSaDl2MlZTSHlyVVFMMkxfUDFnanZZQkVIaU5wLVNSeVJwMFJPVm5KdTlIZ2xVZjNKZVJRSERuT0lkQTdiMHMzS3dRR3hvLVJQR0JjMkViU005bUtFcG9yT0hZblhhZzVMWmIwanUyV3NxS25zMWNIUzJVdmo3MXF0QUR6Q3hodzFUYS1JWVFrZ3BjenJMbHQwUi1WbDkxTS1TMUdyTVVOWHFuUm94TTM3QUZhb0FUbTZ3OUwyUGxORGwzUHZwckM?oc=5",
-"o": "AL.com",
-"via": "Google News: dc-water",
-"lane": "search",
-"at": "2026-10-25T13:00:00+00:00",
-"seen": "2026-10-25T16:45:46+00:00",
-"status": "unverified headline"
-},
-{
-"id": "c8f898164866",
-"t": "Layoffs and AI agents lift monday.com 80% since April - Globes - Israel Business News",
-"u": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbkU3cTMyTjYxb2s4Nmt5XzFucnJYb1RYeGJhZTdYUlFYNzNIUms0UnlaM3YyVjBxbFlteWpPTWdRRXBRMVFwTzVJUHRiUGN0aGszeFNWRzNsS1RtejZubW5xakIyTDM4WmJ1d2MtQW1idU96VmNzekwwUTNYQTRfNzNCT01ucTZsX0Fnak5rMG5DY3IzWGxxMEFlUlF2dw?oc=5",
-"o": "Globes - Israel Business News",
-"via": "Google News: labor",
-"lane": "search",
-"at": "2026-10-25T12:54:53+00:00",
-"seen": "2026-10-25T16:45:46+00:00",
-"status": "unverified headline"
-},
-{
-"id": "63f724ceb1e4",
-"t": "Talbot County landowners prevail in legal data center dispute - Now Georgia",
-"u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNTN0V2VnZkpLNkNyaDRIUkRjSWdvS2ZKU3d0Yk1sbjBybVd3TmhmRlE2NlRpaVZZSlJjOTYxb3NYMlBLS3ZfcDkwOHZ1RVJHYXdtNURBUXFZTUpVTnh2aER0Ym1QM3FtY3VKN0dnN3R1aFZ6UWZacjdFaFJfMGFMX3dGMHZCdThBYjh1aXN3?oc=5",
-"o": "Now Georgia",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-10-25T12:39:54+00:00",
-"seen": "2026-10-25T16:45:46+00:00",
-"status": "unverified headline"
-},
-{
-"id": "235684a051f1",
-"t": "Hundreds rally at Capital Square urging moratorium on Virginia data center growth - WSET",
-"u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUjJZNml4WWl1RFdyTi1NWFdlQXJkYndWd0xPTkNSSENINUU5NncyTXVHb2xaTHBha0REc1Z2R0JTUzYyNTBMYVhubkk3TExVRU1ieTBfVzhKVl9oWThBMnQyRXZ5Q0EtTmFyaElfNzEtekJJTjcyUWF5cS1iY2J1MTFST1dDYlQzdmUxRmVQazc2Ykp3dGlGWHkyTGp2cFZKYmtPUTNSTWF5blFoaGdrS2wwaEJ2ZDFyQU8yckttOA?oc=5",
-"o": "WSET",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-10-25T12:32:27+00:00",
 "seen": "2026-10-25T16:45:46+00:00",
 "status": "unverified headline"
 }
