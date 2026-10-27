@@ -1,8 +1,79 @@
 {
 "name": "Tracewire",
-"updated": "2026-10-27T05:36:01+00:00",
+"updated": "2026-10-27T10:58:18+00:00",
 "note": "Unverified headlines collected automatically from public feeds. Not checked by Tracewire. Verified items appear in the Feed.",
 "items": [
+{
+"id": "192808a6e44d",
+"t": "OpenAI applies for federal permit to build portion of Effingham County, Texas, data center on wetlands - report",
+"u": "https://www.datacenterdynamics.com/en/news/openai-applies-for-federal-permit-to-build-portion-of-effingham-county-texas-data-center-on-wetlands-report/",
+"o": "DatacenterDynamics",
+"lane": "news",
+"at": "2026-10-27T10:45:00+00:00",
+"seen": "2026-10-27T10:58:18+00:00",
+"status": "unverified headline"
+},
+{
+"id": "16113b705e6b",
+"t": "Nvidia to invest $3 billion in Meta as tech giants deepen AI partnership",
+"u": "https://www.cnbc.com/2026/10/27/nvidia-invest-meta.html",
+"o": "CNBC",
+"lane": "news",
+"at": "2026-10-27T09:07:41+00:00",
+"seen": "2026-10-27T10:58:18+00:00",
+"status": "unverified headline"
+},
+{
+"id": "54850c3f4715",
+"t": "Anthropic IPO leads AI's $235 billion dealmaking blitz",
+"u": "https://www.axios.com/2026/10/27/anthropic-ipo-meta-spacex-ai-deals",
+"o": "Axios",
+"lane": "news",
+"at": "2026-10-27T09:00:04+00:00",
+"seen": "2026-10-27T10:58:18+00:00",
+"status": "unverified headline"
+},
+{
+"id": "7647cb7e62f4",
+"t": "The Power Challenge Behind Hyperscale AI Expansion",
+"u": "https://www.datacenterknowledge.com/energy-power-supply/the-power-challenge-behind-hyperscale-ai-expansion",
+"o": "Data Center Knowledge",
+"lane": "news",
+"at": "2026-10-27T09:00:00+00:00",
+"seen": "2026-10-27T10:58:18+00:00",
+"status": "unverified headline"
+},
+{
+"id": "d4c16ff94bb8",
+"t": "UK government met 137 businesses over AI datacentres – but no environmental groups",
+"u": "https://www.theguardian.com/uk-news/2026/oct/27/uk-government-environmental-groups-ai-datacentres-expansion-plans-investigation",
+"o": "The Guardian",
+"lane": "news",
+"at": "2026-10-27T07:00:04+00:00",
+"seen": "2026-10-27T10:58:18+00:00",
+"status": "unverified headline"
+},
+{
+"id": "0fb992d84836",
+"t": "Nvidia, Meta deepen AI ties with $3 billion investment deal - Reuters",
+"u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPS2Q3RzNwUk5IQWZ1NjIwYmxWV2xCVjZRQVk2OUQ3a1B5MWhKanZMZ3JyMHVRQ2MwSzRzZVZ4VmxNTGNKWDljd084OTRUSWcwNHdFYmduNTJ1RTAtcW0xRHVobW1BcVNQakJrT3paQkdQODl0dVoxZHNwYXhiVFJpclpNaVZrQ2lqRk5oMnBZYzlPOGc2alc3Q2szb2pDOWJhUDJXUA?oc=5",
+"o": "Reuters",
+"via": "Google News: reuters.com/technology",
+"lane": "search",
+"at": "2026-10-27T06:08:00+00:00",
+"seen": "2026-10-27T10:58:18+00:00",
+"status": "unverified headline"
+},
+{
+"id": "415aa97d276f",
+"t": "Data center backlash is uniting America",
+"u": "https://www.theverge.com/policy/1019152/data-centers-midterm-elections",
+"o": "The Verge",
+"lane": "news",
+"at": "2026-10-26T23:58:16+00:00",
+"seen": "2026-10-27T10:58:18+00:00",
+"status": "unverified headline"
+},
 {
 "id": "3ef8a1cabacc",
 "t": "Exclusive: Americans’ Opposition to Data Centers Has Finally Plateaued",
@@ -2102,83 +2173,6 @@
 "via": "Google News: dc-zoning",
 "lane": "search",
 "at": "2026-10-25T15:21:00+00:00",
-"seen": "2026-10-25T16:45:46+00:00",
-"status": "unverified headline"
-},
-{
-"id": "394295698e7c",
-"t": "The Next Front for Data Centers: Underwater - Sierra Club",
-"u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE04TEc1clZxQUZqSlZOd2hzcDBEc1RUbVBnVFFKUjlyNEVpMWlSYlhRRkNfVnI5amdyd1k1NXY1UHhrVkFSQzNEN0t1SnRzMkVWTmlhQXNCWjg2VTZrWTE1elFzVWs3M1dDMVhicE8wQk1lMHc0SVZB?oc=5",
-"o": "Sierra Club",
-"via": "Google News: dc-water",
-"lane": "search",
-"at": "2026-10-25T15:15:58+00:00",
-"seen": "2026-10-26T10:26:05+00:00",
-"status": "unverified headline"
-},
-{
-"id": "0eda252f5891",
-"t": "CPI | McCormick’s $44.8 Billion Unilever Food Deal Clears Key US Antitrust Hurdle - PYMNTS.com",
-"u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVXJWakNiMFh1MTZCZWFMWTdaM1V4ai1oMU5ybW5Oa3NzbVlSeFhOdkFEZW9abXR5TDVybVVUdURvVWo4SERLSC00NVdrSTVlSWdZYklQRWhBWEd3XzJRZEswMGczbUJsbm1DdmNMaTBhVmFYV1JXcUJ5dm5QaHUyOW9Ubmo1RC1hdVhQVnAwZ1V4c29oanpNcWhjc2lMVXRLdGF0RGc3QmVwZUk?oc=5",
-"o": "PYMNTS.com",
-"via": "Google News: antitrust",
-"lane": "search",
-"at": "2026-10-25T15:07:52+00:00",
-"seen": "2026-10-26T10:26:05+00:00",
-"status": "unverified headline"
-},
-{
-"id": "49827365ff89",
-"t": "Instacart explores potential sale, holds preliminary talks with Uber and DoorDash: Here's all about the deal - Livemint",
-"u": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQZTlJaTBIQnNTOElEVWxwMld4QnM3S3J6NDRwYnVNSUNualIzcW13RW1vdVh2aUNQT2t5TldNa2w4MUUtSVN0d1J4SDQzam1RdmJFV1kyc0hVNi1BMEVRWVdGRTZ0aWthYzhVcHlhUlpHWU44NHhDRVZjN2NaMTVxT2pNdkhyMy1Va29JZTl0aVczYnlRdk1LWEtMbWNoaHN4X2lWQl8xa05xZXV3V0JnamxGaVN4VzAxbTNuRTJhS193eTFTdXZ3Q0hEVHpSYWJ4OUhCLTJremVJaWs0aEphdG9CMXdFeW1OY0MzdWdNazNCMkl1Ml9XVdIB_gFBVV95cUxPcXFRTGNIdnNwaTdDaEIyVElUV0VVdGJTSExKVmQ3Y2dWY21iU1pFdkQ3SFluR1hZZ01Xa1k4WHd2OHBXdi05bFNBNmdzcUxtbzUxdHdycGxzZVVWNkVQbVhWRTktNEE5a0lCcER1Y1BCT2VNWEdPT1JiNndGcDlZb19Hd2VoaVZBT1lZSXZNTWloYkVuSU1OMkllbEhPTUdkbXd4QkZtSVRtOFhldENQbFlwTzdVZVRrSjlxa2pkQ2JOUnIya25UUHRidHU4SWFYMk9KR1ZGQWFLZG4xcWZHVG1lbGRPZE1OeHRqb2ZFWjJLbmlyWmZkblBjTmNSQQ?oc=5",
-"o": "Livemint",
-"via": "Google News: ai-deals",
-"lane": "search",
-"at": "2026-10-25T15:06:52+00:00",
-"seen": "2026-10-25T16:45:46+00:00",
-"status": "unverified headline"
-},
-{
-"id": "a7903a1e13d4",
-"t": "Dr Sam Illingworth (@samillingworth) - Substack",
-"u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE50a2pCTzFYaHBtZk95SHRvZ0pYOWFtSEtoT1dOZVgwajJqN0FGWHRlOWhfYWxHRE04T0hLQ21ELXM2SHlseVl0bG9KTTU2ZTdQWm5KVEJaVFNnSTdBVUc4Wk5fdw?oc=5",
-"o": "Substack",
-"via": "Google News: money",
-"lane": "search",
-"at": "2026-10-25T15:03:00+00:00",
-"seen": "2026-10-26T10:26:05+00:00",
-"status": "unverified headline"
-},
-{
-"id": "15a79df9170e",
-"t": "Howell Township to discuss data center rules Tuesday - thelivingstonpost.com",
-"u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSG5QZ2MtYkV5ZDY1SU0zV0hWNnZWMlJ5YnhMTnZjYXZzOXgtSS1RQ2ZJTldGam5LSEhkZUJSR2tGZW9UQ0hfTG1PY1FtTXZpM3Brd2REWkNjTDNtU2hoTFdsMlJzNGlqUGRocTBqXzl1MXF1X2Z5UVBYdzRfZ2ZiSUszWXNKOG56UVJn?oc=5",
-"o": "thelivingstonpost.com",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-10-25T14:56:04+00:00",
-"seen": "2026-10-25T16:45:46+00:00",
-"status": "unverified headline"
-},
-{
-"id": "334fc14c7b46",
-"t": "Generac Q3 Earnings Preview: Can The Amazon AI Deal Deliver A Major Beat? - 24/7 Wall St.",
-"u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPc3ZIN1l4bnlFa0lkc1AtTl83cTl3NFRoT0doVExFNVZkbFFaMzJzU3Mzd1VkSUZ1dUJtVHczOERuOUZ6UkwtT25wdWZveDVNUnctWW9RdUZucFViektYUEx3R2dCVzRhWU10bkJhMUp5RTFTUEo5Z0l5c2h4ZkdpazR0SVMyaUFrX1pQdUJnRzVvb0JDRGctYzgtU3JYOUtQMmItOEtFbGFzRzlQV2hkME4wcFdVUQ?oc=5",
-"o": "24/7 Wall St.",
-"via": "Google News: dc-utility",
-"lane": "search",
-"at": "2026-10-25T14:53:41+00:00",
-"seen": "2026-10-25T16:45:46+00:00",
-"status": "unverified headline"
-},
-{
-"id": "b940007ba03e",
-"t": "David Colton | Analysis: Where do they put a data center in Augusta County? - Augusta Free Press",
-"u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQazV6MkRqb2tGWGozYWswMDhIc0p0RjBCRllYT3lRejlHTkdBUXF6WlNUd3hDOTAtcTJKV2xMR1o5ZWxZcVp0eVlHNTI1SHh4QXdGdGhZY2xIaDRyTm03cjZneGxBUFlKNFBYc3dYZFFLMmhqOEhJVXItbks1c3RKSVdLbzdhSXVaMDBSNnhQdzFIa0FMSFRhOVlUUnd0akFOdkh2RnZWdm5uUQ?oc=5",
-"o": "Augusta Free Press",
-"via": "Google News: dc-water",
-"lane": "search",
-"at": "2026-10-25T14:39:39+00:00",
 "seen": "2026-10-25T16:45:46+00:00",
 "status": "unverified headline"
 }
