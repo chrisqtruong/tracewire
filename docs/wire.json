@@ -1,8 +1,38 @@
 {
 "name": "Tracewire",
-"updated": "2026-10-26T21:19:55+00:00",
+"updated": "2026-10-27T00:37:20+00:00",
 "note": "Unverified headlines collected automatically from public feeds. Not checked by Tracewire. Verified items appear in the Feed.",
 "items": [
+{
+"id": "3ef8a1cabacc",
+"t": "Exclusive: Americans’ Opposition to Data Centers Has Finally Plateaued",
+"u": "https://heatmap.news/daily/data-center-polling-october-2026",
+"o": "Heatmap",
+"lane": "news",
+"at": "2026-10-26T23:35:10+00:00",
+"seen": "2026-10-27T00:37:20+00:00",
+"status": "unverified headline"
+},
+{
+"id": "69cda18d8ca1",
+"t": "Climate Activists Celebrate Lula’s Win in Brazil, but Warn the Fight Is Far From Over",
+"u": "https://insideclimatenews.org/news/26102026/brazil-presidential-election-environmental-victory/",
+"o": "Inside Climate News",
+"lane": "news",
+"at": "2026-10-26T22:35:59+00:00",
+"seen": "2026-10-27T00:37:20+00:00",
+"status": "unverified headline"
+},
+{
+"id": "96b9f45bb2e6",
+"t": "Anthropic is burning gas to feed the AI boom",
+"u": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk",
+"o": "The Verge",
+"lane": "news",
+"at": "2026-10-26T21:45:31+00:00",
+"seen": "2026-10-27T00:37:20+00:00",
+"status": "unverified headline"
+},
 {
 "id": "98295673a19b",
 "t": "Anthropic’s IPO Filing Is Worried About Data Center Power, ESG Backlash, and California Wildfires",
@@ -63,6 +93,16 @@
 "lane": "search",
 "at": "2026-10-26T16:44:11+00:00",
 "seen": "2026-10-26T16:53:36+00:00",
+"status": "unverified headline"
+},
+{
+"id": "3fe3d1a43ad4",
+"t": "The Pentagon Has a Big Tech Problem",
+"u": "https://techpolicy.press/the-pentagon-has-a-big-tech-problem",
+"o": "Tech Policy Press",
+"lane": "news",
+"at": "2026-10-26T14:42:57+00:00",
+"seen": "2026-10-27T00:37:20+00:00",
 "status": "unverified headline"
 },
 {
@@ -1345,6 +1385,26 @@
 "status": "unverified headline"
 },
 {
+"id": "4b3105e1aa07",
+"t": "Outbound Investment Security Program Regulations",
+"u": "https://www.federalregister.gov/documents/2026/10/26/2026-21786/outbound-investment-security-program-regulations",
+"o": "Federal Register",
+"lane": "agency",
+"at": "2026-10-26T00:00:00+00:00",
+"seen": "2026-10-27T00:37:20+00:00",
+"status": "unverified headline"
+},
+{
+"id": "ef91d8efb222",
+"t": "Cooperative Research and Development Agreement: Super Intelligence (SI) Situational Awareness Tools for Analyzing Coast Guard (CG) Sensor Feeds for Search and Rescue (SAR)",
+"u": "https://www.federalregister.gov/documents/2026/10/26/2026-21723/cooperative-research-and-development-agreement-super-intelligence-si-situational-awareness-tools-for",
+"o": "Federal Register",
+"lane": "agency",
+"at": "2026-10-26T00:00:00+00:00",
+"seen": "2026-10-27T00:37:20+00:00",
+"status": "unverified headline"
+},
+{
 "id": "b4cd2da2646c",
 "t": "The Pentagon's Rare Earth Deadline Is Almost Here. Is Anyone Ready - Crude Oil Prices Today | OilPrice.com",
 "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOY2s1STYyakd5UVNLNDltNzk0S1VWM19FZ3N5TWlYOUxlR1dESmVRU0FzZFB1ZTEwVThPZDFRcUtKOXhCemM3dnREcTZkYVNiNEtVWmktSWlHQlcxaUEzcVBTanJ1Q0p5OHBsdzR0QWk1T3lDVm1fdFh4MV9mUW9xbElZOFVnYlRTMDJMRUpUMl9XbFYyV21sN1gtS0VKQjVuS21DSmVURFdyRnRaOFlyVWRWdjJrWkHSAbcBQVVfeXFMTmNrNUk2MmpHeVFTSzQ5bTc5NEtVVjNfRWdzeU1pWDlMZUdXREplUVNBc2RQdWUxMFU4T2QxUXFLSjl4QnpjN3Z0RHE2ZGFTYjRLVVppLUlpR0JXMWlBM3FQU2pydUNKeThwbHc0dEFpNU95Q1ZtX3RYeDFfZlFvcWxJWThVZ2JUUzAyTEVKVDJfV2xWMldtbDdYLUtFSkI1bkttQ0plVERXckZ0WjhZclVkVnYya1pB?oc=5",
@@ -2120,72 +2180,6 @@
 "lane": "search",
 "at": "2026-10-25T14:39:39+00:00",
 "seen": "2026-10-25T16:45:46+00:00",
-"status": "unverified headline"
-},
-{
-"id": "baf64ac04616",
-"t": "'AI Labor Disruption': Goldman Sachs Forecasts Layoffs Will Displace Nine Percent of Staff Globally - International Business Times UK",
-"u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMXBlTVJqR3lwRWJHOXNkTDE5Q0lUOFFHeWI0bzNNYzc4ZGstcFZNWFhFaEY5dURZeUltRm5YSG91SEg4UXktbDl4MklFcUlsTVN5b1pheVJRV2NKRnFOcEY2Qk44ellBRnQ1akFtLU04TnAtc3A0VnVLbDhmSExJSWJnY3V2TkVuTE92VzNaZjRPRFJ4VWRiNlNFZlZtdkkwSW1mekV6eE5PUE84bEF4cWhHZnZaY1c3Z0twZ1JZcEpOVmYxS2c?oc=5",
-"o": "International Business Times UK",
-"via": "Google News: labor",
-"lane": "search",
-"at": "2026-10-25T14:24:00+00:00",
-"seen": "2026-10-25T16:45:46+00:00",
-"status": "unverified headline"
-},
-{
-"id": "04fa807e8f3b",
-"t": "Infosys shares fall 6.6% after growth forecast cut despite AI gains - finchannel",
-"u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMWZwV2YxVjdCZmR3dk1WTnI3cGFzT3c3eTZlV05MN0NobEdrblhwZDBiMXRXdDBxaGNKbFp0bDlYOHByS2NObGUxd0wwU0JEZFBicmxSWnBfdjhHMkxjY0JjUU1qYVEzcnZmYW41aWVLMFNrbkZCYjZ2Q1NMMW5kN0FkQ1RyaWEydnJxXzVrdHJoTml6NDk1UlQxNHU2SFVuMThrVzU4NnhNUmc2X3RnTU9JWjgzZGRLY1kzV0I0Q29ld2luTU9ZNGR3?oc=5",
-"o": "finchannel",
-"via": "Google News: contracts",
-"lane": "search",
-"at": "2026-10-25T14:03:59+00:00",
-"seen": "2026-10-25T16:45:46+00:00",
-"status": "unverified headline"
-},
-{
-"id": "1e8e73e3a24c",
-"t": "Strip Nvidia, Broadcom Margins and a Gigawatt Costs $20B - FourWeekMBA",
-"u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObGtzUUhwZUR5cU9iSkFIdE9YNWxLSEMzMmZEWUFjNnl5THVlMExxc000M0xnQjg0ejRYTnRaLTR2S1V5VWpqcFZrdlN1ZVZ6R24zbThmZklidlU0WElVNGJKLUZZMHNCTU9fVVQ4VTlOczBMLXRXZzBORWdkSnNySmxGSnlvLXVZbWc?oc=5",
-"o": "FourWeekMBA",
-"via": "Google News: antitrust",
-"lane": "search",
-"at": "2026-10-25T14:03:12+00:00",
-"seen": "2026-10-26T04:29:10+00:00",
-"status": "unverified headline"
-},
-{
-"id": "580eae5e745f",
-"t": "The AI Data Center Lie Is Falling Apart Dave Challinor (2j1ZYnQFBB) - Unisba Media",
-"u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE14bXo3NkhlQU9UbjhaWFl6a1FYa0NBRnhIbVp2eHkzOXp2RUQ1T0dhb0hQeU4zcWxHdEdueXZUT2pXa1cxOHNfR2NXRmV0c2ZXQ3YteGhhMFVKaUNmeFg5X2ozZjc0Zw?oc=5",
-"o": "Unisba Media",
-"via": "Google News: dc-utility",
-"lane": "search",
-"at": "2026-10-25T13:54:14+00:00",
-"seen": "2026-10-26T04:29:10+00:00",
-"status": "unverified headline"
-},
-{
-"id": "7c3fa05a0b08",
-"t": "Disney plans $60M annual payout for 66 Character.AI staff - scanx.trade",
-"u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZ29QTmo3bjNrOHBIUUVZNGdLX1pBX2RKMzJiOUJYY212dmstWng4U1V0ZEJFbzR3LWg1WDJpS0FmbE1PWkVnR3NLekJmNjd5cGpqN0M4NnFlY0czbmhKNmJoSDFFWEg2LVRwMmFWbnphY2xIOTB3cW1wU1NIS25xel9jWmtEYkg2bTR3UFVkTjctRUtOUlFmNEx6My1Pcy1Valp5RmlTZGZXNHpM?oc=5",
-"o": "scanx.trade",
-"via": "Google News: ai-deals",
-"lane": "search",
-"at": "2026-10-25T13:53:55+00:00",
-"seen": "2026-10-26T04:29:10+00:00",
-"status": "unverified headline"
-},
-{
-"id": "58f4a92edcdc",
-"t": "Behind The Xbox Shakeup: Why Microsoft Is Cutting Thousands Of Gaming Jobs Now - Goodreturns",
-"u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZ0dxa2lKMnVnSkk2Y0R6a3U5LXVzb0h5RVNuSmoyVl9EaDByMk9uMzlMTnRGRkJScVEwOG9SNDFEaFlRUnM4Uk1rT242S2dlbzVDUlMxTHI1ZlQxSlZQUU1KdnZfaTdaMW02MVBFejVsWWRGbUFObG9PWmpjTTZUdnJXUmFxcXNRS1FRNXVvUUFFcGJjenJROEMtSkdzOXdoRzRaS0RJaFlHTk1wSkt1d0Q5TFFyLW1Ea2lGVENkY2R4bWVsWDJ1TFoxTHFYdFpCUDlWTmZQOFRuYlZL?oc=5",
-"o": "Goodreturns",
-"via": "Google News: labor",
-"lane": "search",
-"at": "2026-10-25T13:53:47+00:00",
-"seen": "2026-10-26T10:26:05+00:00",
 "status": "unverified headline"
 }
 ]
