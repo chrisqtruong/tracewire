@@ -1,8 +1,138 @@
 {
 "name": "Tracewire",
-"updated": "2026-10-28T17:25:05+00:00",
+"updated": "2026-10-28T21:50:28+00:00",
 "note": "Unverified headlines collected automatically from public feeds. Not checked by Tracewire. Verified items appear in the Feed.",
 "items": [
+{
+"id": "deaaa8c4cb64",
+"t": "FCC to Modernize Rules for American Drone Dominance, Airspace Sovereignty, and Advanced Air Mobility",
+"u": "https://www.fcc.gov/edoc/426286",
+"o": "FCC",
+"lane": "agency",
+"at": "2026-10-28T21:50:28+00:00",
+"seen": "2026-10-28T21:50:28+00:00",
+"status": "unverified headline"
+},
+{
+"id": "e321eb238571",
+"t": "Carr Announces Vote to Permit Prisons to Jam Contraband Cellphones",
+"u": "https://www.fcc.gov/edoc/426249",
+"o": "FCC",
+"lane": "agency",
+"at": "2026-10-28T21:50:28+00:00",
+"seen": "2026-10-28T21:50:28+00:00",
+"status": "unverified headline"
+},
+{
+"id": "39283b8f4fac",
+"t": "Chairman Carr Announces Commissioner Trusty Will Lead Rollout and Implementation of U.S. Cyber Trust Mark Program",
+"u": "https://www.fcc.gov/edoc/426240",
+"o": "FCC",
+"lane": "agency",
+"at": "2026-10-28T21:50:28+00:00",
+"seen": "2026-10-28T21:50:28+00:00",
+"status": "unverified headline"
+},
+{
+"id": "7cabfebbba1c",
+"t": "Carr Proposes Crackdown on Bad Actors' Access to U.S. Phone Numbers",
+"u": "https://www.fcc.gov/edoc/426264",
+"o": "FCC",
+"lane": "agency",
+"at": "2026-10-28T21:50:28+00:00",
+"seen": "2026-10-28T21:50:28+00:00",
+"status": "unverified headline"
+},
+{
+"id": "f9d1493b929c",
+"t": "Microsoft recorded $10 billion in revenue from OpenAI",
+"u": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+"o": "TechCrunch",
+"lane": "news",
+"at": "2026-10-28T21:34:30+00:00",
+"seen": "2026-10-28T21:50:28+00:00",
+"status": "unverified headline"
+},
+{
+"id": "2961071ca586",
+"t": "Fourth Circuit weighs minors’ First Amendment rights in challenge to Virginia social media law",
+"u": "https://www.courthousenews.com/fourth-circuit-weighs-minors-first-amendment-rights-in-challenge-to-virginia-social-media-law/",
+"o": "Courthouse News Service",
+"lane": "news",
+"at": "2026-10-28T21:02:30+00:00",
+"seen": "2026-10-28T21:50:28+00:00",
+"status": "unverified headline"
+},
+{
+"id": "0043d35930ac",
+"t": "Apple charges $14,549 for a fully specced touchscreen MacBook Pro",
+"u": "https://www.theverge.com/tech/1021308/apple-touchscreen-macbook-pro-proled-xdr-fully-specced",
+"o": "The Verge",
+"lane": "news",
+"at": "2026-10-28T20:12:44+00:00",
+"seen": "2026-10-28T21:50:28+00:00",
+"status": "unverified headline"
+},
+{
+"id": "d623f0037e45",
+"t": "Court Should Curb Abuse of Grand Jury Subpoenas Targeting Social Media Users",
+"u": "https://www.eff.org/deeplinks/2026/10/court-should-curb-abuse-grand-jury-subpoenas-targeting-social-media-users",
+"o": "EFF",
+"lane": "news",
+"at": "2026-10-28T19:48:20+00:00",
+"seen": "2026-10-28T21:50:28+00:00",
+"status": "unverified headline"
+},
+{
+"id": "0b818dc6c8fd",
+"t": "Foreign gadget bans: all the news about the FCC’s clampdown on Chinese tech",
+"u": "https://www.theverge.com/policy/1019851/fcc-foreign-gadget-ban-drone-robot-roomba-storystream",
+"o": "The Verge",
+"lane": "news",
+"at": "2026-10-28T19:37:31+00:00",
+"seen": "2026-10-28T21:50:28+00:00",
+"status": "unverified headline"
+},
+{
+"id": "ea370fdd96af",
+"t": "Anthropic just launched tools to show companies what their AI spending is buying",
+"u": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+"o": "TechCrunch",
+"lane": "news",
+"at": "2026-10-28T19:19:58+00:00",
+"seen": "2026-10-28T21:50:28+00:00",
+"status": "unverified headline"
+},
+{
+"id": "89f9168e39db",
+"t": "In North Carolina, a ‘Mountain Democrat’ Vies for Residents Still Hurting From Helene",
+"u": "https://insideclimatenews.org/news/28102026/in-north-carolina-a-mountain-democrat-vies-for-residents-still-hurting-from-helene/",
+"o": "Inside Climate News",
+"lane": "news",
+"at": "2026-10-28T18:59:36+00:00",
+"seen": "2026-10-28T21:50:28+00:00",
+"status": "unverified headline"
+},
+{
+"id": "d04bd8b31b0b",
+"t": "Ninth Circuit probes arrestee bodily privacy",
+"u": "https://www.courthousenews.com/ninth-circuit-probes-arrestee-bodily-privacy/",
+"o": "Courthouse News Service",
+"lane": "news",
+"at": "2026-10-28T18:50:59+00:00",
+"seen": "2026-10-28T21:50:28+00:00",
+"status": "unverified headline"
+},
+{
+"id": "b508861e5e40",
+"t": "Florida county won’t investigate sketchy Flock cameras removed by mystery owners",
+"u": "https://arstechnica.com/tech-policy/2026/10/florida-county-wont-investigate-sketchy-flock-cameras-removed-by-mystery-owners/",
+"o": "Ars Technica",
+"lane": "news",
+"at": "2026-10-28T17:37:49+00:00",
+"seen": "2026-10-28T21:50:28+00:00",
+"status": "unverified headline"
+},
 {
 "id": "058ea7619180",
 "t": "Data Centers and the Military Are Buying Polaris’ Off-Road Vehicles - 24/7 Wall St.",
@@ -77,6 +207,16 @@
 "lane": "news",
 "at": "2026-10-28T16:48:21+00:00",
 "seen": "2026-10-28T17:25:05+00:00",
+"status": "unverified headline"
+},
+{
+"id": "a8ab5dc12242",
+"t": "CMS Energy CEO predicts data center ‘progress’ after midterms",
+"u": "https://www.utilitydive.com/news/cms-energy-ceo-predicts-data-center-progress-after-midterms/873057/",
+"o": "Utility Dive",
+"lane": "news",
+"at": "2026-10-28T16:46:53+00:00",
+"seen": "2026-10-28T21:50:28+00:00",
 "status": "unverified headline"
 },
 {
@@ -372,6 +512,16 @@
 "lane": "search",
 "at": "2026-10-28T14:18:13+00:00",
 "seen": "2026-10-28T17:25:05+00:00",
+"status": "unverified headline"
+},
+{
+"id": "8a3b5ee6f29a",
+"t": "How a grocery merger could expand a surveillance network",
+"u": "https://www.theverge.com/policy/1020187/kroger-grocery-merger-surveillance",
+"o": "The Verge",
+"lane": "news",
+"at": "2026-10-28T14:17:08+00:00",
+"seen": "2026-10-28T21:50:28+00:00",
 "status": "unverified headline"
 },
 {
@@ -2019,170 +2169,6 @@
 "via": "Google News: dc-zoning",
 "lane": "search",
 "at": "2026-10-28T02:55:00+00:00",
-"seen": "2026-10-28T05:41:56+00:00",
-"status": "unverified headline"
-},
-{
-"id": "41e3ff6e777e",
-"t": "Bulloch County Data Center Committee holds first meeting - WSAV-TV",
-"u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVWhSR1JfTjBqVmEyZUJCSDJ5dE1MWlhQOS04cmVObHIwVmcwa2F1Y2xEQjZkZlVNekZCNjN3QmhOTTllcXVmODVwZXVnQUVHYmVxandVLVV6QW5QOG80T3JFckdSN2JqdEQtelJfaTdGMHl2RV8tQzJHam1GQ2c4LUhIeDkzY0hocERMaU5XY2J2TlVBLUMxZllNQdIBoAFBVV95cUxNWlktWVVfLWs1RndfZUFSTGViWk1mVkxoRlBxZkE3WThHb2ZSMWJ2cHQwUXpqYldiTDA1YzdMLVB6am1saU80VHlDMks3LUxuQlJzUE56R1g5cGxUQWdoQmROOHRkYi1aS3VhQXBVTHZ6anhRb0kwQmlyVGdFZ0VjUHJ3eGFXdER5cEplMVltelAwRGRIT3pPUjhFRWNLME43?oc=5",
-"o": "WSAV-TV",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-10-28T02:51:42+00:00",
-"seen": "2026-10-28T05:41:56+00:00",
-"status": "unverified headline"
-},
-{
-"id": "0b167620807d",
-"t": "Salem supers OK data center district expansion; new micro-hospital promised - The Citizens' Voice",
-"u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUWw1NDdUTDFiWUMwYjFZdGk0ellfQVExckdUd0RqYUM1ZmgzVkVodU1yZU9YenJSbHJuREFVRW5JZmhDeGhndEpScUIya1hPa0tNVkNlV3RSVnF4ZGVpVm9hLWp0LWFzWXZRUXhSbXdpdHppNHFPTzBIWUhPX1R3a0JhTWxTdF9BQmFvV3h6MmlhWVdMVUhJZkJXMVduRVJwTkNycDRYTVFmanh6bkRTUUFkMlVoeXM?oc=5",
-"o": "The Citizens' Voice",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-10-28T02:48:20+00:00",
-"seen": "2026-10-28T05:41:56+00:00",
-"status": "unverified headline"
-},
-{
-"id": "251d4b3f0388",
-"t": "Bartow County site eyed for new data center development - FOX 5 Atlanta",
-"u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcnpaU2F5MGprN3pNY3dCWEVNVGMwUlRybFB4TGpUbFZ5Wktla29JUWwtSmZoWWRKUDZDVzFsTFZoMDNFODdfbnRmVUlVMDRybWVwdHlWT0w0SmlmM1pWTk4zX1BOSWE0ejZzelY3MEItZUNIc2R6dWNFT3pTOE44NlhaTGNoWmgwVTd1YVhvc2szSW1QbXdLbFlB0gGfAUFVX3lxTE1RRkc1ZkxnSS1IdF90MnZfZWtnODgwN1N0QnJyazFWLUQ5M1B5TGkydTBpbHJ3V0YxR3paMFhkZmVkRC04cHJKZjY1XzVpbUZ1c3Q0SHhqbmJCWnJIZnVPNTNlNURvMHJOSWlSc1EzcFVYZ2NaNTFmTVBLM2pLZ0sxRlh0TTZjeXdBX2U5amhKWlpSaVZYOTdrWGhOTkdfYw?oc=5",
-"o": "FOX 5 Atlanta",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-10-28T02:47:07+00:00",
-"seen": "2026-10-28T05:41:56+00:00",
-"status": "unverified headline"
-},
-{
-"id": "9113e066735e",
-"t": "City council stokes further ire among residents as data center debate gets white-hot - 9News",
-"u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYjFVOF9mNjZyZ0Ffd0VtakVPQUMzQ2xvX08tQVZpUFB4VXhmdE4wT19ZTERfYlA2bHNDSnFocEpQa1lZeTlhVkpqc01XcGVTd3JCTUw3SzFDM2xmdTB6U1VlWHplWGpRX1BCT2g5ZjlsOFczbUtPcG9KRGswWjhfV3ROanlZQnpfcVFmcF9fLXUwdm5WTWY2bVZSS2NXQzRsRDgtSVEzZnhLeTh3NGVLdEJwTnFvMmthYU5DZS1BQUE3OXY2MTQzTjJMZm1zTUU?oc=5",
-"o": "9News",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-10-28T02:41:00+00:00",
-"seen": "2026-10-28T05:41:56+00:00",
-"status": "unverified headline"
-},
-{
-"id": "6ceb00521599",
-"t": "US agency is again probing if Polymarket broke 2022 settlement, sources says - The Economic Times",
-"u": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPRmI0WUZrZEtDT3c1a3BVMG5LNG1VdGk1UERZc3ZmZEpyZENsUVpxaVpNOWdSTEJsOXBkQjh5LTB6UWpPcHExWG5fXy1tZEE4MkZNV1gyMUQ1ZUZRR2FQQnJkMGNCRUhubk9IZ0UyY1hrMzRER2FFY0c3aDFMaDNuTEQ1MV9fczdmSHBBa0dNUndpRE5CYThXSlpOSlhvano4Q2gzT2l3Wmkxd2ZoeEtVMVhQdXI5MldZbkFPQU56RldqeE5kVjhBTm1YOUdfd2RMNFlmZzVsMS1TUllaX2fSAeMBQVVfeXFMTm5KUzYtQ0pmamg2enBld0UzTnBZMzdSeFBqcEl2Nk1WZmJ2WlRZTFBTS3YzT1cyUHk3aHI1UzNieWwyNndpeG00OV9mNFFwMnVQdUtzV2hQZjFzS0RvLVZISTNobTlOVjBWUGpsdjJqZFB0NGZwbG5NSmF4R3B4M0E2QmItamRQRno2dmxEWV9XanA3UE1WYXVYNDNTZTJXRERmdkZzdGVMUWV4czNtaWNZU09JT2tnUG8wREtjZ2l0Vk40SEl0aTYwMjYxN3UwcnhtMy1idDZPN2tKdmRaRnFiNDQ?oc=5",
-"o": "The Economic Times",
-"via": "Google News: privacy",
-"lane": "search",
-"at": "2026-10-28T02:38:36+00:00",
-"seen": "2026-10-28T05:41:56+00:00",
-"status": "unverified headline"
-},
-{
-"id": "be0d25018ff8",
-"t": "Bulloch County data center committee asks for more time before moratorium expires - WJCL",
-"u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVXltNDZVUE9EeGNub0I0UHVWTnFGdGVzMnU4TENObkpGZ0UyT2ZBSkZ5MVhlYTdWMEtEbjREb05mLU1tUUxlVGJkeWFWRk14cVU3dDdFMUZBYkNKeEdEblhJcmlpQ3ZQRjQ3bGhYMVNraWlEOWdiRGlERUYzU05HSHpQWEZPQkFzU3ladkV3?oc=5",
-"o": "WJCL",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-10-28T02:38:00+00:00",
-"seen": "2026-10-28T05:41:56+00:00",
-"status": "unverified headline"
-},
-{
-"id": "503e0825006b",
-"t": "LG Uplus, Ecolab Korea team up to set AI data center cooling standards - The Korea Times",
-"u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOV2FNalZHcUQ1Y1FRUXgwNl9QWXMwbzB5ejJNV2w0OHE3RWhVMXN2MHo5ZFhDZm5Dc0pUbUdCSVJQcUR6S0RJTnJid1BfX2Y0TldDX0lfYXRTT1pHcHhlbFhjMmtvdUExYVVFWEYtZmNZNG9GMGxqWk5KbXY0R1g0QV9ISDlrbks3R0w1a1ljS2JuQWJHbEI5XzRQRWxOZjFJeElyVmtqNlRkVnB1SXVXY3FVVnc4aUJsSmwtLVJqOC1fV3FvSFh5anJn0gHKAUFVX3lxTE5XYU1qVkdxRDVjUVFReDA2X1BZczBvMHl6Mk1XbDQ4cTdFaFUxc3YwejlkWENmbkNzSlRtR0JJUlBxRHpLRElOcmJ3UF9fZjROV0NfSV9hdFNPWkdweGVsWGMya291QTFhVUVYRi1mY1k0b0YwbGpaTkptdjRHWDRBX0hIOWtuSzdHTDVrWWNLYm5BYkdsQjlfNFBFbE5mMUl4SXJWa2o2VGRWcHVJdVdjcVVWdzhpQmxKbC0tUmo4LV9XcW9IWHlqcmc?oc=5",
-"o": "The Korea Times",
-"via": "Google News: dc-water",
-"lane": "search",
-"at": "2026-10-28T02:36:04+00:00",
-"seen": "2026-10-28T05:41:56+00:00",
-"status": "unverified headline"
-},
-{
-"id": "6fbac45a6f2b",
-"t": "South Korea’s rich lobbying spree isn’t paying off in DC - Asia Times",
-"u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSklYbGZBOURSaGpYQjl2c1JwYk42ZGYzQWxiVDhtYUxUc0tQemhnTGtFRVpEOElwSHd3S3VsTW1yMDdsZGp0MTJQc2o3Rkk4a0ZGd3NLSjNYUWdKOERjVUtoQWJlaW8xbEd5T0VlUWUzODhiVERVSnFySDV2ZFU4czlhdjU1WmpjWG9RcVZ3?oc=5",
-"o": "Asia Times",
-"via": "Google News: money",
-"lane": "search",
-"at": "2026-10-28T02:31:00+00:00",
-"seen": "2026-10-28T17:25:05+00:00",
-"status": "unverified headline"
-},
-{
-"id": "3177b101490b",
-"t": "Data center next door divides old Massachusetts mill town - Bangladesh Sangbad Sangstha (BSS)",
-"u": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE00aVFVbVJDb3JUdEthaUNFcWxaUXJUaXBiOHVOMnlQZHhrWkZ3b0NrMFhQeDZzUmR2ZUtPM2ZJcEFGODJVZjFHQmZHbWFWV285eURxeGxoUQ?oc=5",
-"o": "Bangladesh Sangbad Sangstha (BSS)",
-"via": "Google News: dc-incent",
-"lane": "search",
-"at": "2026-10-28T02:28:33+00:00",
-"seen": "2026-10-28T17:25:05+00:00",
-"status": "unverified headline"
-},
-{
-"id": "29953a2c9c3c",
-"t": "Watch Public Information Meeting on Data Center Regulation - City of Madison, WI",
-"u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZ0tBRDRkQUFaeGVXekpQbjBsMmtJMmJWOGkxMTRrVFBxVTBMT045aFpqQW1IMzNUQkpETXhUd011aHhNcy1BU0pZblhjY1hneW5YTTlnajJWcDllUXhTZ25KbFdhUFJHY2VVbWlaN3VfT2liQlhfV2d4VWw5ek1rX2ZJemZsbExIM2V4X3hEUUdLQ2l4SFdnU21zdTY4NWFTQmdqazlCYw?oc=5",
-"o": "City of Madison, WI",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-10-28T02:25:30+00:00",
-"seen": "2026-10-28T05:41:56+00:00",
-"status": "unverified headline"
-},
-{
-"id": "06f9a9898aa7",
-"t": "Microsoft offers buyouts to 60,000 employees months after 4,800 layoffs; staff have till December to deci - The Times of India",
-"u": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxNLXp3M19YVGV0UzIxN1VTd28tVzNEREFCa1NOcFpxeUt6MnJRRmhoYTBrdlNuWTJnWGNSeWtBZE9fT1N4YzVfTTQ0MjJEeWgxVU11Y3QtZUU1MDFFN05qTG9fZ0kyOGNqYTdZZmg1OUFSTEhKWlMxb2tGeFhaUnVaRnJvMFFEaTJDSkIxanRXUWlIZUhNaUhRWTBIWk9BclJwZ2dwVW5IZlFZLVNUQjVSOGVIYXlwUXR6cEh1WldUN0xuQ25uaGYwdm5DVmljcGYyenoxTXgzOUxKN09qVERBYkhnOU5vSXM5cnpKa25wZk9yRWM2bkstcmFfUXFVcHhZRmNwU0laUjk5MEppVGptcl8tbk5uUmhzbHM3U1FidFYzd1hCRHFtNmZsUGJCdE85OHZUVnNUbGp3ZWNjSVh2MGRvMGNBZ185SGkzb1IyYXlKQmE2cEhz0gHcAkFVX3lxTFBXSWN0aDd6SFo3RW1Fa0V0RXRhbUViMHhoVGZmdExSeTBoSS1DY0R1czRsUUlqV3RkVFVPNUpkT0hKSkFwdmdaMDEwMDVYT1lhSkM5Ym0xYklqYzNhWVllN05GTnNaSXFOZGZ5SXdKSVVmUngwazFjbEhNTG1UejdBYUtjRHZ4T181bUpZamRiRkNUYzluVi0zeGZfN0ltLWVESW9Ua1BuS1FRSThMaVJRWmZmNzc2UlQzTU0xQ25xZXdOOG5SQkR3WVBjWEJOSE5RMElNdVZ2elppb0RhdVkxb1BhQ2luclU3dVIwZXZIQl9ya1dLblBOWHEzTWRueWZUZmtoVkc3dXpGT2FHdjBOeDJfTHlFRmMtRndwOTJjTW1BSHplTU5UTjJsSDZQSFFHRDJPd3JBX01peXdmY19qdXFUVlh4eWNkd1g3Zi16eVRCOExBR1ZUMV83Nw?oc=5",
-"o": "The Times of India",
-"via": "Google News: labor",
-"lane": "search",
-"at": "2026-10-28T02:23:00+00:00",
-"seen": "2026-10-28T05:41:56+00:00",
-"status": "unverified headline"
-},
-{
-"id": "8d4c9765bedd",
-"t": "Why Big Tech Prefers Voluntary Exit Programs Over Traditional Layoffs? - LatestLY",
-"u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOS0JZQ05aNHAyMmp0NUliYzVBV1BPQU5GYXZiaUctZE1JYjBXQUJLX09mN1dCSEZzVTIzVVNBdW1rSWRMeE5qNlZ4S3gxS3lseGc5eENkM1Y0enJNaWhlSnZOZURGendJaDdwQmFRc25rMVFDa2VPR3pid1ViSWl1SmZSQmNYTl9HcjF6d3NfUGYxV2E4RktKMzJkcFI1T0VGUGo2NzdvMGdPTkhBajEwSTB3eVZITzDSAbwBQVVfeXFMUGxWYnZZT0JiREIxVVFhR0tWWFhRMlpDSUZjdERQWnRjOXZzQUpObUd4MGZicjdJVHUxZTVhcEFzTkJmS2FsT2JLeUJjeEp2cUpaQ3I2NTl1MU5SMzNOUTV5Q2dMLURILXZjbVBYaXNqWVkwb2ltdzdESVZDVDJ6ZnZIb2toVHVNUGdJZ0ZPN1VZT2QtMi1JRTJHc2FnSUtXdzE2amFiV2ducThXaXlmUENINDlXYVdMR2dIVHc?oc=5",
-"o": "LatestLY",
-"via": "Google News: labor",
-"lane": "search",
-"at": "2026-10-28T02:18:51+00:00",
-"seen": "2026-10-28T05:41:56+00:00",
-"status": "unverified headline"
-},
-{
-"id": "2b67671a713c",
-"t": "LG Uplus Teams Up With Ecolab to Set Liquid Cooling Standards for AI Data Centers - BigGo Finance",
-"u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ncjY4bHk4NzNkMXZjbWJnWFZXUUpEcVB6LXZvQTVlZUdITE9JRlEtZWh1Y2Q1bktUVWFkMEtCZEkyRHRZU3hMcDh3TXBEUXdhRk5Gck1sQWVLaVQyRWVFUnpxd21QdWplZXBYUWtQaWtPMmY4QUE?oc=5",
-"o": "BigGo Finance",
-"via": "Google News: dc-water",
-"lane": "search",
-"at": "2026-10-28T02:05:00+00:00",
-"seen": "2026-10-28T11:40:19+00:00",
-"status": "unverified headline"
-},
-{
-"id": "d17f771ae920",
-"t": "British Columbia privacy watchdog investigates OpenAI use of Tumbler Ridge shooter’s personal information",
-"u": "https://www.courthousenews.com/british-columbia-privacy-watchdog-investigates-openai-use-of-tumbler-ridge-shooters-personal-information/",
-"o": "Courthouse News Service",
-"lane": "news",
-"at": "2026-10-28T02:04:31+00:00",
-"seen": "2026-10-28T05:41:56+00:00",
-"status": "unverified headline"
-},
-{
-"id": "7df8be0b7cdf",
-"t": "Big Tech lobbying pushes EU towards sweeping deregulation of data protection rules, new research reveals - Corporate Europe Observatory",
-"u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQU25KXzh6aV9za19Oa3Z1WDAtWHFEUWhMRklOS2ZuUmloVDVfcUxRSVM1aFM3TC1KNVhxR29nSmI2UlJwczFZb1ZZaWdJYVRXTzQyNjNoXzkycTVhZHE2cTVJOWZIbHJsRzBsZGp5Tkt5SGJCNWF5VlFLV1NJenREdVpxMjNSZzJmYlplcWtSYWNvLUdlOGwxM3pxeXQ4Y2NlM0NmVF9xYmdIZ0g0RF81ZklDYWlkTm1MWnNpanIwZw?oc=5",
-"o": "Corporate Europe Observatory",
-"via": "Google News: money",
-"lane": "search",
-"at": "2026-10-28T02:03:21+00:00",
 "seen": "2026-10-28T05:41:56+00:00",
 "status": "unverified headline"
 }
