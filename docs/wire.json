@@ -1,8 +1,58 @@
 {
 "name": "Tracewire",
-"updated": "2026-10-29T19:49:30+00:00",
+"updated": "2026-10-29T23:39:35+00:00",
 "note": "Unverified headlines collected automatically from public feeds. Not checked by Tracewire. Verified items appear in the Feed.",
 "items": [
+{
+"id": "5d53843e455d",
+"t": "In a Rare Statewide Debate, Alabama Candidates Spar Over Data Centers, Utility Rates",
+"u": "https://insideclimatenews.org/news/29102026/alabama-lieutenant-governor-debate-utility-rates-data-centers/",
+"o": "Inside Climate News",
+"lane": "news",
+"at": "2026-10-29T22:26:32+00:00",
+"seen": "2026-10-29T23:39:35+00:00",
+"status": "unverified headline"
+},
+{
+"id": "d39324bb070f",
+"t": "Amazon posts negative free cash flow of $42.4 billion, holds 2026 capex unchanged",
+"u": "https://www.cnbc.com/2026/10/29/amazon-amzn-q3-earnings-report-2026.html",
+"o": "CNBC",
+"lane": "news",
+"at": "2026-10-29T22:24:49+00:00",
+"seen": "2026-10-29T23:39:35+00:00",
+"status": "unverified headline"
+},
+{
+"id": "ca63230e1953",
+"t": "Slamming ‘astronomical’ attorney fees, judge likely to OK $56 million menstrual app privacy deal",
+"u": "https://www.courthousenews.com/slamming-astronomical-attorney-fees-judge-likely-to-ok-56-million-menstrual-app-privacy-deal/",
+"o": "Courthouse News Service",
+"lane": "news",
+"at": "2026-10-29T22:19:53+00:00",
+"seen": "2026-10-29T23:39:35+00:00",
+"status": "unverified headline"
+},
+{
+"id": "e90ed2d9d1b5",
+"t": "Alphabet tanks nearly 13% for worst day ever, losing $500 billion in value",
+"u": "https://www.cnbc.com/2026/10/29/alphabet-google-microsoft-msft-shares-today-earnings.html",
+"o": "CNBC",
+"lane": "news",
+"at": "2026-10-29T20:15:19+00:00",
+"seen": "2026-10-29T23:39:35+00:00",
+"status": "unverified headline"
+},
+{
+"id": "4db20898e948",
+"t": "OpenAI-backed Thrive Holdings acquires ADT",
+"u": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
+"o": "TechCrunch",
+"lane": "news",
+"at": "2026-10-29T19:56:19+00:00",
+"seen": "2026-10-29T23:39:35+00:00",
+"status": "unverified headline"
+},
 {
 "id": "faf03cea7dae",
 "t": "FCC Opens More Cellular Spectrum for Drones",
@@ -310,6 +360,16 @@
 "status": "unverified headline"
 },
 {
+"id": "0b818dc6c8fd",
+"t": "Foreign gadget bans: all the news about the FCC’s clampdown on Chinese tech",
+"u": "https://www.theverge.com/policy/1019851/fcc-foreign-gadget-ban-drone-robot-roomba-storystream",
+"o": "The Verge",
+"lane": "news",
+"at": "2026-10-29T18:35:04+00:00",
+"seen": "2026-10-29T23:39:35+00:00",
+"status": "unverified headline"
+},
+{
 "id": "ea27a4ff7181",
 "t": "AI is costing jobs, but not the way you think - CNBC TV18",
 "u": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPeEw5cHo5bzFyaUw1YTBINkFna3JGazBNaFFCZXRITUtRNjVNQWExYkpNcHRkVnRvNmtGZXJSVS10QjctRXNIX2tQYXhHd2x1N0JYSlExNzV4ZENxcHhoTEVmalJkYnNZQ3pKU2ZiNm1MZl9OMkZxTVlyVlZQenc2TzVVdnkzSXh6aHFORHlCdENNZ1BPWGdpNFFwV3lta2tyclBmaFBFVUdZMmtKVHQ0TTNWRms1QkxyTV9wYURiR1M1TE1NWXdRVUJkSTJtRWxMbGF2M05GT0JXWWhhNHfSAeMBQVVfeXFMTTVENVR6NTNxQmcyUmxuTWNVRkt5YjdmVlBQRzQtS2RSdUVjRTF0WWhJNUYyTkFETk9ONmJMUGQzOHl2cV9vNThpeEJtNlFKQ3BoaS1WX1U1ZmZVbEJ5LXNWYmVsckwyME9JeEttMm5KR29MMlhjZEJWMGttRHRWcVRnTGdLajN1X3JrbmRVRkVDc0Q3M25jVkMwUEsxbG1GUVVacm1QVlZXVHc4VFlia1VxUHVUMGdTSXQ3cDNybnQxaXEwZ19XU2ZZcDkxa29ZZmNiRC1ob1ExdWtmcXZhdmw5bDQ?oc=5",
@@ -329,6 +389,16 @@
 "lane": "search",
 "at": "2026-10-29T18:30:33+00:00",
 "seen": "2026-10-29T19:49:30+00:00",
+"status": "unverified headline"
+},
+{
+"id": "4f4bed045acf",
+"t": "Trump ignored intel on China’s Nvidia spy to protect company’s stock, report says",
+"u": "https://arstechnica.com/tech-policy/2026/10/report-trump-did-nothing-with-intel-that-china-planted-spy-close-to-nvidia-ceo/",
+"o": "Ars Technica",
+"lane": "news",
+"at": "2026-10-29T18:29:12+00:00",
+"seen": "2026-10-29T23:39:35+00:00",
 "status": "unverified headline"
 },
 {
@@ -2080,83 +2150,6 @@
 "lane": "search",
 "at": "2026-10-29T07:35:30+00:00",
 "seen": "2026-10-29T19:49:30+00:00",
-"status": "unverified headline"
-},
-{
-"id": "b70fe3e42dad",
-"t": "PJM desperately needs grid batteries. Here’s a way it could get some. - Canary Media",
-"u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeUFLZHU4WFY5UkFDTU85NDlHWEtnM2V4T1BHNHNHMlFsN3RVcUdmeDI4RW1lNTRZQ1p0d0dGdTJMN1Fna2s1eWxJNXd1Mjd3Qkw3aG1PNzVVOWJGYnQtM3QzYXFtTmlKYWh3UmY2WXhmbGxfZEhERS1SRVVFemwxazlFTmdjaGJ6Z2pwZDlIMm13RllMc1Y2NDBIdXpWeVZCWnRtYWtMZmdEM1VGdUI2TlpSZw?oc=5",
-"o": "Canary Media",
-"via": "Google News: dc-utility",
-"lane": "search",
-"at": "2026-10-29T07:30:00+00:00",
-"seen": "2026-10-29T19:49:30+00:00",
-"status": "unverified headline"
-},
-{
-"id": "d5385a7bb413",
-"t": "ICE cotton futures edge higher on bargain buying, mill demand - Fibre2Fashion",
-"u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZXloSFRvdFJrVWZnY2ZwMWVvMWRnVG9HVEFKSXVhTERMazluVUkta1V3ZTlSb2h5TTZGYmxySzl3QWtGV0tvbkhyU2RPVWRIREF0dDZ2UWE1UkhBY2cxaFJRQ1Rzenp6UTZubzUxaUJJWmRnazF2T1Rkc0d6OFkwZ20tcUZvNm9hWkdLX0IyV0VDNGtWMkJwZm5yZGppNU90RHJ3Ny11STdqallYaEI5TF9NWFloTEVMWDl2TmJENm9aODdxcDk2QWtB?oc=5",
-"o": "Fibre2Fashion",
-"via": "Google News: contracts",
-"lane": "search",
-"at": "2026-10-29T07:25:44+00:00",
-"seen": "2026-10-29T19:49:30+00:00",
-"status": "unverified headline"
-},
-{
-"id": "ac703fbbf7e6",
-"t": "What General Motors Holders Got Right - Yahoo Finance",
-"u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSXNWeEljWjBoZ2hKeUhSbnBiVllRUEUyYnhfZEJnWXROMlhoa3VtVDlkM3pDVjYtRnNOYlFRTUFhemowX244SnkzUGluaGI4YUJTVFlKc2Z1ZzJhdU1lLVlqQ2lsQzUwdWltdFNFbmlRMGZNLUVuUVg0RjduMDhhWEJXTkw5QkUwb0NJVUE3cGNpNkdPeWc?oc=5",
-"o": "Yahoo Finance",
-"via": "Google News: privacy",
-"lane": "search",
-"at": "2026-10-29T07:15:56+00:00",
-"seen": "2026-10-29T19:49:30+00:00",
-"status": "unverified headline"
-},
-{
-"id": "fa8210649edd",
-"t": "Data Center Moratorium Ends, Leaves Residents With Concerns - V Spectator",
-"u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOazdsaEM3cWh3cXZnZ3BpcWJkUWpCQVRwMmdZbGRzNU9Ha1JOZnBVMWExVTJJTF93Y0tRVll0OS1HdDRKUWFXMHFsdldqdDJPazZwaHAwellaNFUzOVFyM3dKRVFtekJLOFFHZkVNWDBhU2tIN09rdnZ5VnZpV0duQzU2Znk0VXNqMGdIclZ1MHdfc2JKSnV1Nzd4Yw?oc=5",
-"o": "V Spectator",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-10-29T07:02:45+00:00",
-"seen": "2026-10-29T19:49:30+00:00",
-"status": "unverified headline"
-},
-{
-"id": "c44dcc1d4e04",
-"t": "Uzbekistan proposes three key areas for cooperation among CIS antitrust authorities - Report.az",
-"u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWkRpclRKR1F3cXBnM3BHQkN6Wk9mZmxqdmtFOGM5SWN1eks3NWY0OUZYdWZlZ3JNRFluQ1R3cDlxRjRVVWxLdlJqUUJnVXd2MC1VeGdEUTBqb3pzekpMaGNJOFNqUHl6eXJCc0ZIVG1hTzdhbkpXaXY0NDh3MUpPbUx3ZjQxQVRYV25LTFg1bklCSjQ0SXBPUlgxRXdEbGJlYWZDSmtqR0RVbmhSV0hZd3VROA?oc=5",
-"o": "Report.az",
-"via": "Google News: antitrust",
-"lane": "search",
-"at": "2026-10-29T06:59:59+00:00",
-"seen": "2026-10-29T19:49:30+00:00",
-"status": "unverified headline"
-},
-{
-"id": "71c0e4af6895",
-"t": "Marvell-Lumentum Merger: What a Potential $80 Billion AI Deal Means for MRVL and LITE - TradingKey",
-"u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxON1A4bkFNUi15OUdDa0kzalJTQzNYWFJIZGVrdEs4dm5xcU1jZVFsS0RaZ0FlWnJrWXZwcWxBblVoOHBTcjJ5NUEtWGJ0cV9jbER2cU9OLVh6WU1lZFVHejlVTFppSEl0YVNzUzNpcTNZWlZUdXdLMFBKNjZPc0xRbUtPY3d0TEtvYmx4N2NhaVZVeVA1VzctMHBRcEF6RGpDUW5GSnRiNUFXT0owMkpHY05mYmpiSHdDck5YX2pWN3FWazdjNTZjWDhhYjFaZDBuY2c?oc=5",
-"o": "TradingKey",
-"via": "Google News: ai-deals",
-"lane": "search",
-"at": "2026-10-29T06:54:32+00:00",
-"seen": "2026-10-29T07:22:29+00:00",
-"status": "unverified headline"
-},
-{
-"id": "1e961c6afc99",
-"t": "US DOJ Reviews Nvidia’s Hugging Face Acquisition - Dainik Jagran MP CG",
-"u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQ25YZlY0VV9qUUw1TEZGVG85TjBTVWQxY2owX214WlVOZ3FMU3NZa1JKd2ttUlVSZDczSEc1eWc0QTVYcFpPSWQ5QnhQWTU1bUdYcHNqMDdKbkNrSEJERm8wbElBWHA4SUFQcGJBNTJFMGFDTDZ3eGpfMkRfODFJRURKVzdxNHlqekVmTDVzSlJxUTdJZVhjYVdqVmljc1dheXNjdTBfbDUzbUhtX2hsWHNFZmF6aFZsWlV4TXpNNWNEUWw4Q1pfSWdzTEE1dw?oc=5",
-"o": "Dainik Jagran MP CG",
-"via": "Google News: ai-deals",
-"lane": "search",
-"at": "2026-10-29T06:05:44+00:00",
-"seen": "2026-10-29T07:22:29+00:00",
 "status": "unverified headline"
 }
 ]
