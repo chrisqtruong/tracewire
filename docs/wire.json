@@ -1,8 +1,38 @@
 {
 "name": "Tracewire",
-"updated": "2026-10-30T02:58:24+00:00",
+"updated": "2026-10-30T09:52:32+00:00",
 "note": "Unverified headlines collected automatically from public feeds. Not checked by Tracewire. Verified items appear in the Feed.",
 "items": [
+{
+"id": "76224c5e5b56",
+"t": "Sponsored: Power conversations in the US are changing – with good reason",
+"u": "https://www.datacenterdynamics.com/en/marketwatch/power-conversations-in-the-us-are-changing-with-good-reason/",
+"o": "DatacenterDynamics",
+"lane": "news",
+"at": "2026-10-30T09:00:00+00:00",
+"seen": "2026-10-30T09:52:32+00:00",
+"status": "unverified headline"
+},
+{
+"id": "b804dc3ad369",
+"t": "Electrocutions, disease and no pay: how workers risk exploitation in Europe’s datacentres",
+"u": "https://www.theguardian.com/global-development/2026/oct/30/electrocutions-disease-and-no-pay-how-workers-risk-exploitation-in-europes-datacentres",
+"o": "The Guardian",
+"lane": "news",
+"at": "2026-10-30T05:00:46+00:00",
+"seen": "2026-10-30T09:52:32+00:00",
+"status": "unverified headline"
+},
+{
+"id": "2ae2c441b08a",
+"t": "Widow sues OpenAI, blaming ChatGPT for her husband’s death",
+"u": "https://www.courthousenews.com/widow-sues-openai-blaming-chatgpt-for-her-husbands-death/",
+"o": "Courthouse News Service",
+"lane": "news",
+"at": "2026-10-30T04:40:45+00:00",
+"seen": "2026-10-30T09:52:32+00:00",
+"status": "unverified headline"
+},
 {
 "id": "9e2fbd3a9566",
 "t": "Nvidia in talks to give credit support for Nscale's deal with Anthropic, The Information reports - Reuters",
@@ -22,6 +52,16 @@
 "lane": "news",
 "at": "2026-10-30T00:38:13+00:00",
 "seen": "2026-10-30T02:58:24+00:00",
+"status": "unverified headline"
+},
+{
+"id": "a973ac401cee",
+"t": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
+"u": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
+"o": "The Verge",
+"lane": "news",
+"at": "2026-10-29T22:43:40+00:00",
+"seen": "2026-10-30T09:52:32+00:00",
 "status": "unverified headline"
 },
 {
@@ -2104,50 +2144,6 @@
 "via": "Google News: dc-water",
 "lane": "search",
 "at": "2026-10-29T08:41:03+00:00",
-"seen": "2026-10-29T19:49:30+00:00",
-"status": "unverified headline"
-},
-{
-"id": "2932527320a9",
-"t": "MAPLE Leaves Nothing to the Imagination - Franklin Observer",
-"u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVDdPQ1k5YTlIMzNxWlBYZWZlM2ZZSk81N3BGUWs2RjJKbi03ZkQ0eHRLMElIeEEzVVhGWVBvMjR2Zk9KdUtsT0tMSnlqMDZhLXhlc21PUllJRVhlV0xQeEFvSWxEbFRISVdEanlpa2kyOFlXVnNsNUM4U0g3M2N0NmFDNFhLcXNBYXZFejF1YW5iN2F1Wnc3MHhjSQ?oc=5",
-"o": "Franklin Observer",
-"via": "Google News: money",
-"lane": "search",
-"at": "2026-10-29T08:39:28+00:00",
-"seen": "2026-10-29T19:49:30+00:00",
-"status": "unverified headline"
-},
-{
-"id": "96cdb0c69ae3",
-"t": "DHS Data Breach Exposes Personnel Records of More Than 40,000 Employees - Technology Org",
-"u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYVVvN3J4cnV6M0EyeVpIMTJIa293emFYR09rMzZiWmtnTVp0YVdlR3F3UmxfUHBpbk1nUmozMXdZMmJHWDRoajZ4d2pPUmhPY2l3eVduR3ZTbUl3QkwtT24teHd4OGp0R0VUTnJaTkx0Y0JBUnZpRkd2TjhJTlE2VE9YVkw3NjZzZERV?oc=5",
-"o": "Technology Org",
-"via": "Google News: contracts",
-"lane": "search",
-"at": "2026-10-29T08:25:00+00:00",
-"seen": "2026-10-29T19:49:30+00:00",
-"status": "unverified headline"
-},
-{
-"id": "d161f9ac33cf",
-"t": "Hackers steal data on 40,000 DHS employees as Okta denies breach - Pasquale Pillitteri",
-"u": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPalpnaG44RHlUSkdaWFp4b2I2UzlkX2liRl84TFFGd1VFVk82a0ZNaE5NLTJOY1JpbWhsNmhRdGVtTlZsTWhSaS0yOVhKd284c01aZWZyS0xjaUw1ZUFlaXZSb0dSN0F3SUpYRmgzbm14bk02UzJmUGYwWjl6NW1yVWQyMDZDaVV1dlJhTlBCYnU?oc=5",
-"o": "Pasquale Pillitteri",
-"via": "Google News: contracts",
-"lane": "search",
-"at": "2026-10-29T08:10:47+00:00",
-"seen": "2026-10-29T19:49:30+00:00",
-"status": "unverified headline"
-},
-{
-"id": "b0fcd62510a8",
-"t": "Malaysia restricts data centers in states with insufficient water - ET Datacenters",
-"u": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQOEdzdDIzYnJaS2Q1X0VGS3E5YURFVEhYM0VLQWpCem1sRUkxc0RDTHdCOG5TZWNxdk1NX3JvcnU1ZkJyaG9GVVZGQUc0NENEMDBXWXlWMHVfZ0pacVg5Vnp1azB6MFZiOTdFR2Izc1BxUjVKcmJacHdneFBORjJPTjFIS1B3c0hONm16Q0lFaGxRX3NsY2RoOTQ4dUw4dV84eklGUW9xMHNLb1dHVldwV0lSWWFLSGVBX2kzb1pRbnExUlFrcFc3ZXlWU3hyZ3hLR2RjZ2FpTTdnUmV0QWdsbFFYenpqZndUZVVkc0E3UHpGdVBNaS1mTXkxYnhWNncxVVM5Mnh4a2dDZHVmN3BSWGlnTTJNZ9IB5AFBVV95cUxQbV8yMXhSbE1NMmhTZHUwNlhIM2VucDZDdm4wa0FlLTZxWC1iSnEtNnYyZWdLUWdya20wX0oySWNJTzV2QzR6UFJ3RTExVXhISzBtd0poNFlGMXRMdWdmSDg4NThKM002U08zU0tETTg3OVdWSG03ckU2c0hkSUQ2TjhtM19fdGJTMVpFOXlaeFdYdGFCT1hIRm1qUmUyVU9PdkdMVFMybW9jQ2VIYVZYdEZQNHA1aHhjdlFPUlJPVWRjM3RncklPMEVQVTU4MXBrME5QcGlWYkl6RUREUHc4c0pyOGY?oc=5",
-"o": "ET Datacenters",
-"via": "Google News: dc-water",
-"lane": "search",
-"at": "2026-10-29T07:49:34+00:00",
 "seen": "2026-10-29T19:49:30+00:00",
 "status": "unverified headline"
 }
