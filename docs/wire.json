@@ -1,8 +1,158 @@
 {
 "name": "Tracewire",
-"updated": "2026-10-30T16:27:39+00:00",
+"updated": "2026-10-30T20:59:38+00:00",
 "note": "Unverified headlines collected automatically from public feeds. Not checked by Tracewire. Verified items appear in the Feed.",
 "items": [
+{
+"id": "ab827620ff6a",
+"t": "FCC's Fraud Crackdown Saving Taxpayers Billions",
+"u": "https://www.fcc.gov/edoc/426379",
+"o": "FCC",
+"lane": "agency",
+"at": "2026-10-30T20:59:38+00:00",
+"seen": "2026-10-30T20:59:38+00:00",
+"status": "unverified headline"
+},
+{
+"id": "e6a83342c0c5",
+"t": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
+"u": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
+"o": "The Verge",
+"lane": "news",
+"at": "2026-10-30T20:48:43+00:00",
+"seen": "2026-10-30T20:59:38+00:00",
+"status": "unverified headline"
+},
+{
+"id": "69ea95b20333",
+"t": "Wyoming Teams With Trump Administration to Expedite Energy, Industrial Projects",
+"u": "https://insideclimatenews.org/news/30102026/wyoming-teams-with-trump-administration-to-expedite-energy-industrial-projects/",
+"o": "Inside Climate News",
+"lane": "news",
+"at": "2026-10-30T20:41:34+00:00",
+"seen": "2026-10-30T20:59:38+00:00",
+"status": "unverified headline"
+},
+{
+"id": "8d3ec6d683e4",
+"t": "Meta strikes deal to help bring a low-carbon cement plant to Missouri",
+"u": "https://www.canarymedia.com/articles/clean-industry/meta-fortera-deal-cement-plant-missouri",
+"o": "Canary Media",
+"lane": "news",
+"at": "2026-10-30T20:00:00+00:00",
+"seen": "2026-10-30T20:59:38+00:00",
+"status": "unverified headline"
+},
+{
+"id": "0f90f553dcd8",
+"t": "AI law firm Crosby bids on disintegrating, famed firm Weil Gotshal",
+"u": "https://techcrunch.com/2026/10/30/ai-law-firm-crosby-bids-on-disintegrating-famed-firm-weil-gotshal/",
+"o": "TechCrunch",
+"lane": "news",
+"at": "2026-10-30T19:55:13+00:00",
+"seen": "2026-10-30T20:59:38+00:00",
+"status": "unverified headline"
+},
+{
+"id": "1d79c6ad7b75",
+"t": "Meta, X and TikTok lose challenge to UK online safety regulator",
+"u": "https://www.courthousenews.com/meta-x-and-tiktok-lose-challenge-to-uk-online-safety-regulator/",
+"o": "Courthouse News Service",
+"lane": "news",
+"at": "2026-10-30T19:48:55+00:00",
+"seen": "2026-10-30T20:59:38+00:00",
+"status": "unverified headline"
+},
+{
+"id": "f142ae8dbbf7",
+"t": "Texas Used to Be ‘the Best Place’ to Build Data Centers—But Not Anymore",
+"u": "https://insideclimatenews.org/news/30102026/texas-data-center-pushback/",
+"o": "Inside Climate News",
+"lane": "news",
+"at": "2026-10-30T19:11:06+00:00",
+"seen": "2026-10-30T20:59:38+00:00",
+"status": "unverified headline"
+},
+{
+"id": "99504b690f18",
+"t": "Meta Data Center Federal Pipeline Review Due Early Next Year",
+"u": "https://heatmap.news/plus/the-fight/hotspots/meta-data-center-review",
+"o": "Heatmap",
+"lane": "news",
+"at": "2026-10-30T18:12:55+00:00",
+"seen": "2026-10-30T20:59:38+00:00",
+"status": "unverified headline"
+},
+{
+"id": "041565ca5ae0",
+"t": "Is the Election Really About Data Centers?",
+"u": "https://heatmap.news/kevin-gunderson-qa",
+"o": "Heatmap",
+"lane": "news",
+"at": "2026-10-30T18:12:30+00:00",
+"seen": "2026-10-30T20:59:38+00:00",
+"status": "unverified headline"
+},
+{
+"id": "c72b5877fcb8",
+"t": "Satlyt takes another step toward turning satellites into space data centers",
+"u": "https://techcrunch.com/2026/10/30/satlyt-takes-another-step-toward-turning-satellites-into-space-data-centers/",
+"o": "TechCrunch",
+"lane": "news",
+"at": "2026-10-30T18:01:24+00:00",
+"seen": "2026-10-30T20:59:38+00:00",
+"status": "unverified headline"
+},
+{
+"id": "e998635dc4b1",
+"t": "Meta settles with next plaintiff in social media case, days before trial",
+"u": "https://www.courthousenews.com/meta-settles-with-next-plaintiff-in-social-media-case-days-before-trial/",
+"o": "Courthouse News Service",
+"lane": "news",
+"at": "2026-10-30T17:39:46+00:00",
+"seen": "2026-10-30T20:59:38+00:00",
+"status": "unverified headline"
+},
+{
+"id": "314a899c02a7",
+"t": "The delightfully messy state of Apple gadgets",
+"u": "https://www.theverge.com/podcast/1023194/the-delightfully-messy-state-of-apple-gadgets",
+"o": "The Verge",
+"lane": "news",
+"at": "2026-10-30T17:25:20+00:00",
+"seen": "2026-10-30T20:59:38+00:00",
+"status": "unverified headline"
+},
+{
+"id": "fc6c72287137",
+"t": "Google’s first data center satellite is online and writing poetry",
+"u": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
+"o": "TechCrunch",
+"lane": "news",
+"at": "2026-10-30T17:00:00+00:00",
+"seen": "2026-10-30T20:59:38+00:00",
+"status": "unverified headline"
+},
+{
+"id": "871b81f930c7",
+"t": "Thousands of “ghost students” use AI to steal millions in student loans, DOJ says",
+"u": "https://arstechnica.com/tech-policy/2026/10/doj-exposes-ghost-students-using-ai-to-complete-courses-steal-student-loans/",
+"o": "Ars Technica",
+"lane": "news",
+"at": "2026-10-30T16:53:49+00:00",
+"seen": "2026-10-30T20:59:38+00:00",
+"status": "unverified headline"
+},
+{
+"id": "afc30f237b87",
+"t": "Beyond the grid",
+"u": "https://www.datacenterdynamics.com/en/whitepapers/beyond-the-grid/",
+"o": "DatacenterDynamics",
+"lane": "news",
+"at": "2026-10-30T16:45:35+00:00",
+"seen": "2026-10-30T20:59:38+00:00",
+"status": "unverified headline"
+},
 {
 "id": "c3dd1462c598",
 "t": "How can we trust AI in national defense missions? - DefenseScoop",
@@ -544,6 +694,16 @@
 "lane": "search",
 "at": "2026-10-30T12:02:29+00:00",
 "seen": "2026-10-30T16:27:39+00:00",
+"status": "unverified headline"
+},
+{
+"id": "fefe0390f71f",
+"t": "Israeli National Extradited to Face Charges for Stealing Nearly $3M in Virtual Currency Heist",
+"u": "https://www.justice.gov/opa/pr/israeli-national-extradited-face-charges-stealing-nearly-3m-virtual-currency-heist",
+"o": "DOJ",
+"lane": "agency",
+"at": "2026-10-30T12:00:00+00:00",
+"seen": "2026-10-30T20:59:38+00:00",
 "status": "unverified headline"
 },
 {
@@ -2006,171 +2166,6 @@
 "lane": "news",
 "at": "2026-10-29T19:56:19+00:00",
 "seen": "2026-10-29T23:39:35+00:00",
-"status": "unverified headline"
-},
-{
-"id": "cdfe9fb3ef6f",
-"t": "Ohio receives over $8M from General Motors settlement - Yahoo",
-"u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUjBYWWhYbW5yY2xCZWZrcHFRRGRjdzJmSElLWG9yS2FnN243emVkdGpzanFWTVdSS1dIRUNQUW1OM2JmVlVTRGFmOGVtRHVhdmZRaHVsY1owNmowSmpjd1VQbS1BY1k0WVQ3NzdXOFZSSEtCMmVWQWtpdXBldHFRaXgtVHBrMzdCOTRv?oc=5",
-"o": "Yahoo",
-"via": "Google News: privacy",
-"lane": "search",
-"at": "2026-10-29T19:51:28+00:00",
-"seen": "2026-10-30T16:27:39+00:00",
-"status": "unverified headline"
-},
-{
-"id": "03e35a687d6a",
-"t": "Data Centers, Flock Cameras and AI: Big Tech Is on Your Midterm Election Ballot - CNET",
-"u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWnY3d2NRMzJlMzdTQjNZeDlwVzk5X3ZYRkVnTVBYdW5JYmpodjlZc2JzRkpQZjJHdlplXzQ3TExsWndYSGJ3dDdmMnJtbmpyWmt1LWl3eUFYTWdmaW5yWWVhRHlhT1o3T0pxVzRoWlRMUlEzV3VQVjRzWTVXNUNWY3BGbGpZR2lETzdHRUNPMWM2QQ?oc=5",
-"o": "CNET",
-"via": "Google News: money",
-"lane": "search",
-"at": "2026-10-29T19:51:00+00:00",
-"seen": "2026-10-30T16:27:39+00:00",
-"status": "unverified headline"
-},
-{
-"id": "2611594c6d95",
-"t": "Clock starts on 9-month Tazewell County data center moratorium - WCBU Peoria",
-"u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQnFsQ08ydzRBUElGOUg5NW5obDF4RnA2QkhpVWtaMkFSSTQzSmJsc0NDMC1EOUE2azlxQk1FcFVzVU9NRnViNWs0cDYzRW5lNzZzTUZlbV9ZUlJ5dF9BaUhXcHBkWXZCX3lyb0xnaUljcThzUlRyVF81dFhLSkhHdllzLWhzLW5VR1lKYnZPTTlwcHZnc1NuY2xobFF0V1JrYklzaGtaSEw?oc=5",
-"o": "WCBU Peoria",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-10-29T19:50:00+00:00",
-"seen": "2026-10-30T16:27:39+00:00",
-"status": "unverified headline"
-},
-{
-"id": "faf03cea7dae",
-"t": "FCC Opens More Cellular Spectrum for Drones",
-"u": "https://www.fcc.gov/edoc/426299",
-"o": "FCC",
-"lane": "agency",
-"at": "2026-10-29T19:49:30+00:00",
-"seen": "2026-10-29T19:49:30+00:00",
-"status": "unverified headline"
-},
-{
-"id": "1be341d2f427",
-"t": "FCC Proposes $4.4 Million Fine for Lifeline Program Fraud",
-"u": "https://www.fcc.gov/edoc/426308",
-"o": "FCC",
-"lane": "agency",
-"at": "2026-10-29T19:49:30+00:00",
-"seen": "2026-10-29T19:49:30+00:00",
-"status": "unverified headline"
-},
-{
-"id": "2a0ef81ef5dd",
-"t": "FCC Proposes to Modernize Leasing Rules for D2D Services",
-"u": "https://www.fcc.gov/edoc/426297",
-"o": "FCC",
-"lane": "agency",
-"at": "2026-10-29T19:49:30+00:00",
-"seen": "2026-10-29T19:49:30+00:00",
-"status": "unverified headline"
-},
-{
-"id": "4145e78e0903",
-"t": "FCC Aims to Auction 25 Megahertz of Prime, Mid-Band Spectrum",
-"u": "https://www.fcc.gov/edoc/426294",
-"o": "FCC",
-"lane": "agency",
-"at": "2026-10-29T19:49:30+00:00",
-"seen": "2026-10-29T19:49:30+00:00",
-"status": "unverified headline"
-},
-{
-"id": "dd98454166f3",
-"t": "FCC Proceeds on Device Test Lab Onshoring, Reciprocity Rules",
-"u": "https://www.fcc.gov/edoc/426300",
-"o": "FCC",
-"lane": "agency",
-"at": "2026-10-29T19:49:30+00:00",
-"seen": "2026-10-29T19:49:30+00:00",
-"status": "unverified headline"
-},
-{
-"id": "c5c1978b9db7",
-"t": "FCC Bolsters Security for Cross-Border Communications",
-"u": "https://www.fcc.gov/edoc/426302",
-"o": "FCC",
-"lane": "agency",
-"at": "2026-10-29T19:49:30+00:00",
-"seen": "2026-10-29T19:49:30+00:00",
-"status": "unverified headline"
-},
-{
-"id": "8d6e4c8d714a",
-"t": "FCC Proposes Rural Broadband Protection Act Implementation Rules to Safeguard Universal Service Funding",
-"u": "https://www.fcc.gov/edoc/426306",
-"o": "FCC",
-"lane": "agency",
-"at": "2026-10-29T19:49:30+00:00",
-"seen": "2026-10-29T19:49:30+00:00",
-"status": "unverified headline"
-},
-{
-"id": "a8eaecc8fdb8",
-"t": "FCC Proposes to Modernize Accessibility Rules",
-"u": "https://www.fcc.gov/edoc/426307",
-"o": "FCC",
-"lane": "agency",
-"at": "2026-10-29T19:49:30+00:00",
-"seen": "2026-10-29T19:49:30+00:00",
-"status": "unverified headline"
-},
-{
-"id": "71e8a416ca9d",
-"t": "FCC Aims to Remove Barriers to Network Modernization",
-"u": "https://www.fcc.gov/edoc/426325",
-"o": "FCC",
-"lane": "agency",
-"at": "2026-10-29T19:49:30+00:00",
-"seen": "2026-10-29T19:49:30+00:00",
-"status": "unverified headline"
-},
-{
-"id": "80309f2369d1",
-"t": "FCC Announces Tentative Agenda for November Open Meeting",
-"u": "https://www.fcc.gov/edoc/426309",
-"o": "FCC",
-"lane": "agency",
-"at": "2026-10-29T19:49:30+00:00",
-"seen": "2026-10-29T19:49:30+00:00",
-"status": "unverified headline"
-},
-{
-"id": "168fbd18340b",
-"t": "Chairman Carr Announces New Space Bureau Chief",
-"u": "https://www.fcc.gov/edoc/426326",
-"o": "FCC",
-"lane": "agency",
-"at": "2026-10-29T19:49:30+00:00",
-"seen": "2026-10-29T19:49:30+00:00",
-"status": "unverified headline"
-},
-{
-"id": "5a2f318ac7fb",
-"t": "My town passed a data center moratorium. Yours can, too. - People's World",
-"u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTUlOQXRWdFRrZ0Yzel9WMHdyUGZIYXZxVHZVZVFlek0zdlZTWU1Rd0tyYjV1SWV5UENkTXlWQnNwMFQ4eVk2ZjBYSGN4d3VKMGFmX0Q5dXQ2Tk5MczJjNk9adDRqSzZRYVBUMkhIQnphX0ZvSWlRQlhabVM0bzhaY2xRLXN1Z0d4bm1CVUZXdWtVclJMTVE?oc=5",
-"o": "People's World",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-10-29T19:48:34+00:00",
-"seen": "2026-10-30T16:27:39+00:00",
-"status": "unverified headline"
-},
-{
-"id": "ffc436a943aa",
-"t": "GM to pay $220M to settle allegations it violated drivers' privacy - Detroit Free Press",
-"u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOQnczNnpPSnJSR3hLZmtVMXpaY2pmcVE5a18zdkhxdUJsUFRtWTRBaC01TzZESmRmZy1wUDZTQ0UzRnVxVWFYSDBySW1YTC1VWEZQY0hLdjMtbzVUOFhwM19Fa05lNjF4NW4yZjZtM2Z1dUloYmVWN3FhYUk3d01xSDFJajlWUzNNMkV2Q1IxQTRfSFBZSU9ZazVpQUhfS2ltUWJGNndENUNWM25iUGduSHBxUzFTdUkxNHlUN0lFbXJ3N2tiWWdWQ3RVdUNCNjVVVTZkaW96U0dudw?oc=5",
-"o": "Detroit Free Press",
-"via": "Google News: privacy",
-"lane": "search",
-"at": "2026-10-29T19:47:57+00:00",
-"seen": "2026-10-29T19:49:30+00:00",
 "status": "unverified headline"
 }
 ]
