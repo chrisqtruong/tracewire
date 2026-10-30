@@ -1,8 +1,29 @@
 {
 "name": "Tracewire",
-"updated": "2026-10-29T23:39:35+00:00",
+"updated": "2026-10-30T02:58:24+00:00",
 "note": "Unverified headlines collected automatically from public feeds. Not checked by Tracewire. Verified items appear in the Feed.",
 "items": [
+{
+"id": "9e2fbd3a9566",
+"t": "Nvidia in talks to give credit support for Nscale's deal with Anthropic, The Information reports - Reuters",
+"u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeFZKQnF5QVdNQlBQRzNMTE5PbjhUSXF0Y0NzYXpyaVJFeGplang3clhEYUtGUF9Fd2tPRjE0VllQVjV0cncwdU9za2RGZkFjQ2ZSTGdpQ3hXSkRBSjVtY2tvTzhEVTYtUkxYQjdfc1A3blJMd0c2ajJTUFp0eGMtOEtMbEk2NGl2Y2hrRFVlSHVaT1VQWi1qaGhLTkoyZVhXWFVFaXpDVEpZQV90MFNSZzN2dTl0WXJWZEhBRzJmUFVpNzI2Smc?oc=5",
+"o": "Reuters",
+"via": "Google News: reuters.com/technology",
+"lane": "search",
+"at": "2026-10-30T01:26:00+00:00",
+"seen": "2026-10-30T02:58:24+00:00",
+"status": "unverified headline"
+},
+{
+"id": "10cb46969038",
+"t": "Microsoft plans to raise $25 billion in debt as it pursues AI buildout",
+"u": "https://www.cnbc.com/2026/10/29/microsoft-25-billion-debt-offering.html",
+"o": "CNBC",
+"lane": "news",
+"at": "2026-10-30T00:38:13+00:00",
+"seen": "2026-10-30T02:58:24+00:00",
+"status": "unverified headline"
+},
 {
 "id": "5d53843e455d",
 "t": "In a Rare Statewide Debate, Alabama Candidates Spar Over Data Centers, Utility Rates",
@@ -2127,28 +2148,6 @@
 "via": "Google News: dc-water",
 "lane": "search",
 "at": "2026-10-29T07:49:34+00:00",
-"seen": "2026-10-29T19:49:30+00:00",
-"status": "unverified headline"
-},
-{
-"id": "29d4ac7a7e44",
-"t": "Hanwha challenges South Korea antitrust probe over employee phone search - Chosunbiz",
-"u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdGVkcXozRHZmSVg2bklDTURkaXpKWmhhQnBneVhyUWZUSmZxWHNUSHAwLUllMjVUSVhPZHQwUk5NeW1wOTI3WlJrUjJHZXR6bXVuaDBDS09qYmZTaWRiWXFYMHR3Ny1yMUNSOF9pTzlhTHVZaUlQdlg3eXE4dzhOc2Ztci1jaFVzOFpGM3pNbVZ6Unc10gGUAUFVX3lxTFB0ZWRxejNEdmZJWDZuSUNNRGRpekpaaGFCcGd5WHJRZlRKZnFYc1RIcDAtSWUyNVRJWE9kdDBSTk15bXA5MjdaUmtSMkdldHptdW5oMENLT2piZlNpZGJZcVgwdHc3LXIxQ1I4X2lPOWFMdVlpSVB2WDd5cTh3OE5zZm1yLWNoVXM4WkYzek1tVnpSdzU?oc=5",
-"o": "Chosunbiz",
-"via": "Google News: antitrust",
-"lane": "search",
-"at": "2026-10-29T07:41:00+00:00",
-"seen": "2026-10-29T19:49:30+00:00",
-"status": "unverified headline"
-},
-{
-"id": "872485da3a67",
-"t": "'Lord Farquuad' addresses 'massive' 400-megawatt data center at city hall meeting - WKRC",
-"u": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxNaWl4TlZlZktPVkFpTVM2Mkh0VHUzNVdhSlo1dVRIVkpRYmVkSzVlLWVrMW1RU1h4V0UyRGFxUjdTbVpkcFJwb2dvWFZDSVVIcmJPSVplUEpoWk5oMnRwblhCRjdYenVlSDRrcWF3dEd0UW9hN0tMTGNFVnY2ajlZS0gwLUFvOWxPQU9KNkFSVV9TQkhTRWhWRUVTdFdfd1QwY0x6RDVreWF4NWNFYWp5bHhtcXRGcl9CSjRuTlA4UjdITmtrUk9JMHdrcUhqc0ZTcEs0ektzelJ2ZmVTQUsydWE2NzQzaWVnOFl4M19hY0FJWnplQXZRWWRqaVgyN24xay1ZNl9yZFF1VThZbjRuUXhuVDd3UWxUUzFuZ0tJUEhaNE9UMER2YTZWTy0yTWZ5ajJUYlF6NmFrU3ZkbVAzSHczQkxjcjZvUTYzTnRreTNqVWY3bTF6bkpONEhJTTZHbGZKRVdlNDVvNk44dlBhVkNDVQ?oc=5",
-"o": "WKRC",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-10-29T07:35:30+00:00",
 "seen": "2026-10-29T19:49:30+00:00",
 "status": "unverified headline"
 }
