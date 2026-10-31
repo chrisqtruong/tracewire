@@ -1,8 +1,18 @@
 {
 "name": "Tracewire",
-"updated": "2026-10-31T06:19:54+00:00",
+"updated": "2026-10-31T12:51:31+00:00",
 "note": "Unverified headlines collected automatically from public feeds. Not checked by Tracewire. Verified items appear in the Feed.",
 "items": [
+{
+"id": "7753329aabdd",
+"t": "Europe’s AI ambitions are hitting a power bottleneck",
+"u": "https://www.datacenterdynamics.com/en/opinions/europes-ai-ambitions-are-hitting-a-power-bottleneck/",
+"o": "DatacenterDynamics",
+"lane": "news",
+"at": "2026-10-31T11:00:39+00:00",
+"seen": "2026-10-31T12:51:31+00:00",
+"status": "unverified headline"
+},
 {
 "id": "6db7072d2c20",
 "t": "Judge lets Bay Area woman keep her ‘RVRTSEA’ license plate — for now",
@@ -2155,17 +2165,6 @@
 "lane": "news",
 "at": "2026-10-30T09:00:00+00:00",
 "seen": "2026-10-30T09:52:32+00:00",
-"status": "unverified headline"
-},
-{
-"id": "9bf36459792c",
-"t": "ICE cotton futures rise for second day on strong US export sales - Fibre2Fashion",
-"u": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNNkdmSnB4REZBb1JFWHBjMDBTc1AzTHk2OVF2TnhveDV2SGZVOWotVm9hWnd2OFdrTzVpNF93QTN4Y3YydGZKV2EyNVFnR2V4MXZyQXB3S1ZQNmNmcmdITEVsUERXVkI1aHFyM2lnU21uSlV1cm9XS1BScU96b1Y4NTAwQUR1QXRwcjdDRl9Xc3E1V1ZMQk8yTmdNRklRUHRQTWxZZEFZNHZ2NkUwVTY5UU5Zczk1ZUFuc2pHcUppMUcyR3NKSUZGNkx0alRGZWVoT3hoZ1dxLWVzNnM?oc=5",
-"o": "Fibre2Fashion",
-"via": "Google News: contracts",
-"lane": "search",
-"at": "2026-10-30T08:55:28+00:00",
-"seen": "2026-10-30T16:27:39+00:00",
 "status": "unverified headline"
 }
 ]
