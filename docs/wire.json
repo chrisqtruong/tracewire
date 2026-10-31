@@ -1,8 +1,38 @@
 {
 "name": "Tracewire",
-"updated": "2026-10-31T17:27:00+00:00",
+"updated": "2026-10-31T20:38:14+00:00",
 "note": "Unverified headlines collected automatically from public feeds. Not checked by Tracewire. Verified items appear in the Feed.",
 "items": [
+{
+"id": "71a1d39d156a",
+"t": "SpaceX loses bid to toss NAACP lawsuit over Memphis data center air pollution",
+"u": "https://www.cnbc.com/2026/10/31/xai-naacp-clean-air-act-lawsuit-dismissal.html",
+"o": "CNBC",
+"lane": "news",
+"at": "2026-10-31T20:12:37+00:00",
+"seen": "2026-10-31T20:38:14+00:00",
+"status": "unverified headline"
+},
+{
+"id": "db8706bfdae2",
+"t": "OpenAI pares fundraising goal, now seeking up to $20 billion in latest round",
+"u": "https://www.cnbc.com/2026/10/31/openai-fundraising-20-billion-valuation.html",
+"o": "CNBC",
+"lane": "news",
+"at": "2026-10-31T19:56:23+00:00",
+"seen": "2026-10-31T20:38:14+00:00",
+"status": "unverified headline"
+},
+{
+"id": "437949b6d08a",
+"t": "Trump's AI push faces a local ballot test",
+"u": "https://www.politico.com/news/2026/10/31/trumps-data-centers-ballots-midterm-test-01142170",
+"o": "Politico",
+"lane": "news",
+"at": "2026-10-31T18:00:00+00:00",
+"seen": "2026-10-31T20:38:14+00:00",
+"status": "unverified headline"
+},
 {
 "id": "55161e9963d9",
 "t": "How some DeKalb residents are mobilizing to push local government for greater transparency over data centers - Shaw Local",
@@ -2143,38 +2173,6 @@
 "via": "Google News: privacy",
 "lane": "search",
 "at": "2026-10-30T15:55:25+00:00",
-"seen": "2026-10-30T16:27:39+00:00",
-"status": "unverified headline"
-},
-{
-"id": "289ae0e56080",
-"t": "Stellantis Fuel Supplier Loses Bid for Michigan Tax Exemption - Bloomberg Law News",
-"u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdGtoN08zaUo4OUdXQmpvSDFXcjlSd3FsRzZvZ2s0SmlpS2lRQ0dEMDNaRGFCUDNlS29lZXI4YnJoM280Q1FxS3Z0bm5pdFJOWmxXM0lGWlgySHQyZ3k2cHVHUDl1M1k5LWMyMTlER1NvWmprWExET3Nta2NwVER5NXpINkRrYnFma1ZxVEFhYnZ5UllSTjBBeGdFU0x5SVpLOTB4cjg4LWZPWXl3eGFkX25mUng?oc=5",
-"o": "Bloomberg Law News",
-"via": "Google News: dc-incent",
-"lane": "search",
-"at": "2026-10-30T15:53:00+00:00",
-"seen": "2026-10-31T00:40:56+00:00",
-"status": "unverified headline"
-},
-{
-"id": "1cd365612430",
-"t": "Largest US Grid Seeks to Hold Data Center Power Auction in March - Bloomberg.com",
-"u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcTR2c2tnS3lLeC0wekZ3SmlzUlFyel9ieVd6WG5ZTXF1TTR1M05YaXVKYllUcmQ3OTZwYjBnaFpkWmgxN2N4OXFiMnZmZXVrMWU1RGdFQmV1TEdnZnRSR0c2VE03UDF3Y2N1Q29NdVkxcmpWLTB0X1ZwNDIxSXhfQjd5RUxzQmNabEk4VWxMcWxTbmRlSWM1MUhsY3czbmhvSHJIUGQ5NzVMTlo0dTBlWDI2MzR3Zw?oc=5",
-"o": "Bloomberg.com",
-"via": "Google News: dc-utility",
-"lane": "search",
-"at": "2026-10-30T15:50:32+00:00",
-"seen": "2026-10-30T16:27:39+00:00",
-"status": "unverified headline"
-},
-{
-"id": "d6f468599e53",
-"t": "US tech stocks see sharp falls over AI cost fears",
-"u": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
-"o": "BBC",
-"lane": "news",
-"at": "2026-10-30T15:46:28+00:00",
 "seen": "2026-10-30T16:27:39+00:00",
 "status": "unverified headline"
 }
