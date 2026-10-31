@@ -1,8 +1,28 @@
 {
 "name": "Tracewire",
-"updated": "2026-10-31T00:40:56+00:00",
+"updated": "2026-10-31T06:19:54+00:00",
 "note": "Unverified headlines collected automatically from public feeds. Not checked by Tracewire. Verified items appear in the Feed.",
 "items": [
+{
+"id": "6db7072d2c20",
+"t": "Judge lets Bay Area woman keep her ‘RVRTSEA’ license plate — for now",
+"u": "https://www.courthousenews.com/judge-lets-bay-area-woman-keep-her-rvrtsea-license-plate-for-now/",
+"o": "Courthouse News Service",
+"lane": "news",
+"at": "2026-10-31T02:57:57+00:00",
+"seen": "2026-10-31T06:19:54+00:00",
+"status": "unverified headline"
+},
+{
+"id": "c6b2d3ea7917",
+"t": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+"u": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+"o": "TechCrunch",
+"lane": "news",
+"at": "2026-10-31T01:20:05+00:00",
+"seen": "2026-10-31T06:19:54+00:00",
+"status": "unverified headline"
+},
 {
 "id": "a0d4d49a0495",
 "t": "ICE Agents Hid Behind Masks Under Trump. Europeans Published Their Names Online. - Migrant Insider",
@@ -982,6 +1002,16 @@
 "lane": "search",
 "at": "2026-10-30T16:10:00+00:00",
 "seen": "2026-10-31T00:40:56+00:00",
+"status": "unverified headline"
+},
+{
+"id": "a973ac401cee",
+"t": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
+"u": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
+"o": "The Verge",
+"lane": "news",
+"at": "2026-10-30T16:08:56+00:00",
+"seen": "2026-10-31T06:19:54+00:00",
 "status": "unverified headline"
 },
 {
@@ -2135,39 +2165,6 @@
 "via": "Google News: contracts",
 "lane": "search",
 "at": "2026-10-30T08:55:28+00:00",
-"seen": "2026-10-30T16:27:39+00:00",
-"status": "unverified headline"
-},
-{
-"id": "9ba021ea8e88",
-"t": "Superintelligence Exposes a Gap in the Law of Delegated Authority - RealClearDefense",
-"u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeVVJaUlvLVFwakMzWDFNWHYxNnZvMEM2Z1YwN3hranJjMFNKSFlENXZ2VFdKS3lEVk1URDQ1ZjgtdjZMTXBLRVFPM29vcHlqdUxmS0hpaUdadkN0T0pCUHE5M3FScEhhMVdDUU02MjV1V0x2RUFkNnBEU1IxQ254RUs3VWxicEYyQW9SQThnclk1aVd3ekl1UjVmaTJPdXFLcmJ6MXI4TUs4d0luYnpSZS01Z1hLU1VBYU01aGhmNUVWVERuaHc?oc=5",
-"o": "RealClearDefense",
-"via": "Google News: contracts",
-"lane": "search",
-"at": "2026-10-30T08:42:55+00:00",
-"seen": "2026-10-30T16:27:39+00:00",
-"status": "unverified headline"
-},
-{
-"id": "4ee1b731676c",
-"t": "Imagineers Out, Tech Talent In: Disney Reshapes Its Future With Fresh Layoffs and a $180M AI Hiring Blitz - disneydining.com",
-"u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONEtfWkcwRW4wSWtBTkpXVUllaUM3cUhvX09ZS1NldlNjWUpYNno5RHFBcE13SHFvODdQbmZUQV9iSDd5QmtxMW1LZHhNenFqVDNVa3JrWFVySmozOTVjV2lXREFLc3ZLWTc4cWZndzVDb3dtcE9ZUl8wbHBUNk9KYjh0dGQzdDQ1STh1RXRWal8wQ3VnOFR5TmF0cU5nSXIzTC1WRWJkUU1JNlZ1Nm1ZZWhMZ2hETTJITHk3Y2lURERCTWM2aTdtSw?oc=5",
-"o": "disneydining.com",
-"via": "Google News: labor",
-"lane": "search",
-"at": "2026-10-30T08:41:47+00:00",
-"seen": "2026-10-30T16:27:39+00:00",
-"status": "unverified headline"
-},
-{
-"id": "173872281cf5",
-"t": "Some politicians want a data center moratorium, but no one is proposing to stop the forces driving the demand for data centers - Cardinal News",
-"u": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOcmlPcjhaTV9ZZUd0NTV6X2Z4LThjYlRwWnpiNlVFbFNsamxGUGlUb05mb2VXb3I2Q3B3aVF5UWFaVEFKVU9BSURBWnkyUmNITUV6aDl2c045SHdFM0dvZk5kOXVabXJMSXROSHNPeTN3M3lXQVNLQ1hQVUtpUkkyWG5EYXRubDdkZi1ERXl5dUp5ZEJfQkZrZ1NJMUN1ckh0dG5VaWJRMGw4dkZXNnduTEJiWlFURWdqOG1UWndwX1JsdXpQZDB0SnBCSHZDQ29LTTVxMmVBREJhRWk2TXk2SmEtZDJEdExtMGFMQlFNcXIwbDJ3YVpNSmJhaw?oc=5",
-"o": "Cardinal News",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-10-30T08:40:00+00:00",
 "seen": "2026-10-30T16:27:39+00:00",
 "status": "unverified headline"
 }
