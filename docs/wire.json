@@ -1,8 +1,28 @@
 {
 "name": "Tracewire",
-"updated": "2026-11-01T20:45:25+00:00",
+"updated": "2026-11-01T23:56:51+00:00",
 "note": "Unverified headlines collected automatically from public feeds. Not checked by Tracewire. Verified items appear in the Feed.",
 "items": [
+{
+"id": "96777a3862fa",
+"t": "Where Dems eyeing the White House are putting their midterm chips",
+"u": "https://www.axios.com/2026/11/01/2028-democrats-midterm-bets",
+"o": "Axios",
+"lane": "news",
+"at": "2026-11-01T22:45:06+00:00",
+"seen": "2026-11-01T23:56:51+00:00",
+"status": "unverified headline"
+},
+{
+"id": "0dbf0226aa90",
+"t": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+"u": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+"o": "TechCrunch",
+"lane": "news",
+"at": "2026-11-01T21:55:23+00:00",
+"seen": "2026-11-01T23:56:51+00:00",
+"status": "unverified headline"
+},
 {
 "id": "616b86adcf3f",
 "t": "Musk's Fortune Slips to $865 Billion as SpaceX Stock Sinks on AI Bubble Fears - BigGo Finance",
@@ -88,6 +108,16 @@
 "lane": "search",
 "at": "2026-11-01T18:42:36+00:00",
 "seen": "2026-11-01T20:45:25+00:00",
+"status": "unverified headline"
+},
+{
+"id": "2d93e6ebb9ae",
+"t": "National Grid to site biggest substation in UK near planned Teesside datacentre",
+"u": "https://www.theguardian.com/business/2026/nov/01/national-grid-to-site-biggest-substation-on-teesside-near-planned-ai-datacentre",
+"o": "The Guardian",
+"lane": "news",
+"at": "2026-11-01T18:37:42+00:00",
+"seen": "2026-11-01T23:56:51+00:00",
 "status": "unverified headline"
 },
 {
@@ -2155,39 +2185,6 @@
 "lane": "search",
 "at": "2026-10-31T13:49:15+00:00",
 "seen": "2026-10-31T17:27:00+00:00",
-"status": "unverified headline"
-},
-{
-"id": "fa66d668b678",
-"t": "Google in talks on Golden Dome data security - Briefs Finance",
-"u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRldYdFE2WGNWS1dUZEJRb0twcG5DUFNmZDFYalN2U2o4V0VuWDdkZ2d3cTgtRFB4YXhnNFExQ1RxT215TjU1SGVYY2JGbHllc0FuY1FoSDlEWTNodlU3MU12V2VlVUloNmNpRHJqamtCdmh4TlViQjN2UkJXeHZZZUs3ZVVTQ0pMZm9vdVoyNERrQQ?oc=5",
-"o": "Briefs Finance",
-"via": "Google News: contracts",
-"lane": "search",
-"at": "2026-10-31T13:35:00+00:00",
-"seen": "2026-10-31T23:45:27+00:00",
-"status": "unverified headline"
-},
-{
-"id": "e719616b4d3d",
-"t": "Dade City Ordinance for Data Center Moratorium Moves Forward - Hernando Sun",
-"u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOS29FT2xlbGNmSzRxRGF0SU8xN0dKOXZZVXRmZExoeTZKR3plUGFsRElFSS1VMktYTVAyeGFHRVd0YWJVYlo3eU55M1ZoRThHaU5oZ1ZpUmN1ajZLR2ozcXpWbHlZOWVaU1lTWVJCMHljS0k2YWphNjFxdk9XeVNkUjNxbENPcmM5aDRiMUNpYVJ6aXRZYTNhNkcwMTFPNGxFSWc?oc=5",
-"o": "Hernando Sun",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-10-31T13:34:11+00:00",
-"seen": "2026-10-31T17:27:00+00:00",
-"status": "unverified headline"
-},
-{
-"id": "81bfb9aa7ae3",
-"t": "Reddit Stock Crashes 29% as Google's AI Search Cuts More Than 1 Million Weekly Referrals - Coinpaper",
-"u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOU0xlcm1Qem96Rl9jLWNtS21hOVEzSk80cG5KS0ZLelZHWDhaMVJZQkZzRnh3QWQ0MGxWdmV4TGtIeEtoSk9VOGs4VHhLZzdMeGR1UFRoRnpMYXI2WVpZeUdMaXJCQjFIa0ZPeGpfUzJGREg5WWlmb0poZ0hUempJaDJ6VmpuTGJQVkNUR0NJRmpJS2VVMlhQUlNVcUZETlFwd3M0ci1yMm5Hal9BbTlHRDg1WC1mUQ?oc=5",
-"o": "Coinpaper",
-"via": "Google News: ai-deals",
-"lane": "search",
-"at": "2026-10-31T13:33:39+00:00",
-"seen": "2026-10-31T23:45:27+00:00",
 "status": "unverified headline"
 }
 ]
