@@ -1,8 +1,18 @@
 {
 "name": "Tracewire",
-"updated": "2026-10-31T23:45:27+00:00",
+"updated": "2026-11-01T02:39:47+00:00",
 "note": "Unverified headlines collected automatically from public feeds. Not checked by Tracewire. Verified items appear in the Feed.",
 "items": [
+{
+"id": "8a042d77f1d6",
+"t": "Data centers are now a midterm issue, even in Brooklyn",
+"u": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/",
+"o": "TechCrunch",
+"lane": "news",
+"at": "2026-11-01T02:22:10+00:00",
+"seen": "2026-11-01T02:39:47+00:00",
+"status": "unverified headline"
+},
 {
 "id": "a9e513fad5f0",
 "t": "Does AI Water Demand Change The Bull Case For Pentair (PNR)? - Simply Wall St",
@@ -2169,17 +2179,6 @@
 "via": "Google News: dc-water",
 "lane": "search",
 "at": "2026-10-30T18:41:27+00:00",
-"seen": "2026-10-31T00:40:56+00:00",
-"status": "unverified headline"
-},
-{
-"id": "d34814a2ace9",
-"t": "Smoke Alarms Woke A Teenager In Time To Save Her Family - 96.5 KPEL",
-"u": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBrcDNmT2VIUWZPdWROVEMzeTZBQkNCRUV5R0psWkl6UXdrOXNTMFJTdGxrMkJIdjhBbk9lSjNrQTZLSE8xbDJRSm52Qy14Sk1XOGptVWpwMVVBV3BfZGgyLWc5WHRYUVdlZW9FNQ?oc=5",
-"o": "96.5 KPEL",
-"via": "Google News: dc-incent",
-"lane": "search",
-"at": "2026-10-30T18:39:23+00:00",
 "seen": "2026-10-31T00:40:56+00:00",
 "status": "unverified headline"
 }
