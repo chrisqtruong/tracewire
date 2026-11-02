@@ -1,8 +1,18 @@
 {
 "name": "Tracewire",
-"updated": "2026-11-01T23:56:51+00:00",
+"updated": "2026-11-02T05:30:43+00:00",
 "note": "Unverified headlines collected automatically from public feeds. Not checked by Tracewire. Verified items appear in the Feed.",
 "items": [
+{
+"id": "238f2eaad27a",
+"t": "Trump administration’s social media posts ahead of elections criticized for being inflammatory",
+"u": "https://www.courthousenews.com/trump-administrations-social-media-posts-ahead-of-elections-criticized-for-being-inflammatory/",
+"o": "Courthouse News Service",
+"lane": "news",
+"at": "2026-11-02T02:30:20+00:00",
+"seen": "2026-11-02T05:30:43+00:00",
+"status": "unverified headline"
+},
 {
 "id": "96777a3862fa",
 "t": "Where Dems eyeing the White House are putting their midterm chips",
@@ -2174,17 +2184,6 @@
 "lane": "search",
 "at": "2026-10-31T13:49:39+00:00",
 "seen": "2026-11-01T09:45:07+00:00",
-"status": "unverified headline"
-},
-{
-"id": "23b9ef96c1c2",
-"t": "Nessel Challenges DTE's Google Data Center Deal, Fights for Bigger Customer Shield - Hoodline",
-"u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRFVFOFQzeGNEcF93Y2tpb1cwdWpGNzBvTFE2YXNZNDF5ZE9Oby0zWW1iTi1zLWRhT09hdWJ2dDBRM09CYU11cUJabWU1SXU3M1JJNHFDRGpYWXYtd2NIN3Q5UEZrM3V1a1NZeWNVNl9oNnpTWHdXc3ZJcC1IWjhRR1BsOVdIbEVGbkxuSVdtSTh4ODZNNEpnWUpzTGRXZ1h3WjBBNl9SekswZmJuTDduMQ?oc=5",
-"o": "Hoodline",
-"via": "Google News: dc-utility",
-"lane": "search",
-"at": "2026-10-31T13:49:15+00:00",
-"seen": "2026-10-31T17:27:00+00:00",
 "status": "unverified headline"
 }
 ]
