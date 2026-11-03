@@ -1,8 +1,99 @@
 {
 "name": "Tracewire",
-"updated": "2026-11-03T18:33:35+00:00",
+"updated": "2026-11-03T23:39:02+00:00",
 "note": "Unverified headlines collected automatically from public feeds. Not checked by Tracewire. Verified items appear in the Feed.",
 "items": [
+{
+"id": "6c42f65222e8",
+"t": "Sony smart TV privacy suit survives as judge rejects arbitration bid",
+"u": "https://www.courthousenews.com/sony-smart-tv-privacy-suit-survives-as-judge-rejects-arbitration-bid/",
+"o": "Courthouse News Service",
+"lane": "news",
+"at": "2026-11-03T23:17:34+00:00",
+"seen": "2026-11-03T23:39:02+00:00",
+"status": "unverified headline"
+},
+{
+"id": "e685f10c5f8a",
+"t": "AMD stock jumps 8% on earnings as data center revenue nearly doubles",
+"u": "https://www.cnbc.com/2026/11/03/amd-amd-q3-earnings-report-2026-.html",
+"o": "CNBC",
+"lane": "news",
+"at": "2026-11-03T23:04:37+00:00",
+"seen": "2026-11-03T23:39:02+00:00",
+"status": "unverified headline"
+},
+{
+"id": "9714ab26c392",
+"t": "Meta raises $15 billion in five-part US bond sale - Reuters",
+"u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZ0dOQjhPM1A5WmJrZFlkRV9MeFZLNHJZakRnUzQwa0ZpY1J2eXVuZmJ6QkQ3TXpZY3Q0VW9tWlJ1S0tQU25YbHZqS3QwUEFnZmlFcjJMZ2t3V19QX2ttXzNMTFNHS3BsWU9qOFFJamd6R2ttQVE3bnM0MGRlNUJpTzY0WXNzMnlMSS1fRDJzWVpoYUhreERlblhKMA?oc=5",
+"o": "Reuters",
+"via": "Google News: reuters.com/technology",
+"lane": "search",
+"at": "2026-11-03T22:55:43+00:00",
+"seen": "2026-11-03T23:39:02+00:00",
+"status": "unverified headline"
+},
+{
+"id": "97ea381abb97",
+"t": "Data centers are turning to old jet engines as the wait for power grows",
+"u": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
+"o": "TechCrunch",
+"lane": "news",
+"at": "2026-11-03T22:19:53+00:00",
+"seen": "2026-11-03T23:39:02+00:00",
+"status": "unverified headline"
+},
+{
+"id": "02742f8d0bf4",
+"t": "US tech stocks recover after selloff spooks investors over AI spending",
+"u": "https://www.theguardian.com/business/2026/nov/03/us-tech-stocks-recovery-ai-spending",
+"o": "The Guardian",
+"lane": "news",
+"at": "2026-11-03T22:18:45+00:00",
+"seen": "2026-11-03T23:39:02+00:00",
+"status": "unverified headline"
+},
+{
+"id": "07464b8766d5",
+"t": "Binance says hackers used fake job interviews and an internal AI tool to pull off the $6.3 billion heist",
+"u": "https://www.theverge.com/news/1025576/binance-cyrpto-theft-explained",
+"o": "The Verge",
+"lane": "news",
+"at": "2026-11-03T22:05:10+00:00",
+"seen": "2026-11-03T23:39:02+00:00",
+"status": "unverified headline"
+},
+{
+"id": "032b81f3baec",
+"t": "Hiding inside Palantir’s skyrocketing quarter is a foreboding signal",
+"u": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/",
+"o": "TechCrunch",
+"lane": "news",
+"at": "2026-11-03T21:05:55+00:00",
+"seen": "2026-11-03T23:39:02+00:00",
+"status": "unverified headline"
+},
+{
+"id": "42ec3b43220b",
+"t": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+"u": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+"o": "TechCrunch",
+"lane": "news",
+"at": "2026-11-03T19:34:43+00:00",
+"seen": "2026-11-03T23:39:02+00:00",
+"status": "unverified headline"
+},
+{
+"id": "9ca5fa3306ae",
+"t": "Meta seeks to raise up to $25 billion in debt sale as AI spending jumps",
+"u": "https://www.cnbc.com/2026/11/03/meta-bond-sale-ai-funding.html",
+"o": "CNBC",
+"lane": "news",
+"at": "2026-11-03T18:33:49+00:00",
+"seen": "2026-11-03T23:39:02+00:00",
+"status": "unverified headline"
+},
 {
 "id": "7d9767715c36",
 "t": "Binance co-CEO Richard Teng says hackers used fake job interviews, AI tool to steal $6.3 billion in crypto",
@@ -142,6 +233,16 @@
 "lane": "news",
 "at": "2026-11-03T13:00:10+00:00",
 "seen": "2026-11-03T18:33:35+00:00",
+"status": "unverified headline"
+},
+{
+"id": "e84db2cc3fed",
+"t": "Former U.S. Government Contractor Pleads Guilty to Spying for Ethiopia",
+"u": "https://www.justice.gov/opa/pr/former-us-government-contractor-pleads-guilty-spying-ethiopia",
+"o": "DOJ",
+"lane": "agency",
+"at": "2026-11-03T12:00:00+00:00",
+"seen": "2026-11-03T23:39:02+00:00",
 "status": "unverified headline"
 },
 {
@@ -2061,115 +2162,6 @@
 "lane": "search",
 "at": "2026-11-02T21:13:53+00:00",
 "seen": "2026-11-03T11:22:46+00:00",
-"status": "unverified headline"
-},
-{
-"id": "e31d00df5e80",
-"t": "Senate GOP super PAC nearly triples streaming and social media spending - Mezha.net",
-"u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTHdoZVE4Wi1NVVpmWGJSMTZSVGhyTHdZa2ozWVJFQWJ5bVdraTJiSlhiZWh4VjBFOHloVWJtWktYNFdPTFhvSS1xTnBKRUlfak9IQTB3VUdHX1NERUYyMVhOSWhIdUpFS3RkTUl0QVliWGx3alFTRVlGZl84SVpCUw?oc=5",
-"o": "Mezha.net",
-"via": "Google News: money",
-"lane": "search",
-"at": "2026-11-02T21:10:30+00:00",
-"seen": "2026-11-03T11:22:46+00:00",
-"status": "unverified headline"
-},
-{
-"id": "a2a6983e29e4",
-"t": "Lumentum CEO touts 'enormous' opportunity in massive AI connectivity deal with Marvell",
-"u": "https://www.cnbc.com/2026/11/02/marvell-lumentum-ai-deal.html",
-"o": "CNBC",
-"lane": "news",
-"at": "2026-11-02T21:00:59+00:00",
-"seen": "2026-11-02T22:30:00+00:00",
-"status": "unverified headline"
-},
-{
-"id": "3c3f05304719",
-"t": "Google and Meta spent big this election cycle. Is Big Tech trying to ‘buy the Legislature’? - Local News Matters",
-"u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQ0lVanNLcnRYMTYyaVBJY2JVYTc3U2Yyby1GYzA5WjVURktSQXM2WlpTMGVpNzlld0E2U28yMDdYdU91ZldhVTM0dTlsN3BNV0JNSXVXOWN5aGRsZktLbDJoOTUxVjRHanhpWDFvUnNDcGRmcFhfLWJkX19RNjNHTHRxbThjQQ?oc=5",
-"o": "Local News Matters",
-"via": "Google News: money",
-"lane": "search",
-"at": "2026-11-02T21:00:00+00:00",
-"seen": "2026-11-03T03:40:21+00:00",
-"status": "unverified headline"
-},
-{
-"id": "4048195e4d6c",
-"t": "ICE contractor and detainees settle forced labor claims - Courthouse News",
-"u": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbXBlamV1NkhkTFFzUTQyUnVUZENKelB6VEpoTWFmTkotdHRiSnBkVUI2UVpIbHo4cGV0UGViRVNEb3p0bDVpc3hieFJoa3czcDh0bE1hcEhDSVZidTBrNkZIVnpyd2hDWFZqRGVtR1pjb1I4YnZLUGJzbFFYa3NQcmx1QWZuamtjMy00QWN0TFg?oc=5",
-"o": "Courthouse News",
-"via": "Google News: contracts",
-"lane": "search",
-"at": "2026-11-02T20:59:27+00:00",
-"seen": "2026-11-03T03:40:21+00:00",
-"status": "unverified headline"
-},
-{
-"id": "8710d856cdc0",
-"t": "Louisiana tightens data center tax break requirements - American Press",
-"u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdFhMdlZtTjNYVWxONnFENUFqR05tX01idzZTMGIydTdUckhFMmRBY0xpMjIydG9rZUhLMERtRU1Ic0RHUDNTeTRkTzBCMmVUTGNaaUJseTZ2LWNzMF9pUGwtYmhKeGdISU01aTN3WXlJcmpfQk9nMEN3VlpCLXhsTEtEcW9kcFVLdUZfRXhwQlhqakhNTmc?oc=5",
-"o": "American Press",
-"via": "Google News: dc-incent",
-"lane": "search",
-"at": "2026-11-02T20:54:46+00:00",
-"seen": "2026-11-03T03:40:21+00:00",
-"status": "unverified headline"
-},
-{
-"id": "0ebb0a3e626d",
-"t": "Jury selection begins in detainees' forced labor trial against ICE contractor - Courthouse News",
-"u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMTFmWHhoRmhBQXJOQjNYOUVNcGlSU0pwVDFncjdUUU91eE1jaFJUMFB5YWtnTW5fdktSaWtkUjBMY0FmVzhmaHpqUU5kNWNLLWJiczJLZDhLUGZicTlBSlBGREgyTjh4SVo1ZmtFbUFveHZjWWZRZFl0VGoxcWszSUNwQ2xTWFlWTzVXekFoUGZVc3ZVSDh4ZWVYalJzTWdzOEI4anFn?oc=5",
-"o": "Courthouse News",
-"via": "Google News: contracts",
-"lane": "search",
-"at": "2026-11-02T20:50:49+00:00",
-"seen": "2026-11-03T03:40:21+00:00",
-"status": "unverified headline"
-},
-{
-"id": "66fb4df258dd",
-"t": "Scoop: Senate GOP makes massive bet on streaming - Axios",
-"u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVXdOa3NieUFEbWNGY3F6MzhzWUZXekRyYVVLSmVyR09VSWJBZkdORWtEUEYxbDBWcDRKU3RfVFZMSEdLeDNubXNVRWEyM29vcDQzMDAtdkhKb1RzVGpOdkZJRDkyNU1KbTZTQ3BkWmlNU0tuZkt4SDRlN3Jnb2szcXVmU0VUcnRHYXc?oc=5",
-"o": "Axios",
-"via": "Google News: money",
-"lane": "search",
-"at": "2026-11-02T20:50:47+00:00",
-"seen": "2026-11-03T03:40:21+00:00",
-"status": "unverified headline"
-},
-{
-"id": "6f3e1b47c95c",
-"t": "Mystery Group Spends Millions to Boost Third-Party Spoilers at Republicans’ Expense - The New York Times",
-"u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUVJMbFhFcG9Pa093NXZzMFZETFRmcEs0X18wZFlSaGVqdDFYaVBzSWh1VFJkbFBSNVdlVUZoemZwcm1iY1RNQVFGaFhHemZTZmVVc3ZqdHQtOWlIM2hzcUpRWXhLaTdwT1J4VXhFREgwMW5IcDhFTnVab05jQzhiSUdJVm1lOHctTzlmOQ?oc=5",
-"o": "The New York Times",
-"via": "Google News: money",
-"lane": "search",
-"at": "2026-11-02T20:49:40+00:00",
-"seen": "2026-11-03T03:40:21+00:00",
-"status": "unverified headline"
-},
-{
-"id": "cd063460c0e7",
-"t": "Big AI’s $140 Million Election Machine Stalls Out - The Lever",
-"u": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1oVXBDWHQtZ2oxT0NFcE4wUFpDV3BWZHNkRUxMRlBMdGhvdjdZS21fTkRHSVRPRHFUbi1DV0FiZDN5dVlIS2VDSGpmN0U3X1cxQTMxb0t4aEt0ZG43MkJsbDQ3Z1ZVWmpzbkNtQ3h3QlcweFdvOWYzUWs1aEtxb1E?oc=5",
-"o": "The Lever",
-"via": "Google News: money",
-"lane": "search",
-"at": "2026-11-02T20:46:16+00:00",
-"seen": "2026-11-03T03:40:21+00:00",
-"status": "unverified headline"
-},
-{
-"id": "cda1e9cb0818",
-"t": "Targeted data selection could roughly triple AI fine-tuning speed - Tech Xplore",
-"u": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9IWVYwVXRtTXVsM195Nk9vLVg0aFFlajZlcWoyd3p4SEN5bDlPZjNjLXVvNEFzMTBwVy1paXhDOGlVOEFBNnVYQi16NFI5bjlmcTFWSmZoX1NmLXRlTmI1cjJtVXZDY2VsZ28zTVJleGh6T0RMSmhTM2t3?oc=5",
-"o": "Tech Xplore",
-"via": "Google News: privacy",
-"lane": "search",
-"at": "2026-11-02T20:40:10+00:00",
-"seen": "2026-11-03T03:40:21+00:00",
 "status": "unverified headline"
 }
 ]
