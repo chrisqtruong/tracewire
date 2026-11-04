@@ -1,8 +1,179 @@
 {
 "name": "Tracewire",
-"updated": "2026-11-04T18:40:28+00:00",
+"updated": "2026-11-04T23:56:35+00:00",
 "note": "Unverified headlines collected automatically from public feeds. Not checked by Tracewire. Verified items appear in the Feed.",
 "items": [
+{
+"id": "948de9b33a05",
+"t": "Commissioner Gomez on Historic Midterm Election",
+"u": "https://www.fcc.gov/edoc/426480",
+"o": "FCC",
+"lane": "agency",
+"at": "2026-11-04T23:56:35+00:00",
+"seen": "2026-11-04T23:56:35+00:00",
+"status": "unverified headline"
+},
+{
+"id": "d67301cb39d9",
+"t": "The Blue Wave Has Tech Bros Scrambling for Data Centers in Space",
+"u": "https://www.wired.com/story/the-blue-wave-has-tech-bros-scrambling-for-data-centers-in-space/",
+"o": "Wired",
+"lane": "news",
+"at": "2026-11-04T23:13:14+00:00",
+"seen": "2026-11-04T23:56:35+00:00",
+"status": "unverified headline"
+},
+{
+"id": "b19d76fe19d3",
+"t": "Democrats’ Victory in Texas Raises Potential for Environmental Reform",
+"u": "https://insideclimatenews.org/news/04112026/texas-blue-wave-data-centers/",
+"o": "Inside Climate News",
+"lane": "news",
+"at": "2026-11-04T23:06:22+00:00",
+"seen": "2026-11-04T23:56:35+00:00",
+"status": "unverified headline"
+},
+{
+"id": "9e90fea54514",
+"t": "International Coalition of Lawyers and Advocacy Groups Accuses JBS of Money Laundering",
+"u": "https://insideclimatenews.org/news/04112026/meat-company-sued-for-money-laundering/",
+"o": "Inside Climate News",
+"lane": "news",
+"at": "2026-11-04T23:01:00+00:00",
+"seen": "2026-11-04T23:56:35+00:00",
+"status": "unverified headline"
+},
+{
+"id": "9d87aa0d6574",
+"t": "Scare campaigns: Victoria’s major parties trade blows over AI-generated videos of leaders in election ads",
+"u": "https://www.theguardian.com/australia-news/2026/nov/05/victoria-election-2026-ai-generated-video-ads-ntwnfb",
+"o": "The Guardian",
+"lane": "news",
+"at": "2026-11-04T23:00:46+00:00",
+"seen": "2026-11-04T23:56:35+00:00",
+"status": "unverified headline"
+},
+{
+"id": "a331696f9782",
+"t": "AI PACs spent millions trying to shape Congress — here’s how they fared",
+"u": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
+"o": "TechCrunch",
+"lane": "news",
+"at": "2026-11-04T22:45:09+00:00",
+"seen": "2026-11-04T23:56:35+00:00",
+"status": "unverified headline"
+},
+{
+"id": "48d8c1552d58",
+"t": "Qualcomm is betting big on data centers as smartphone sales sink",
+"u": "https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers",
+"o": "The Verge",
+"lane": "news",
+"at": "2026-11-04T22:42:15+00:00",
+"seen": "2026-11-04T23:56:35+00:00",
+"status": "unverified headline"
+},
+{
+"id": "fe61eb40ca68",
+"t": "Democrats Win Control of Georgia’s Energy Regulator",
+"u": "https://insideclimatenews.org/news/04112026/georgia-public-service-commission-democrat-majority/",
+"o": "Inside Climate News",
+"lane": "news",
+"at": "2026-11-04T22:40:34+00:00",
+"seen": "2026-11-04T23:56:35+00:00",
+"status": "unverified headline"
+},
+{
+"id": "b8af3c0d6e27",
+"t": "Voters rebuff data centers in every ballot measure except one during the 2026 midterms",
+"u": "https://www.cnbc.com/2026/11/04/data-center-ballot-measures-2026-midterm.html",
+"o": "CNBC",
+"lane": "news",
+"at": "2026-11-04T22:29:51+00:00",
+"seen": "2026-11-04T23:56:35+00:00",
+"status": "unverified headline"
+},
+{
+"id": "bf2c3f5020f6",
+"t": "Trump’s Energy Revolution Is Over. Now a New Era Begins.",
+"u": "https://heatmap.news/daily/2026-midterms-democrats-climate-energy",
+"o": "Heatmap",
+"lane": "news",
+"at": "2026-11-04T22:29:03+00:00",
+"seen": "2026-11-04T23:56:35+00:00",
+"status": "unverified headline"
+},
+{
+"id": "c98276e1789e",
+"t": "Wall Street’s Winners and Losers From the Blue Tsunami",
+"u": "https://heatmap.news/economy/clean-energy-stocks-midterms",
+"o": "Heatmap",
+"lane": "news",
+"at": "2026-11-04T21:44:36+00:00",
+"seen": "2026-11-04T23:56:35+00:00",
+"status": "unverified headline"
+},
+{
+"id": "38f3538b701a",
+"t": "Figma banking on AI credits, in-house model to lift margins - Reuters",
+"u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPem13RkEzMkFyR1labUhkbGVwZExrNnBFVS1TN3FuTjhNaDlVeEt1S3E4dzN5T1R2aFp5ZUF0aE9OUGNCdEVoTXNOSXVjVFd0RGF1Zmx0Njl5MmFNWFBUeElFYnM1RlktelZSYkRUbnViVXhnZ1dhSEJfLUFTRkp3MFAzeDNIaFktN3F6MVkxWmgwM0FuLWMtUHdKZlI5czN4?oc=5",
+"o": "Reuters",
+"via": "Google News: reuters.com/technology",
+"lane": "search",
+"at": "2026-11-04T21:38:12+00:00",
+"seen": "2026-11-04T23:56:35+00:00",
+"status": "unverified headline"
+},
+{
+"id": "d23caa988630",
+"t": "Meta acquires AI coding startup Conductor",
+"u": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
+"o": "TechCrunch",
+"lane": "news",
+"at": "2026-11-04T21:10:56+00:00",
+"seen": "2026-11-04T23:56:35+00:00",
+"status": "unverified headline"
+},
+{
+"id": "44e59e6a2681",
+"t": "Big Tech claims voters’ AI backlash is “anti-Trump” not “anti-tech”",
+"u": "https://arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech/",
+"o": "Ars Technica",
+"lane": "news",
+"at": "2026-11-04T20:55:50+00:00",
+"seen": "2026-11-04T23:56:35+00:00",
+"status": "unverified headline"
+},
+{
+"id": "13f4c2de1fc8",
+"t": "The Biggest Pro-AI Super PAC Network Didn’t Really Impact the Midterms",
+"u": "https://www.wired.com/story/the-biggest-pro-ai-super-pac-network-didnt-really-impact-the-midterms/",
+"o": "Wired",
+"lane": "news",
+"at": "2026-11-04T20:41:29+00:00",
+"seen": "2026-11-04T23:56:35+00:00",
+"status": "unverified headline"
+},
+{
+"id": "e6833d998802",
+"t": "Hyperscalers and Apple surge after election results remove investor uncertainty",
+"u": "https://www.cnbc.com/2026/11/04/apple-and-other-big-tech-stocks-surge-after-2026-midterm-elections.html",
+"o": "CNBC",
+"lane": "news",
+"at": "2026-11-04T19:37:43+00:00",
+"seen": "2026-11-04T23:56:35+00:00",
+"status": "unverified headline"
+},
+{
+"id": "f1f26a9d7d87",
+"t": "DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy",
+"u": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/",
+"o": "TechCrunch",
+"lane": "news",
+"at": "2026-11-04T19:29:52+00:00",
+"seen": "2026-11-04T23:56:35+00:00",
+"status": "unverified headline"
+},
 {
 "id": "63db59c1cf87",
 "t": "Greg Hacker wins Morgan commission race as voters back data center restrictions - Jacksonville Journal-Courier",
@@ -536,6 +707,16 @@
 "status": "unverified headline"
 },
 {
+"id": "146100bc14c4",
+"t": "The fight for tech accountability starts now",
+"u": "https://www.theverge.com/policy/1026289/midterms-2026-results-ai-data-center-big-tech-accountability",
+"o": "The Verge",
+"lane": "news",
+"at": "2026-11-04T15:02:25+00:00",
+"seen": "2026-11-04T23:56:35+00:00",
+"status": "unverified headline"
+},
+{
 "id": "ff7683337205",
 "t": "KBW downgrades Texas-based data center stocks following election reversals - Blockspace Media",
 "u": "https://news.google.com/rss/articles/CBMiekFVX3lxTE80dGZWdlZvWXE1UFVraGdlN004eGtFakZ3NlpZS2p1ZUFNMTRZYTBzTlk3UmZjWXE4a0tSbWNhQk1GaTh2ZHNHNnIzRE81Y09vc2hjR0MyUWxBQlRnellfckpQY2JMMTZxYmxKQ1YtSDM4RnY3dFAxd3Rn?oc=5",
@@ -891,6 +1072,16 @@
 "lane": "news",
 "at": "2026-11-04T12:11:59+00:00",
 "seen": "2026-11-04T18:40:28+00:00",
+"status": "unverified headline"
+},
+{
+"id": "2a53591c0a78",
+"t": "Utah Minor Recovered by Law Enforcement After Oregon Man Allegedly Transported the Victim to Engage in Criminal Sexual Activity",
+"u": "https://www.justice.gov/opa/pr/utah-minor-recovered-law-enforcement-after-oregon-man-allegedly-transported-victim-engage",
+"o": "DOJ",
+"lane": "agency",
+"at": "2026-11-04T12:00:00+00:00",
+"seen": "2026-11-04T23:56:35+00:00",
 "status": "unverified headline"
 },
 {
@@ -1842,6 +2033,17 @@
 "status": "unverified headline"
 },
 {
+"id": "44aeea8517ba",
+"t": "Here’s where data centers are on the ballot - The Washington Post",
+"u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNc29MamJtVzdRX3VuYkRVWGl6bDUwV3JoTXVkdkxKYkhldXZWNzhkUjRSUE85M2p1Z1VOX2M2VnhBRHFsQlVfUFZlcEtFSUl0S3c3MVpuSThCWEItTURlRGtKanJ1NWdmemphNkVwWHhIQ0lTdm5sX3JIUHUzclBUT3d2S2xCeXpYTDhYNlZXVFFGSnM?oc=5",
+"o": "The Washington Post",
+"via": "Google News: washingtonpost.com/technology",
+"lane": "search",
+"at": "2026-11-04T01:00:00+00:00",
+"seen": "2026-11-04T23:56:35+00:00",
+"status": "unverified headline"
+},
+{
 "id": "e33447699ce5",
 "t": "Canva layoffs impact 1,200 after design giant’s ‘hardest year yet’ - Forbes Australia",
 "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVHJQVEhnbmNHaUtsdVRocEJCSlM4VjJvRHBDc0FNeFpHUmtpdi04cXl6TTAwa2VTemczQXJsQ0ZKZEhwNk9jTFlBckVMSHN3MWllM1FRRk1SdVBGT24zRFdsTGpHSFQyV0JkZnAwcWpNa09pUTlkZjBJdUEyWmZHb045WE8?oc=5",
@@ -1959,219 +2161,6 @@
 "via": "Google News: dc-water",
 "lane": "search",
 "at": "2026-11-03T23:45:48+00:00",
-"seen": "2026-11-04T18:40:28+00:00",
-"status": "unverified headline"
-},
-{
-"id": "1a8c5873b72f",
-"t": "Staff asked to move to Sydney in Canva’s first redundancy round in 13 years - AFR",
-"u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQ3NRbGkxVHRmNEpLTUZiaVFMWllDa2VCMEZIeGtMb0hneU02QnhzLXI1V0o4YnZVY0VyMk5lWlg3SDdoc05fbGNRaXk4WDFQQjBIdUNfNURWR3ViSHFLYnI1M3dqVThYdElna3B6R3JLQTB3RVVnV2s4aGNjeU1qTkQ3YmpIdXhQdFhIU19yYlA1S1M3RU5RTXJuRDBrUDA1dDQzaHJidVYxQlF6cWZzUVFuZw?oc=5",
-"o": "AFR",
-"via": "Google News: labor",
-"lane": "search",
-"at": "2026-11-03T23:21:00+00:00",
-"seen": "2026-11-04T18:40:28+00:00",
-"status": "unverified headline"
-},
-{
-"id": "6c42f65222e8",
-"t": "Sony smart TV privacy suit survives as judge rejects arbitration bid",
-"u": "https://www.courthousenews.com/sony-smart-tv-privacy-suit-survives-as-judge-rejects-arbitration-bid/",
-"o": "Courthouse News Service",
-"lane": "news",
-"at": "2026-11-03T23:17:34+00:00",
-"seen": "2026-11-03T23:39:02+00:00",
-"status": "unverified headline"
-},
-{
-"id": "e685f10c5f8a",
-"t": "AMD stock jumps 8% on earnings as data center revenue nearly doubles",
-"u": "https://www.cnbc.com/2026/11/03/amd-amd-q3-earnings-report-2026-.html",
-"o": "CNBC",
-"lane": "news",
-"at": "2026-11-03T23:04:37+00:00",
-"seen": "2026-11-03T23:39:02+00:00",
-"status": "unverified headline"
-},
-{
-"id": "f6ca6536617e",
-"t": "Planning commission approves data center standards - Southernminn.com",
-"u": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOeDA0elRabjY5b0V4UU56LUFaQlBfS2VFOHRvM05MR0RlNW1KdUZjV0hjX1Y3LXV1ZTJkX05MdG9Oa0paeFhCelBFdFR4U081M0FJQzNkb2U1dXNaVTZ2ckhsZk1lVFZlbXVQSHRYUUdWRVMzOG54N0I4b0MyTW5XeDUtQ1ZPYTFIZjlROVRIc205VWR1SVBPTzZBTWVYaEh3TS1lVDlpQUJXNzFjWUhkZ3l5dVBvLVNyZmt3RjdQak1rTEZzZm9CekJfMkg0WmJud1BaVnR4UlFmZWtCT1AzTlg2dktDLTVramNz?oc=5",
-"o": "Southernminn.com",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-11-03T23:04:00+00:00",
-"seen": "2026-11-04T18:40:28+00:00",
-"status": "unverified headline"
-},
-{
-"id": "39da754a0c86",
-"t": "Apple gets fined $19 million for selling iPhones without a charger - Mashable",
-"u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5yOUFGUHNvRkg5Y1pmTHhINUw1dE5HSkl1YkNTRmR3a01ab1ZiMWdEUDhVdm5fUHFSXzFhRjdQRFlpX19Dalp0MHQyU2w0ZWtMbFdhTGlTazFUQUVhXzQ0QVVJMXdmclhxcHJBLTZB?oc=5",
-"o": "Mashable",
-"via": "Google News: privacy",
-"lane": "search",
-"at": "2026-11-03T23:00:00+00:00",
-"seen": "2026-11-04T18:40:28+00:00",
-"status": "unverified headline"
-},
-{
-"id": "9714ab26c392",
-"t": "Meta raises $15 billion in five-part US bond sale - Reuters",
-"u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZ0dOQjhPM1A5WmJrZFlkRV9MeFZLNHJZakRnUzQwa0ZpY1J2eXVuZmJ6QkQ3TXpZY3Q0VW9tWlJ1S0tQU25YbHZqS3QwUEFnZmlFcjJMZ2t3V19QX2ttXzNMTFNHS3BsWU9qOFFJamd6R2ttQVE3bnM0MGRlNUJpTzY0WXNzMnlMSS1fRDJzWVpoYUhreERlblhKMA?oc=5",
-"o": "Reuters",
-"via": "Google News: reuters.com/technology",
-"lane": "search",
-"at": "2026-11-03T22:55:43+00:00",
-"seen": "2026-11-03T23:39:02+00:00",
-"status": "unverified headline"
-},
-{
-"id": "31344d2cba25",
-"t": "California fights \"preposterous\" Trump admin demand to scrap state broadband laws",
-"u": "https://arstechnica.com/tech-policy/2026/11/california-fights-preposterous-trump-admin-demand-to-scrap-state-broadband-laws/",
-"o": "Ars Technica",
-"lane": "news",
-"at": "2026-11-03T22:39:37+00:00",
-"seen": "2026-11-04T03:19:05+00:00",
-"status": "unverified headline"
-},
-{
-"id": "bb18fbe77f25",
-"t": "Is Palantir Stock a Buy After its Latest Earnings Report? - The Motley Fool",
-"u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORXJMeEtvSDZkU2ZnWTktSlJjRnVJd0dKRHBKNnlpeVoyWUFEclE4ZFJWbG5SYWY3WE1lR2xvTDNmeFdYU1RXV2RJNWxKZUxaRVVPNzBVdlN2bjVlblY5M0xzNGU3RmlxZnBwc0xLU0Z1eG9oR3hwamxTSmhjcEY1bi1NMHZpWERkcE5hYTRaMGtFUDZCcWJaVDI2c3hzaWRo?oc=5",
-"o": "The Motley Fool",
-"via": "Google News: contracts",
-"lane": "search",
-"at": "2026-11-03T22:30:00+00:00",
-"seen": "2026-11-04T18:40:28+00:00",
-"status": "unverified headline"
-},
-{
-"id": "52d29b676fac",
-"t": "US Regulator Makes ‘Interventionist’ Pivot to Speed Data Centers - EnergyNow.com",
-"u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUnd3WmlXcVpnQ1UtYklyTGl4V3pZMVV4cjRXLW5VcnhWcjFTZDBfb1FDZl9qYUp6U19JV0lSb0Nac0YyYXNmUFVMaXNPUlU2ZmFUSjJsLVBYWjRLTS1PaW9XZ3h4Yng3YTM4ZW5kd0xKcnM1ZWdmbzItVzhHcWRiVUNpT2NncTZ3TWFqWTRzZ2hLSFkxcGJrag?oc=5",
-"o": "EnergyNow.com",
-"via": "Google News: dc-utility",
-"lane": "search",
-"at": "2026-11-03T22:29:02+00:00",
-"seen": "2026-11-04T18:40:28+00:00",
-"status": "unverified headline"
-},
-{
-"id": "97ea381abb97",
-"t": "Data centers are turning to old jet engines as the wait for power grows",
-"u": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
-"o": "TechCrunch",
-"lane": "news",
-"at": "2026-11-03T22:19:53+00:00",
-"seen": "2026-11-03T23:39:02+00:00",
-"status": "unverified headline"
-},
-{
-"id": "02742f8d0bf4",
-"t": "US tech stocks recover after selloff spooks investors over AI spending",
-"u": "https://www.theguardian.com/business/2026/nov/03/us-tech-stocks-recovery-ai-spending",
-"o": "The Guardian",
-"lane": "news",
-"at": "2026-11-03T22:18:45+00:00",
-"seen": "2026-11-03T23:39:02+00:00",
-"status": "unverified headline"
-},
-{
-"id": "07464b8766d5",
-"t": "Binance says hackers used fake job interviews and an internal AI tool to pull off the $6.3 billion heist",
-"u": "https://www.theverge.com/news/1025576/binance-cyrpto-theft-explained",
-"o": "The Verge",
-"lane": "news",
-"at": "2026-11-03T22:05:10+00:00",
-"seen": "2026-11-03T23:39:02+00:00",
-"status": "unverified headline"
-},
-{
-"id": "3471671368a7",
-"t": "Judge appears skeptical of Pentagon arguments in legal fight over Anthropic 'supply chain risk' designation - ABC News - Breaking News, Latest News and Videos",
-"u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeFFmS0tuRHY2cGZRaFRneEUwZUJzY2lmU0RiUm9YWjdGcjBqbHczcl82ZGdYS3hrNmxPLVM4WUZkeEViUThqZnBmXzFmb0std1ktckZyT3pXckZOVXJqTGZkMlZTS2s2UUlsRHVZQTNpdHlhQ0hBdHo0dWNGTGJHQ2xscGZrY3VUOVB3QU5POGtVRUVEc01EV0NsSFZVako5OVlia19PSGNMTmhsNndaaGl30gG3AUFVX3lxTE1rdlpUT192RDFETTA4cThDWVljVHl0QUpfNEN2OFpOSk9nTXVfWkQ0N2JtT2RialZOU3B2ZWxNUkt1NVl4SWY0VHRMeHRPaWI1SU9Zc1RtWkphSXVfT0ZNa28zSTE4clFRVEI1ZlJadGJwcW1ZOTVNa1hXSG91REpZaElCbW5fdTkzbTdOSFFDa2k4X1dDUVEybTN3dWhYMXJZTHV4d2ZmaV8xUWlJVHN0TGxUMmJncw?oc=5",
-"o": "ABC News - Breaking News, Latest News and Videos",
-"via": "Google News: contracts",
-"lane": "search",
-"at": "2026-11-03T22:03:13+00:00",
-"seen": "2026-11-04T18:40:28+00:00",
-"status": "unverified headline"
-},
-{
-"id": "8bc7eb5dffbb",
-"t": "Harlingen reviewing data center water contract - MyRGV.com",
-"u": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPY2NkaEZJdnpWa2hyY2IxWXRUaWxabEdTVlJfNllpeGVXOW5fM0JSTXRZSjdQRzBWN0JBZDFuX3EzcldUczZUaWQyRWdYMGwzclZCaXpCZHZpdHZFbG9mdTRETk95T1d3NWdoZVBjZmpNU1ctcUd3UjZuWllQci10VzlRbnVUV2NYSmVyUlIxa1M?oc=5",
-"o": "MyRGV.com",
-"via": "Google News: dc-water",
-"lane": "search",
-"at": "2026-11-03T21:43:00+00:00",
-"seen": "2026-11-04T18:40:28+00:00",
-"status": "unverified headline"
-},
-{
-"id": "7d1ba65fd647",
-"t": "OpenAI's hire of former Pentagon official Dan Driscoll is part of 'trend' toward defense projects - Fortune",
-"u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMTJ1enZ6YVJsS3BOcGhKR1BVR203N3QxZ253X1J0aXBodFpqcHhnU1o5MGw1NzlnTk9BSmlhWGpnTGFfQkt6VXRhRGNTeldtejRBbnZlcWFsd29VS21kaHp1QnZreUFsYVBkRi1icVpfaWxZakVXdVFUNmRaU2hWd0Y4NGx5bmRSLWVCZE14MllfVHJMMG5OeXVjX1VHbDJZSzBXNnFCajE?oc=5",
-"o": "Fortune",
-"via": "Google News: contracts",
-"lane": "search",
-"at": "2026-11-03T21:25:00+00:00",
-"seen": "2026-11-04T18:40:28+00:00",
-"status": "unverified headline"
-},
-{
-"id": "094e468516e1",
-"t": "Lafayette council OKs new data center restrictions - Journal & Courier",
-"u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRHdpYURuUEpDWV9mVzhmdVNDQnZieUdjQUpzbVE1dGo0YzFUbzZpU24ta25VRG1pSHhLYTNlT2h4U1FRallpTENOcWNYSFlsdFVxUTI1bkJYalQ3Q3VzakxTR21Kck5iTzEzTzZIUTZPZk9jMGJzS3g4bmdBV1RUOEhybWNhSVlwWHZrYjN6TmgzRkdGOFM5SzR4RjhjZHhzSDBqTmQ4MThUaUVvVi1CRXRXVHpuUkpXMFF1MmZ1RlhlNHhP?oc=5",
-"o": "Journal & Courier",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-11-03T21:24:00+00:00",
-"seen": "2026-11-04T18:40:28+00:00",
-"status": "unverified headline"
-},
-{
-"id": "a6bbcfd38dfc",
-"t": "Developers Eye Golf Courses for Data Center Projects - Bloomberg.com",
-"u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNzc1eHljbWNncDhEUmVGSVAxRXBMbWVWUFdtVmxYRUZheldKMjhicjFVOUJ6VWh0MHphTXdaeTJjeEpFVHl0U1l5c1NrMktSSHZlNmRMYS0tV1BkTWFlRUNSeDhOOGw3WXFHTGJBb09kbV9ickhBZ1B3SXp6bFBpb3c2Vklndng1NkZyVlNGSjZsR2NoVGotZFVESmo2YnZNRTB0U2k1RnBrdXo5WmlHanhPU3pJUUZZWk9hanVOTFAtZURFb2RidV9rZGhZXzAtWERKZUV6OFZfZw?oc=5",
-"o": "Bloomberg.com",
-"via": "Google News: dc-water",
-"lane": "search",
-"at": "2026-11-03T21:11:26+00:00",
-"seen": "2026-11-04T18:40:28+00:00",
-"status": "unverified headline"
-},
-{
-"id": "334a717d01b1",
-"t": "Lumberton City Council Will Consider Data Center Ordinance Nov. 9 - foxy99.com",
-"u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSWxVa3NiUzlyMkZJVncxb0FKLXV3N0xmUGVia3lLSUlLWXliMGczd2k0N2o5Y1YyUWpUUm5Ga0pLQkxrVzgzLTJjZFVhWG1xbWpUOUdsVEdjQXZHOUR6Rms0NkJxY0JfR1MxLXptN3Q1SXkwSzlkUXRYWV92ZkIwU2ozdThSZ3k1ZDlqT21mdmk0RDcyR0dGelNfRQ?oc=5",
-"o": "foxy99.com",
-"via": "Google News: dc-water",
-"lane": "search",
-"at": "2026-11-03T21:06:44+00:00",
-"seen": "2026-11-04T18:40:28+00:00",
-"status": "unverified headline"
-},
-{
-"id": "032b81f3baec",
-"t": "Hiding inside Palantir’s skyrocketing quarter is a foreboding signal",
-"u": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/",
-"o": "TechCrunch",
-"lane": "news",
-"at": "2026-11-03T21:05:55+00:00",
-"seen": "2026-11-03T23:39:02+00:00",
-"status": "unverified headline"
-},
-{
-"id": "3b863b571652",
-"t": "OpenAI Taps Uber President Jill Hazelbaker to Run Global Communications - BigGo Finance",
-"u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE82X2huRGF3QTNIN21YdFZEb3FiR2M4X1dBbEk4Yl9jR3JOZHdCaHJPV3ZvRDFKVmhpdFdzR2N4NGhEMFdEMlJhTDdGb3NYdVhEcC0ybEtUOG1tZ1dXR3BEdC1KY3I4N1dpQ3BfbzB5WEJoQVlsSkE?oc=5",
-"o": "BigGo Finance",
-"via": "Google News: money",
-"lane": "search",
-"at": "2026-11-03T20:25:00+00:00",
 "seen": "2026-11-04T18:40:28+00:00",
 "status": "unverified headline"
 }
