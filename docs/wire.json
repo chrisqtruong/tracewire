@@ -1,8 +1,58 @@
 {
 "name": "Tracewire",
-"updated": "2026-11-04T03:19:05+00:00",
+"updated": "2026-11-04T11:13:56+00:00",
 "note": "Unverified headlines collected automatically from public feeds. Not checked by Tracewire. Verified items appear in the Feed.",
 "items": [
+{
+"id": "288ffbbe663f",
+"t": "Elon Musk’s record election bet backfired. The backlash may reach beyond one billionaire",
+"u": "https://www.cnbc.com/2026/11/04/elon-musk-midterms-ai-data-centers.html",
+"o": "CNBC",
+"lane": "news",
+"at": "2026-11-04T10:54:53+00:00",
+"seen": "2026-11-04T11:13:56+00:00",
+"status": "unverified headline"
+},
+{
+"id": "84b987b0cc5a",
+"t": "DCD Studio: How to power data centers without impacting consumers with Maria Pope, Portland General Electric",
+"u": "https://www.datacenterdynamics.com/en/videos/dcd-studio-how-to-power-data-centers-without-impacting-consumers-with-maria-pope-portland-general-electric/",
+"o": "DatacenterDynamics",
+"lane": "news",
+"at": "2026-11-04T10:28:28+00:00",
+"seen": "2026-11-04T11:13:56+00:00",
+"status": "unverified headline"
+},
+{
+"id": "54cd31ea757e",
+"t": "Sponsored: All aboard the AI factory powertrain",
+"u": "https://www.datacenterdynamics.com/en/marketwatch/all-aboard-the-ai-factory-powertrain/",
+"o": "DatacenterDynamics",
+"lane": "news",
+"at": "2026-11-04T08:00:00+00:00",
+"seen": "2026-11-04T11:13:56+00:00",
+"status": "unverified headline"
+},
+{
+"id": "2dcc4062b520",
+"t": "Democrats Seize Congress, Statehouses in Referendum on the Economy",
+"u": "https://insideclimatenews.org/news/04112026/democrats-seize-congress-statehouses-in-referendum-on-the-economy/",
+"o": "Inside Climate News",
+"lane": "news",
+"at": "2026-11-04T05:25:10+00:00",
+"seen": "2026-11-04T11:13:56+00:00",
+"status": "unverified headline"
+},
+{
+"id": "a7f152c43aba",
+"t": "If This Was a Data Center Election, Data Centers Lost",
+"u": "https://heatmap.news/politics/data-center-election-results",
+"o": "Heatmap",
+"lane": "news",
+"at": "2026-11-04T05:16:57+00:00",
+"seen": "2026-11-04T11:13:56+00:00",
+"status": "unverified headline"
+},
 {
 "id": "1965c7f85c2d",
 "t": "AMD rides data center riches to ‘largest and most profitable’ quarter in history",
@@ -2105,60 +2155,6 @@
 "lane": "search",
 "at": "2026-11-02T21:41:26+00:00",
 "seen": "2026-11-03T03:40:21+00:00",
-"status": "unverified headline"
-},
-{
-"id": "150a24daa34d",
-"t": "The SEC Should Block Anthropic’s IPO to Protect the Public",
-"u": "https://techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public",
-"o": "Tech Policy Press",
-"lane": "news",
-"at": "2026-11-02T21:34:46+00:00",
-"seen": "2026-11-02T22:30:00+00:00",
-"status": "unverified headline"
-},
-{
-"id": "af0034c84811",
-"t": "Nevada data centers are building their own power - K-EnterTech Hub",
-"u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5vS2dVcUtzZFR4MXhhckEtWVphaVFnS2xYci1fNVZPdGhXaERrZkU3N0RCczdneTBwRHY3SWFKYnR2QzBxMzBHcE52RnV1UEwtVWtPeThXZ3VnQUVBRVE?oc=5",
-"o": "K-EnterTech Hub",
-"via": "Google News: dc-water",
-"lane": "search",
-"at": "2026-11-02T21:32:56+00:00",
-"seen": "2026-11-03T03:40:21+00:00",
-"status": "unverified headline"
-},
-{
-"id": "7386775b4895",
-"t": "Ahead of schedule, the Western Virginia Water Authority evaluates its supplies - WVTF",
-"u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUTZhTnF1QURKWFYxS2l6c0dOc2xuQThrYUZROFlxZHZ2SXVLajEtNldPSEpsSnlvWGhycVN2Ql9VQlpHQzNhTkoydVJMdFh1Z19JTW03NFRkLTlUTXRidXNkaXNRd3JaenJscmx1Wk9vTTJkRFE0VzgycE9sdWk5bUx1Vm1vTGhURDdtd1RtX0prUU5Ra2daU2t1NnVzWWlyTUJ2VDc4alZFbHAtRzktTzctSGtyYmh1OGFYUnpnWTNaUQ?oc=5",
-"o": "WVTF",
-"via": "Google News: dc-water",
-"lane": "search",
-"at": "2026-11-02T21:32:00+00:00",
-"seen": "2026-11-03T03:40:21+00:00",
-"status": "unverified headline"
-},
-{
-"id": "7e79e56da4cc",
-"t": "White House refuses to disclose how it vets AI security threats - The Washington Post",
-"u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORzVaRWF3M05XNENCeWdkX1lJWGRjck8yWGh5SkZuR2N0WlFpYldkMXZCU2pXNWJ4WXgwQWl1aEJwYzhGbUJidkxic3lHQWtHMzFyUGtSTE1CamhlV19nQW5QUEtWUG13ZGFBZ0xaSDBjVjBlbGFSUzZocEdvZnRuWDhSbHBaN3lnUlNLZmNWTGh4ekRoTG5RVUpfamRQZ25nejJvVm9TQ0R1dE9lbWFScU5jWFg?oc=5",
-"o": "The Washington Post",
-"via": "Google News: washingtonpost.com/technology",
-"lane": "search",
-"at": "2026-11-02T21:30:59+00:00",
-"seen": "2026-11-02T22:30:00+00:00",
-"status": "unverified headline"
-},
-{
-"id": "eb8760011deb",
-"t": "Palantir expects quarterly revenue above estimates on AI demand - Reuters",
-"u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORHl2TXR3V1NLdWxVUGFhNHludjhnOGY2M3g4TnktS19Pakw2dkM4VjAxMHQxcDEya0NtXzlGU29qc25GdEdrQ2o1WEI1MjlSc19ZZTBvVVZwRk1XZm9SQTJ5eEdRMm5mQ1p5aVZILWdXREdNU1d3RTBfSGRRRTJYLWVaZk5oR1U1Q0NSNGJHb2h3RUk5czl6bHJKQnBaTUREOWJmZHNKU2VsNGo3bHpldmo3SjRsbUcyRWc?oc=5",
-"o": "Reuters",
-"via": "Google News: reuters.com/technology",
-"lane": "search",
-"at": "2026-11-02T21:19:38+00:00",
-"seen": "2026-11-02T22:30:00+00:00",
 "status": "unverified headline"
 }
 ]
