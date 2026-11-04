@@ -1,8 +1,28 @@
 {
 "name": "Tracewire",
-"updated": "2026-11-03T23:39:02+00:00",
+"updated": "2026-11-04T03:19:05+00:00",
 "note": "Unverified headlines collected automatically from public feeds. Not checked by Tracewire. Verified items appear in the Feed.",
 "items": [
+{
+"id": "1965c7f85c2d",
+"t": "AMD rides data center riches to ‘largest and most profitable’ quarter in history",
+"u": "https://www.theverge.com/tech/1026148/amd-earnings-q3-2026-data-center-pc",
+"o": "The Verge",
+"lane": "news",
+"at": "2026-11-04T01:17:17+00:00",
+"seen": "2026-11-04T03:19:05+00:00",
+"status": "unverified headline"
+},
+{
+"id": "640703d3bebc",
+"t": "Google responds to political backlash over removing search from schools that ban AI",
+"u": "https://www.cnbc.com/2026/11/03/google-responds-to-outrage-over-removing-search-in-schools-that-ban-ai.html",
+"o": "CNBC",
+"lane": "news",
+"at": "2026-11-04T01:07:01+00:00",
+"seen": "2026-11-04T03:19:05+00:00",
+"status": "unverified headline"
+},
 {
 "id": "6c42f65222e8",
 "t": "Sony smart TV privacy suit survives as judge rejects arbitration bid",
@@ -32,6 +52,16 @@
 "lane": "search",
 "at": "2026-11-03T22:55:43+00:00",
 "seen": "2026-11-03T23:39:02+00:00",
+"status": "unverified headline"
+},
+{
+"id": "31344d2cba25",
+"t": "California fights \"preposterous\" Trump admin demand to scrap state broadband laws",
+"u": "https://arstechnica.com/tech-policy/2026/11/california-fights-preposterous-trump-admin-demand-to-scrap-state-broadband-laws/",
+"o": "Ars Technica",
+"lane": "news",
+"at": "2026-11-03T22:39:37+00:00",
+"seen": "2026-11-04T03:19:05+00:00",
 "status": "unverified headline"
 },
 {
@@ -2129,39 +2159,6 @@
 "lane": "search",
 "at": "2026-11-02T21:19:38+00:00",
 "seen": "2026-11-02T22:30:00+00:00",
-"status": "unverified headline"
-},
-{
-"id": "bf23a38f6546",
-"t": "Onsemi agrees to acquire Ferric for $600M, raises AI revenue target - Crypto Briefing",
-"u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE42dWFEcjg2UnY3a3hWMDdWTmp2NXdVdE16WUc1cjJOb09SSVpIRWFRWFNNS3prR3JyUEVJLTRFUzNnU01kbVJhemFuQ3V5U1dfRF9CUHQxWjl0UDNtMmpYeDY2VHFjM3hHcHF2NFF3d2tIajA?oc=5",
-"o": "Crypto Briefing",
-"via": "Google News: ai-deals",
-"lane": "search",
-"at": "2026-11-02T21:18:38+00:00",
-"seen": "2026-11-03T03:40:21+00:00",
-"status": "unverified headline"
-},
-{
-"id": "7725b8c3bb02",
-"t": "Chipmaker Marvell to Acquire Lumentum for $115 Billion - Mezha",
-"u": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBMUHJsMlo3Uzh2bWd0S21faDFJaE01VUZwdVVhdGoydWd4aW9ScUV4S0cxQ0JQZDlCaVpLZ2MtUThRZUwxN2NoeTF3MUJ2cEQ5aTdzVG9XR2hZbXV6bzlaR1lxVktpMHFfcWhPUUtTbTY3WUNkLVlj0gF8QVVfeXFMTVFwYUpsTFNNRU5KZWRJZkJOY3BwVnFtWGFpZTVGb25QQVFkRWRucFpGTm4zbEpFSXRpYVpuRnNaSnlBSzFidXdkdUZWUm93NUJTVkNQVWUyOEg3dTlFX0VFQTI4dmd5Q2xNaU1VNVFTMzRzLWM0REFUMlA2Vg?oc=5",
-"o": "Mezha",
-"via": "Google News: ai-deals",
-"lane": "search",
-"at": "2026-11-02T21:16:00+00:00",
-"seen": "2026-11-03T11:22:46+00:00",
-"status": "unverified headline"
-},
-{
-"id": "a67ca160e517",
-"t": "The Proposed NextEra-Dominion Energy Merger and the SCC: Why Your Utility Rates Are At Even Greater Risk - Blue Virginia",
-"u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNX0FhRjhVYy1GOHA0Zlh2aWtiUm9TY2tsbGtKOXFvRjl6VkxzNjNyT1FKZmpUTHRNb3dnMDZBQ0ZLN2Q2VXM1cUVwZ0FhX0ZJc0F3S1o0MDBxMnpERGszdDdSU3ZDeUt4bmhaWkN5MlgzVDZlM24zbzBZckhBaWxPWUg4QUpnLThoYTh0ZFN4S3d1WjJJM3M4Qm45SFBfWnN0WGdnMmZkZFVSVHZIckpOcUlqNTZ5SjltYWUzRkxTNms1ZnMyR3h2Q2NpUDlOdU9hVWc?oc=5",
-"o": "Blue Virginia",
-"via": "Google News: dc-utility",
-"lane": "search",
-"at": "2026-11-02T21:13:53+00:00",
-"seen": "2026-11-03T11:22:46+00:00",
 "status": "unverified headline"
 }
 ]
