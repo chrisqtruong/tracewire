@@ -1,8 +1,78 @@
 {
 "name": "Tracewire",
-"updated": "2026-11-05T14:30:55+00:00",
+"updated": "2026-11-05T21:11:45+00:00",
 "note": "Unverified headlines collected automatically from public feeds. Not checked by Tracewire. Verified items appear in the Feed.",
 "items": [
+{
+"id": "f62679c8b817",
+"t": "Minnesota high court urged to shield negative Google reviews from defamation suits",
+"u": "https://www.courthousenews.com/minnesota-high-court-urged-to-shield-negative-google-reviews-from-defamation-suits/",
+"o": "Courthouse News Service",
+"lane": "news",
+"at": "2026-11-05T20:43:02+00:00",
+"seen": "2026-11-05T21:11:45+00:00",
+"status": "unverified headline"
+},
+{
+"id": "8d2dc5855804",
+"t": "Virginia lawmakers assess misuse of automated license plate readers",
+"u": "https://www.courthousenews.com/virginia-lawmakers-assess-misuse-of-automated-license-plate-readers/",
+"o": "Courthouse News Service",
+"lane": "news",
+"at": "2026-11-05T20:03:54+00:00",
+"seen": "2026-11-05T21:11:45+00:00",
+"status": "unverified headline"
+},
+{
+"id": "6207feace691",
+"t": "Meta, TikTok, Google sue to block California teen social media law championed by Newsom",
+"u": "https://www.politico.com/news/2026/11/05/meta-tiktok-google-sue-to-block-california-teen-social-media-law-championed-by-newsom-01151171",
+"o": "Politico",
+"lane": "news",
+"at": "2026-11-05T19:24:08+00:00",
+"seen": "2026-11-05T21:11:45+00:00",
+"status": "unverified headline"
+},
+{
+"id": "2e06a7a163b7",
+"t": "Meta warns that election backlash against data centers could make AI expansion harder",
+"u": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
+"o": "TechCrunch",
+"lane": "news",
+"at": "2026-11-05T19:12:39+00:00",
+"seen": "2026-11-05T21:11:45+00:00",
+"status": "unverified headline"
+},
+{
+"id": "af869e954784",
+"t": "Eaton CEO: AC to DC migration for data centers ‘is real’",
+"u": "https://www.utilitydive.com/news/eaton-ceo-ac-to-dc-migration-is-real-because-of-large-power-savings/873887/",
+"o": "Utility Dive",
+"lane": "news",
+"at": "2026-11-05T17:05:42+00:00",
+"seen": "2026-11-05T21:11:45+00:00",
+"status": "unverified headline"
+},
+{
+"id": "ebb427d6f663",
+"t": "Entergy sees progress on Arkansas data center deal, strong Q3 sales",
+"u": "https://www.utilitydive.com/news/entergy-makes-progress-on-arkansas-data-center-reports-strong-q3-sales/873873/",
+"o": "Utility Dive",
+"lane": "news",
+"at": "2026-11-05T15:51:49+00:00",
+"seen": "2026-11-05T21:11:45+00:00",
+"status": "unverified headline"
+},
+{
+"id": "aecc9a23fd3c",
+"t": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
+"u": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
+"o": "TechCrunch",
+"lane": "news",
+"at": "2026-11-05T15:19:05+00:00",
+"seen": "2026-11-05T21:11:45+00:00",
+"status": "unverified headline"
+},
 {
 "id": "9ec4400439f9",
 "t": "Tech is about to get hammered in Congress",
@@ -81,6 +151,16 @@
 "lane": "news",
 "at": "2026-11-05T12:46:33+00:00",
 "seen": "2026-11-05T14:30:55+00:00",
+"status": "unverified headline"
+},
+{
+"id": "2dd969bd3a14",
+"t": "Department of Justice Launches Super Intelligence Task Force",
+"u": "https://www.justice.gov/opa/pr/department-justice-launches-super-intelligence-task-force",
+"o": "DOJ",
+"lane": "agency",
+"at": "2026-11-05T12:00:00+00:00",
+"seen": "2026-11-05T21:11:45+00:00",
 "status": "unverified headline"
 },
 {
@@ -2064,93 +2144,6 @@
 "via": "Google News: dc-zoning",
 "lane": "search",
 "at": "2026-11-04T15:02:38+00:00",
-"seen": "2026-11-04T18:40:28+00:00",
-"status": "unverified headline"
-},
-{
-"id": "146100bc14c4",
-"t": "The fight for tech accountability starts now",
-"u": "https://www.theverge.com/policy/1026289/midterms-2026-results-ai-data-center-big-tech-accountability",
-"o": "The Verge",
-"lane": "news",
-"at": "2026-11-04T15:02:25+00:00",
-"seen": "2026-11-04T23:56:35+00:00",
-"status": "unverified headline"
-},
-{
-"id": "ff7683337205",
-"t": "KBW downgrades Texas-based data center stocks following election reversals - Blockspace Media",
-"u": "https://news.google.com/rss/articles/CBMiekFVX3lxTE80dGZWdlZvWXE1UFVraGdlN004eGtFakZ3NlpZS2p1ZUFNMTRZYTBzTlk3UmZjWXE4a0tSbWNhQk1GaTh2ZHNHNnIzRE81Y09vc2hjR0MyUWxBQlRnellfckpQY2JMMTZxYmxKQ1YtSDM4RnY3dFAxd3Rn?oc=5",
-"o": "Blockspace Media",
-"via": "Google News: dc-utility",
-"lane": "search",
-"at": "2026-11-04T15:02:22+00:00",
-"seen": "2026-11-04T18:40:28+00:00",
-"status": "unverified headline"
-},
-{
-"id": "dbe571006ee1",
-"t": "Marvell agrees to $115 billion Lumentum deal in major AI bet - www.malaysiasun.com",
-"u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOWxHMm5LTUItRHFyazRJM3d6MU1tdEVkRmY4MXIxN3hZYmw1Y2lMYl9wSzJLQ3lmMldHOENyM01zUzFHZDA1V3JkQnpTcEc2UlA1SkpaUlcwb3FqY0wxQ1R6ZHkteWVaYk52QXlxVExNR1UyUDdEaER4dkg0SkYySUlrZG1PQ3ZCZFZqcEZwMUttM0xEUzlzaDZzZ1ZrdmxwSWkwc19JSQ?oc=5",
-"o": "www.malaysiasun.com",
-"via": "Google News: ai-deals",
-"lane": "search",
-"at": "2026-11-04T15:01:00+00:00",
-"seen": "2026-11-05T06:01:30+00:00",
-"status": "unverified headline"
-},
-{
-"id": "535f14ed9156",
-"t": "Musk jokes about GOP losses after spending big in midterms - The Hill",
-"u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQk9lenk4aTdvLVp0UVRra251Xy1DYzNNeXJvajAxRzJrekp4dmc1OS1Ib1Y0dDBLSHRRWXNJMVh4d1NLb0VERm9LUjM2OGxTTmRUOFJyVTVpYWU5REpVRlBTQWVkWjlfUE1aLUhvLXVEbWJ4bVVxUENNOWxOQ0hhWXlzX3JEWFNNYnE0Q25lUFdBcjcwcmF0VtIBmAFBVV95cUxOQk9lenk4aTdvLVp0UVRra251Xy1DYzNNeXJvajAxRzJrekp4dmc1OS1Ib1Y0dDBLSHRRWXNJMVh4d1NLb0VERm9LUjM2OGxTTmRUOFJyVTVpYWU5REpVRlBTQWVkWjlfUE1aLUhvLXVEbWJ4bVVxUENNOWxOQ0hhWXlzX3JEWFNNYnE0Q25lUFdBcjcwcmF0Vg?oc=5",
-"o": "The Hill",
-"via": "Google News: money",
-"lane": "search",
-"at": "2026-11-04T14:53:41+00:00",
-"seen": "2026-11-04T18:40:28+00:00",
-"status": "unverified headline"
-},
-{
-"id": "400ea91f2928",
-"t": "10 States With Data Centers on the Ballot All Voted to Ban Them - The New Republic",
-"u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbEowczBEekctaEN1bWpnQzRsZlFfbVFoV0Q1RUV3ZVRIa0dSM2k3LUQ0ampxT1hULWZKOEpmQ0h2Qk1rY3hKM0w3QVRndTFBNi0zSWJfM25TRU9OZzM2YUh1a29BYTJwYzU1dTdETTFNMmRnckRXczFXNTVNUUFvbTJR?oc=5",
-"o": "The New Republic",
-"via": "Google News: dc-water",
-"lane": "search",
-"at": "2026-11-04T14:45:53+00:00",
-"seen": "2026-11-04T18:40:28+00:00",
-"status": "unverified headline"
-},
-{
-"id": "ab003c1369cc",
-"t": "TEM Explainer Series: Behind the AI Power Rush–One Electricity Bill, Two Competing Narratives - TheEnergyMag",
-"u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSi1Gd21NcFF6clFFOVA0ODI5TFhDOTU2ckVWcUtjUkdXdUZpelFvT1RoZHc2T3NSVHRrMEhYSi1sdGh4WVprWnVGdlQ1WnZnZ3FHTWJYaFR0ZTBkVUZ5dVZzR3hIejRDem9sWkVIbENDVXp0Ymoxd3owZ1FNOVREdVQwWnZpQ0tRX2hBOEtPdTJmZlNKdzhj?oc=5",
-"o": "TheEnergyMag",
-"via": "Google News: dc-utility",
-"lane": "search",
-"at": "2026-11-04T14:45:38+00:00",
-"seen": "2026-11-04T18:40:28+00:00",
-"status": "unverified headline"
-},
-{
-"id": "f20535b3745f",
-"t": "High Voltage Returns: Talen Energy Powers the Data Center Rush - inkl",
-"u": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQTJRV0tOcUdvd1JZOWMzOG94NTgyS01LT08tVlhPenkyYkRoSGttVERUUHI5czN4MlV1SnFqeHJEWEU2aExscmNjNzRGaU0zSmhLcU9DclFScG5CWlpZRTdvb1lMWlA4ZWczVjFyUDFCc2pSdHVRc0pZbTBGb2xlWmFDR1JIRHJuZHdHQXdMeXQ?oc=5",
-"o": "inkl",
-"via": "Google News: dc-utility",
-"lane": "search",
-"at": "2026-11-04T14:45:00+00:00",
-"seen": "2026-11-04T18:40:28+00:00",
-"status": "unverified headline"
-},
-{
-"id": "2db7454df515",
-"t": "AI Data Center Boom Set for Upheaval After US Election Rout - Bloomberg.com",
-"u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeUxLRDFBU2J3Si1KLW50RDFPTE9oMjJNX2JGd2xCRXJDbW9nOXdqblFZM0lIM2ZaR3M3dWQtTDJsWW9aOU5iR1NteTdVX1hLN1J1WUpfNHNVQ3hjN2ZaRWRydEZROUNwclhqNWNZYkdlMlBmS0NnR0RXVlRMVU9jalI3Q193UzVWRFp1WjZXMG00Z3FXbWFXdjFwUjNpNVRPQ3YtdFhRWmVIN2cxNDV2Q1Q2cw?oc=5",
-"o": "Bloomberg.com",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-11-04T14:43:50+00:00",
 "seen": "2026-11-04T18:40:28+00:00",
 "status": "unverified headline"
 }
