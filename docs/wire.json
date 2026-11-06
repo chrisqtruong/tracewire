@@ -1,8 +1,78 @@
 {
 "name": "Tracewire",
-"updated": "2026-11-05T21:11:45+00:00",
+"updated": "2026-11-06T01:34:50+00:00",
 "note": "Unverified headlines collected automatically from public feeds. Not checked by Tracewire. Verified items appear in the Feed.",
 "items": [
+{
+"id": "85f398082dad",
+"t": "OpenAI is stepping back from NDAs for data center projects",
+"u": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
+"o": "The Verge",
+"lane": "news",
+"at": "2026-11-06T00:37:56+00:00",
+"seen": "2026-11-06T01:34:50+00:00",
+"status": "unverified headline"
+},
+{
+"id": "ac1883aeadb1",
+"t": "Social media companies sue California over protections for kids",
+"u": "https://www.courthousenews.com/social-media-companies-sue-california-over-protections-for-kids/",
+"o": "Courthouse News Service",
+"lane": "news",
+"at": "2026-11-06T00:25:20+00:00",
+"seen": "2026-11-06T01:34:50+00:00",
+"status": "unverified headline"
+},
+{
+"id": "929afe06232d",
+"t": "Meta, Google, and TikTok sue California AG over teen social media law",
+"u": "https://techcrunch.com/2026/11/05/meta-google-and-tiktok-sue-california-ag-over-teen-social-media-law/",
+"o": "TechCrunch",
+"lane": "news",
+"at": "2026-11-06T00:01:38+00:00",
+"seen": "2026-11-06T01:34:50+00:00",
+"status": "unverified headline"
+},
+{
+"id": "91b8111f4ecf",
+"t": "Trio charged with impersonating CEOs using AI to steal millions from top companies",
+"u": "https://www.courthousenews.com/trio-charged-with-impersonating-ceos-using-ai-to-steal-millions-from-top-companies/",
+"o": "Courthouse News Service",
+"lane": "news",
+"at": "2026-11-05T23:52:33+00:00",
+"seen": "2026-11-06T01:34:50+00:00",
+"status": "unverified headline"
+},
+{
+"id": "2ec5637afef4",
+"t": "Elon Musk's Tesla and SpaceX lose over $420 billion in combined market cap after midterms",
+"u": "https://www.cnbc.com/2026/11/05/tesla-spacex-stocks-fall-after-2026-midterms.html",
+"o": "CNBC",
+"lane": "news",
+"at": "2026-11-05T22:31:13+00:00",
+"seen": "2026-11-06T01:34:50+00:00",
+"status": "unverified headline"
+},
+{
+"id": "75d17a0b7aec",
+"t": "What a Bluer Texas Means for Energy and Data Centers",
+"u": "https://heatmap.news/politics/hinojsas-win-data-centers",
+"o": "Heatmap",
+"lane": "news",
+"at": "2026-11-05T22:22:13+00:00",
+"seen": "2026-11-06T01:34:50+00:00",
+"status": "unverified headline"
+},
+{
+"id": "b0ae5318dec9",
+"t": "Lawsuit: Man introduced his wife to ChatGPT. She used it to plan his murder.",
+"u": "https://arstechnica.com/tech-policy/2026/11/lawsuit-man-introduced-his-wife-to-chatgpt-she-used-it-to-plan-his-murder/",
+"o": "Ars Technica",
+"lane": "news",
+"at": "2026-11-05T21:39:40+00:00",
+"seen": "2026-11-06T01:34:50+00:00",
+"status": "unverified headline"
+},
 {
 "id": "f62679c8b817",
 "t": "Minnesota high court urged to shield negative Google reviews from defamation suits",
@@ -71,6 +141,16 @@
 "lane": "news",
 "at": "2026-11-05T15:19:05+00:00",
 "seen": "2026-11-05T21:11:45+00:00",
+"status": "unverified headline"
+},
+{
+"id": "6f822404b5a9",
+"t": "Data Centers Were on the Ballot Across the US, and They Lost. What Comes Next?",
+"u": "https://techpolicy.press/data-centers-were-on-the-ballot-across-the-us-and-they-lost-what-comes-next",
+"o": "Tech Policy Press",
+"lane": "news",
+"at": "2026-11-05T14:32:27+00:00",
+"seen": "2026-11-06T01:34:50+00:00",
 "status": "unverified headline"
 },
 {
@@ -2057,93 +2137,6 @@
 "via": "Google News: dc-utility",
 "lane": "search",
 "at": "2026-11-04T15:51:56+00:00",
-"seen": "2026-11-04T18:40:28+00:00",
-"status": "unverified headline"
-},
-{
-"id": "8952ac7b128f",
-"t": "SNP urged to keep 'technofascist' Palantir out of Scotland's public sector - The National Scot",
-"u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcGoyTE1uRzdWUHAxeFVyVzBzb2V6TzN1WWI3U2NsdXFhVENURWtxYlFWUHFMZkN0WHI5S2xSaFdPQXJkdUtaUkVPekxhUmVGUXd5ajdwTzZXdkRkclRram44NkhLRDkxWko0cGlqODRCQWd5RjdGcWt4X1ZvdHNpeFZpaXVfTDJhN2VEVW1raEtWajN6X08ySGhxWQ?oc=5",
-"o": "The National Scot",
-"via": "Google News: contracts",
-"lane": "search",
-"at": "2026-11-04T15:49:23+00:00",
-"seen": "2026-11-04T18:40:28+00:00",
-"status": "unverified headline"
-},
-{
-"id": "fae7c4e28629",
-"t": "Amazon plans its first data centers in Washington state as residents raise concerns - GeekWire",
-"u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObEZ2VnM2RFdfOUJoU3lDb1ZnSWhMNV9TemtnOTc1SWpnTlZ1ZHg5ZVUyMTlsN0ZLXzRtN09ZUlhzaFM4d3RhSXczRzA0cUcySXkzZWVqOXNWc19FRU5MQWY1RWwtUkJsY0xYYnRDdGttSE1MaV9PVjVHRGVHVW1Rc2xfcEZ4YjlURnNNQ3VwTHUzc0VDa2VScWgwV2lLZjZ5Vzd5NjBKb0VqempyT2hEcXJ2NGw?oc=5",
-"o": "GeekWire",
-"via": "Google News: dc-water",
-"lane": "search",
-"at": "2026-11-04T15:46:43+00:00",
-"seen": "2026-11-05T06:01:30+00:00",
-"status": "unverified headline"
-},
-{
-"id": "e6d513466b26",
-"t": "CoreWeave Bonds Hit New Lows as Texas Data Centers in Crosshairs - Bloomberg.com",
-"u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVlEyOVh1N1ZONVgyWXFubUw5djZvMmxxTGVSMVE5MHJxY2x3aU81UTZLSklRYVptNVdrWVo1aUJqMUtzM0YtLXl1cjJUSUJvdGFVQ0hoWTE2dXBsT3JoT1dYYUhLUm9kSlEyUDBNRmlsV1NvSzhUNHdLV21jRVdJRFotS2lVOUJFWFhDcl91QXJzeDlITlhHb1RuZjVZMGw4dVdSSF8tYWJFeEF2bGZUZElUeXZUZw?oc=5",
-"o": "Bloomberg.com",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-11-04T15:40:16+00:00",
-"seen": "2026-11-04T18:40:28+00:00",
-"status": "unverified headline"
-},
-{
-"id": "e38d58d0b6f4",
-"t": "Lambda Plans Alabama AI Data Center Campus in Lowndes County - Unite.AI",
-"u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQUVfWk1pY1hOYU9JRWpVazFydHVlSWljOVQtem5PVmRiZHN6cjVMSWVGZzdCeTQtU3FUYzdlNjFpcTJiSkE4OE9iUVpNaXdJTllyVkNZbm5DZmZueXBZbjVXQ1pJbm1WWUFXVmc3OHp0Vnk2NWJTZWdQX0lVMnU0SzgtQmRnV3NHQ3c?oc=5",
-"o": "Unite.AI",
-"via": "Google News: dc-water",
-"lane": "search",
-"at": "2026-11-04T15:37:01+00:00",
-"seen": "2026-11-04T18:40:28+00:00",
-"status": "unverified headline"
-},
-{
-"id": "288ffbbe663f",
-"t": "Elon Musk’s record election bet backfired. The backlash may reach beyond one billionaire",
-"u": "https://www.cnbc.com/2026/11/04/elon-musk-midterms-ai-data-centers.html",
-"o": "CNBC",
-"lane": "news",
-"at": "2026-11-04T15:29:01+00:00",
-"seen": "2026-11-05T14:30:55+00:00",
-"status": "unverified headline"
-},
-{
-"id": "6b3efff44a47",
-"t": "Elon Musk's xAI Just Installed Eight Converted Jet Engines to Power Mississippi Data Center, Permits Allow 25 Percent Higher Limit for Pollutants - Gadget Review",
-"u": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQYi1rWWdaTnBRc200am5iRHZSLVI2Vzh4SW9CNGFzLXlKNGo3M3FNTS1abjNBemFxM2hQWkRaZkxSWlJBb2FBWmhSVU9JTE1QQzQ1Z0haeUxiV1hiWmRVTkNwbWdRTnVSdlZmVnN6RHl5OWJrVEFqN3NwWW9ZSGYzUl9hcl9JTWZ3X3cwOE41QmUzOEhCYlN5SWNFT05QU291QWdHM1B5dmxhcU9aeHk4WFFxeHhXN0l5aDg2N293Ty1wcTVKeDJZMWN2UUZzLXdhVGhFeFNnRHJnMGYyVUc0dkJfSUh1LVE3a1ZhdEhJM2pNa1pOLUJ5SndKd2ZmLTZ2a2c?oc=5",
-"o": "Gadget Review",
-"via": "Google News: dc-water",
-"lane": "search",
-"at": "2026-11-04T15:28:43+00:00",
-"seen": "2026-11-04T18:40:28+00:00",
-"status": "unverified headline"
-},
-{
-"id": "3f13c02b7454",
-"t": "Voters Deliver 'AI Earthquake' With Data Center Limits - Newsmax",
-"u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOG5MWEp6a3lkRDRLVnFfb3c1TVM4QUNsR3B5NjEtcVlVOF93aWxkM2lRUWFSQlJaS05TbTJ4ajlPekswSGFzM05lcVRaUUdlbFlJYUp1cDBfYjdKcVhuVzNGYjBuZXJNeHh3a0lEMi1vUzVHRGxIZUsyWDUzcXFGRFBMa1I1NkN4RTk2cTY0Qk1BVWNSMUc3aFg4UThxWUl0N3VHUG9CMA?oc=5",
-"o": "Newsmax",
-"via": "Google News: dc-water",
-"lane": "search",
-"at": "2026-11-04T15:18:53+00:00",
-"seen": "2026-11-04T18:40:28+00:00",
-"status": "unverified headline"
-},
-{
-"id": "e84b7227666e",
-"t": "IREN Falls 5%, CoreWeave Drops 4% as Texas Election Stokes Data Center Moratorium Fears; Nebius Dips 2% - Yahoo Finance",
-"u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNV9wZXpKWHpIUGZabjBVOWNLc2M3cEdNRHozak4zbjNlQkZZNWpKdWcxb1FwTENBaExrbzRwLVpNV3F3NUM4ZjdVZU9mSnAydlBCdTZsRUJSU1hFT0I2a2tfYUlzT2pZWDlyajJPU2VLY05QMkpmdmNCNVhnUzR2OTFkbnp2blR1azJzdWZhUjloMTUtSnc4Zg?oc=5",
-"o": "Yahoo Finance",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-11-04T15:02:38+00:00",
 "seen": "2026-11-04T18:40:28+00:00",
 "status": "unverified headline"
 }
