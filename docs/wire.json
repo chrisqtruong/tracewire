@@ -1,8 +1,28 @@
 {
 "name": "Tracewire",
-"updated": "2026-11-07T01:09:43+00:00",
+"updated": "2026-11-07T07:11:29+00:00",
 "note": "Unverified headlines collected automatically from public feeds. Not checked by Tracewire. Verified items appear in the Feed.",
 "items": [
+{
+"id": "19c8ee7bb3b0",
+"t": "Can AI really save you money on your heating bill? I spent two years testing to find out",
+"u": "https://www.theguardian.com/money/2026/nov/07/can-ai-save-you-money-heating-bill",
+"o": "The Guardian",
+"lane": "news",
+"at": "2026-11-07T07:00:07+00:00",
+"seen": "2026-11-07T07:11:29+00:00",
+"status": "unverified headline"
+},
+{
+"id": "c2107a5a7cf6",
+"t": "Crusoe sells troubled Wyoming data center project to Google",
+"u": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+"o": "TechCrunch",
+"lane": "news",
+"at": "2026-11-07T01:40:28+00:00",
+"seen": "2026-11-07T07:11:29+00:00",
+"status": "unverified headline"
+},
 {
 "id": "a62d340389e7",
 "t": "Developer pitches data center at City of Industry golf course - The Real Deal",
@@ -2143,28 +2163,6 @@
 "via": "Google News: contracts",
 "lane": "search",
 "at": "2026-11-06T09:19:00+00:00",
-"seen": "2026-11-07T01:09:43+00:00",
-"status": "unverified headline"
-},
-{
-"id": "80d21bb28613",
-"t": "Google's $500 Billion Lesson for Antitrust Officials - RealClearMarkets",
-"u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUkRSWXp3cThna2xtZG5TU1h4M09TbFNkaU4tLXNOS25Lb0o4TGxxQ2Vfd1kyZnlEZFlRS1RhMjhfRVl1WlFaS2VTTHB1TzM5TlFWVDNsUkFDX0V5STRMQ2MtOFRxZjFTSzg3dG15WVdDblpyNldIbGNuX1huazBxc1BKUzkyMjFoTTY1VHU4dGZub0FYUkFGWFNBUmdVRzBPLWdpbVVCSDJ3dHM?oc=5",
-"o": "RealClearMarkets",
-"via": "Google News: antitrust",
-"lane": "search",
-"at": "2026-11-06T09:08:25+00:00",
-"seen": "2026-11-07T01:09:43+00:00",
-"status": "unverified headline"
-},
-{
-"id": "11ca45f5f9d3",
-"t": "OpenAI pledges to end data center secrecy agreements amid US public opposition - Anadolu Ajansı",
-"u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQeWlnTlNJckdrWlNoTEs2ZnNqQXdwQjZrSkpIaFRsTjdiMWZMYXBkWURrN25UNmwwYUlDNE5iMmFRNmgyaDBNRVdmQ0xLOFVqNFo2ZnlFdGN4OHp4d2VwTE1nbG16d185eW5OM0N3VXEzaWxVVFZFVXBpZ0Yxa0dhNlFCN3VpamlWUEpjaDluQ2E2enR1UVprZC1mb3BEVW5qLW10WWJaZW1mQXFERktOOXpCMkU1YjF0TDUwOHdtNmNSUE9MX2xKSjdR?oc=5",
-"o": "Anadolu Ajansı",
-"via": "Google News: dc-water",
-"lane": "search",
-"at": "2026-11-06T08:59:36+00:00",
 "seen": "2026-11-07T01:09:43+00:00",
 "status": "unverified headline"
 }
