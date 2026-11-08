@@ -1,6 +1,6 @@
 {
 "name": "Tracewire",
-"updated": "2026-11-08T01:37:27+00:00",
+"updated": "2026-11-08T07:58:07+00:00",
 "note": "Unverified headlines collected automatically from public feeds. Not checked by Tracewire. Verified items appear in the Feed.",
 "items": [
 {
@@ -293,6 +293,16 @@
 "lane": "search",
 "at": "2026-11-07T14:02:34+00:00",
 "seen": "2026-11-07T18:43:22+00:00",
+"status": "unverified headline"
+},
+{
+"id": "b348eade91a2",
+"t": "The Trump administration wants underwater datacenters. One Great Lakes non-profit is already preparing",
+"u": "https://www.theguardian.com/us-news/2026/nov/07/underwater-datacenters-great-lakes-trump",
+"o": "The Guardian",
+"lane": "news",
+"at": "2026-11-07T14:00:14+00:00",
+"seen": "2026-11-08T07:58:07+00:00",
 "status": "unverified headline"
 },
 {
@@ -2159,17 +2169,6 @@
 "via": "Google News: contracts",
 "lane": "search",
 "at": "2026-11-06T18:04:46+00:00",
-"seen": "2026-11-07T01:09:43+00:00",
-"status": "unverified headline"
-},
-{
-"id": "d1741f0cd376",
-"t": "Data center moratorium on Athol Special Town Meeting warrant - Athol Daily News",
-"u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRkxpLUtxTlk2YnBKcDI2QzZMMm9WS19CeEFnV3V4YWpyR3liMDN4MFdacEhydHhTRTg4bTRHZVZrTTF0RnNFTWRSYWhRNjRydXY5QVB0enpKMlhqWEV3YjdicE4tWGRjREttOGlocHZ0b0pHNVYzR3R6WWN2S1NTMFZrWldHU3R4NVdYQVN5RVVJXzlBZnBOSEd4aUlncVFW?oc=5",
-"o": "Athol Daily News",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-11-06T18:03:10+00:00",
 "seen": "2026-11-07T01:09:43+00:00",
 "status": "unverified headline"
 }
