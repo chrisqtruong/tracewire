@@ -1,8 +1,29 @@
 {
 "name": "Tracewire",
-"updated": "2026-11-08T07:58:07+00:00",
+"updated": "2026-11-08T14:59:13+00:00",
 "note": "Unverified headlines collected automatically from public feeds. Not checked by Tracewire. Verified items appear in the Feed.",
 "items": [
+{
+"id": "1eb828417d2a",
+"t": "The only town in the U.S. that said yes to data centers - The Washington Post",
+"u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPT0xGeGhDLWU0MHpHNUlQZ1o1dGF6dGozR2JwOF9TcjJUX2FPRkI2TzZsUGlDQ2ZWYkp2emg1QmpfZDc0NFVWUEdINXk0QVExNV9pQl9aMU04QjVZYm5lT18yelJlcE9BRFpnV3FOV3ZyaWZKaGgyZXoxXzA0cUFKZDhLTVh4VEw4V19zQ2I5V2ljN3ZESjY3aXpLMWdsRzA?oc=5",
+"o": "The Washington Post",
+"via": "Google News: washingtonpost.com/technology",
+"lane": "search",
+"at": "2026-11-08T14:32:25+00:00",
+"seen": "2026-11-08T14:59:13+00:00",
+"status": "unverified headline"
+},
+{
+"id": "73f644da9ef3",
+"t": "What data centers need to consider when storing produced water",
+"u": "https://www.datacenterdynamics.com/en/opinions/what-data-centers-need-to-consider-when-storing-produced-water/",
+"o": "DatacenterDynamics",
+"lane": "news",
+"at": "2026-11-08T11:00:48+00:00",
+"seen": "2026-11-08T14:59:13+00:00",
+"status": "unverified headline"
+},
 {
 "id": "948de9b33a05",
 "t": "Commissioner Gomez on Historic Midterm Election",
@@ -2147,28 +2168,6 @@
 "via": "Google News: dc-incent",
 "lane": "search",
 "at": "2026-11-06T18:09:56+00:00",
-"seen": "2026-11-07T01:09:43+00:00",
-"status": "unverified headline"
-},
-{
-"id": "8f430cd91d08",
-"t": "Over 50 Cities Have Moved to Drop Flock Surveillance Cameras - Gadget Review",
-"u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdHh2MkhwUzdKbkN5SUNIUGNvYnpVUmcxSHpzVWU2Z2tPYjVsdE5MQTEtMEMxd3poMmR6WTVXV2d4T2xKRjB3NmFNWjNXYVNZaUNHRDFvSjZ4QjBKNEc4dkxEOVY4NW1KMW5yb0UtdGh0NlJ4eHY2U1dzOVFCaTAxSUw1RnhWaFNHQUF0NkxlZ2FBeEU?oc=5",
-"o": "Gadget Review",
-"via": "Google News: contracts",
-"lane": "search",
-"at": "2026-11-06T18:07:47+00:00",
-"seen": "2026-11-07T01:09:43+00:00",
-"status": "unverified headline"
-},
-{
-"id": "4de9228f9d33",
-"t": "Pentagon launching mission operations center for Space Data Network to support Golden Dome and other modernization efforts - DefenseScoop",
-"u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdE1xRElwUFc3VEZjZktNTVNVVXlqdXZ6QXEyX3J1eG5qNGRZRzVrSExhb1JrNkFvZDdRWlNUODhWVlBYTXN1RmJyQ3A0TVB4Q2taZUJCbjRGdDlxRGVubElOTkVXMTNGMzFFYXY4d2dlMWNWanUtcTZMc1FGbGpEbE1QcHd6UjRLZzJ4MkhBY2NKQmZ5?oc=5",
-"o": "DefenseScoop",
-"via": "Google News: contracts",
-"lane": "search",
-"at": "2026-11-06T18:04:46+00:00",
 "seen": "2026-11-07T01:09:43+00:00",
 "status": "unverified headline"
 }
