@@ -1,6 +1,6 @@
 {
 "name": "Tracewire",
-"updated": "2026-11-07T22:20:45+00:00",
+"updated": "2026-11-08T01:37:27+00:00",
 "note": "Unverified headlines collected automatically from public feeds. Not checked by Tracewire. Verified items appear in the Feed.",
 "items": [
 {
@@ -1252,6 +1252,16 @@
 "status": "unverified headline"
 },
 {
+"id": "4729f8fa01c6",
+"t": "OpenAI will keep investing in AI data centers despite election results, CFO tells CNBC",
+"u": "https://www.cnbc.com/2026/11/06/open-ai-data-centers-election.html",
+"o": "CNBC",
+"lane": "news",
+"at": "2026-11-06T22:25:58+00:00",
+"seen": "2026-11-08T01:37:27+00:00",
+"status": "unverified headline"
+},
+{
 "id": "7a9f35dfb973",
 "t": "Virginia Data Center Boom Pushes Dominion Deeper Into Costly Power Market - EnergyNow.com",
 "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRFEzUXZtUGhodmdqUjlEa0xOUjFQcktiVFB6RVlVU0J3U0czZzExRG5Ial9YMU5MbTJIdEVVS0RkX1B5UzA4UzFuWHNJU0loSl9TUHB6NDR0SFkzemc3dFUxaVlsSnZEbDl4bEdVdGNmY1MtZ3dfb3FDQXZ1ZmlDWF8wY2NYalRmVjRIZDBZeUJtc1V4NW5VWUJZMXd5dlZMcTlrMGNjMA?oc=5",
@@ -2160,17 +2170,6 @@
 "via": "Google News: dc-zoning",
 "lane": "search",
 "at": "2026-11-06T18:03:10+00:00",
-"seen": "2026-11-07T01:09:43+00:00",
-"status": "unverified headline"
-},
-{
-"id": "f29f29d1ced1",
-"t": "New Brunswick Takes First Steps Toward Data Center Development Rules - TAPinto",
-"u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPa25qaGdNVW9peERjLUhFYWx1dkR5R3dCVkFaT2lOTHNvVldBb2FYMHBFVGRPRzJnMmRaYy1PSzhsOWtZRG9BWDQwNU5Xbm5IX2VSdm1jMGtJcF9WN1BTMXliNkJuVmJaRDQ1UjB1dk84eFN2ckI4RHNuWlpQbVFNeFlFUU5zR1E4X19TaEFmbzVFX2tpVmR3NExpWkVMcmk4bUM0UGNxcFZ2TmEzSFYzbUhiWm15XzBKT1RzcG05Y3Z0R3VrWTl6YUlaMlN0N3JXdDFjaVJIbXh3Zw?oc=5",
-"o": "TAPinto",
-"via": "Google News: dc-water",
-"lane": "search",
-"at": "2026-11-06T18:01:15+00:00",
 "seen": "2026-11-07T01:09:43+00:00",
 "status": "unverified headline"
 }
