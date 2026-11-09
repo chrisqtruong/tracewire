@@ -1,8 +1,18 @@
 {
 "name": "Tracewire",
-"updated": "2026-11-08T23:04:29+00:00",
+"updated": "2026-11-09T02:37:08+00:00",
 "note": "Unverified headlines collected automatically from public feeds. Not checked by Tracewire. Verified items appear in the Feed.",
 "items": [
+{
+"id": "bbfb5a98aa5d",
+"t": "Trump backs Nvidia's Huang amid affair, spy investigation",
+"u": "https://www.axios.com/2026/11/09/trump-jensen-huang-nvidia",
+"o": "Axios",
+"lane": "news",
+"at": "2026-11-09T00:00:35+00:00",
+"seen": "2026-11-09T02:37:08+00:00",
+"status": "unverified headline"
+},
 {
 "id": "f96dfa7ebf10",
 "t": "Notice of Public Meetings of the Maryland Advisory Committee to the U.S. Commission on Civil Rights",
@@ -31,6 +41,16 @@
 "lane": "agency",
 "at": "2026-11-09T00:00:00+00:00",
 "seen": "2026-11-08T23:04:29+00:00",
+"status": "unverified headline"
+},
+{
+"id": "d48b7b6a33e6",
+"t": "Nvidia CEO Jensen Huang admits affair with alleged Chinese spy, board to investigate",
+"u": "https://www.datacenterdynamics.com/en/news/nvidia-ceo-jensen-huang-admits-affair-with-alleged-chinese-spy-board-to-investigate/",
+"o": "DatacenterDynamics",
+"lane": "news",
+"at": "2026-11-08T23:12:23+00:00",
+"seen": "2026-11-09T02:37:08+00:00",
 "status": "unverified headline"
 },
 {
@@ -2162,28 +2182,6 @@
 "lane": "search",
 "at": "2026-11-07T14:19:48+00:00",
 "seen": "2026-11-08T19:29:35+00:00",
-"status": "unverified headline"
-},
-{
-"id": "1c7e82d0c55c",
-"t": "Food and Water Watch webinar to discuss data centers, fracking - Mon Valley Independent",
-"u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPN0dfS2NWdGp1SS1CVmJCajJLVHFpX3Z0Q19kXzY4QW1VcVU4dXJCYXJaWUU1WnhOSU9iQ3M0Njd5eTZKTDBlMTgxWF9ZSEVqaEpxeDBMUF9JUHRNNm1rUGlWM0piajJLVTI3V3ZqZjd6TTlqSG5yQm84U2UzLWkyWWxBampUbFV2MWd1c3RXT2VLbkQ4Zk14MTdOWF9nMkZGRGw3bmoxZ3N2QkY4QlJv?oc=5",
-"o": "Mon Valley Independent",
-"via": "Google News: dc-water",
-"lane": "search",
-"at": "2026-11-07T14:07:38+00:00",
-"seen": "2026-11-07T22:20:45+00:00",
-"status": "unverified headline"
-},
-{
-"id": "952fdac1afb7",
-"t": "Democrats weigh the future of the House China committee that drove chip export-control scrutiny - MLQ.ai",
-"u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObDlUbElnbjhlQ0RQOWZrb2lHWE5EZVlMT19Hc00tNDFqNTM4ZUVjcDNmS3VqWS1YYUdWdmhSQ05aTW5aNkpFN2E0bmp0eEdxRTEwbldhX0k2Q1lwajVBeWJhX2VQS25kZHFvS01sUEp3LVJFUFNPaGRBekdQY2xlSEF4OGNCNWpTMFh0NHAyWGl5Y1M4NExLUjVWRGJHWUpRcFZxeXNuNUxKbWNJZ0NhY2Y1a3pTVTA?oc=5",
-"o": "MLQ.ai",
-"via": "Google News: antitrust",
-"lane": "search",
-"at": "2026-11-07T14:02:34+00:00",
-"seen": "2026-11-08T23:04:29+00:00",
 "status": "unverified headline"
 }
 ]
