@@ -1,8 +1,208 @@
 {
 "name": "Tracewire",
-"updated": "2026-11-09T10:20:35+00:00",
+"updated": "2026-11-09T20:53:13+00:00",
 "note": "Unverified headlines collected automatically from public feeds. Not checked by Tracewire. Verified items appear in the Feed.",
 "items": [
+{
+"id": "fffe55b70a13",
+"t": "Nvidia’s Trump ties draw scrutiny after reports Huang was targeted by Chinese intelligence",
+"u": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-china-spy-trump-lobbying.html",
+"o": "CNBC",
+"lane": "news",
+"at": "2026-11-09T20:49:20+00:00",
+"seen": "2026-11-09T20:53:13+00:00",
+"status": "unverified headline"
+},
+{
+"id": "ebc96c3f5b6c",
+"t": "The AI poster boy, the ‘Chinese spy’ and Trump: how an affair may have harmed US security",
+"u": "https://www.theguardian.com/technology/2026/nov/09/nvidia-affair-huang-trump-national-security",
+"o": "The Guardian",
+"lane": "news",
+"at": "2026-11-09T20:01:05+00:00",
+"seen": "2026-11-09T20:53:13+00:00",
+"status": "unverified headline"
+},
+{
+"id": "c1a8be3a6f4b",
+"t": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
+"u": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss",
+"o": "BBC",
+"lane": "news",
+"at": "2026-11-09T19:58:01+00:00",
+"seen": "2026-11-09T20:53:13+00:00",
+"status": "unverified headline"
+},
+{
+"id": "9021bc9e2db8",
+"t": "AI hardware startup Nominal triples valuation to $3B in 8 months",
+"u": "https://techcrunch.com/2026/11/09/ai-hardware-startup-nominal-triples-valuation-to-3b-in-8-months/",
+"o": "TechCrunch",
+"lane": "news",
+"at": "2026-11-09T19:21:46+00:00",
+"seen": "2026-11-09T20:53:13+00:00",
+"status": "unverified headline"
+},
+{
+"id": "b34093d38dcd",
+"t": "Silicon Valley and Trump rally behind Nvidia CEO after his affair with alleged Chinese spy",
+"u": "https://www.theguardian.com/technology/2026/nov/09/nvidia-jensen-huang-affair-trump-musk",
+"o": "The Guardian",
+"lane": "news",
+"at": "2026-11-09T18:58:37+00:00",
+"seen": "2026-11-09T20:53:13+00:00",
+"status": "unverified headline"
+},
+{
+"id": "cb7863665107",
+"t": "Revealed: Palantir lobbied minister to stretch AI tools’ reach to NHS GP records",
+"u": "https://www.theguardian.com/technology/2026/nov/09/revealed-palantir-lobbied-minister-to-stretch-ai-tools-reach-to-nhs-gp-records",
+"o": "The Guardian",
+"lane": "news",
+"at": "2026-11-09T17:58:05+00:00",
+"seen": "2026-11-09T20:53:13+00:00",
+"status": "unverified headline"
+},
+{
+"id": "88bd5a82b6e0",
+"t": "Norway halts grid connection applications for new data centers",
+"u": "https://www.datacenterdynamics.com/en/news/norway-halts-grid-connection-applications-for-new-data-centers/",
+"o": "DatacenterDynamics",
+"lane": "news",
+"at": "2026-11-09T17:48:46+00:00",
+"seen": "2026-11-09T20:53:13+00:00",
+"status": "unverified headline"
+},
+{
+"id": "3b528b4f10ac",
+"t": "Jim Cramer says this is the stock to buy as data center development slows",
+"u": "https://www.cnbc.com/investingclub/2026/11/09/cramer-says-this-is-the-stock-to-buy-as-data-center-development-slows.html",
+"o": "CNBC",
+"lane": "news",
+"at": "2026-11-09T17:22:48+00:00",
+"seen": "2026-11-09T20:53:13+00:00",
+"status": "unverified headline"
+},
+{
+"id": "2fd0d7b9c484",
+"t": "China dismisses as a smear campaign claims of a spy plot involving Nvidia CEO Jensen Huang",
+"u": "https://www.courthousenews.com/china-dismisses-as-a-smear-campaign-claims-of-a-spy-plot-involving-nvidia-ceo-jensen-huang/",
+"o": "Courthouse News Service",
+"lane": "news",
+"at": "2026-11-09T17:11:46+00:00",
+"seen": "2026-11-09T20:53:13+00:00",
+"status": "unverified headline"
+},
+{
+"id": "3fa06ed954ea",
+"t": "Uber launches parking service following SpotHero acquisition, with an eye on robotaxis",
+"u": "https://techcrunch.com/2026/11/09/uber-launches-parking-service-following-spothero-acquisition-with-an-eye-on-robotaxis/",
+"o": "TechCrunch",
+"lane": "news",
+"at": "2026-11-09T17:00:00+00:00",
+"seen": "2026-11-09T20:53:13+00:00",
+"status": "unverified headline"
+},
+{
+"id": "d75c80b5454d",
+"t": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
+"u": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
+"o": "TechCrunch",
+"lane": "news",
+"at": "2026-11-09T16:56:54+00:00",
+"seen": "2026-11-09T20:53:13+00:00",
+"status": "unverified headline"
+},
+{
+"id": "03799056eb7e",
+"t": "Arizona’s longest-tenured utility commissioner on large loads, affordability and Western markets",
+"u": "https://www.utilitydive.com/news/large-loads-affordability-western-markets-arizona-acc/874071/",
+"o": "Utility Dive",
+"lane": "news",
+"at": "2026-11-09T16:42:22+00:00",
+"seen": "2026-11-09T20:53:13+00:00",
+"status": "unverified headline"
+},
+{
+"id": "3392714633d2",
+"t": "New Jersey Senate passes bill banning data center-related NDAs",
+"u": "https://www.datacenterdynamics.com/en/news/new-jersey-senate-passes-bill-banning-data-center-related-ndas/",
+"o": "DatacenterDynamics",
+"lane": "news",
+"at": "2026-11-09T16:32:45+00:00",
+"seen": "2026-11-09T20:53:13+00:00",
+"status": "unverified headline"
+},
+{
+"id": "67d134866a7d",
+"t": "Trump’s 60 Minutes interview touched on AI safety, threat to arrest an AI exec",
+"u": "https://www.theverge.com/ai-artificial-intelligence/1029802/trump-60-minutes-ai",
+"o": "The Verge",
+"lane": "news",
+"at": "2026-11-09T16:00:35+00:00",
+"seen": "2026-11-09T20:53:13+00:00",
+"status": "unverified headline"
+},
+{
+"id": "45c537ea2364",
+"t": "Who is the suspected Chinese spy at centre of the Nvidia investigation?",
+"u": "https://www.bbc.co.uk/news/videos/c80404zyr53wo?at_medium=RSS&at_campaign=rss",
+"o": "BBC",
+"lane": "news",
+"at": "2026-11-09T14:50:35+00:00",
+"seen": "2026-11-09T20:53:13+00:00",
+"status": "unverified headline"
+},
+{
+"id": "0eacad6f2e03",
+"t": "Anthropic signs $3.4bn gas generator deal to support 1.7GW of data center power",
+"u": "https://www.datacenterdynamics.com/en/news/anthropic-signs-34bn-gas-generator-deal-to-support-17gw-of-data-center-power/",
+"o": "DatacenterDynamics",
+"lane": "news",
+"at": "2026-11-09T13:33:42+00:00",
+"seen": "2026-11-09T20:53:13+00:00",
+"status": "unverified headline"
+},
+{
+"id": "65725387b2bf",
+"t": "Inside Democrats’ 2028 brainstorm on AI safety",
+"u": "https://www.politico.com/news/2026/11/09/democrats-2028-brainstorm-ai-safety-01155925",
+"o": "Politico",
+"lane": "news",
+"at": "2026-11-09T13:00:00+00:00",
+"seen": "2026-11-09T20:53:13+00:00",
+"status": "unverified headline"
+},
+{
+"id": "3f9ab8d4f19f",
+"t": "Nasdaq defies Nvidia impact as Huang faces espionage affair probe",
+"u": "https://www.cnbc.com/2026/11/09/nasdaq-defies-nvidia-impact-huang-faces-espionage-affair-probe.html",
+"o": "CNBC",
+"lane": "news",
+"at": "2026-11-09T11:04:49+00:00",
+"seen": "2026-11-09T20:53:13+00:00",
+"status": "unverified headline"
+},
+{
+"id": "11a2167fe1d6",
+"t": "Today’s AI won’t achieve superintelligence. But catastrophic risk is real | Sunita Verma",
+"u": "https://www.theguardian.com/commentisfree/2026/nov/09/ai-superintelligence-risk",
+"o": "The Guardian",
+"lane": "news",
+"at": "2026-11-09T11:00:07+00:00",
+"seen": "2026-11-09T20:53:13+00:00",
+"status": "unverified headline"
+},
+{
+"id": "d165f8a14279",
+"t": "Elon Musk's empire braces for Democratic crackdown",
+"u": "https://www.axios.com/2026/11/09/elon-musk-midterms-risks-empire",
+"o": "Axios",
+"lane": "news",
+"at": "2026-11-09T10:20:05+00:00",
+"seen": "2026-11-09T20:53:13+00:00",
+"status": "unverified headline"
+},
 {
 "id": "fbab7d136d5d",
 "t": "Norway halts new data center power connections amid grid concerns - Crypto Briefing",
@@ -45,6 +245,16 @@
 "lane": "search",
 "at": "2026-11-09T10:02:00+00:00",
 "seen": "2026-11-09T10:20:35+00:00",
+"status": "unverified headline"
+},
+{
+"id": "72b339d6556f",
+"t": "Palantir hires a former Democratic senator as it faces scrutiny in new Congress",
+"u": "https://www.npr.org/2026/11/09/nx-s1-6029641/palantir-congress-jon-tester-investigations",
+"o": "NPR",
+"lane": "news",
+"at": "2026-11-09T10:00:00+00:00",
+"seen": "2026-11-09T20:53:13+00:00",
 "status": "unverified headline"
 },
 {
@@ -1949,237 +2159,6 @@
 "via": "Google News: dc-zoning",
 "lane": "search",
 "at": "2026-11-08T10:00:00+00:00",
-"seen": "2026-11-08T19:29:35+00:00",
-"status": "unverified headline"
-},
-{
-"id": "9b4ca56da80e",
-"t": "Fairfield council to consider data center moratorium on Tuesday - Daily Republic",
-"u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPY1J0a1R6Y3c2UlhITm91Z0FmaERuejdpNlhXcGtwcFNBbXMtSXJpYUlNT05pM0ZpTmJ5VENrSExIeEhxSFk2OEI0d2dZQllsbzZScUtoV0tXbzVrcUE2OW5VTGhSOTllb252Rk1jWk5kbWd3TlhlU1BwVV9QNVJpVERMRFFMamZDb19BUTVHcXFRcWlDTHQ2SjlGWWV2SnBpek82WUktSExCTDgwdU5KR2JPbjFJTjI3RXFGOEszS1dDRV9tc2pjeVl5Q0VvbzdSa0laakhjQVZLeU1KZXRRWGxn?oc=5",
-"o": "Daily Republic",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-11-08T10:00:00+00:00",
-"seen": "2026-11-08T19:29:35+00:00",
-"status": "unverified headline"
-},
-{
-"id": "d8fdf4fe5a37",
-"t": "OPINION: Data centers will draw out the real differences between Lombardo and Ford - The Nevada Independent",
-"u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZHQyTXZFOHc4bXRpSXgyc0dRVUYzWjVNV3QzMUxNQnlSU0VQYTBKelVoVWFicF9GWmp4Ylh4VkdWZE9yMERBc2V3VVVfRXJEdms0R29ONEtHM0RLRFdzeVZNOHV2VUtZYW9jdWtKRTdOWWI1LUppYnpXQmNQYTd1SmNTbWhIT3U2NURhTTNQaGpWNkI2LWJhNFNKZUotZDc3bGFPUjAtYVVqaWJpOG0tVWY1V1dZSllmcGRyelBKdw?oc=5",
-"o": "The Nevada Independent",
-"via": "Google News: dc-incent",
-"lane": "search",
-"at": "2026-11-08T10:00:00+00:00",
-"seen": "2026-11-08T19:29:35+00:00",
-"status": "unverified headline"
-},
-{
-"id": "6d330c23233e",
-"t": "Batam Residents Protest Data Centers as Water Outages Disrupt Daily Life - JournalArta",
-"u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSXp5eE00OUpJeWl1cWhWN1RmZE5DYWVVc05jc1Bxd0FZYTJ4VGZJVmRsWUlNbTgyR3JBbU9pcFV5Tkkydm1valR1SWNiSnZYaERDWHloOGc5czhSNlV6MEIyX1Bwc2hyQjY0ekdWNmRrcWFuampJdUF1U0RDaTk5WE9vWnF3dEpycFQ2SG1MSU1ucVE?oc=5",
-"o": "JournalArta",
-"via": "Google News: dc-water",
-"lane": "search",
-"at": "2026-11-08T09:08:47+00:00",
-"seen": "2026-11-08T19:29:35+00:00",
-"status": "unverified headline"
-},
-{
-"id": "b3f6c1931b5d",
-"t": "Cromwell's data center debate comes to a Dec. 3 hearing - CT Insider",
-"u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVlBKUDlhbzJhcE1CMHlXQWRISXJCV19kYkpYX1BMLUNrTWVXMnJra2g4MnVQQzVtTW9GUU1nVmI0LUQxejI0ZmpGMVhtOHRYSE9VMlhHZXdlbUhjNmZicG1NenNmc1FYRFVZZUR1NHVKUlExdWhBVkNRTlVIVUstZjhyODFLd0Ztc3NfbFZOVmVOSWdZcmc?oc=5",
-"o": "CT Insider",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-11-08T09:03:04+00:00",
-"seen": "2026-11-08T19:29:35+00:00",
-"status": "unverified headline"
-},
-{
-"id": "12a981eeddbd",
-"t": "DeSoto Resources Issues One Million Employee Incentive Shares - TipRanks",
-"u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVEFhM0tzNTVhOHNCUlpoLWFveF9pWGVvSk15SWNHU3AyR1JEN0hGNHhfcVRjaXJmcUtpc3k5Z01hdms1TEs2T2o5QmZ4ajByZ0E5dkFGN0thYXQ2UmtjSGYxZmluY0VmNGljdGI0bXppWEpTMEl5VlNMUzRHVDF5WXViQXZlTTZMbzRxRGpMTU84enhsYU9hUnVXd1hWY2RmT0hkaUs5aThfcTlWSEhwLW95SQ?oc=5",
-"o": "TipRanks",
-"via": "Google News: dc-incent",
-"lane": "search",
-"at": "2026-11-08T09:02:48+00:00",
-"seen": "2026-11-08T23:04:29+00:00",
-"status": "unverified headline"
-},
-{
-"id": "25468d10377d",
-"t": "Musk jokes about GOP losses after spending big in midterms - KXAN Austin",
-"u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQaDhfMDNpUVpiZzY5YTVUZFJydVN0dUM5RE1QNktSWjBLeEdsZmJwcm9uTTFNSEc5QjNNbGRIeGhYSm0xaDZJQ2dKQlhLUVZkY3JrZm1nWXBEOFFjVzJhYzBLQlNOTkR3RkhPMUpXYWZLLW9WaFRuZUt2UWJyXzV6MFJvcmxVZ1pKTmF2QzFObXBGNUXSAZMBQVVfeXFMUGg4XzAzaVFaYmc2OWE1VGRScnVTdHVDOURNUDZLUlowS3hHbGZicHJvbk0xTUhHOUIzTWxkSHhoWEptMWg2SUNnSkJYS1FWZGNya2ZtZ1lwRDhRY1cyYWMwS0JTTk5Ed0ZITzFKV2FmSy1vVmhUbmVLdlFicl81ejBSb3JsVWdaSk5hdkMxTm1wRjVF?oc=5",
-"o": "KXAN Austin",
-"via": "Google News: money",
-"lane": "search",
-"at": "2026-11-08T08:58:56+00:00",
-"seen": "2026-11-09T10:20:35+00:00",
-"status": "unverified headline"
-},
-{
-"id": "f9390ab168c5",
-"t": "Perry Johnson Breach: $10M Deal, 13.3M People [2026] - https://tech-insider.org/",
-"u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbmM5RE5TbWl2SEYtWndvUkRlNDVTdWZJVzQ2dmxVMUMxeEotRnhnTlgtWXJzdHRtdTdBbVhSNnlxRTBDbk9uSk9xclNzSzdjVldSLU50VXBKSmdYVWJJbWtLckVSeHR2SnFicUFCd29QS0VxQVNxb3NlRnNMUUdIVVFmX29uMkhueVNHYkJNRlFsUEQyZ1E?oc=5",
-"o": "https://tech-insider.org/",
-"via": "Google News: privacy",
-"lane": "search",
-"at": "2026-11-08T08:35:06+00:00",
-"seen": "2026-11-08T19:29:35+00:00",
-"status": "unverified headline"
-},
-{
-"id": "75a77d94721f",
-"t": "Can't Cook or Shower: Indonesians Take Aim at Data Centers - ASHARQ AL-AWSAT English",
-"u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWEt5N0RGNUZGLVo4a2doSUJnWWs2WXlIdEJSMkdubU5sVmFtTkgybDdVdE16VlZhQldXbkZGUHlORXFacHUtMG84LXVXY2o1N1dWOFAxVkpCWE1QWjZVbHNqSjlzVjhmb2lzTWRmNEc3SUlJUmY4VVc2Szk2N1BNbU1nYkpoMWRsOGE4NUxQS185NHVSemRIM2VrMk9pY0k?oc=5",
-"o": "ASHARQ AL-AWSAT English",
-"via": "Google News: dc-water",
-"lane": "search",
-"at": "2026-11-08T08:29:13+00:00",
-"seen": "2026-11-08T19:29:35+00:00",
-"status": "unverified headline"
-},
-{
-"id": "74cf91bfb203",
-"t": "Chamath Palihapitiya Warns AI Data Center Slowdown Could Be A ‘Disproportionate’ Blow To Anthropic And OpenAI - TradingView",
-"u": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNbVNsdGFSMHp0ZXN4RkZIbTY5dHp6azBIYjZlNmt6VXlXU2ZJekltbEdmZjYwdUNCOUJkdE44dFBRYnY4X0JmSGlJV3dJOVhva2dxVTNSYW1ZWWdPV3ltUi1tejlrTFpzZV9jMHlNUU5hUjFKX3dGb1A2LUpGYkMxTUNMOHVfSlpnaGRIMnctU0ZVQUxFQW9icDhULVp6TnpBQjVKR1g5d1dOTGdPQU9TU004M1FiMURBSlJZSjdmdUxYMHZCLUl2Z1FvcURNZ2tZYVBURnZqaG5jdF9UQ2s0YnNqX0VHM0xwbWtnVUVjY3hHN3FWRVVXRUx0OXg?oc=5",
-"o": "TradingView",
-"via": "Google News: dc-incent",
-"lane": "search",
-"at": "2026-11-08T07:33:00+00:00",
-"seen": "2026-11-08T19:29:35+00:00",
-"status": "unverified headline"
-},
-{
-"id": "014b469a1324",
-"t": "OpenAI CFO Defends AI Data Centers After Midterm Backlash, Promises No Higher Electricity Bills - Brave New Coin",
-"u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPYkZBYUlvR3Z6YU1DUDdxNEVoZ08xTHlJZ192LUJtT0paVjlLVlFQX0NfbWtpVERvbzVqdTVnRndQUFdCZnlETGwxQ1dEVnVpckJZSkp3N3lhU1pMaGNIRTA0OXY5LXJSU3lBYlNBX2x2dGZIdjYtbWgtQ0FzRklSTVJGRXFtNWloM3RBTUZKY3F3V0dPMjJlUTBJX0VOM2Mydy1tSEtnS1VqNnUzdERMeUlXZEk1d1BJdkwzZF9mb0ZMeTRFRXo0?oc=5",
-"o": "Brave New Coin",
-"via": "Google News: dc-water",
-"lane": "search",
-"at": "2026-11-08T07:17:46+00:00",
-"seen": "2026-11-08T19:29:35+00:00",
-"status": "unverified headline"
-},
-{
-"id": "9d336b1c26e9",
-"t": "Jensen Huang and Nvidia in spy storm - www.israelhayom.com",
-"u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQWR5dGNaOUdJWWkyVm51LTRnUS10Q1pUNUFFZmxCMy1pbnQyVGlITTlZZm15SjVWcjVXaWFyUXZuRmM2bDNfUzItOU1zWVdtTHBqdHZUMzhVX05pdHhHTmFxQzdCTXRYcVB5MlBVWmEyX0VqalM1YnZFQThjUFB6TU9CNlBsbC04LW15XzAxbUZVZ1U?oc=5",
-"o": "www.israelhayom.com",
-"via": "Google News: money",
-"lane": "search",
-"at": "2026-11-08T07:15:13+00:00",
-"seen": "2026-11-08T19:29:35+00:00",
-"status": "unverified headline"
-},
-{
-"id": "83329b35ac09",
-"t": "What USA Today (TDAY) Said on Its Q3 Earnings Call - TradingView",
-"u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPLVU5N21Gb24zRDBwTXZONHRKSGN1UFlsbnZ2d0FCSVRrbTFEMnRPUnBEWFl5Q0ZveE1iXzNUS01yVVRKNHFaenFzWFBkTFNHc0JKNU5OVGFDWE8wLU54MzBBeV9kN0NPWVlFQUNvUUEzSG5LLTRZQnhKcy13MmRsT3pyVmFnc0twWGNKOEFzVmRJRmxEY0FPb1V3aVRTN1lLRFczNEpNZE5tdHctb2c?oc=5",
-"o": "TradingView",
-"via": "Google News: antitrust",
-"lane": "search",
-"at": "2026-11-08T07:14:00+00:00",
-"seen": "2026-11-08T23:04:29+00:00",
-"status": "unverified headline"
-},
-{
-"id": "010df2d6d48b",
-"t": "ICE cotton sees mixed trend as rain forecasts weaken sentiment - Fibre2Fashion",
-"u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOeDRIVnJVRHlBN3VKZXk5VUItUEtsQU1tS0dpN2VheTZkak1vZWlDYkdtdFV4Ukp5bUtJeHByeGhmYmZKNDVIQ0dmNnpPdTM3bVh4MUpTTFBXTHljQUtWYXdTZFNKVWpROGd6Z2NGRHdhT3FBRUZnX3dvQWVkYXRNdnZDQ0o3bnB3Z3hUbXFTcnN1RXEyeW1tcGswZHdpNUMzeWdkRzN3SXVVV1ctN2M2SmxnOHZlMktGb0tMM2NZT1pScWxROEVRTXJjOGF6czNvWDVN?oc=5",
-"o": "Fibre2Fashion",
-"via": "Google News: contracts",
-"lane": "search",
-"at": "2026-11-08T07:04:23+00:00",
-"seen": "2026-11-08T23:04:29+00:00",
-"status": "unverified headline"
-},
-{
-"id": "f6c704a11205",
-"t": "Erwin Tulfo files bill seeking worker protection vs. layoffs due to AI - GMA Network",
-"u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNdGo2VzhPXzIwbklZcXJCMFdfSXBfbU5LZ2FmbjlKNjFFeDRDUDVhQzBmTmh5Sm5GTC1oZzdTa0pSeU5oRWlqRW9xb1VMYTI0eldUU21GVWlKcUstSHZLZ3VZeUVYdkI0OVVwQ1hHeDRmcnFULXctR2dUWWtvOHRMX25XdmlxWGZUX2JkdzRXSzllRnR5MDJGWWZEMEgxcFBnWndxY0RfZFk1TlNSU0NqdXlPemJkSy1JZTZXWHJvcmhSWW94eHpKaEt5cXBsMzTSAdQBQVVfeXFMTU5RVkpod0JianNjbE54QzdSSXNjZWV1MUVDQndBOExhSXlZQTFsaEtEbF9RVUV6OU5EWmZiZ2lGOUxPemE2OGFsMkIxVHN4Y2xMU0NaRlhFdkVGdUZlMDRCdkRxdkpvWVlrbXZoVXg2NkpTcWZyQkV4S1BhXzNMd3B1SWJuVE1yLUlDSVY3bGZydVFla0s5bkVNOW5NWEdtVFNNMnQ2NGEtZGZSWXdvR01HUFNRM1NNb0x2QzZ4dldsV1V6ZzdWUWh0aWdYdC04OWtwbGY?oc=5",
-"o": "GMA Network",
-"via": "Google News: labor",
-"lane": "search",
-"at": "2026-11-08T07:01:27+00:00",
-"seen": "2026-11-08T19:29:35+00:00",
-"status": "unverified headline"
-},
-{
-"id": "6579bd10a4c4",
-"t": "The AI Buildout Has A New Problem, And It’s Not Nvidia — JPMorgan Sounds Alarm - TradingView",
-"u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWkw5NjBQZ19wVHQtNms5UUo2Uy1mdlliM1hlWElhMUdwbVNjUnROZGlIX0s5bDVtWWdaU3FxQWxwdGg0U1lITUpkdXFhVFFKNURpSlZndWlRVmxSMGJwU3RONVZqRXFOeHptZ29aYUV3a2s2ZXk4Sl9nZlk5YnVOVjZqeE1UZHZZRlI0TDQwMTlWaXI1aUJmOWxqZUQ4cmVmV0M3M0ZJTGhjUG9EWmRpdHYycGxLSDZCdWxTdzBGdlY1ZlhtaXhtWmVrMGhBdVEtaGc?oc=5",
-"o": "TradingView",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-11-08T06:45:13+00:00",
-"seen": "2026-11-08T23:04:29+00:00",
-"status": "unverified headline"
-},
-{
-"id": "c07225f86f07",
-"t": "How can casino revenue increase the political influence of Native American communities? - Britannica",
-"u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQzJYelRtcGtrVXduUGxfcXE2bHB6VGxlODd1Y1Fsemg1Ukdrdlo4bkx1dmlORjJyRHVfazc5WENUVDZtNXlRYVNBZHd5VFRkSjhhbjVGaG92WE5IcGZwSjZ1YnVkeDRmbXh1ekJsaUdVem5PenBBSm9hQUtvU2lzeVNjUzJMcGptNW9UbmVhVGd4QlJGa0RuSFdnQjB1RzV3Y2JxQmhfYk1LTWlFcnRrQmFvRURQdUs3eG5B?oc=5",
-"o": "Britannica",
-"via": "Google News: money",
-"lane": "search",
-"at": "2026-11-08T05:57:32+00:00",
-"seen": "2026-11-09T10:20:35+00:00",
-"status": "unverified headline"
-},
-{
-"id": "f5c0205d3d04",
-"t": "South Korean Firms Shift Lobbying Tactics as Democrats Gain Power - 조선일보",
-"u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYWd0OVlnVFhkZlc0SVZiXzFveXJyVGpBTG1uYTBuQUxadnVyZkxhTWdBbHdsRG1BOTVQYXlPaDlxVklDb09ZMlhCaHRIbU9jcFhhb2ZWQzE0NXpaVzBHeWJKb0Uwc29JVHlueU8tZDhiRWx2eXF3ek5GamRrZUZhREtxTW4?oc=5",
-"o": "조선일보",
-"via": "Google News: money",
-"lane": "search",
-"at": "2026-11-08T05:45:47+00:00",
-"seen": "2026-11-08T19:29:35+00:00",
-"status": "unverified headline"
-},
-{
-"id": "2ceb00bc6859",
-"t": "Erwin Tulfo filed Senate Bill 2563: six months’ notice and two months’ pay before AI layoffs - astig.ph",
-"u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQVg5Wm84TXZwSUZ3ODlKVW96S1psNkVRSGl0bG9iUGRCTWhISHhfQlFVN1A4SUQ1cURmZWlJRFVGdFUtNVVQYXRESU04ak9iQlNMV0c5Q1RURkN2UTUzcHNBdl9zWVVjODREckhwUEJPOEtPZmIyVVBVTlluWGNtWXNKc1VSZw?oc=5",
-"o": "astig.ph",
-"via": "Google News: labor",
-"lane": "search",
-"at": "2026-11-08T05:33:58+00:00",
-"seen": "2026-11-08T19:29:35+00:00",
-"status": "unverified headline"
-},
-{
-"id": "145fbe2e91f4",
-"t": "3 Stocks Watching The Data Center Water Fight In The US - Simply Wall St",
-"u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOb0Y3OHFaMUlhVmFjVnFqcXRjbFhzTFVfTEw0TEhOUzhIMFNfM2pLYXJ4ZVY5OXNDaVJna181R044QXAzRENCbG5PUFJCTUJ1MUIwczN5RmgxZGZZbXFmMF9LZl93N2U5Z0xsY2VZWThQdUJkZ2lDOTJWOEJaWXV5NENUckFTLTF6RkdoRThGUlBjUXBMNklqcGRLRjRFaXZFSUFIdGtQcEpiT2VZZWxmNmJkdW9uWnRGb1Fwb1RfUDgwZWxRenpRNEV30gHPAUFVX3lxTFA0SnU3bkdvby1UV2lPcW1oYmFBeDN6UVJaS09NRXNPc3dFSmRabzRYY2xxdDZxX2t3WmZQbE1DTDVMa3Y2Y2c1ZUtwdWc0VTVFOWZHOUxHZURid2lSY3ZMLWNRTm10YUlzZlJsNUhEU1JTLUxOTVNLdDlSUjNrMnMtTDdaYXFyMHRXREcxNmpmXy05UUo5aTVEYjdDVV9CNndtWkxXQzc1dzhQOHgzT3o4Y3k4N1ZCM05uVWlNTl85dVowN3JVdVFRTDRUbmxIVQ?oc=5",
-"o": "Simply Wall St",
-"via": "Google News: dc-water",
-"lane": "search",
-"at": "2026-11-08T05:32:27+00:00",
-"seen": "2026-11-08T19:29:35+00:00",
-"status": "unverified headline"
-},
-{
-"id": "c4342d1c5848",
-"t": "Google Lawsuits: From Gemini AI Safety Case To $700 Million Play Store Settlement; Check List Of 8 Major Legal Battles - Jagran Josh",
-"u": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQZFhySURmajJlMlFJbmFtaXhyZ2xLUF9CbzJCUDQ0Z19fdmVvU2VkQ2Z2NFhsZzdic1lBVW9NSm56T1ZZNHVucDQyRTlkV2czdmlHd1Jsa2lnYU5IV2l4UTJfQnM5dzhHbDFfQ3F0cjFGbXFVS3ZxZVU2MmJmakw3TjBySzV1WlUybG5FRW55LU5laVQxRmRUeGcweExLWkdYdmx2d282Y3VSdHAzWm5TUUFtR3U3alVoZmRDdXdxd3htcVVyNTBETUVoU3d3M1BLLU16ZmxRNTdkbWZ2eEI3MVZZNzhGT29ndWZpUFk5bmpHTlRGYlNBSUhjc2U1cmpWQlBZ0gGKAkFVX3lxTE9XVy1ST1ppSzZwNnVFNHJqREh4UDNfbGtTZGZXejV4dm14bkFEWEk1QzB1OUZKVmJZdlFTUjA0cGNpcVdndG5qek02VVZ5amo2VnduV3pqNmM4RThvY2gtdnhuNXk5elJpSlhXaDFlYTMwUGhJYXViQ0hSaXgzSUROVlplU3AzSFBBNDA1WU5XSGNIUkhBNURIT0RnSFl4Y29PLWNoYms2MnBZQlN5N3dQMWJSLWwzaXg2d053eVBzblhOQ0dSR1JPS1BtNjVPSGlpNWNqbXZjMmJicmN2YkFORG5peUdhMEI3b1dldGhUY1ZKbW5qOEhSWTNyT2tTdkFoX1FPeVJlZ1h3?oc=5",
-"o": "Jagran Josh",
-"via": "Google News: antitrust",
-"lane": "search",
-"at": "2026-11-08T05:24:57+00:00",
-"seen": "2026-11-08T19:29:35+00:00",
-"status": "unverified headline"
-},
-{
-"id": "47c6ba72fd9c",
-"t": "\"Nice Face of the Devil:\" Google Whistleblower on AI, Gaza and breaking NDA - Informed Comment",
-"u": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBQX1VKM095ZEo0YnJtRWhjZy1jeG9kREZZT2IwRm53eXBfMHlKRlBiNkJoYUpLUDdWQ3Nxci1rWmxqWWQ0SGFFNHVUaGtUWVQxcHBvbnhFN0Zfb3dWMS1uOHNobzRhR1FmRW1QVDRkeURYaDZnMUE?oc=5",
-"o": "Informed Comment",
-"via": "Google News: contracts",
-"lane": "search",
-"at": "2026-11-08T05:04:12+00:00",
 "seen": "2026-11-08T19:29:35+00:00",
 "status": "unverified headline"
 }
