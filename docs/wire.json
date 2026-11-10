@@ -1,8 +1,158 @@
 {
 "name": "Tracewire",
-"updated": "2026-11-10T11:08:13+00:00",
+"updated": "2026-11-10T18:39:57+00:00",
 "note": "Unverified headlines collected automatically from public feeds. Not checked by Tracewire. Verified items appear in the Feed.",
 "items": [
+{
+"id": "24c9fca5336f",
+"t": "Trahan crafting AI safety bill with narrower state preemption",
+"u": "https://www.politico.com/live-updates/2026/11/10/congress/trahan-crafting-ai-safety-bill-with-narrower-state-law-preemption-01158965",
+"o": "Politico",
+"lane": "news",
+"at": "2026-11-10T18:07:39+00:00",
+"seen": "2026-11-10T18:39:57+00:00",
+"status": "unverified headline"
+},
+{
+"id": "96721366569b",
+"t": "UK social media ban expansion for under-16s could cover YouTube Kids",
+"u": "https://www.theguardian.com/uk-news/2026/nov/10/uk-social-media-ban-expansion-for-under-16s-could-cover-youtube-kids",
+"o": "The Guardian",
+"lane": "news",
+"at": "2026-11-10T17:30:15+00:00",
+"seen": "2026-11-10T18:39:57+00:00",
+"status": "unverified headline"
+},
+{
+"id": "90a4552d2d6b",
+"t": "The AI boom could shift diesel generators from backup to everyday use",
+"u": "https://www.utilitydive.com/news/ai-boom-could-shift-diesel-generators-backup-everyday-use/873954/",
+"o": "Utility Dive",
+"lane": "news",
+"at": "2026-11-10T17:24:20+00:00",
+"seen": "2026-11-10T18:39:57+00:00",
+"status": "unverified headline"
+},
+{
+"id": "28457b400325",
+"t": "Principal Asset Management acquires data center outside Amsterdam, the Netherlands",
+"u": "https://www.datacenterdynamics.com/en/news/principal-asset-management-acquires-data-center-outside-amsterdam-the-netherlands/",
+"o": "DatacenterDynamics",
+"lane": "news",
+"at": "2026-11-10T16:09:58+00:00",
+"seen": "2026-11-10T18:39:57+00:00",
+"status": "unverified headline"
+},
+{
+"id": "ce0903b5ddfd",
+"t": "SoftBank, Petros, and Grab plan Malaysian data center buildout with \"long-term target\" of 5GW",
+"u": "https://www.datacenterdynamics.com/en/news/softbank-petros-and-grab-plan-malaysian-data-center-buildout-with-long-term-target-of-5gw/",
+"o": "DatacenterDynamics",
+"lane": "news",
+"at": "2026-11-10T16:00:39+00:00",
+"seen": "2026-11-10T18:39:57+00:00",
+"status": "unverified headline"
+},
+{
+"id": "2a39945fb30a",
+"t": "Are data centers really paying their share? AES Indiana’s Google deal highlights a thorny question",
+"u": "https://www.utilitydive.com/news/are-data-centers-really-paying-aes-indianas-google-deal-highlights-a-thor/873040/",
+"o": "Utility Dive",
+"lane": "news",
+"at": "2026-11-10T15:35:36+00:00",
+"seen": "2026-11-10T18:39:57+00:00",
+"status": "unverified headline"
+},
+{
+"id": "4b8f27e027fc",
+"t": "Thousands oppose data center expansion in Italy, gather in Milan for protest",
+"u": "https://www.datacenterdynamics.com/en/news/thousands-oppose-data-center-expansion-in-italy-gather-in-milan-for-protest/",
+"o": "DatacenterDynamics",
+"lane": "news",
+"at": "2026-11-10T15:26:12+00:00",
+"seen": "2026-11-10T18:39:57+00:00",
+"status": "unverified headline"
+},
+{
+"id": "0836523082ec",
+"t": "Fluidstack begins construction of 99-acre data center campus in Wythe County, Virginia",
+"u": "https://www.datacenterdynamics.com/en/news/fluidstack-begins-construction-of-99-acre-data-center-campus-in-wythe-county-virginia/",
+"o": "DatacenterDynamics",
+"lane": "news",
+"at": "2026-11-10T15:11:03+00:00",
+"seen": "2026-11-10T18:39:57+00:00",
+"status": "unverified headline"
+},
+{
+"id": "539f047ac557",
+"t": "Nvidia shaken by scandal amid wider political new order for big tech",
+"u": "https://www.theguardian.com/global/2026/nov/10/nvidias-silicon-valley-political-power",
+"o": "The Guardian",
+"lane": "news",
+"at": "2026-11-10T15:04:38+00:00",
+"seen": "2026-11-10T18:39:57+00:00",
+"status": "unverified headline"
+},
+{
+"id": "338c9eb51ba7",
+"t": "Could the United States Seize Anthropic at a Discount?",
+"u": "https://techpolicy.press/could-the-government-seize-anthropic-at-a-discount",
+"o": "Tech Policy Press",
+"lane": "news",
+"at": "2026-11-10T14:31:20+00:00",
+"seen": "2026-11-10T18:39:57+00:00",
+"status": "unverified headline"
+},
+{
+"id": "16680c361a19",
+"t": "Nvidia shareholders file class action lawsuit against chip giant and its CEO Jensen Huang following fall-out from Chinese spy allegations",
+"u": "https://www.datacenterdynamics.com/en/news/nvidia-shareholders-file-class-action-lawsuit-against-chip-giant-and-its-ceo-jensen-huang-following-fall-out-from-chinese-spy-allegations/",
+"o": "DatacenterDynamics",
+"lane": "news",
+"at": "2026-11-10T13:23:52+00:00",
+"seen": "2026-11-10T18:39:57+00:00",
+"status": "unverified headline"
+},
+{
+"id": "ef82a782761f",
+"t": "New York’s Hochul launches nation’s first state AI testing program",
+"u": "https://www.politico.com/news/2026/11/10/new-york-hochul-first-state-ai-testing-program-01157713",
+"o": "Politico",
+"lane": "news",
+"at": "2026-11-10T13:00:00+00:00",
+"seen": "2026-11-10T18:39:57+00:00",
+"status": "unverified headline"
+},
+{
+"id": "95e67b60f21e",
+"t": "Housing Construction Innovations: Technologies and Policy Options to Help Increase Supply and Affordability",
+"u": "https://www.gao.gov/products/gao-27-108037",
+"o": "GAO",
+"lane": "agency",
+"at": "2026-11-10T12:01:12+00:00",
+"seen": "2026-11-10T18:39:57+00:00",
+"status": "unverified headline"
+},
+{
+"id": "4d0571f085d4",
+"t": "Nvidia scandal fails to bring down the tech bulls as spy investigation widens",
+"u": "https://www.cnbc.com/2026/11/10/nvidia-scandal-fails-to-bring-down-the-tech-bulls-as-spy-investigation-widens.html",
+"o": "CNBC",
+"lane": "news",
+"at": "2026-11-10T11:41:56+00:00",
+"seen": "2026-11-10T18:39:57+00:00",
+"status": "unverified headline"
+},
+{
+"id": "e2ebd04ae1ee",
+"t": "Utilities should consider ‘taking a breather’ from rate cases: Minnesota PUC vice chair",
+"u": "https://www.utilitydive.com/news/minnesota-puc-rate-case-affordability-naruc/874222/",
+"o": "Utility Dive",
+"lane": "news",
+"at": "2026-11-10T11:09:21+00:00",
+"seen": "2026-11-10T18:39:57+00:00",
+"status": "unverified headline"
+},
 {
 "id": "d2982ec409ca",
 "t": "The AI Safety Debate Has Lost the Plot. We Asked 10 Experts What the Real Nightmares Are",
@@ -1188,6 +1338,16 @@
 "status": "unverified headline"
 },
 {
+"id": "6d95e30730c8",
+"t": "Notice of Intent To Reorganize HUD and Revise Headquarters and Field Operating Model",
+"u": "https://www.federalregister.gov/documents/2026/11/10/2026-22838/notice-of-intent-to-reorganize-hud-and-revise-headquarters-and-field-operating-model",
+"o": "Federal Register",
+"lane": "agency",
+"at": "2026-11-10T00:00:00+00:00",
+"seen": "2026-11-10T18:39:57+00:00",
+"status": "unverified headline"
+},
+{
 "id": "22bb44a140ca",
 "t": "Senate Bill awaiting consideration could address data center concerns - AOL.com",
 "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZ0JPdmZzbjI3U0h5aXRuRUxQTDJWNUhNbjRyYS1Hd25LQXNzRkZxa0Jvejg0OV9NRk5YZjdOTjZTUDE0RmZYTmNPQTh2LWw3RFM5RDJPaU9RZkdIVC1KSnk1VmFET2lhbjR5NEV6alRDenFGb0lVOEpkMHlHTEFKdmhqZG4xTEZwaU40aQ?oc=5",
@@ -2003,179 +2163,6 @@
 "lane": "search",
 "at": "2026-11-09T19:51:39+00:00",
 "seen": "2026-11-10T03:08:06+00:00",
-"status": "unverified headline"
-},
-{
-"id": "f9d9eba12485",
-"t": "SpaceX Planning $24 Billion Gas Plant and Data Center in Starbase, Texas - Moomoo",
-"u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSnpMOHpEZDF0c3kybU5zVEc1SHRTVGQ3U0l3djlBSU9nNjV1MUVlRXNNVVV0eks0a0I1SXJIZk1WQm9HU0RoMjFEbllnb1QyU283OXVfdGtVV2cxZE9xckNoa05mRFN0Tld2b2hVYlBhSVJybjZZSll2NTJJam94aElPcURJR2pEaWdYVmdtTHJIbHZrcldGNURsRkF5aXlS?oc=5",
-"o": "Moomoo",
-"via": "Google News: dc-water",
-"lane": "search",
-"at": "2026-11-09T19:45:04+00:00",
-"seen": "2026-11-10T03:08:06+00:00",
-"status": "unverified headline"
-},
-{
-"id": "719bb566ef54",
-"t": "The French fridge hacks were relatively unsophisticated. An AI-enabled attack would raise the stakes",
-"u": "https://www.theguardian.com/technology/2026/nov/09/cyber-attack-french-supermarket-freezers-iran-europe",
-"o": "The Guardian",
-"lane": "news",
-"at": "2026-11-09T19:40:45+00:00",
-"seen": "2026-11-10T11:08:13+00:00",
-"status": "unverified headline"
-},
-{
-"id": "80b13434dcc5",
-"t": "SpaceX is proposing a $24 billion data center and gas plant in Texas - Quartz",
-"u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5HRVBuYWhIbUdKeTlNd2pZR0lrQndpX3ZsRTBfSWF1V0tIcVhUTVBoQk5UaVdvbFVyWmFHOWpCN0R2eWVQdTlfMFZhUVJYOHpzLVhUUVdjQ2htSFNEcDRTUmRfejhaYXBlYU43OE5RRWhRQ0E?oc=5",
-"o": "Quartz",
-"via": "Google News: dc-incent",
-"lane": "search",
-"at": "2026-11-09T19:40:39+00:00",
-"seen": "2026-11-10T03:08:06+00:00",
-"status": "unverified headline"
-},
-{
-"id": "59a2fb2ca5d4",
-"t": "New Texas Administration Signals Tighter Data Center Rules: Implications for Industry - Environment, Land & Resources",
-"u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLUs1aVFvb0EtQnQ2bXFodzJWejM3SWhyVFR3M0pibGp6a0tPTjRRNjRsSFlMaUpiTktEVlh6eVN4VTlSd0FBZXcxeTFzS1AyX3JRWTZsQ2oyQnl0VzVLZ1FPb2d6Qjk5ak9XZ2lHZkpQUUVtdERUbXQ0c2JSRGJUMzNZX3hxaklTVW1aUzExSndTSU44d1pPMGd1R24zN3N4c2xmeWtWTTdrZk51V3N6WUR3U3N2aWJGMnVV?oc=5",
-"o": "Environment, Land & Resources",
-"via": "Google News: dc-water",
-"lane": "search",
-"at": "2026-11-09T19:40:37+00:00",
-"seen": "2026-11-10T03:08:06+00:00",
-"status": "unverified headline"
-},
-{
-"id": "59728654e499",
-"t": "AI Layoffs and Rising CEO Salaries Highlight Growing Income Inequality - Tekedia",
-"u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYVdjR0d1WFltQnZsbC1pY0k1TnlBX0N1YUFLcGxqUk1DNHctTWwtNXZNR2stbUVJLWtFX1dWR0RYX2o1VExVOHM2eThUTmRtQVVzQXl0N1RNMmF1M296aFpPM1RNOHRCVk1OUjBDLXdKbVJqaXpwbW0wLW9MdExqdG9CcXZTeXhQVnE5ektCbElHRHpiVFVVa1diSQ?oc=5",
-"o": "Tekedia",
-"via": "Google News: labor",
-"lane": "search",
-"at": "2026-11-09T19:35:28+00:00",
-"seen": "2026-11-10T03:08:06+00:00",
-"status": "unverified headline"
-},
-{
-"id": "65d6a7a10868",
-"t": "Data centers continue to drive nonresidential spending higher in September - Water Finance & Management",
-"u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE50Yml3NFE0d2ZtdzZ5T2FQa21mS2Z4VkRJa0Z4cmFfQ3YyekVYcU1fWDRZTy05ZnlheEJZd21qOTZabm1sSGpUYjIzNFhLdUZWTTFXTVJZQmRkWFEzYllaaEhNdXBGUUJjZzJObVl5WkxiUmItNHc?oc=5",
-"o": "Water Finance & Management",
-"via": "Google News: dc-water",
-"lane": "search",
-"at": "2026-11-09T19:34:46+00:00",
-"seen": "2026-11-10T03:08:06+00:00",
-"status": "unverified headline"
-},
-{
-"id": "f8a2d8b02815",
-"t": "Potawatomi tribe seeks to expand its small Milwaukee data center - Milwaukee Journal Sentinel",
-"u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWEtvUUZZaE13eER4YTNTUVJzV0F3eGFfZk1jZEV6ZThnUWlHWENncGVkUlcxM2Y1d3A3MDljN3Zua1dPaHZlM293NGJRSzZRNkpHRlk3R2FpVjlMLXhLa2oyLWJSLUkwOUx1NGUyaFhRYjBMcF91VGdhMnY5VG9Zam5nNXBuQndlcDNKa2FheVlkVXY3TlhVZFpLYlE0d19TX0lJZGItR01wZ3B6VW80WTFvOWVRbGZUWXBVY0ZCTmhKeTVXaVJHcW4tN2lIal96eUZZbw?oc=5",
-"o": "Milwaukee Journal Sentinel",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-11-09T19:32:00+00:00",
-"seen": "2026-11-10T03:08:06+00:00",
-"status": "unverified headline"
-},
-{
-"id": "d4f588d893da",
-"t": "PPL lifts its capital plan to $25 billion with a Kentucky gas plant as data center load requests reach 50 GW - MLQ.ai",
-"u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZzBlZVA3eFlPT2M3LUVtREVUMUJkbmRrdVJkTUZveTkyeFpDNTI2dzFMV0NLRDBoaU51dnprbGpoSTVKcWpNZ2NvYm5HZHMtNHRYNmVOOXRBRWlKWGJXeGtyd1FNSzBlQmJGZUhVTXR4SnBfRW45clhCQ0xQSExUemduMldia2hKYllUaHBqVkgwVlhhYzFoT09oMjdPVFlWeWJLTTNxRzVzT3NhYk5kRDA3U0J6WGpUMkt6dW1uZ1MtYTdUekpr?oc=5",
-"o": "MLQ.ai",
-"via": "Google News: dc-water",
-"lane": "search",
-"at": "2026-11-09T19:31:45+00:00",
-"seen": "2026-11-10T03:08:06+00:00",
-"status": "unverified headline"
-},
-{
-"id": "fcaedfc66079",
-"t": "Skybox rep says Wichita Falls project still on track after election - Times Record News",
-"u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQOGVXYVRVcElaV3JuMy05eVVyOWJWcTFuRkdiOVlmb0xvMElrc3ROYW5WTDlIMDVJTXlQdkVpU19tLTdsaER4TmpYWkVybXdZaU9mM255SWRWMFVjM0JxSHFPUnVkQ0xVbUU0bDJuRURGcEdYUzJYS19KdDRUSFBVSzdTMkg0eWZCVHFCNWo4aEM3NDlsM2NQZ2pNaXFXRHdHWUE2OTNjTzhHN3JKZDh1Z21VcWNSX0E0TDRUOVhrdXNZVmkwWXVJQmtITmtlb2JXdzcw?oc=5",
-"o": "Times Record News",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-11-09T19:22:00+00:00",
-"seen": "2026-11-10T11:08:13+00:00",
-"status": "unverified headline"
-},
-{
-"id": "9021bc9e2db8",
-"t": "AI hardware startup Nominal triples valuation to $3B in 8 months",
-"u": "https://techcrunch.com/2026/11/09/ai-hardware-startup-nominal-triples-valuation-to-3b-in-8-months/",
-"o": "TechCrunch",
-"lane": "news",
-"at": "2026-11-09T19:21:46+00:00",
-"seen": "2026-11-09T20:53:13+00:00",
-"status": "unverified headline"
-},
-{
-"id": "02109ae1a42a",
-"t": "Nvidia’s celebrity CEO faces his biggest scandal yet - Tech Brew",
-"u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSERHZkpBUFc5dG9OVV9uSmFYTjUzQnRKTjZxT2V5R0l4Wkd1MlRYWjVJSTZZZlFfREtQNHprMXlmNk9WNXB3bVdycW5fSlR3UVNkX2hBTHRGamUxRzB3TllJUHVQT0dDR2hRSmlwY3VqMmJGZ2Zwd3dNTlFQTjZ6YzZ4X3hOQQ?oc=5",
-"o": "Tech Brew",
-"via": "Google News: money",
-"lane": "search",
-"at": "2026-11-09T19:19:44+00:00",
-"seen": "2026-11-10T03:08:06+00:00",
-"status": "unverified headline"
-},
-{
-"id": "7106bbbfe034",
-"t": "Developer accuses Chatham County of slow-walking data center permit despite court ruling - The Business Journals",
-"u": "https://news.google.com/rss/articles/CBMingFBVV95cUxONzd2X2ZuLXNPRWhMTVc5TkoxTDNnaTJfOG51Mmtrb3dMNHpUcVllcllRZDJnR1BUVk9xMjJ5c0Y1WWYtS1NnWkZMN3pqMGE2OHRYelBSdF9saFZOVkstNFVqSFhFOFNOV0dCRTVUbzFoTTBCblc5elpyOG5sZDdlX01ibWZxLVh0QjJmZTdZemhwSE5rYlRNTGhXRUFGZw?oc=5",
-"o": "The Business Journals",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-11-09T19:17:00+00:00",
-"seen": "2026-11-10T11:08:13+00:00",
-"status": "unverified headline"
-},
-{
-"id": "ee0aa9893edd",
-"t": "Texas Democrats move to repeal ICE agreements law as bill filing begins - KXAN Austin",
-"u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZGZ6Y19Cc2NBeEFFSnREaWgzNklIZEw5QURSNTN3WTJhWEZtRTl0RjBnbjJMdnlxLVFXMGwyYkhMQmFzdWpETVFaSnNNOEljZUtpYnc4dU5MTU9MWk5tMW1aM3N2NjFqNXRVeE5PMU0yWmtnVEdXZThUTlpDY2tYbkotbEdlbk9hV2xDVXRvaU1XZXZzOGx2S2xiaGdVZHJURzUwYi1Ual9aQW10?oc=5",
-"o": "KXAN Austin",
-"via": "Google News: contracts",
-"lane": "search",
-"at": "2026-11-09T19:04:41+00:00",
-"seen": "2026-11-10T11:08:13+00:00",
-"status": "unverified headline"
-},
-{
-"id": "48a0911f4c24",
-"t": "$5+ billion AI healthcare company confirms layoffs - KRON4",
-"u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYVNHdkNyLVlUWGR0dmQ1Slh0cHNtZ0daOFV0dThMSzRnTkVHc3hoV2hVYWtJX3E2Z1JjOWlGNHR0UGhMd2xhRlBoamhxSjNjZUstRW1MdWVDV001N2hWS1Z0bkJlR0Zac29pTHl2WjFsYkt3NjJMNVFnWk5CcHhPcjFNVkRlQzZNV1ZlMUxMV2ZLbFVv0gGaAUFVX3lxTFAxQU5DSWVhZmxyZkpQM3Z0UHBMZVFBMWszZkozQXM4SnpqSGRrT19FVGNOVk0tLUF5bXZBMVphZGhPQ25OQTNjUHY5ajRqSE1Na1hXdFBKWHJiWXJiYmJpekI4ZG1CWkFHNElkclRtOUtzTTJmaDl0R1FXSmIxMkpfTW82dndOTmszOHBtWnUyMC1TMlF0OFlyOVE?oc=5",
-"o": "KRON4",
-"via": "Google News: labor",
-"lane": "search",
-"at": "2026-11-09T19:03:58+00:00",
-"seen": "2026-11-10T03:08:06+00:00",
-"status": "unverified headline"
-},
-{
-"id": "7800b91283a6",
-"t": "Trump Blasted For AI Cartoon Ordering Violence Against Press - OK Magazine",
-"u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMHEwX2FqRy01OTNVU2N3Ykc1dWxLZzRGZC02M0xxbEZhZTg0YV9hZDZCSktRWHVabnVPUG9sNjFkWnBVdmNYTVltTEVyZVFtaC1aRmNQMjFQTlhpdnMtYzl5MGlTem5PN0IxeUJiV3AzOW9lWlYydzJQbkJoYUNLT2JVNTRiYzdMbEdieFk2VjduazFBaEE?oc=5",
-"o": "OK Magazine",
-"via": "Google News: contracts",
-"lane": "search",
-"at": "2026-11-09T19:00:19+00:00",
-"seen": "2026-11-10T03:08:06+00:00",
-"status": "unverified headline"
-},
-{
-"id": "b34093d38dcd",
-"t": "Silicon Valley and Trump rally behind Nvidia CEO after his affair with alleged Chinese spy",
-"u": "https://www.theguardian.com/technology/2026/nov/09/nvidia-jensen-huang-affair-trump-musk",
-"o": "The Guardian",
-"lane": "news",
-"at": "2026-11-09T18:58:37+00:00",
-"seen": "2026-11-09T20:53:13+00:00",
 "status": "unverified headline"
 }
 ]
