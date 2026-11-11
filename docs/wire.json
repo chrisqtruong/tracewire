@@ -1,8 +1,68 @@
 {
 "name": "Tracewire",
-"updated": "2026-11-11T03:08:24+00:00",
+"updated": "2026-11-11T10:54:48+00:00",
 "note": "Unverified headlines collected automatically from public feeds. Not checked by Tracewire. Verified items appear in the Feed.",
 "items": [
+{
+"id": "fc5c040b9ec5",
+"t": "The Rural Shift in Data Center Development",
+"u": "https://www.datacenterknowledge.com/data-center-site-selection/the-rural-shift-in-data-center-development",
+"o": "Data Center Knowledge",
+"lane": "news",
+"at": "2026-11-11T10:00:00+00:00",
+"seen": "2026-11-11T10:54:48+00:00",
+"status": "unverified headline"
+},
+{
+"id": "c148a3ae5fad",
+"t": "Elon Musk’s SpaceX targets nat-gas plant and supercomputing facility at Starbase City, Texas",
+"u": "https://www.datacenterdynamics.com/en/news/elon-musks-spacex-targets-nat-gas-plant-and-supercomputing-facility-at-starbase-city-texas/",
+"o": "DatacenterDynamics",
+"lane": "news",
+"at": "2026-11-11T09:52:23+00:00",
+"seen": "2026-11-11T10:54:48+00:00",
+"status": "unverified headline"
+},
+{
+"id": "ddf024c7d888",
+"t": "Sponsored: How Kazakhstan’s Akashi Data Center is building trust",
+"u": "https://www.datacenterdynamics.com/en/product-news/how-kazakhstans-akashi-data-center-is-building-trust/",
+"o": "DatacenterDynamics",
+"lane": "news",
+"at": "2026-11-11T09:00:00+00:00",
+"seen": "2026-11-11T10:54:48+00:00",
+"status": "unverified headline"
+},
+{
+"id": "7c5da0c8879d",
+"t": "New Dem regulators plan to take on Georgia Power’s data center gas boom",
+"u": "https://www.canarymedia.com/articles/politics/new-dem-regulators-georgia-power",
+"o": "Canary Media",
+"lane": "news",
+"at": "2026-11-11T08:30:00+00:00",
+"seen": "2026-11-11T10:54:48+00:00",
+"status": "unverified headline"
+},
+{
+"id": "d03bc3f11226",
+"t": "AI has made it ‘close to impossible’ to assess university coursework, regulator says",
+"u": "https://www.theguardian.com/education/2026/nov/11/ai-close-to-impossible-assess-university-coursework-regulator",
+"o": "The Guardian",
+"lane": "news",
+"at": "2026-11-11T07:00:33+00:00",
+"seen": "2026-11-11T10:54:48+00:00",
+"status": "unverified headline"
+},
+{
+"id": "4cb7a6279301",
+"t": "Nvidia loses ground in Washington chip fight after CEO spy scandal",
+"u": "https://www.politico.com/news/2026/11/10/nvidia-ceos-spy-scandal-tilts-capitol-hills-chip-fight-01160548",
+"o": "Politico",
+"lane": "news",
+"at": "2026-11-11T03:18:33+00:00",
+"seen": "2026-11-11T10:54:48+00:00",
+"status": "unverified headline"
+},
 {
 "id": "25bc2d26df3f",
 "t": "Chairman Carr Announces New Legal Advisor",
@@ -2110,71 +2170,6 @@
 "via": "Google News: contracts",
 "lane": "search",
 "at": "2026-11-10T13:18:42+00:00",
-"seen": "2026-11-10T23:44:25+00:00",
-"status": "unverified headline"
-},
-{
-"id": "5a030d478ba3",
-"t": "Colorado Springs data center report urges tighter rules but not a moratorium - Axios",
-"u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUHB3UjVJMnJuWlV3bVBGTy1WU0JFQ1ZGYmdrTjNtbm9Xd0k0SGpZcFJOQmVybkJHX0xZN2dsbjVaU3Z0czJkU2tMbDNJZS1DNWhXX3RtUXJTVWFsZEFPR1I1R2FpbU1EcGZJd3preFNVd0pkUGkxczViUDZxZml0d0RqX1pMZkdNaXB0NXEzelJWb1pERURpekhwbWp0X3VWckxzV3Q1RGlkWU1V?oc=5",
-"o": "Axios",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-11-10T13:04:02+00:00",
-"seen": "2026-11-10T23:44:25+00:00",
-"status": "unverified headline"
-},
-{
-"id": "ba7c69125fef",
-"t": "Controversial rezoning proposal is suspended, data center fears continue in north Alabama town - AL.com",
-"u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQX01RaVBySGE2RmRlSHZueFQ4NUV2QXJQNFM4S0Z0QnNFWmlyV3VjM20xTnBWUUZMSTBLYi1zVUxDNHVFcURPRjFFYVpqalFWSm42RGNpLWhDX0NzQ1VxTmxwMzIwWGllUzZSbjZjZWZhODB3N3lRaXJMbkQ2ajAzNVYtNXJQakNYbFozelI0LVV6dGNDRlhGM2JSMWtoRVEwR2ZQR3htSXdIZVhXWFRxNHp4TGZ1RjRJMnN2WjRNYk0yX05kMEV6RUVR0gHeAUFVX3lxTE94UWY4MmZWZy1YVDVxU3FlSm1FMkVHdmFMUF80aTRrUG9LaGpabFFXRm5fOGd6WWc0Ujd3Wks5TjQzNnRfNEFMdDlhaTZWQ09zbkMxRnl5T0gzMGhSMk9YM0RxbjhkTjM0SGVYNl9yejBCWFBsSTVGTWR4c3Nka3BDY29CZ2ZPRW9QbzdicFFha0NrNzBaNHl2N1lXQ1FzMjF3NURGYkY1MlhTVHlTMGc5a0JXenhQZ1BUX2Fuajd5ZENJck9BajM2OWpIT2RMdWlTdVpVZFpmZ0VFT2UyZw?oc=5",
-"o": "AL.com",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-11-10T13:01:00+00:00",
-"seen": "2026-11-10T23:44:25+00:00",
-"status": "unverified headline"
-},
-{
-"id": "cc86a6daf140",
-"t": "Ray Wang: Data center moratoriums hand China the AI race - Seattle Red",
-"u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZS1LXzhlcm54VXNPdUlacy04TjRmLU9tekJaX1NQVE5NVmZaM0lsMmZlQmVWdjRsZEM1UnAzWnUxRlJqQ1FhXzY4Q0NXN3BUYTQ1TlRpcU9DLUdFTFdVVFNoSzEzLXFScWZhQUlWRkZOYVFzOU1HcTc1NmJQOV9LNWNR?oc=5",
-"o": "Seattle Red",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-11-10T13:00:22+00:00",
-"seen": "2026-11-10T23:44:25+00:00",
-"status": "unverified headline"
-},
-{
-"id": "87a5e55c941f",
-"t": "Exclusive: In the race for robot training data, ex-Meta researchers’ startup turns to gig workers with cameras - Fortune",
-"u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOa05ybjl6MUh6R2ctNVI0ODN6SVRMb3FIcE1ER2tXU1dBd0FOUGRscG1Fam96Um93elZ2VERacWVwMEFwTjUtZlgta3d1cUhLR0NmNFM4MVMtcXFSeHAxMDZZZ1JRSU5fQ3JKTlBEQ0VDUEU0c0d6SG5rdFlhMDBzOHhkWFVmS2pKMTRScUplMUNISkkyQ29lV1VTX3BhSXJxaFpfSUxhYnVDLU4za1JiSDg4Sm1LV1hBZ3NWNTN6UUQ2LThjN0xmLVNYN1Y4UWJhSTUtT3BR?oc=5",
-"o": "Fortune",
-"via": "Google News: labor",
-"lane": "search",
-"at": "2026-11-10T13:00:00+00:00",
-"seen": "2026-11-10T23:44:25+00:00",
-"status": "unverified headline"
-},
-{
-"id": "ef82a782761f",
-"t": "New York’s Hochul launches nation’s first state AI testing program",
-"u": "https://www.politico.com/news/2026/11/10/new-york-hochul-first-state-ai-testing-program-01157713",
-"o": "Politico",
-"lane": "news",
-"at": "2026-11-10T13:00:00+00:00",
-"seen": "2026-11-10T18:39:57+00:00",
-"status": "unverified headline"
-},
-{
-"id": "52d29b676fac",
-"t": "US Regulator Makes ‘Interventionist’ Pivot to Speed Data Centers - EnergyNow.com",
-"u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUnd3WmlXcVpnQ1UtYklyTGl4V3pZMVV4cjRXLW5VcnhWcjFTZDBfb1FDZl9qYUp6U19JV0lSb0Nac0YyYXNmUFVMaXNPUlU2ZmFUSjJsLVBYWjRLTS1PaW9XZ3h4Yng3YTM4ZW5kd0xKcnM1ZWdmbzItVzhHcWRiVUNpT2NncTZ3TWFqWTRzZ2hLSFkxcGJrag?oc=5",
-"o": "EnergyNow.com",
-"via": "Google News: dc-utility",
-"lane": "search",
-"at": "2026-11-10T12:57:23+00:00",
 "seen": "2026-11-10T23:44:25+00:00",
 "status": "unverified headline"
 }
