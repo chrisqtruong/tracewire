@@ -1,8 +1,80 @@
 {
 "name": "Tracewire",
-"updated": "2026-11-11T18:24:52+00:00",
+"updated": "2026-11-12T00:55:41+00:00",
 "note": "Unverified headlines collected automatically from public feeds. Not checked by Tracewire. Verified items appear in the Feed.",
 "items": [
+{
+"id": "3f0ff571f6ca",
+"t": "After Democrats’ midterm wins, Palantir CEO Alex Karp now says he’s a ‘progressive’ - The Washington Post",
+"u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNS0ROeVVyUExvSVNsaFp6SUZWcUxFdWpsSU9vNE1ycHo2QlhySWFNSjBBUmhwQ25wbXVEckN0MmRXc2xMWHhVa2RnSkUxODIxeHpOdHViLWh4Y1h2WHMzWHd2RDJNLWE3VnR6MUNoOTlmM2dDVkhYcklveGtaMzlPQVl6QkVuaWxRUThsaXVGNnRUemlLdXFON2RpSUd5VHpJZXFaTFloaTBlSmZBcWV5c1V0cGVlREtobWtqb1o4SjNwOFVhWGhrV3ZB?oc=5",
+"o": "The Washington Post",
+"via": "Google News: washingtonpost.com/technology",
+"lane": "search",
+"at": "2026-11-12T00:18:18+00:00",
+"seen": "2026-11-12T00:55:41+00:00",
+"status": "unverified headline"
+},
+{
+"id": "59dfc5956d2a",
+"t": "The Artificial Intelligence Muddle",
+"u": "https://heatmap.news/daily/the-artificial-intelligence-muddle",
+"o": "Heatmap",
+"lane": "news",
+"at": "2026-11-12T00:15:34+00:00",
+"seen": "2026-11-12T00:55:41+00:00",
+"status": "unverified headline"
+},
+{
+"id": "44087d608320",
+"t": "Jensen Huang affair in D.C.: Resignation calls and moves to tighten Nvidia China exports",
+"u": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-congress-resign-ai-chips.html",
+"o": "CNBC",
+"lane": "news",
+"at": "2026-11-11T22:46:29+00:00",
+"seen": "2026-11-12T00:55:41+00:00",
+"status": "unverified headline"
+},
+{
+"id": "0c70b9f2a7eb",
+"t": "NEWSLETTER: Nvidia drama revives chip export ban debate - Reuters",
+"u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVERVMHpGRTdJWkp4X1FKTTk2N3VEQjhrRVRJSklGY0poVEM3a3dybHVpcW9yZzZGMmN3YlNYUFRZcnRCVWZ0VWtMakdadUg2NWpLZHhEdVZNd1U5X2t1SExpLUpRZ2FZb3pXbWJleG5qSjhSeWhpZXlFTl8zMUsyMV9kUTlpOUFfSGEzblBwVk5pWjZiQzVjWXh5d2psR3lnSzFiRVJzYUhwQmhmejJ0R3dmX0k?oc=5",
+"o": "Reuters",
+"via": "Google News: reuters.com/technology",
+"lane": "search",
+"at": "2026-11-11T22:00:00+00:00",
+"seen": "2026-11-12T00:55:41+00:00",
+"status": "unverified headline"
+},
+{
+"id": "ae5556d61c0b",
+"t": "Why the data center you dread might never even be built",
+"u": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/",
+"o": "TechCrunch",
+"lane": "news",
+"at": "2026-11-11T20:15:15+00:00",
+"seen": "2026-11-12T00:55:41+00:00",
+"status": "unverified headline"
+},
+{
+"id": "850c0644106f",
+"t": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
+"u": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
+"o": "TechCrunch",
+"lane": "news",
+"at": "2026-11-11T19:54:00+00:00",
+"seen": "2026-11-12T00:55:41+00:00",
+"status": "unverified headline"
+},
+{
+"id": "4cebd41c1c17",
+"t": "Hawley backs nationwide data center moratorium",
+"u": "https://www.politico.com/live-updates/2026/11/11/congress/hawley-backs-nationwide-data-center-moratorium-01161019",
+"o": "Politico",
+"lane": "news",
+"at": "2026-11-11T18:32:35+00:00",
+"seen": "2026-11-12T00:55:41+00:00",
+"status": "unverified headline"
+},
 {
 "id": "dcb2f1ad5cd3",
 "t": "Boulder County, Colo., Approves Data Center Restrictions - GovTech",
@@ -2104,82 +2176,6 @@
 "via": "Google News: dc-zoning",
 "lane": "search",
 "at": "2026-11-10T22:55:46+00:00",
-"seen": "2026-11-10T23:44:25+00:00",
-"status": "unverified headline"
-},
-{
-"id": "ea375c95cb27",
-"t": "Fort Worth Data Center Moratorium: What to Know - Hoodline",
-"u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNWJMNUxGYTJEUHhFR0M1b0toM3lPTHg5MHUtVDNWMVcwZUNzWW90OHFxYy1GUE1hZFFENU8tRURUaVZLWGd6X0pGSi1nMVBBWkc4cWZKeUtEdGFYQkRLcmNqWU9GUk1WLWlTRnphYWNJY3JjR2JTek5BOGcwQUcxU3lWbUxQT0lWM0xzSTFKUlJNSFlDdlZTSko2OXI?oc=5",
-"o": "Hoodline",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-11-10T22:54:41+00:00",
-"seen": "2026-11-10T23:44:25+00:00",
-"status": "unverified headline"
-},
-{
-"id": "d68f526af6ae",
-"t": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
-"u": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
-"o": "BBC",
-"lane": "news",
-"at": "2026-11-10T22:52:15+00:00",
-"seen": "2026-11-10T23:44:25+00:00",
-"status": "unverified headline"
-},
-{
-"id": "c64ecb9ccee4",
-"t": "One American town is defying the data center revolt - NewsNation",
-"u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUHEtNUZQOXpib3l3WjR4Uzg4dzRTd19BUy10T0JUSkJpdWtmNXVVWGVpYjl1MDBQTUdIWS1pOVpHeEZLOGI1Z1BGTVJQcktDZmlTMUZ4Z21QQngtcnlyVjNHVmZJSDJ3OTZNdWtKX1h5U2VZT2c1MC02dHR2a1U1U283QW1qbWUz0gGOAUFVX3lxTE5ySWoyN1VEY05zZHBKbHBJeFdDRHRRVzcwZkdxRVVaUkNqdTh6VEd2X3VkLTlUbGtsR2pwY0F2UHltek1aWThpcE1rNEdRRGYySTlSdDZsOThUT1lMRjJJV1Q4cTI4cGM4RVNXZWNUT0hxY3ZZNXVPckRoOVBCS0Q1Uk9XUHJabXdsM2RXelE?oc=5",
-"o": "NewsNation",
-"via": "Google News: dc-water",
-"lane": "search",
-"at": "2026-11-10T22:47:59+00:00",
-"seen": "2026-11-10T23:44:25+00:00",
-"status": "unverified headline"
-},
-{
-"id": "7a11837309f3",
-"t": "Mayor Crespin Reaffirms Economic Development Commitment Following Moratorium Decision - The Prowers Journal",
-"u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUk50TFJpaDdGRDVLZTN3ZGVnZHFLODRvM2ZuemxyUlU0aGVPQlJzaXVDUmhrY2tPR2xib2duUlV6M0lwMG81TDdwZUVObWIzRk56b2cwOUJxSlFla2lPVVotdEM4UGhmek1xOHdsTlF0WmZaRXUxUW9WMHItbkljdGRHQnNGdnVhOTVPNFZRV290cDNDRjhXU3NCUHd2VHpWa3V5dWdwOVFmQVJHcXU3eWQ2dGlCdEE?oc=5",
-"o": "The Prowers Journal",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-11-10T22:47:53+00:00",
-"seen": "2026-11-10T23:44:25+00:00",
-"status": "unverified headline"
-},
-{
-"id": "8d60b56a5a22",
-"t": "Lenox Township to weigh rezoning of 1,402 acres for light industrial project amid data center fears - WXYZ Channel 7",
-"u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPLXRhcXdGSDVPSGFJZnZRTXVFTnRrLVdydGY2NlFuV0tfYUVLc05FcUdtN0lyTC1LM2hrWWdmRmJSTE53ZzZYRHZIbERBT3VRelVBS00xTFJtS0EwejZLaE5EMlNNWHB1Z2FfSmpJSVBWQTRTVHBJbUhYdDR5NFNTeDdvampHckVUZC01eUE4MGY0eW1rdVBHM3hlQTE5MXh4S0I5RUtPN3E0VGlDaVBCX3RkclpwLW5fTTdlTU5TYTBhOFU?oc=5",
-"o": "WXYZ Channel 7",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-11-10T22:44:33+00:00",
-"seen": "2026-11-10T23:44:25+00:00",
-"status": "unverified headline"
-},
-{
-"id": "6917786681ce",
-"t": "Data center dispute may have played role in Rural Hall mayor's defeat - Winston-Salem Journal",
-"u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYjRkLW4zZjJhbWdwWjVqaF8zWE5OTS1HWWRuT3NfZERYMzJNQ1JCSkhiU3BrRTVMOUlWOVdvMnRrZ1I5UnBTbmlrS2FkM0lKN1lzOHVjZTluVFFlTFZmekNpZVJ4MnNlYkZlZGNwN2xhN1hoaldseHNWSUV3YVJBWm00RWd3MkxSRHRCZndXNDN0M2M4N3Rhd2FWZGdkVTIxRlFqRW5VZnc3TmpOVklnaGViTQ?oc=5",
-"o": "Winston-Salem Journal",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-11-10T22:40:00+00:00",
-"seen": "2026-11-10T23:44:25+00:00",
-"status": "unverified headline"
-},
-{
-"id": "43e2651fc0c3",
-"t": "Nvidia taps former federal prosecutor to probe CEO’s affair - The Washington Post",
-"u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQm1OZVFWd3hGaHp6VGpMMm5jb0R4RHluLThwSS1jdVgtaGcwRUFKQi0zQnNhWU5oSmVDYzFVal9lbmlFQUtKWGhYbzNVc3Z6RlhYQXk3eFJCQkdtejNhTzc5bVRQbjhranRNczNlY2E4RWZvbzZ2bUpaRmNVRVJFdWxOOTR2WlZNNWpPc3g1bWNTUDlDdW43SGJVal9GZXNBS3BDZmc4MFcxV1NjZFE?oc=5",
-"o": "The Washington Post",
-"via": "Google News: washingtonpost.com/technology",
-"lane": "search",
-"at": "2026-11-10T22:37:14+00:00",
 "seen": "2026-11-10T23:44:25+00:00",
 "status": "unverified headline"
 }
