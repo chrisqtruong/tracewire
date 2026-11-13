@@ -1,8 +1,159 @@
 {
 "name": "Tracewire",
-"updated": "2026-11-13T10:20:32+00:00",
+"updated": "2026-11-13T17:55:21+00:00",
 "note": "Unverified headlines collected automatically from public feeds. Not checked by Tracewire. Verified items appear in the Feed.",
 "items": [
+{
+"id": "ecd2c7d793be",
+"t": "FCC Announces One Year of Clean Carts Success and Best Practices",
+"u": "https://www.fcc.gov/edoc/426810",
+"o": "FCC",
+"lane": "agency",
+"at": "2026-11-13T17:55:21+00:00",
+"seen": "2026-11-13T17:55:21+00:00",
+"status": "unverified headline"
+},
+{
+"id": "4884b975ef09",
+"t": "FCC Effectively Prohibits Eight Providers from Connecting to U.S. Networks for Failing to Reply to Robocall Traceback Requests",
+"u": "https://www.fcc.gov/edoc/426806",
+"o": "FCC",
+"lane": "agency",
+"at": "2026-11-13T17:55:21+00:00",
+"seen": "2026-11-13T17:55:21+00:00",
+"status": "unverified headline"
+},
+{
+"id": "be360e708f96",
+"t": "Utility, tech officials see opportunities to increase grid utilization",
+"u": "https://www.utilitydive.com/news/utility-tech-officials-see-opportunities-to-increase-grid-utilization/874644/",
+"o": "Utility Dive",
+"lane": "news",
+"at": "2026-11-13T17:26:00+00:00",
+"seen": "2026-11-13T17:55:21+00:00",
+"status": "unverified headline"
+},
+{
+"id": "d63e5e6aeb22",
+"t": "How Jensen Huang’s exit from Nvidia impacts China’s AI supply chain",
+"u": "https://restofworld.org/2026/jensen-huang-nvidia-exit-china-ai-chip-impact/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+"o": "Rest of World",
+"lane": "news",
+"at": "2026-11-13T16:24:10+00:00",
+"seen": "2026-11-13T17:55:21+00:00",
+"status": "unverified headline"
+},
+{
+"id": "87c1fbbb27f5",
+"t": "Samsung in talks to acquire data center cooling company Modine Manufacturing - report",
+"u": "https://www.datacenterdynamics.com/en/news/samsung-in-talks-to-acquire-data-center-cooling-company-modine-manufacturing-report/",
+"o": "DatacenterDynamics",
+"lane": "news",
+"at": "2026-11-13T16:23:00+00:00",
+"seen": "2026-11-13T17:55:21+00:00",
+"status": "unverified headline"
+},
+{
+"id": "7e25993d6477",
+"t": "Sponsored: Why AI infrastructure must rethink facility water loop management",
+"u": "https://www.datacenterdynamics.com/en/opinions/why-ai-infrastructure-must-rethink-facility-water-loop-management/",
+"o": "DatacenterDynamics",
+"lane": "news",
+"at": "2026-11-13T16:00:00+00:00",
+"seen": "2026-11-13T17:55:21+00:00",
+"status": "unverified headline"
+},
+{
+"id": "dabb9c42293e",
+"t": "Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scandal",
+"u": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
+"o": "BBC",
+"lane": "news",
+"at": "2026-11-13T15:40:08+00:00",
+"seen": "2026-11-13T17:55:21+00:00",
+"status": "unverified headline"
+},
+{
+"id": "8b1c9ace4af7",
+"t": "Uber confirms hackers stole thousands of drivers’ license information in data breach",
+"u": "https://techcrunch.com/2026/11/13/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/",
+"o": "TechCrunch",
+"lane": "news",
+"at": "2026-11-13T14:57:55+00:00",
+"seen": "2026-11-13T17:55:21+00:00",
+"status": "unverified headline"
+},
+{
+"id": "4c5204023774",
+"t": "Cerebras shares surge as forecast raise, surprise profit ease AI spending worries - Reuters",
+"u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQd2pqZHJibkJHUE5qR01NY2FVeDZ5cWRpSTRxN0FBdmpQR1lwbWxyZ09NdTFOVHJhS1liaVlPbkM2ZGRlNW5jb1Y5OHh2U0RTeE1IQ2NxQVBKa1pSZlF4d0dmNXlyRnR2SGgyd2laemZXdUN1Q3hNWnBJVFNSOHJoUXVkSEJDNmplOWRhekVuTHJFclBwNzVkTHBwSzV1VFI2c25BaFY3eWk5QUtXQ0dQRXluM1gyQVhicE1CM042T0NpZw?oc=5",
+"o": "Reuters",
+"via": "Google News: reuters.com/technology",
+"lane": "search",
+"at": "2026-11-13T14:39:20+00:00",
+"seen": "2026-11-13T17:55:21+00:00",
+"status": "unverified headline"
+},
+{
+"id": "6c6dc458b00f",
+"t": "Leading AI safety advocate likely to run for president",
+"u": "https://www.politico.com/news/2026/11/13/former-rep-brad-carson-likely-to-run-for-president-01164544",
+"o": "Politico",
+"lane": "news",
+"at": "2026-11-13T13:01:00+00:00",
+"seen": "2026-11-13T17:55:21+00:00",
+"status": "unverified headline"
+},
+{
+"id": "e7b18bbab3e9",
+"t": "Three data center developments in Australia change course after community backlash",
+"u": "https://www.datacenterdynamics.com/en/news/three-data-center-developments-in-australia-change-course-after-community-backlash/",
+"o": "DatacenterDynamics",
+"lane": "news",
+"at": "2026-11-13T12:25:08+00:00",
+"seen": "2026-11-13T17:55:21+00:00",
+"status": "unverified headline"
+},
+{
+"id": "b11f78109a56",
+"t": "How a sex scandal at Nvidia is putting pressure on the White House",
+"u": "https://www.bbc.co.uk/news/articles/c67429m3vem3o?at_medium=RSS&at_campaign=rss",
+"o": "BBC",
+"lane": "news",
+"at": "2026-11-13T12:22:30+00:00",
+"seen": "2026-11-13T17:55:21+00:00",
+"status": "unverified headline"
+},
+{
+"id": "9938663f94fe",
+"t": "US university students tell surveillance cameras to Flock off",
+"u": "https://www.theguardian.com/technology/ng-interactive/2026/nov/13/universities-drop-flock-camera-contracts",
+"o": "The Guardian",
+"lane": "news",
+"at": "2026-11-13T12:00:18+00:00",
+"seen": "2026-11-13T17:55:21+00:00",
+"status": "unverified headline"
+},
+{
+"id": "80dc73363ff0",
+"t": "Why the Nvidia cheating scandal is bad for Trump | Politics Weekly America",
+"u": "https://www.theguardian.com/politics/video/2026/nov/13/why-the-nvidia-cheating-scandal-is-bad-for-trump-politics-weekly-america",
+"o": "The Guardian",
+"lane": "news",
+"at": "2026-11-13T12:00:18+00:00",
+"seen": "2026-11-13T17:55:21+00:00",
+"status": "unverified headline"
+},
+{
+"id": "ecd2f1af1819",
+"t": "Nvidia's interim CEO inherits risky AI bets and a legal mess",
+"u": "https://www.npr.org/2026/11/13/nx-s1-6038868/nvidia-interim-ceo-colette-kress-ai-bets-investigation-lutnick",
+"o": "NPR",
+"lane": "news",
+"at": "2026-11-13T11:47:00+00:00",
+"seen": "2026-11-13T17:55:21+00:00",
+"status": "unverified headline"
+},
 {
 "id": "f98d73340b25",
 "t": "See how disgraced Nvidia CEO Jensen Huang became a close Trump ally - The Washington Post",
@@ -2005,168 +2156,6 @@
 "lane": "search",
 "at": "2026-11-12T15:03:15+00:00",
 "seen": "2026-11-12T22:28:00+00:00",
-"status": "unverified headline"
-},
-{
-"id": "660711644cdc",
-"t": "Cyberattack on Fireworks AI allowed hackers to access Notion customers’ chat transcripts",
-"u": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/",
-"o": "TechCrunch",
-"lane": "news",
-"at": "2026-11-12T15:02:28+00:00",
-"seen": "2026-11-12T16:45:28+00:00",
-"status": "unverified headline"
-},
-{
-"id": "caced9783dab",
-"t": "US workers are fighting to protect their jobs from AI – and winning",
-"u": "https://www.theguardian.com/technology/2026/nov/12/us-workers-governments-unions-ai",
-"o": "The Guardian",
-"lane": "news",
-"at": "2026-11-12T15:00:44+00:00",
-"seen": "2026-11-12T16:45:28+00:00",
-"status": "unverified headline"
-},
-{
-"id": "547a36e6ebf3",
-"t": "James Fishback urges Byron Donalds to block proposed Auburndale data center - wtsp.com",
-"u": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQdmlZYWIybnRQVnZMc3draERkV1A0djY5VUdxNVphb2FpWWFSdkR1TUN5ZFpmbTdEUl9ha2gwa1lhNEVWaHhoVk9MaXZYQWM4MDV2WmhGbHNCVHAtbDFqUFpqY3hVTUd1TTFmU0pkbHNxRW0xLXhpT0p4NzIzZGhiMnpiaGVsUUVmdENZaGZWdU91Wm0zbnQ4cjRGUlpaeVhmX1htYUVtU0dBaG4wNTFTTkthcmMxUTNXNURaUGw4TU44c2ZodVNuc19YMVE0N0NYdGM1LVNuWU9QRnZlZEZISDBQeFE5MDZyaUE?oc=5",
-"o": "wtsp.com",
-"via": "Google News: dc-water",
-"lane": "search",
-"at": "2026-11-12T15:00:00+00:00",
-"seen": "2026-11-12T16:45:28+00:00",
-"status": "unverified headline"
-},
-{
-"id": "fa1cb0c10e2b",
-"t": "Green Charter Township extends data center moratorium, hears ITC concerns - Big Rapids Pioneer",
-"u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbTczV1luR2FHSXQ0UHRCY0FwcGdPOV9qTWp1cldheUhmSXI1eVQ1RjJRSUVaWjlacExPUDQzaGFwM0tzZnRuWldTdUc3YXZBMjVTVHN5clpNQ1dwS2NiUzk0UURud1B2NG0wam42bjV4NTZlR293N1dEMElOSE10TnNUaWlmajdieFo2TkhWSzhsaDhLUDZmRFl2alRyeTg?oc=5",
-"o": "Big Rapids Pioneer",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-11-12T14:22:26+00:00",
-"seen": "2026-11-12T16:45:28+00:00",
-"status": "unverified headline"
-},
-{
-"id": "0387cc7fb727",
-"t": "Virtuix to Acquire STS International in Proposed Defense Expansion - Quiver Quantitative",
-"u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRWpmSkZBT3BiSXhFdDdDZ2tJNDM5UWp3bldjTUdYS2ZIRmczUUpia3p0OWdRb0c4a3dzMnBDXzdUVmZQQXpaQi1pWGlmZ21ySV9KMk0zNzhqTjdITXc1NFozaTgzRXlsdTRZVnVnaUNqRTZMOGJ5eW5mWXMzbFhIWlU4UzFBeGFTMEpTVVVXVkVRZGlHOU4xNjdPMFU1eFg3?oc=5",
-"o": "Quiver Quantitative",
-"via": "Google News: contracts",
-"lane": "search",
-"at": "2026-11-12T14:20:00+00:00",
-"seen": "2026-11-12T22:28:00+00:00",
-"status": "unverified headline"
-},
-{
-"id": "1a2c2eac2b4c",
-"t": "Memo to New Governors and Legislators on Effective Data Center Reform - Tech Policy Press",
-"u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNR2VCQ1ZPLWNyTDdFTGVTemZDanRTQUlDTVNsYlF6NzE0NGplcXhXSFg3TEUxeFFmeG42RFJFWjBIY0V3RnNpRk5CZm5EVFhOdUZGOWVQVDJvNHROMm56MjJOYWJ4ejhZTFNzcXJ3STk2LWZoNU5HVjhnMUJaMy02MGxCRjVvcWs5anJKblRaeHQydEJsaTNIMERocWtSbzJT?oc=5",
-"o": "Tech Policy Press",
-"via": "Google News: dc-incent",
-"lane": "search",
-"at": "2026-11-12T14:14:28+00:00",
-"seen": "2026-11-12T16:45:28+00:00",
-"status": "unverified headline"
-},
-{
-"id": "d740ff0d60cc",
-"t": "Marvell agrees to acquire optical networking company in $115 billion all-stock deal - Crypto Briefing",
-"u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbElSVjhNeXZBT1ZPSEZ4OVUwWFdsQ1ZMQkhpcGdNMEVXNGNSQXI3QzNPejhESmExOU4yU1gwUWxPdkhBRi1aYXRLbHlxNUw2WUdGZ3NKSlYxTURBcFJ0b1ZmVGItR2pfX0w5Q3g3UFM1ZTh1RVRicEdQcTFELTBTN1ZqNjA?oc=5",
-"o": "Crypto Briefing",
-"via": "Google News: ai-deals",
-"lane": "search",
-"at": "2026-11-12T14:12:40+00:00",
-"seen": "2026-11-12T22:28:00+00:00",
-"status": "unverified headline"
-},
-{
-"id": "749403ea7c0c",
-"t": "What’s next for defense startups? - The Tech",
-"u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ISENfUzBHOUFrVTl6SjhVcF9udTkxTndJc3d4aDRFbkFPdnFRbFdfSXZKNWJWaXZyT19RYWU1VjA2U2FlRFRPZTU4dEdsa3Y1UFdteDJJTUZJZERhTE0wRg?oc=5",
-"o": "The Tech",
-"via": "Google News: contracts",
-"lane": "search",
-"at": "2026-11-12T14:06:35+00:00",
-"seen": "2026-11-13T10:20:32+00:00",
-"status": "unverified headline"
-},
-{
-"id": "d4921fa70ea6",
-"t": "What comes next for Nvidia and AI industry after spy scandal - AFP.com",
-"u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTEVrWFo1aWpEcGtTV2pKdlVkU0xONnB6NWpxMTlLb3N4Q041cnJ6SWh5UHJaVmZaN2dMOExZdmlRUDBHcS1GS1ZGTGxHNE5UeEIxc0ozWjNNWTJKRmlUcHVKMjRPV291NVpzeDZqNHByallONV9sVFc0ekRZUlpDbXF1eEVKQQ?oc=5",
-"o": "AFP.com",
-"via": "Google News: money",
-"lane": "search",
-"at": "2026-11-12T14:03:27+00:00",
-"seen": "2026-11-12T22:28:00+00:00",
-"status": "unverified headline"
-},
-{
-"id": "d32d1b8d0349",
-"t": "CPI | Google Faces Revival of $1.7 Billion EU Antitrust Fine After Court Opinion - PYMNTS.com",
-"u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZS04LUp5N2NYM2dIVUdjQjNFeDdUYWpFaDd0Wk1NQ0NXUWNPLWNLVEFhR3Y0MnUzUldzMlNlSkE1QUphWk1WYW15dEtuRlItd3VxYTY3NU1IOGRtVWxqdW05RlFRdzlLTkhiQnFvVXJ2NVJFWWxBdWhCeldqYl9taUR4STliR0VtTVdiVFAySFBaclJTUXlqcm9WSG9JNUFFYVVnMHIzRVhsZUk?oc=5",
-"o": "PYMNTS.com",
-"via": "Google News: antitrust",
-"lane": "search",
-"at": "2026-11-12T14:02:55+00:00",
-"seen": "2026-11-12T16:45:28+00:00",
-"status": "unverified headline"
-},
-{
-"id": "d4d4c460109e",
-"t": "Microsoft slides as lobbying over U.S. trade policy clouds AI supply outlook - Traders Union",
-"u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZzNITzZJSGs0a0JCc2tzdHFfM2hrSjJJRGpCRWk4QjFuZGgzUk5DOEtSNERFNE0yTW4tenE3ckkxQTVMelZ6YnhwdmdhM0tWSDVrVWpCQ0NaT2dta1BoeU1xc0QwOEhlWDBYRE5YSGk0WlJSOHBHaFRNT1pGbHlxMDluWnRwaHRleGZHSQ?oc=5",
-"o": "Traders Union",
-"via": "Google News: money",
-"lane": "search",
-"at": "2026-11-12T14:02:29+00:00",
-"seen": "2026-11-12T16:45:28+00:00",
-"status": "unverified headline"
-},
-{
-"id": "8d28a38f154f",
-"t": "Washington can’t afford to keep chasing digital ghosts - FedScoop",
-"u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Ka203aHFQdUtRU1RfaFJSOVlTeUdBWHpGNVh1ME1VaHNWZ0lDdjBjN3YtN25HV3ZZOUFQU2N6LV9PQTg4OTdCM18tS3poS0R0WS1mOXFzdlFRdDVWa2FVazA0NW9lREhjZm4zTHpCOA?oc=5",
-"o": "FedScoop",
-"via": "Google News: contracts",
-"lane": "search",
-"at": "2026-11-12T14:01:28+00:00",
-"seen": "2026-11-12T16:45:28+00:00",
-"status": "unverified headline"
-},
-{
-"id": "534bd0c07daa",
-"t": "How Data Center Opponents Won the Election",
-"u": "https://insideclimatenews.org/news/12112026/inside-clean-energy-election-data-center-defeats/",
-"o": "Inside Climate News",
-"lane": "news",
-"at": "2026-11-12T14:00:00+00:00",
-"seen": "2026-11-12T16:45:28+00:00",
-"status": "unverified headline"
-},
-{
-"id": "3f9f08548766",
-"t": "Skydance stock faces 87 billion US dollars in merger debt - ad-hoc-news.de",
-"u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNLXZ4LXJrNVdMSGJxVVVGNzg3bWtTLWJWalVSVVNfc3pDNE41NnFrWG9FQ3lZT1czSk9uTWpLVDRiMTdSd2xHcFBfWlhDeldvTDR3bkVwMTRsWVFaU0xFUTB1bm1aWnFHRkdKRVlHM2ZqWDN4Vjdqb3hDaHhEUFV3SkdjSlFxUVkyU1ZJV3k4VFJQRTZZcmJFZFFpNnVwdHhQN0E2VDI2YnFsUktzam5IR05ERG1qZ216UTFzbQ?oc=5",
-"o": "ad-hoc-news.de",
-"via": "Google News: ai-deals",
-"lane": "search",
-"at": "2026-11-12T13:51:37+00:00",
-"seen": "2026-11-12T22:28:00+00:00",
-"status": "unverified headline"
-},
-{
-"id": "7e801f10f338",
-"t": "US jobless claims rise to 200,000 as layoffs stay low before the Fed's December meeting - MLQ.ai",
-"u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWXl3QlFVeWlMTWlabmJsb3dvdXBWVzVJejdZbEhsNUdsODdpOXVuTDVramxiemV2cUhjU0MzSVRMQmU0SW91b1VqNGhvbERDM21CbUhPc1NmcFhITzVYTmppMTUzM1lxQjVtanBkdm1tRXZEQ0NqeTBCOUNUbndxdzhwN2xXNFRzT0JiM1ZESlB2WkkwaWY0OEhSR25UVzUyeDJ4VmRiR2k0QQ?oc=5",
-"o": "MLQ.ai",
-"via": "Google News: labor",
-"lane": "search",
-"at": "2026-11-12T13:41:36+00:00",
-"seen": "2026-11-12T16:45:28+00:00",
 "status": "unverified headline"
 }
 ]
