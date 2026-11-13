@@ -1,8 +1,49 @@
 {
 "name": "Tracewire",
-"updated": "2026-11-12T22:28:00+00:00",
+"updated": "2026-11-13T02:51:03+00:00",
 "note": "Unverified headlines collected automatically from public feeds. Not checked by Tracewire. Verified items appear in the Feed.",
 "items": [
+{
+"id": "c8d21d802ebe",
+"t": "Transcript: Lots of Environmental Groups Oppose the Permitting Bill. This One Doesn’t.",
+"u": "https://heatmap.news/podcast/shift-key-159-evergreen-baaja-transcript",
+"o": "Heatmap",
+"lane": "news",
+"at": "2026-11-13T01:08:15+00:00",
+"seen": "2026-11-13T02:51:03+00:00",
+"status": "unverified headline"
+},
+{
+"id": "9abbe395b09c",
+"t": "Donald Trump really wants Tim Cook to run Nvidia",
+"u": "https://www.theverge.com/tech/1032774/president-donald-trump-tim-cook-nvidia-jensen-huang",
+"o": "The Verge",
+"lane": "news",
+"at": "2026-11-13T00:51:25+00:00",
+"seen": "2026-11-13T02:51:03+00:00",
+"status": "unverified headline"
+},
+{
+"id": "e2d0ef8d5e76",
+"t": "Samsung in talks to buy data center cooling firm Modine, Bloomberg News reports - Reuters",
+"u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSVI4YzdVYkJxMWQ1b1o5UU9VUmJPLXhZa2hOamRLMGNMNVZLdWJ1VndxeC0zd0t4QkttQ24zV2lGUUxGZHV3TWFkZ1JYekplMlBQV3BzMDV4c3FCV1g1UzJXY2FhandUZjNpa1NqMmhSVzFJeW1NVkZhWHVsb2hOSUJRSzRUeXJlRDR0d0ZuSXoxOTFGUTc1bTRqdzBMbTRoeXBfaFpjSmpwU1RLTklhZVJfWE9XVVBVVTA4?oc=5",
+"o": "Reuters",
+"via": "Google News: reuters.com/technology",
+"lane": "search",
+"at": "2026-11-13T00:11:00+00:00",
+"seen": "2026-11-13T02:51:03+00:00",
+"status": "unverified headline"
+},
+{
+"id": "4e2810e47ea3",
+"t": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
+"u": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
+"o": "TechCrunch",
+"lane": "news",
+"at": "2026-11-12T22:42:51+00:00",
+"seen": "2026-11-13T02:51:03+00:00",
+"status": "unverified headline"
+},
 {
 "id": "89fed4c752b5",
 "t": "FCC To Hold Open Commission Meeting Thursday, November 19, 2026",
@@ -497,6 +538,16 @@
 "lane": "search",
 "at": "2026-11-12T17:51:58+00:00",
 "seen": "2026-11-12T22:28:00+00:00",
+"status": "unverified headline"
+},
+{
+"id": "009ee1857167",
+"t": "Jensen Huang built an AI kingdom. Now he’s gone, will Nvidia’s ramparts be breached?",
+"u": "https://www.theguardian.com/technology/2026/nov/12/jensen-huang-built-an-ai-kingdom-now-hes-gone-will-nvidias-ramparts-be-breached",
+"o": "The Guardian",
+"lane": "news",
+"at": "2026-11-12T17:50:35+00:00",
+"seen": "2026-11-13T02:51:03+00:00",
 "status": "unverified headline"
 },
 {
@@ -1318,6 +1369,16 @@
 "status": "unverified headline"
 },
 {
+"id": "44087d608320",
+"t": "Jensen Huang affair in DC: Resignation calls and moves to tighten Nvidia China exports",
+"u": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-congress-resign-ai-chips.html",
+"o": "CNBC",
+"lane": "news",
+"at": "2026-11-12T12:03:39+00:00",
+"seen": "2026-11-13T02:51:03+00:00",
+"status": "unverified headline"
+},
+{
 "id": "fc1d7ba249f7",
 "t": "Rinsing AirPods Pro ear tips under the tap: Apple says it’s fine - Make Tech Easier",
 "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRVE3ZVlmRHpLTjYzMVNGb1JiQTVJS19qME1FYVNSSGhHelZPbEktOFVwUWVDWjZKSTlxR3BqdllqRzJvdTZJeG9OQjAtY3hZNGpCNTJuTnYwMzNTVzVzSE8tSi1Xb1FyVVJ6SnZ5cVJaY09NSXJhNmlWSUp0OUJiWVM1UUZ2Qmo5Y1pXNmo1SkdibnAw?oc=5",
@@ -1951,6 +2012,17 @@
 "status": "unverified headline"
 },
 {
+"id": "3f0ff571f6ca",
+"t": "After Democrats’ midterm wins, Palantir CEO Alex Karp now says he’s a ‘progressive’ - The Washington Post",
+"u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNS0ROeVVyUExvSVNsaFp6SUZWcUxFdWpsSU9vNE1ycHo2QlhySWFNSjBBUmhwQ25wbXVEckN0MmRXc2xMWHhVa2RnSkUxODIxeHpOdHViLWh4Y1h2WHMzWHd2RDJNLWE3VnR6MUNoOTlmM2dDVkhYcklveGtaMzlPQVl6QkVuaWxRUThsaXVGNnRUemlLdXFON2RpSUd5VHpJZXFaTFloaTBlSmZBcWV5c1V0cGVlREtobWtqb1o4SjNwOFVhWGhrV3ZB?oc=5",
+"o": "The Washington Post",
+"via": "Google News: washingtonpost.com/technology",
+"lane": "search",
+"at": "2026-11-12T05:00:00+00:00",
+"seen": "2026-11-13T02:51:03+00:00",
+"status": "unverified headline"
+},
+{
 "id": "c46805bd0af0",
 "t": "First Joint Public Appearance Post 54.7 Billion Yuan Acquisition: Fei-Fei Li & Lisa Su Exclusive Dialogue Unveiling the Unified World Model Atlas in Depth - 36Kr",
 "u": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBLclNWb2w4b010Sjhab1ZpaVpORHNtQnRRTFZxQVlpMC01RW4wZFNBR0Y0UGJKUjVpNU1icngxZ2d6SXhOZW9FNDRtVllNdDhfSWNV?oc=5",
@@ -2090,83 +2162,6 @@
 "via": "Google News: dc-zoning",
 "lane": "search",
 "at": "2026-11-12T03:01:52+00:00",
-"seen": "2026-11-12T08:01:46+00:00",
-"status": "unverified headline"
-},
-{
-"id": "16a90a04002c",
-"t": "Texas grid operator seeks power to curb data center usage early - Quartz",
-"u": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4yUV95NjZoZTZWZjljX29TNF9tZ1BfNnFSNnQ3aVAta2YwN2tDelhReGQ4QTJ5cFYxVUZMNHRSTlNCVFpWRHJGOGZOTjM1OWJQdkJ6OXctV3BmaDljNFBIbFRoVXgyZFNUVkdOU1hzbjBUYndSczJra3RR?oc=5",
-"o": "Quartz",
-"via": "Google News: dc-utility",
-"lane": "search",
-"at": "2026-11-12T02:55:40+00:00",
-"seen": "2026-11-12T08:01:46+00:00",
-"status": "unverified headline"
-},
-{
-"id": "8ae7837cf962",
-"t": "Inside a Dauphin County data center as Pennsylvania communities battle AI development - FOX43",
-"u": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQWHNDSkhLaFh5NHJwWGxSODA2dWljd29CaFpoeWVINlVTN3I1U1hnTWFEX2lsTEFJSktuVW5wNmtsUjIzQjZmVkpOOElLZUI2alVKajIyZGpibEh0SUZWamF2LUtSYlZIWDdZZWctMDkydWtZcHFlVGw3QmFPRlVmd0Q2eDlOdm13RGpfR3pScW1ScVh6dUlzUzFpM1FIN1JuOHlSMjdfVzc4UXBKTkJFanNSNFoxZDYteDRIcHFjMC0wUjVMUFVkbGUxd2hqa2ZMaWNNaGF5V2FodkJRemp2dWpPM0phMDU4cmF0RHMwSkQ1OGpsVE1DZXV0QUF4elFQY2xXbXJWX1JTVkNWdmY0?oc=5",
-"o": "FOX43",
-"via": "Google News: dc-water",
-"lane": "search",
-"at": "2026-11-12T02:51:00+00:00",
-"seen": "2026-11-12T08:01:46+00:00",
-"status": "unverified headline"
-},
-{
-"id": "93ca2fb9b08e",
-"t": "Russian Pranksters Fooled 3 OpenAI National Security Leads - FourWeekMBA",
-"u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQX3l4T0YzT01GRTFVNi1IejF3cktBYTBsYUJvbVhvNS11dU55TldtU1JfYnQ1amlrOFN0eXAzc0hiVFVCS2ZwMEpmdjlvS3ZEZUZQem8tZUJBODNhYWtGZlZBSlRJY1VxLUYza21fOUQ5aEJIeTF1WHV3amwwNDA3MWtEbzNpTGNPVnRvQmNGdw?oc=5",
-"o": "FourWeekMBA",
-"via": "Google News: contracts",
-"lane": "search",
-"at": "2026-11-12T02:28:22+00:00",
-"seen": "2026-11-12T08:01:46+00:00",
-"status": "unverified headline"
-},
-{
-"id": "5655aba45f1d",
-"t": "Australian firms face backlash over layoffs amid alleged AI washing - Chosunbiz",
-"u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZ3RCeFMxOXZlU1pBYjlrb0lmeENtYXNxVThaMnYtNGE5Vk1VVVNkT245SzNQTXZjdkpmM2gzUmJmNnpXRW13bGhFdTQwM3hrRXIzbE0zYkpPNllEckRTdnQwM21RUlBsTkJKVDY5ZDZSd1JGQkxWdmRGckFkNXV3QnBxVTREeFg20gGcAUFVX3lxTE83OWo3Z2lvdk5peGNUaXF6VXMwM2FkNHJfa1o2MHJvaUJoZWhCRWxQcGg5Y3cweGtIUm9FWUVMa0JpVGMyUHpFaDFPa1FhZllsVDh4anRGRTE2T21vTElDNzFOZHJObUd5MUtGcDlNa1B4c1VBcHJrc0RQcXZFTnRqZ2J3Mk1wR3Q0NTB3Vkl2QlZrUnpzRzVnRzlDTw?oc=5",
-"o": "Chosunbiz",
-"via": "Google News: labor",
-"lane": "search",
-"at": "2026-11-12T02:27:00+00:00",
-"seen": "2026-11-12T08:01:46+00:00",
-"status": "unverified headline"
-},
-{
-"id": "f586ad49303f",
-"t": "Daikin Unveils Standard Cooling Design for NVIDIA-Based AI Data Centers, Laying Groundwork for ¥800 Billion Target - BigGo Finance",
-"u": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBHcjBSM09xM0N3eWlaYlB6YlpZem9lN2VLQzdFMkRMR1l3Y3RUVXpSaXlKaGFCSEsxY25ZM01XXzdkWnRjUTIzWXlFLV81SnpvWGUwT0MwOXEtQ0VzUmxucDNWZ3RPNDFhMnBHeGRBN2RXOVk4OUE?oc=5",
-"o": "BigGo Finance",
-"via": "Google News: dc-water",
-"lane": "search",
-"at": "2026-11-12T02:26:00+00:00",
-"seen": "2026-11-12T08:01:46+00:00",
-"status": "unverified headline"
-},
-{
-"id": "25fd23ccb0b0",
-"t": "AI Startup Lyra Systems Signs Pentagon Space Deal to Slash Demo Timelines From a Decade to 1 Year - Tech Times",
-"u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcUhHTlhFRzdzMTdwQll0OTlONE1IQ05ZX19pellNWUN5U0VCOTRnTFl5MUpuS0hkZXNST1VrWXlMNS1EOUI5MTg0U1pPcEZFOGMwalJLai1MQUJveEx6UmhPcEJXbGhvXzZTeHNSRzdOVDkxNmx6YmpZVDMxZ0NhNmtDb20zN01oSXFoRURsLWVTU1hUTmE3ZjU3anVxT3BVS01zSDJ5WWU4anZaS0ZueTRxMDByYnhyMkdzN2RyeUN0QjhfTzZNQlhuV2x5bFgteE1QVW5B?oc=5",
-"o": "Tech Times",
-"via": "Google News: contracts",
-"lane": "search",
-"at": "2026-11-12T02:21:49+00:00",
-"seen": "2026-11-12T08:01:46+00:00",
-"status": "unverified headline"
-},
-{
-"id": "0e07541e8312",
-"t": "One data center, 7 percent of Massachusetts’ power - Environment America",
-"u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVHdlSFVOQnNqR2RtZjY2X3hjVFFId2tEOTdfal9fYUQxWlVQdG52OFV6aFV2QjBoRVQ2aTdDbVk5anpCMUJIWGI1UjhGNkF5UlJxY3YzWnBCQzRYZXN4QklORzFxMkh4Q1dYVFNRUkRJVjl4VmRzeUZXVGNrMUJ0OGktRm5aRVgwU0hMYXF5UzgxUQ?oc=5",
-"o": "Environment America",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-11-12T02:19:56+00:00",
 "seen": "2026-11-12T08:01:46+00:00",
 "status": "unverified headline"
 }
