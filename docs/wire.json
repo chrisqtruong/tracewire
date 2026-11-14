@@ -1,8 +1,18 @@
 {
 "name": "Tracewire",
-"updated": "2026-11-14T16:44:52+00:00",
+"updated": "2026-11-14T20:58:12+00:00",
 "note": "Unverified headlines collected automatically from public feeds. Not checked by Tracewire. Verified items appear in the Feed.",
 "items": [
+{
+"id": "a85b0ae8d603",
+"t": "Connecticut AG: 'Roblox, TikTok, Snapchat, YouTube are next'",
+"u": "https://www.politico.com/news/2026/11/14/connecticut-roblox-tiktok-snapchat-youtube-meta-01166611",
+"o": "Politico",
+"lane": "news",
+"at": "2026-11-14T18:58:00+00:00",
+"seen": "2026-11-14T20:58:12+00:00",
+"status": "unverified headline"
+},
 {
 "id": "f7bd2ea0849a",
 "t": "Former legislative candidate Jeff Shelton calls for 1-year data center moratorium, residents to get involved - Rapid City Journal",
@@ -2169,17 +2179,6 @@
 "via": "Google News: ai-deals",
 "lane": "search",
 "at": "2026-11-13T15:29:00+00:00",
-"seen": "2026-11-13T23:21:14+00:00",
-"status": "unverified headline"
-},
-{
-"id": "6345ea1d1627",
-"t": "Tech layoffs 2026: More than 200K jobs cut amid AI investment - Beinsure",
-"u": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQWxpRW9QZEtEVy1NLW1BV0RKNWU0Y3JfRVFmSG1MbTJuMW04RDRURWhLWENnc2pPZC1iN09Zc2wwRXp0NkZNSG0wQWZlVnh0X05XOWYtOVpLWW1hekp2SHdCRWlDZGJzNFY4bW1ITGJmMzN5YXM0OEkxYWdQSVFiRldsUWg4Z1FBOUkzaUdDVEQ?oc=5",
-"o": "Beinsure",
-"via": "Google News: labor",
-"lane": "search",
-"at": "2026-11-13T15:24:04+00:00",
 "seen": "2026-11-13T23:21:14+00:00",
 "status": "unverified headline"
 }
