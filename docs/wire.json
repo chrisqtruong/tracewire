@@ -1,8 +1,29 @@
 {
 "name": "Tracewire",
-"updated": "2026-11-15T14:59:21+00:00",
+"updated": "2026-11-15T20:18:31+00:00",
 "note": "Unverified headlines collected automatically from public feeds. Not checked by Tracewire. Verified items appear in the Feed.",
 "items": [
+{
+"id": "1207b5c1c70b",
+"t": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+"u": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
+"o": "The Verge",
+"lane": "news",
+"at": "2026-11-15T19:15:43+00:00",
+"seen": "2026-11-15T20:18:31+00:00",
+"status": "unverified headline"
+},
+{
+"id": "24bbd62e7b72",
+"t": "It’s not just an affair. Nvidia’s bigger issue could be chip smuggling. - The Washington Post",
+"u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPN2hPSWp5RThSSER6RU9KM2xsRkplcUx2eXVFdUlLYURuQ0tkQVFPeDRUa0t6cUJ2TmRMU0pFaGV1YU1GalExUWtqVTc4LS10THUyRFJJeXI3cUt4Sm9uRWhTOElzYzJhekJUWTR4RXRoQXV4aGR2NzRMZmdDTDFQVXVrSkd3Z0N6OFhvTGNFS0U0M1A0bGJKMUVOaTdscEZQakYxR3hoakxMdHpCaHVEVExyZ0o4Q1FLYkE?oc=5",
+"o": "The Washington Post",
+"via": "Google News: washingtonpost.com/technology",
+"lane": "search",
+"at": "2026-11-15T18:00:00+00:00",
+"seen": "2026-11-15T20:18:31+00:00",
+"status": "unverified headline"
+},
 {
 "id": "ecd2c7d793be",
 "t": "FCC Announces One Year of Clean Carts Success and Best Practices",
@@ -2167,28 +2188,6 @@
 "via": "Google News: dc-zoning",
 "lane": "search",
 "at": "2026-11-13T20:30:00+00:00",
-"seen": "2026-11-13T23:21:14+00:00",
-"status": "unverified headline"
-},
-{
-"id": "b97e8357d65d",
-"t": "Vistra Holds Steady on Growth Outlook After Texas Election Shakes Shares - Hart Energy",
-"u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQk42UW5OcUZLaV8zNDBjQi11N2xkTUxhWUFzYllUekNKQXVaSjYyYkhEdFhnRmt3d3lMeEFpenQ5bndscXI3S2tTR2VRM0JMNFF1NGpBRXVvcDVlRGR6VzZzOXJtZnNFdUk4ZnlNa1BsNWFoQlVYdHJIVU5MVWJqdjRsdnAtd2t4eGtxTU1BVVRnQQ?oc=5",
-"o": "Hart Energy",
-"via": "Google News: dc-utility",
-"lane": "search",
-"at": "2026-11-13T20:29:18+00:00",
-"seen": "2026-11-13T23:21:14+00:00",
-"status": "unverified headline"
-},
-{
-"id": "1fa69b694fb6",
-"t": "SpaceX Unveils $74B Data Center Push in Texas, Arizona - Hart Energy",
-"u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTDZUd1dQbEZkNVFGVWlyckRrbkRRZWM1enI0Sl8wOFVNUks0VnhoYU5MNnBjWWtTT3lzOTBWZ3hnTFVwMVVjd0gwdjIzd0dNVmJGbmV2WC1wS3RxcEVEVjBGZFdzOEFGRHVyLXZySk53Vld0UmZYbzZzblJqV0lxMmRCamVlYkQ5?oc=5",
-"o": "Hart Energy",
-"via": "Google News: dc-water",
-"lane": "search",
-"at": "2026-11-13T20:29:18+00:00",
 "seen": "2026-11-13T23:21:14+00:00",
 "status": "unverified headline"
 }
