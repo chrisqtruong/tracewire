@@ -1,8 +1,38 @@
 {
 "name": "Tracewire",
-"updated": "2026-11-15T07:43:52+00:00",
+"updated": "2026-11-15T14:59:21+00:00",
 "note": "Unverified headlines collected automatically from public feeds. Not checked by Tracewire. Verified items appear in the Feed.",
 "items": [
+{
+"id": "ecd2c7d793be",
+"t": "FCC Announces One Year of Clean Carts Success and Best Practices",
+"u": "https://www.fcc.gov/edoc/426810",
+"o": "FCC",
+"lane": "agency",
+"at": "2026-11-15T14:59:21+00:00",
+"seen": "2026-11-15T14:59:21+00:00",
+"status": "unverified headline"
+},
+{
+"id": "4884b975ef09",
+"t": "FCC Effectively Prohibits Eight Providers from Connecting to U.S. Networks for Failing to Reply to Robocall Traceback Requests",
+"u": "https://www.fcc.gov/edoc/426806",
+"o": "FCC",
+"lane": "agency",
+"at": "2026-11-15T14:59:21+00:00",
+"seen": "2026-11-15T14:59:21+00:00",
+"status": "unverified headline"
+},
+{
+"id": "b896b29ec775",
+"t": "Space data centers could end stargazing as we know it",
+"u": "https://www.axios.com/2026/11/15/space-data-centers-risks-stargazing-report",
+"o": "Axios",
+"lane": "news",
+"at": "2026-11-15T11:45:05+00:00",
+"seen": "2026-11-15T14:59:21+00:00",
+"status": "unverified headline"
+},
 {
 "id": "5f75575e1669",
 "t": "OpenAI Disbands Robotics Team Five Months After Relaunch as Robotics Chief Resigns - Hokanews",
@@ -89,6 +119,16 @@
 "lane": "search",
 "at": "2026-11-15T03:00:00+00:00",
 "seen": "2026-11-15T07:43:52+00:00",
+"status": "unverified headline"
+},
+{
+"id": "e043f4cff3c9",
+"t": "Italy fines Meta $887m for accessing Android users’ photos and videos",
+"u": "https://www.theguardian.com/technology/2026/nov/15/italy-fines-meta-887m-for-accessing-android-users-photos-and-videos",
+"o": "The Guardian",
+"lane": "news",
+"at": "2026-11-15T02:02:01+00:00",
+"seen": "2026-11-15T14:59:21+00:00",
 "status": "unverified headline"
 },
 {
@@ -2149,49 +2189,6 @@
 "via": "Google News: dc-water",
 "lane": "search",
 "at": "2026-11-13T20:29:18+00:00",
-"seen": "2026-11-13T23:21:14+00:00",
-"status": "unverified headline"
-},
-{
-"id": "a7b71244a27f",
-"t": "Trump Administration Stalling Protections for Imperiled Fish Near Massive Alabama Data Center, Groups Say",
-"u": "https://insideclimatenews.org/news/13112026/trump-administration-stalling-protections-for-imperiled-fish-near-massive-alabama-data-center-groups-say/",
-"o": "Inside Climate News",
-"lane": "news",
-"at": "2026-11-13T20:28:49+00:00",
-"seen": "2026-11-13T23:21:14+00:00",
-"status": "unverified headline"
-},
-{
-"id": "f51f580dbd2b",
-"t": "GUEST VIEW: Data centers in Ector County: What ‘Project Landman’ means for taxpayers - Odessa American",
-"u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUTBDQUR0WkRGSGRsTGFGenhWN3Q5eDFWM2lTVldYekpDajhOelFnYURxTlNjSGh6MWxwb3pRaWl2MnREMVpZU1BZU1otLVYwNTFrMXhaOXFTN2pvLWRrUmhRc3JubjM1UWlRZUxpLWJ3T1g2U3Q2clcxYzZHZ2pmRVRtTUdleFNRUktiYzZwcWRveUNkYUJvZGxGdVFWQnE1dkczVXRXMmZ6OTVmTVNvSmdQcw?oc=5",
-"o": "Odessa American",
-"via": "Google News: dc-water",
-"lane": "search",
-"at": "2026-11-13T20:24:03+00:00",
-"seen": "2026-11-13T23:21:14+00:00",
-"status": "unverified headline"
-},
-{
-"id": "f4bce455c9ea",
-"t": "Drogue Raises $20 Million and Plans Ocean-Thermal Data Center at Sea - www.tokenpost.com",
-"u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4zckxHSUIzRzNGbU1iYmk0S3NLcUoyZnpwVGNXNHJxeWVEcWtsY2FybXFBbHI2OW81Z2FoaU9xOWxxYnJzNnZOWDd2UzVxVGltSmpqZUNSNlQ?oc=5",
-"o": "www.tokenpost.com",
-"via": "Google News: dc-water",
-"lane": "search",
-"at": "2026-11-13T20:20:47+00:00",
-"seen": "2026-11-13T23:21:14+00:00",
-"status": "unverified headline"
-},
-{
-"id": "1a27eb96ef1f",
-"t": "Plan Review Committee advances data center regulations, subdivision updates - Kentucky New Era",
-"u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdmp4VDNUWVkzT050ajRNbUV2R2lQQk5uSFRyT1VrTFBvUUx4R0l2cTdfNklNY3ZtXzB2RXBWX1FyeExBdTZEZ1dpU1p5cy1EVWE2MV9KdFFZQ1pVLUJpbzFpQ0U2aWI4WDVhUWl6UXNiLWNxaGpTeTIxVXctcU80b0t1M001Wk4xRjFWX3FYbU5panpUUkE?oc=5",
-"o": "Kentucky New Era",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-11-13T20:15:00+00:00",
 "seen": "2026-11-13T23:21:14+00:00",
 "status": "unverified headline"
 }
