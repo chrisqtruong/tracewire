@@ -1,8 +1,28 @@
 {
 "name": "Tracewire",
-"updated": "2026-11-16T00:02:16+00:00",
+"updated": "2026-11-16T06:14:41+00:00",
 "note": "Unverified headlines collected automatically from public feeds. Not checked by Tracewire. Verified items appear in the Feed.",
 "items": [
+{
+"id": "f6f523366f4a",
+"t": "FCC Announces Start of Upper C-Band Auction on April 27, 2027",
+"u": "https://www.fcc.gov/edoc/426831",
+"o": "FCC",
+"lane": "agency",
+"at": "2026-11-16T06:14:41+00:00",
+"seen": "2026-11-16T06:14:41+00:00",
+"status": "unverified headline"
+},
+{
+"id": "501905f9bb02",
+"t": "Investors sue chip giant Intel after 29% stock plunge",
+"u": "https://www.bbc.co.uk/news/articles/cw62p42p288do?at_medium=RSS&at_campaign=rss",
+"o": "BBC",
+"lane": "news",
+"at": "2026-11-16T03:04:01+00:00",
+"seen": "2026-11-16T06:14:41+00:00",
+"status": "unverified headline"
+},
 {
 "id": "ef3464e86867",
 "t": "Megaspeed says Alice Huang left in 2025 as company conducts internal probe over Nvidia fallout",
@@ -154,6 +174,16 @@
 "lane": "search",
 "at": "2026-11-15T21:24:14+00:00",
 "seen": "2026-11-16T00:02:16+00:00",
+"status": "unverified headline"
+},
+{
+"id": "b2ecf40f1bd5",
+"t": "How sensitive data from Centrelink and other Australian agencies may have been fed to Palantir software",
+"u": "https://www.theguardian.com/technology/2026/nov/16/personal-data-centrelink-ato-ndis-palantir",
+"o": "The Guardian",
+"lane": "news",
+"at": "2026-11-15T21:06:03+00:00",
+"seen": "2026-11-16T06:14:41+00:00",
 "status": "unverified headline"
 },
 {
@@ -2159,39 +2189,6 @@
 "lane": "search",
 "at": "2026-11-14T11:09:12+00:00",
 "seen": "2026-11-15T07:43:52+00:00",
-"status": "unverified headline"
-},
-{
-"id": "994fbb35a2cf",
-"t": "Tax break turnaround: Could Michigan repeal its data center perks? - Detroit Free Press",
-"u": "https://news.google.com/rss/articles/CBMingFBVV95cUxON0FST1I1Sm9sTDhUMGJab2NGazRuZzBFNTJNSFpkTG1lTVRKVDY3ODV2eHBXYS12MWJhT005TE9QejREY3VrcUFXVGItSC1YM0NfUDRBdFdiRVhrRWMxSW5QMUpDa3FkamhLYjhBY3lpYnM3TW01bUpuMmZzbHhBcVlsYnhxV2FrSGc4eVlZTmhYNS1jOEVJcmkxUlNzdw?oc=5",
-"o": "Detroit Free Press",
-"via": "Google News: dc-incent",
-"lane": "search",
-"at": "2026-11-14T11:04:00+00:00",
-"seen": "2026-11-14T16:44:52+00:00",
-"status": "unverified headline"
-},
-{
-"id": "17de0fa036a5",
-"t": "Anthropic’s Gas Deal Is $2M a MW as Power Bills Hit the CPI - FourWeekMBA",
-"u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMEs5VXdlbGc0TVZ3bEN3SUdlUHl3ZlMtWE9HOUthR3dqSlRDZkZLZm5say11S2pha1FhanY4MkdJZ0ZkSGJVTGpNc3ZrSTE2WUVVX0x4VURsVmZaOHJhQ2RoVy12RGQ2WVlMNXMzczE3NFZOTEttRXdNN0JTTWxRS3RlNi1UbUo4NTVvWWNB?oc=5",
-"o": "FourWeekMBA",
-"via": "Google News: dc-utility",
-"lane": "search",
-"at": "2026-11-14T11:01:53+00:00",
-"seen": "2026-11-15T07:43:52+00:00",
-"status": "unverified headline"
-},
-{
-"id": "83b360c3a65d",
-"t": "Bosses Are Firing Salaried Employees Left and Right (And Honestly, We See Why) - AOL.co.uk",
-"u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQR1JCSExNblQ2cE5XUFpKQUU1Um9XWFRqc2s3bDA4Z2RIQlVMak1NVW4wQ3BqTkc0dnRYVU9DbzhTUDhXbUFhM2tkb2pJZE13MnJaSERvSEZKNzQ4dVVtS1ZwS05uNWFmZXNYNlE1OWlXaUM5YVNUSGV1aHEwbjc0WndGTDVDZGdCLW5B?oc=5",
-"o": "AOL.co.uk",
-"via": "Google News: labor",
-"lane": "search",
-"at": "2026-11-14T11:00:00+00:00",
-"seen": "2026-11-16T00:02:16+00:00",
 "status": "unverified headline"
 }
 ]
