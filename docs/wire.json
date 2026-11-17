@@ -1,8 +1,149 @@
 {
 "name": "Tracewire",
-"updated": "2026-11-17T17:30:07+00:00",
+"updated": "2026-11-17T23:55:54+00:00",
 "note": "Unverified headlines collected automatically from public feeds. Not checked by Tracewire. Verified items appear in the Feed.",
 "items": [
+{
+"id": "21729ee21b74",
+"t": "Exclusive: Donald Trump Jr. signals investors underestimated AI pushback",
+"u": "https://www.axios.com/2026/11/17/donald-trump-jr-data-centers",
+"o": "Axios",
+"lane": "news",
+"at": "2026-11-17T23:28:12+00:00",
+"seen": "2026-11-17T23:55:54+00:00",
+"status": "unverified headline"
+},
+{
+"id": "636e0fc8fe53",
+"t": "San Diego dumps both Flock cameras and smart streetlights",
+"u": "https://arstechnica.com/tech-policy/2026/11/san-diego-dumps-both-flock-cameras-and-smart-streetlights/",
+"o": "Ars Technica",
+"lane": "news",
+"at": "2026-11-17T23:09:09+00:00",
+"seen": "2026-11-17T23:55:54+00:00",
+"status": "unverified headline"
+},
+{
+"id": "1d5f4f2c3c89",
+"t": "LeBron James sues sports betting app over AI likeness, trademark infringement",
+"u": "https://www.courthousenews.com/lebron-james-sues-sports-betting-app-over-ai-likeness-trademark-infringement/",
+"o": "Courthouse News Service",
+"lane": "news",
+"at": "2026-11-17T23:05:44+00:00",
+"seen": "2026-11-17T23:55:54+00:00",
+"status": "unverified headline"
+},
+{
+"id": "2a75e202fa65",
+"t": "Baltimore students sue after AI gun detector mislabeled bag of chips as a firearm",
+"u": "https://www.courthousenews.com/baltimore-students-sue-after-ai-gun-detector-mislabeled-bag-of-chips-as-a-firearm/",
+"o": "Courthouse News Service",
+"lane": "news",
+"at": "2026-11-17T22:28:12+00:00",
+"seen": "2026-11-17T23:55:54+00:00",
+"status": "unverified headline"
+},
+{
+"id": "d638519e93ce",
+"t": "Nvidia posts strong earnings amid Jensen Huang exit, reported SEC probe",
+"u": "https://www.axios.com/2026/11/17/nvidia-earnings-jensen-huang-colette-kress",
+"o": "Axios",
+"lane": "news",
+"at": "2026-11-17T22:17:00+00:00",
+"seen": "2026-11-17T23:55:54+00:00",
+"status": "unverified headline"
+},
+{
+"id": "28fff23dec51",
+"t": "SEC reportedly investigating Nvidia amid Huang exit",
+"u": "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/",
+"o": "TechCrunch",
+"lane": "news",
+"at": "2026-11-17T21:48:07+00:00",
+"seen": "2026-11-17T23:55:54+00:00",
+"status": "unverified headline"
+},
+{
+"id": "d3a4e8d1e150",
+"t": "Nvidia facing SEC probe after Huang's resignation, WSJ reports - Reuters",
+"u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcWVwUXVkcFBaZ3VKNW82dWk3eU9VcDctS0Nsd0wzRHlTV3kxLW9ZbkpnNzFBbTllQ2Z6VVh1ZnpqNGZJNmtRVW9CNWNweXBOcGdFWFBOVDhOVVduRkRRZGc5Um9xVnlxOGZQTzRtYS1QWERzYTg1QWR2OFR4WnF4LWdWblJCcXJxMmR1Smp1aTgzN3dTY09jcGpfSTU5cjFuZXIzUnEyX0pMczQ?oc=5",
+"o": "Reuters",
+"via": "Google News: reuters.com/technology",
+"lane": "search",
+"at": "2026-11-17T21:28:31+00:00",
+"seen": "2026-11-17T23:55:54+00:00",
+"status": "unverified headline"
+},
+{
+"id": "407420f377ab",
+"t": "“Trump was in bed with Jensen”: Critics balk at Huang’s wish to return to Nvidia",
+"u": "https://arstechnica.com/tech-policy/2026/11/trump-was-in-bed-with-jensen-critics-balk-at-huangs-wish-to-return-to-nvidia/",
+"o": "Ars Technica",
+"lane": "news",
+"at": "2026-11-17T20:32:55+00:00",
+"seen": "2026-11-17T23:55:54+00:00",
+"status": "unverified headline"
+},
+{
+"id": "bab2f7f079c6",
+"t": "A Man and His Muse AI Agent Sue Meta",
+"u": "https://www.404media.co/a-man-and-his-muse-ai-agent-sue-meta/",
+"o": "404 Media",
+"lane": "news",
+"at": "2026-11-17T19:41:33+00:00",
+"seen": "2026-11-17T23:55:54+00:00",
+"status": "unverified headline"
+},
+{
+"id": "342df2306bc4",
+"t": "Google bets on superhot geothermal to power Oregon data centers",
+"u": "https://www.canarymedia.com/articles/geothermal/google-superhot-geothermal-oregon-data-centers",
+"o": "Canary Media",
+"lane": "news",
+"at": "2026-11-17T19:00:00+00:00",
+"seen": "2026-11-17T23:55:54+00:00",
+"status": "unverified headline"
+},
+{
+"id": "29c31b94931d",
+"t": "OpenAI sued by California after admitting to 80 loss-of-control incidents",
+"u": "https://arstechnica.com/tech-policy/2026/11/california-sues-openai-to-stop-public-nuisance-of-out-of-control-ai-agents/",
+"o": "Ars Technica",
+"lane": "news",
+"at": "2026-11-17T18:13:34+00:00",
+"seen": "2026-11-17T23:55:54+00:00",
+"status": "unverified headline"
+},
+{
+"id": "1bcd88804aa0",
+"t": "Data center slowdown would raise risks for utility investments",
+"u": "https://www.utilitydive.com/news/data-center-slowdown-raises-risks-for-utility-investments/874924/",
+"o": "Utility Dive",
+"lane": "news",
+"at": "2026-11-17T18:10:00+00:00",
+"seen": "2026-11-17T23:55:54+00:00",
+"status": "unverified headline"
+},
+{
+"id": "1261b481d9a1",
+"t": "The Nvidia Scandal Could Upend Chip Sales to China. Trump Wants to Keep Them Going",
+"u": "https://www.wired.com/story/the-nvidia-scandal-is-about-chip-sales-to-china-trump-wants-to-keep-them-going/",
+"o": "Wired",
+"lane": "news",
+"at": "2026-11-17T18:03:32+00:00",
+"seen": "2026-11-17T23:55:54+00:00",
+"status": "unverified headline"
+},
+{
+"id": "6ab4eb3121ad",
+"t": "Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop",
+"u": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/",
+"o": "TechCrunch",
+"lane": "news",
+"at": "2026-11-17T17:32:25+00:00",
+"seen": "2026-11-17T23:55:54+00:00",
+"status": "unverified headline"
+},
 {
 "id": "5d47aab2d4b8",
 "t": "Jensen Huang agrees to face Congress over Nvidia scandal",
@@ -84,6 +225,16 @@
 "status": "unverified headline"
 },
 {
+"id": "059a57273e09",
+"t": "Paul Kelly pleads for Albanese to ‘show some backbone’ over AI as creatives campaign for copyright protections",
+"u": "https://www.theguardian.com/technology/2026/nov/18/paul-kelly-albanese-ai-copyright-protections-creatives-campaign",
+"o": "The Guardian",
+"lane": "news",
+"at": "2026-11-17T14:00:15+00:00",
+"seen": "2026-11-17T23:55:54+00:00",
+"status": "unverified headline"
+},
+{
 "id": "f6397711feed",
 "t": "General Flash Emerges From Stealth With $128 Million for Domestic Refining",
 "u": "https://heatmap.news/climate-tech/general-flash-stealth",
@@ -121,6 +272,16 @@
 "lane": "news",
 "at": "2026-11-17T13:28:32+00:00",
 "seen": "2026-11-17T17:30:07+00:00",
+"status": "unverified headline"
+},
+{
+"id": "8675a6feae7a",
+"t": "Elevated demand for gas turbines could persist through 2035: Siemens Energy",
+"u": "https://www.utilitydive.com/news/elevated-demand-for-gas-turbines-could-persist-through-2035-siemens-energy/874839/",
+"o": "Utility Dive",
+"lane": "news",
+"at": "2026-11-17T13:00:00+00:00",
+"seen": "2026-11-17T23:55:54+00:00",
 "status": "unverified headline"
 },
 {
@@ -1958,181 +2119,6 @@
 "via": "Google News: ai-deals",
 "lane": "search",
 "at": "2026-11-16T06:36:00+00:00",
-"seen": "2026-11-16T16:02:16+00:00",
-"status": "unverified headline"
-},
-{
-"id": "b7b3c280bc65",
-"t": "AI is reshaping banking jobs – but its ability to drive profits remains unclear - CNBC",
-"u": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZHZIa09iVmpJVUxUeDNFV0hybmJBTmhQcHVzSmIxUk1QWXptVUUydG15TURacjltYlRnX1lqTTNZeDlpU3BYN3VHTVRNSURVaWpIQndaNjMtTUNaWTJtZmpFQ0ZibE9LVEdsVUNJb1lPckJsNXJkU0tGeHdlSUY5S1dXMzhzV1gxcFVqa0JCcXrSAZYBQVVfeXFMT0ZhUU5Ld3hwdUtKUnFWQ0dTNzBkazZnOXhsZzFtY2dXNDV4blVIOWpuakY0NkxFOUl4aDd4RmhVUzg2NnpGY1dVTTZEZ2U1R0UweFdVRF9wQW1tM0IyWVlOUkFpNkVEVFJvX0hfOXlycm9hOWZhR2FiRDJHRnVQa2loUTJja2lhd2lLNXBldnJycHNuUEdB?oc=5",
-"o": "CNBC",
-"via": "Google News: labor",
-"lane": "search",
-"at": "2026-11-16T06:20:55+00:00",
-"seen": "2026-11-16T16:02:16+00:00",
-"status": "unverified headline"
-},
-{
-"id": "f6f523366f4a",
-"t": "FCC Announces Start of Upper C-Band Auction on April 27, 2027",
-"u": "https://www.fcc.gov/edoc/426831",
-"o": "FCC",
-"lane": "agency",
-"at": "2026-11-16T06:14:41+00:00",
-"seen": "2026-11-16T06:14:41+00:00",
-"status": "unverified headline"
-},
-{
-"id": "2e0fa035ed73",
-"t": "Apple Supreme Court Contempt: Epic Says 27% Link Fee Defied Order, Solicitor General Disagrees - Tech Times",
-"u": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOeUQxRnFTQks3UHFlWnpTdUZTNnhhVG5aeTJCbktySHczNmpIbXIyeHdmN1VzZUxnSTFkRlpNT0Vja2h0OVNrLUJNdkFKdGNLYXJxZjdUam5uWHVyeFZKWkxNd2w3SERrSnNOTW1UWlJ1YlZtZUxtbFdfdXM3ZEQtSTBkNUhGeGlFYlZQeENYV1RpWXFDU3VVdVA4Skd4UW5ndjdqXzcwVnI0TkRMX3hxalVvNWVQMWo1VFo3WENNZnFaNEJ4M0RoUjJrT1B2S25BanBGYVMtYldHdk9YLWVr?oc=5",
-"o": "Tech Times",
-"via": "Google News: antitrust",
-"lane": "search",
-"at": "2026-11-16T06:05:08+00:00",
-"seen": "2026-11-16T16:02:16+00:00",
-"status": "unverified headline"
-},
-{
-"id": "d78edb8a59b5",
-"t": "eToro plans global layoffs as net income falls 74%, dozens of jobs at risk - People Matters Global",
-"u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPcU9wd095TThFLWJKR2lneURhcnZUVDkzZzBmemgwUlVvM095aUlCY2xlU2V0NWpPM3lFd05pY0dGTHJHcE80c1JUa1kyaWV0WUJrbG9hRVptMW5ETXBhRjRCRjY4SDdKd3VfSlZ3ZTVyWW9rM3BxWWlkcW5KSHlRWUNpbVdFajZreEhjYTFONHlPbnNtUVBieGZfa0xSdG1xdXNOYjA4NlFMLXVpM045SGZWb3FtdHlGQ3J5eWc0OHdFUTNkWjVFOV9CMTNGN2dEeUt0OS1R?oc=5",
-"o": "People Matters Global",
-"via": "Google News: labor",
-"lane": "search",
-"at": "2026-11-16T06:03:59+00:00",
-"seen": "2026-11-16T16:02:16+00:00",
-"status": "unverified headline"
-},
-{
-"id": "99bd20679873",
-"t": "Two Architects of Key State AI Laws Come to Washington to Do It Again - Claims Journal",
-"u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9qUkxiRENuYUJfdGZiaVdoeWFaV3A5NWtSNWNhaTh6c3c1ZnNHUUVGVW5ObnBuQ181OUVHR1lOR0lBU3piUzBMRXZnbGlYeGFLcXNEbXlRejBIZGlDNFJzOWw3TUtfbGRIR0lTTnd4d205WTQ?oc=5",
-"o": "Claims Journal",
-"via": "Google News: money",
-"lane": "search",
-"at": "2026-11-16T06:00:47+00:00",
-"seen": "2026-11-16T16:02:16+00:00",
-"status": "unverified headline"
-},
-{
-"id": "2d87d27b6179",
-"t": "Pixalate Adds Vizio, VIDAA (Hisense), and Titan OS Across 85 Country Storefronts, Expanding CTV App Store Intelligence to 8 Platforms - Yahoo Finance Singapore",
-"u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTk1fSXBwSExCV3V4Q3hyTG1jRlRENkRWeWJ0SE42QklQUE9ZQ3VWZFRSUVBZZVUxVTl0Q1U3Tk1JWWVFcXNpTm5KejlmVTNSVTJJOXMzOTJLa1VWQS14c3c4dlMyVkZxUG41bk1nMXhxUlFVR0t2RFNGVjFGQnZxY19IckR4VnFRemc?oc=5",
-"o": "Yahoo Finance Singapore",
-"via": "Google News: antitrust",
-"lane": "search",
-"at": "2026-11-16T06:00:00+00:00",
-"seen": "2026-11-16T16:02:16+00:00",
-"status": "unverified headline"
-},
-{
-"id": "809ab753b9b5",
-"t": "Jensen Huang Weighs Return As Nvidia CEO Amid Lobbying - BW People",
-"u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPY0Jyc1FoSGZxTDNDY2hsc25ZaEw0c3MzSHJDRE5rVDV1YUZqT3prWkQzQzVjdXpJV1A2S09sUlc2UVU5Ulk5Wk9TMjBTQjBkYzVwU1JZTlAzLWdMLXIwalFKUG01N1BwcmRCakVfbEJTMHFQRzU3cUZYTjJDT2ZURGNMQTRheUFfVFNMbDJ0TWtUcnhHdTBReg?oc=5",
-"o": "BW People",
-"via": "Google News: money",
-"lane": "search",
-"at": "2026-11-16T05:44:57+00:00",
-"seen": "2026-11-16T16:02:16+00:00",
-"status": "unverified headline"
-},
-{
-"id": "1a9ac1bc112d",
-"t": "Data Centers - Potomac Riverkeeper Network",
-"u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1fZ3BNa2ZrSU5vclJ1ODJhVHYwZllwU2htMmJPaHJ3LThaNFR6UV8tR2xXaDhqX0pxOGdKMjBCa1A5Z2wwUWdCdTROaVJkcGt5VDhxWnE0cHBUaEtETERKTQ?oc=5",
-"o": "Potomac Riverkeeper Network",
-"via": "Google News: dc-water",
-"lane": "search",
-"at": "2026-11-16T05:36:29+00:00",
-"seen": "2026-11-16T16:02:16+00:00",
-"status": "unverified headline"
-},
-{
-"id": "ba4e5adcaf74",
-"t": "The Lead In: Rochester data center, hundred-million-dollar deficits, Olmsted County priorities, and election recounts - KTTC",
-"u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbzFtSjlHcHBLVVZ2VXYwYTk0LTUtVjl1R2dCOUMyb1gtMmp1eVd1d0RLNmRkNUlTdVl1Nzh6Zi1va2JKODF0ei1LdEtZcmU2ekMtX3RmYXQ1WmtUbHB0bTY0WWdhWGl4SnM1S0lLYWRhdzkwWkxTTDZsUDRrTnctY1h1d1FwZ0lfQzU3NzRxRlNydmRhRnYzNVpsRXpPUk1WdTJxQUVtbVpCY3JYYU1paUF5WUQ5aTBkY24yMExFclRyWXJFWldiWFRLQkJIX2RR0gHkAUFVX3lxTE8zUldpWkhCWWhtLV9DN25YMm5zVXJQTS0yU3FFMG90ekNsdkRQZ3M0eTYtd21uWkk1d3NaeElRWVBsYks4d3ozT3VfSU8yT1RjUlFpbWFGNEVrN0NCSkViSVIzZTlhbVBqRzA5MHotRWRzcjE3eURMcDI1WnpfNjE1cGpSUlc5ZjNHSmNQZ2ZMZExxM0ctS3d3TkdjN3JnQm5XSW5YdU82Szk0ZFZBS3pfODJWc2FKbVRaRFlvNGhUd3BZdFZJcWNZYy1aQWR3bEk0djNnaldQbF8wcXhuaXFoTng0dA?oc=5",
-"o": "KTTC",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-11-16T05:25:00+00:00",
-"seen": "2026-11-16T16:02:16+00:00",
-"status": "unverified headline"
-},
-{
-"id": "5876cda15a24",
-"t": "Arizona Democrats call for data center moratorium in 2027 - The Center Square - Prescott eNews",
-"u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPY0hfajhndElSMXpDalB2TjJkSGFwdXFneEdyeXpLeGtzZnRRTDUtUXVsQW1BM0lwTDlqQ3R1V0M0NHV6S1lZSlhYdkFqTGo0dTR0SVZ0RFBJZ3RNZVBFdXFoRHI3cWYtR2RtVXc4UjFmdENKQmQwbTlSSlNaeFUyVkkxaFlDcUlSZU9KbkVMYTNKeGhranFJNzItejJ1MzF3UXNkdGZiSDY5dllObGkzNEQyVQ?oc=5",
-"o": "Prescott eNews",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-11-16T05:15:31+00:00",
-"seen": "2026-11-16T16:02:16+00:00",
-"status": "unverified headline"
-},
-{
-"id": "77ed5f046c6e",
-"t": "In Salem, a data center dispute shows even small projects are feeling the heat - The Boston Globe",
-"u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQU9sU1dkOHBTdXBmMF84TTJtcE02aWUzT21CMmNrMXBrSXMtMkJwdHB6V0tNTG9MRVJnc2tRMDVNbkh2RUVObkEtQS1xX1laMjZ2dmRpWm5EVkpqUXVUQ0MtWGhGUkpBTFhkbFVvZFJEUUo1OThqU1ZWVEF0b3JaZ2JsUmZPMGhNWDRiY2ZFTFlVYVlF?oc=5",
-"o": "The Boston Globe",
-"via": "Google News: dc-water",
-"lane": "search",
-"at": "2026-11-16T05:04:15+00:00",
-"seen": "2026-11-16T16:02:16+00:00",
-"status": "unverified headline"
-},
-{
-"id": "299d0fbd46db",
-"t": "Weekly Recap: Revenue growth outlook and Lauterbach acquisition - TradingView",
-"u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObWFHR2xpci1YRDJJMWxlQXJEenJpa0JrWXJjcTV3RzNnMndYc0dDcDE0eUZSUEtHRnpxSlo3TjJjR2twZzlaQThOX29RR1VwNVdTdnpiMUlrblBaNENLMEZfVU1SVmVtREtXWVA2aXVMd2d2ek1BTjlTdFYtSjkxZjBsTDNwTDBIMlJVS0taMFVZYTRNZHhXT2Z3UVJEQTVGY2hpZlpIYWlRZ05sU2hTaEpVYUNFYUFjekxNei12X3dLdw?oc=5",
-"o": "TradingView",
-"via": "Google News: ai-deals",
-"lane": "search",
-"at": "2026-11-16T05:00:00+00:00",
-"seen": "2026-11-16T16:02:16+00:00",
-"status": "unverified headline"
-},
-{
-"id": "f98493190cba",
-"t": "Farm Advocates Question AI Data Centers' Water Demands - Modern Farmer",
-"u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1mbldOZEVwS2I3OHVDUzhhVHIyMk1Od0Zrb2VfSFpCT2VvWmVvTmdWcVl5NDVjWlVsNFBZaTF3TDhfV1F3eGxEMENSU3JzQjZRWTVQaXBhaWJYdFZJdTF1UVlIYWg?oc=5",
-"o": "Modern Farmer",
-"via": "Google News: dc-water",
-"lane": "search",
-"at": "2026-11-16T04:59:04+00:00",
-"seen": "2026-11-16T16:02:16+00:00",
-"status": "unverified headline"
-},
-{
-"id": "0a4531c2e98b",
-"t": "Bloomington to consider extending data center moratorium, seek feedback on revised regulations - WEEK | 25 News Now",
-"u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNS09hTHdOQW15eWs1Mm1Ia2RhWWtEMVVjUmNDekZDcDFhQnlkbTVjS2xuUE5VS1U0X3k1SFFTQS1yOVlQU0lMUlNFRk9sTDVmZEtDT19GY1EydjBRcHBXWnMwUTdpVGtDSVNMTTdJNGRNb2k3VG5CYUNJZnlJZm1rWk1UaE1SZkJGdDAydFYyeDRmS3o4MHhrQ2VVZjd4NGRwT2xGemxBY21tUDNoLWdwN1IwVVJEaXkydkktdWlKNGRRMWfSAdcBQVVfeXFMTjMtSENHUjk1cnh0Vzgwa2ZUTlZVYzZxUVZRQnM4dVk1cmZNVXBVNXJCWFo3MkJRY2lOZXFLSDhNVW1YMGNnNmg1Nk53X0otblpQNWtwTlhadmdBS2xEYWI5UkxEaWN6ZFdFM2p6NEhRbDFNVzBlZjBmNDhTcmZUVFVUdjBIQkhLajhwZ1l3Qmpualh1bmYtZUUycE5nbjVRbnBwSmhraG9yWFAwOTluVklpOGVZT0NQZXM2MDItVWhyTkRsNWVqYzJaRXZndDNCYVkySlRkaWM?oc=5",
-"o": "WEEK | 25 News Now",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-11-16T04:41:00+00:00",
-"seen": "2026-11-16T16:02:16+00:00",
-"status": "unverified headline"
-},
-{
-"id": "46d787b437fa",
-"t": "Jensen Huang Weighs Return as Nvidia CEO Amid Silicon Valley Lobbying Push; US Treasury Secretary Scott Bessent Demands Leadership Shake-Up - Pragativadi",
-"u": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPUFN1MTZkYXFpUmtSSmlMN3NNLTdBaEVheVRtUjNuWHJweXdHVHF5SzRGbzdFRzhsZHF0eWhueE1ISHNHZVhDOFNqT1BzNXJXWUJESlpOSVF4bXBLZ0VpN2lfSWYtNTVNOThvRDZnQXozSXZhNnpJRkMxaWI1VFNyT1ZBRE9LT01iMDNad3RMQlVZMHNQQjRhSUp3RHlrWnlKUmpFUkxaUU85UGs5NXoyUXhRSFdkV1EyaTU0VnJSWlJ4MU5mZHFGQ2lFTnRmckNUUVg4cWdtcVNnY1g3cFY0S2dFUC1VWHlVb0pSeHpDZWxUVVFzZ2c?oc=5",
-"o": "Pragativadi",
-"via": "Google News: money",
-"lane": "search",
-"at": "2026-11-16T04:32:09+00:00",
-"seen": "2026-11-16T16:02:16+00:00",
-"status": "unverified headline"
-},
-{
-"id": "e7528a0cdc8a",
-"t": "Jensen Huang mulls return as Nvidia CEO: Report - Rediff",
-"u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcnRlREt1VkR4M1UxZWJicGtaaTBIQlMzZjFaUzR6QlQzZlBfcDVGOFlTckNtTnhZSDRHNV9idU5QTWxxZWZRUjZGZUZYR1F3NnlnY3JFcXdsaVE2dmwtczRFYXRCNk8yZ2N3VHR2UlVuakROajBZZmZIblBJMDNPbzZTQTl4QjNQeU5GMjRtSXVPWHhfakVIUTR30gGcAUFVX3lxTE5rVWxKaW0zZVhYTFFuM1FxOUpkTWE1Wk90V0hxdVVRUTAzMUFvdURjcHdPQldTQVMtVF9OaWZNX2Qwb0VzR2xvUldMel80RlFlZThVSVhCT1VKV2dyZGRISWR6MUJJZnlqY1haSGhGekFDR1I2V2tMYTNVUjhVWVN5SmpYZmFYMHlxNDVxcEpjSUNDRDNwUmRoR0tIbg?oc=5",
-"o": "Rediff",
-"via": "Google News: money",
-"lane": "search",
-"at": "2026-11-16T04:21:55+00:00",
 "seen": "2026-11-16T16:02:16+00:00",
 "status": "unverified headline"
 }
