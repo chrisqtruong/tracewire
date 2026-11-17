@@ -1,8 +1,248 @@
 {
 "name": "Tracewire",
-"updated": "2026-11-16T16:02:16+00:00",
+"updated": "2026-11-17T00:10:42+00:00",
 "note": "Unverified headlines collected automatically from public feeds. Not checked by Tracewire. Verified items appear in the Feed.",
 "items": [
+{
+"id": "ecd2c7d793be",
+"t": "FCC Announces One Year of Clean Carts Success and Best Practices",
+"u": "https://www.fcc.gov/edoc/426810",
+"o": "FCC",
+"lane": "agency",
+"at": "2026-11-17T00:10:42+00:00",
+"seen": "2026-11-17T00:10:42+00:00",
+"status": "unverified headline"
+},
+{
+"id": "4884b975ef09",
+"t": "FCC Effectively Prohibits Eight Providers from Connecting to U.S. Networks for Failing to Reply to Robocall Traceback Requests",
+"u": "https://www.fcc.gov/edoc/426806",
+"o": "FCC",
+"lane": "agency",
+"at": "2026-11-17T00:10:42+00:00",
+"seen": "2026-11-17T00:10:42+00:00",
+"status": "unverified headline"
+},
+{
+"id": "3076f7982bab",
+"t": "How a Black Democrat Survived Redistricting in Alabama",
+"u": "https://insideclimatenews.org/news/16112026/alabama-congress-redistricting-shomari-figures/",
+"o": "Inside Climate News",
+"lane": "news",
+"at": "2026-11-16T23:53:01+00:00",
+"seen": "2026-11-17T00:10:42+00:00",
+"status": "unverified headline"
+},
+{
+"id": "bec78e9702b1",
+"t": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+"u": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+"o": "TechCrunch",
+"lane": "news",
+"at": "2026-11-16T23:32:32+00:00",
+"seen": "2026-11-17T00:10:42+00:00",
+"status": "unverified headline"
+},
+{
+"id": "3dc2e0addfe5",
+"t": "California sues OpenAI over Hugging Face attack",
+"u": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss",
+"o": "BBC",
+"lane": "news",
+"at": "2026-11-16T23:12:24+00:00",
+"seen": "2026-11-17T00:10:42+00:00",
+"status": "unverified headline"
+},
+{
+"id": "d0b83026be95",
+"t": "California sues OpenAI over rogue AI hacking incidents",
+"u": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
+"o": "The Verge",
+"lane": "news",
+"at": "2026-11-16T23:04:02+00:00",
+"seen": "2026-11-17T00:10:42+00:00",
+"status": "unverified headline"
+},
+{
+"id": "2f3e3028b5a9",
+"t": "California sues OpenAI over hacking risks",
+"u": "https://www.npr.org/2026/11/16/nx-s1-6042920/california-sues-openai-hugging-face-hacking-incident",
+"o": "NPR",
+"lane": "news",
+"at": "2026-11-16T22:06:22+00:00",
+"seen": "2026-11-17T00:10:42+00:00",
+"status": "unverified headline"
+},
+{
+"id": "1468dfc1dd78",
+"t": "Altimeter's Brad Gerstner aims to invest $5 billion in Anthropic IPO",
+"u": "https://www.cnbc.com/2026/11/16/altimeters-brad-gerstner-investing-5-billion-in-anthropic-ipo.html",
+"o": "CNBC",
+"lane": "news",
+"at": "2026-11-16T22:01:12+00:00",
+"seen": "2026-11-17T00:10:42+00:00",
+"status": "unverified headline"
+},
+{
+"id": "a2ee37b387f7",
+"t": "Trump says it ‘certainly isn’t a bad idea’ for Jensen Huang to return to Nvidia",
+"u": "https://www.theverge.com/tech/1034355/trump-jensen-huang-nvidia-return",
+"o": "The Verge",
+"lane": "news",
+"at": "2026-11-16T21:54:41+00:00",
+"seen": "2026-11-17T00:10:42+00:00",
+"status": "unverified headline"
+},
+{
+"id": "0dd5fc0bbbae",
+"t": "Apple reveals new Mac security controls as AI agents raise privacy risks",
+"u": "https://techcrunch.com/2026/11/16/apple-reveals-new-mac-security-controls-as-ai-agents-raise-privacy-risks/",
+"o": "TechCrunch",
+"lane": "news",
+"at": "2026-11-16T21:01:02+00:00",
+"seen": "2026-11-17T00:10:42+00:00",
+"status": "unverified headline"
+},
+{
+"id": "db43089f31ad",
+"t": "Albanese signs on to Trump’s AI supply chain pact before leaders’ meeting at Quad summit",
+"u": "https://www.theguardian.com/australia-news/2026/nov/16/albanese-treads-tightrope-in-upcoming-trump-meeting-wanting-indo-pacific-engagement-and-end-to-iran-and-ukraine-wars",
+"o": "The Guardian",
+"lane": "news",
+"at": "2026-11-16T21:00:21+00:00",
+"seen": "2026-11-17T00:10:42+00:00",
+"status": "unverified headline"
+},
+{
+"id": "0873131c018e",
+"t": "Big Nuclear isn’t worried about the Democrats stopping data centers",
+"u": "https://www.theverge.com/science/1034694/nuclear-energy-constellation-earnings-data-centers-democrats",
+"o": "The Verge",
+"lane": "news",
+"at": "2026-11-16T20:32:51+00:00",
+"seen": "2026-11-17T00:10:42+00:00",
+"status": "unverified headline"
+},
+{
+"id": "94e979efd738",
+"t": "US data centers now burn more electricity than a midsized country",
+"u": "https://www.theverge.com/ai-artificial-intelligence/1034668/data-centers-electricity-climate-pollution-study-harvard",
+"o": "The Verge",
+"lane": "news",
+"at": "2026-11-16T20:27:58+00:00",
+"seen": "2026-11-17T00:10:42+00:00",
+"status": "unverified headline"
+},
+{
+"id": "773cc78ee17a",
+"t": "California state AG sues OpenAI over rogue agent incidents",
+"u": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
+"o": "TechCrunch",
+"lane": "news",
+"at": "2026-11-16T20:07:13+00:00",
+"seen": "2026-11-17T00:10:42+00:00",
+"status": "unverified headline"
+},
+{
+"id": "e58d27f9a9e8",
+"t": "California sues OpenAI over ‘dangerous’ AI models",
+"u": "https://www.courthousenews.com/california-sues-openai-over-dangerous-ai-models/",
+"o": "Courthouse News Service",
+"lane": "news",
+"at": "2026-11-16T20:01:03+00:00",
+"seen": "2026-11-17T00:10:42+00:00",
+"status": "unverified headline"
+},
+{
+"id": "bab196017dd6",
+"t": "Uber says hackers stole information on close to 150,000 driver’s licenses during data breach",
+"u": "https://techcrunch.com/2026/11/16/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/",
+"o": "TechCrunch",
+"lane": "news",
+"at": "2026-11-16T19:53:00+00:00",
+"seen": "2026-11-17T00:10:42+00:00",
+"status": "unverified headline"
+},
+{
+"id": "668b96b1a125",
+"t": "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security",
+"u": "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/",
+"o": "TechCrunch",
+"lane": "news",
+"at": "2026-11-16T19:12:02+00:00",
+"seen": "2026-11-17T00:10:42+00:00",
+"status": "unverified headline"
+},
+{
+"id": "88ccc79de169",
+"t": "California sues OpenAI over rogue AI hack of Hugging Face",
+"u": "https://www.politico.com/news/2026/11/16/bonta-sues-openai-over-rogue-ai-hack-of-hugging-face-01166953",
+"o": "Politico",
+"lane": "news",
+"at": "2026-11-16T18:44:01+00:00",
+"seen": "2026-11-17T00:10:42+00:00",
+"status": "unverified headline"
+},
+{
+"id": "49a1ce094a2b",
+"t": "Trump backs calls for reinstatement of Jensen Huang as Nvidia CEO",
+"u": "https://www.theguardian.com/technology/2026/nov/16/trump-backs-calls-for-reinstatement-of-jensen-huang-as-nvidia-ceo",
+"o": "The Guardian",
+"lane": "news",
+"at": "2026-11-16T18:30:57+00:00",
+"seen": "2026-11-17T00:10:42+00:00",
+"status": "unverified headline"
+},
+{
+"id": "adc690e60e20",
+"t": "Sam Altman on Nvidia without Jensen Huang: The industry will be ‘fine’",
+"u": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
+"o": "TechCrunch",
+"lane": "news",
+"at": "2026-11-16T18:11:10+00:00",
+"seen": "2026-11-17T00:10:42+00:00",
+"status": "unverified headline"
+},
+{
+"id": "2949c2da9e3d",
+"t": "Amazon Ring’s New Indoor Surveillance Drone Is Not Compatible with Privacy",
+"u": "https://www.eff.org/deeplinks/2026/11/amazon-rings-new-indoor-surveillance-drone-not-compatible-privacy",
+"o": "EFF",
+"lane": "news",
+"at": "2026-11-16T17:58:26+00:00",
+"seen": "2026-11-17T00:10:42+00:00",
+"status": "unverified headline"
+},
+{
+"id": "030a040e02b2",
+"t": "FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’",
+"u": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
+"o": "TechCrunch",
+"lane": "news",
+"at": "2026-11-16T17:36:43+00:00",
+"seen": "2026-11-17T00:10:42+00:00",
+"status": "unverified headline"
+},
+{
+"id": "92ab2445e2e6",
+"t": "Blackstone Digital Infrastructure Trust acquires majority stake in AWS joint venture for $5bn",
+"u": "https://www.datacenterdynamics.com/en/news/blackstone-digital-infrastructure-trust-acquires-majority-stake-in-aws-joint-venture-for-5bn/",
+"o": "DatacenterDynamics",
+"lane": "news",
+"at": "2026-11-16T17:07:37+00:00",
+"seen": "2026-11-17T00:10:42+00:00",
+"status": "unverified headline"
+},
+{
+"id": "99f66f454c3b",
+"t": "OpenAI will embed safety researchers to investigate AI subversion",
+"u": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
+"o": "TechCrunch",
+"lane": "news",
+"at": "2026-11-16T17:02:43+00:00",
+"seen": "2026-11-17T00:10:42+00:00",
+"status": "unverified headline"
+},
 {
 "id": "894822f864c4",
 "t": "Just 400 US Data Centers Use More Electricity Than Michigan",
@@ -152,6 +392,16 @@
 "lane": "news",
 "at": "2026-11-16T15:02:34+00:00",
 "seen": "2026-11-16T16:02:16+00:00",
+"status": "unverified headline"
+},
+{
+"id": "bb24fbf11863",
+"t": "FERC’s See on large loads, Western markets and affordability",
+"u": "https://www.utilitydive.com/news/ferc-lindsay-see-large-loads-western-markets-affordability/874736/",
+"o": "Utility Dive",
+"lane": "news",
+"at": "2026-11-16T15:00:32+00:00",
+"seen": "2026-11-17T00:10:42+00:00",
 "status": "unverified headline"
 },
 {
@@ -1909,280 +2159,6 @@
 "via": "Google News: ai-deals",
 "lane": "search",
 "at": "2026-11-15T23:35:59+00:00",
-"seen": "2026-11-16T00:02:16+00:00",
-"status": "unverified headline"
-},
-{
-"id": "50b2d261950f",
-"t": "TECO shifts focus to power equipment amid tightened US data center approvals - Crypto Briefing",
-"u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTEw5cGJKM0cxdW9xY05vUnNLVW5wSERUNG50dHFWRjg4SmlUbzI2QWZRMXVPNm5Dd0I1TUhuWEFwZEdEeUp4aDNTZWhFTmZIaFpZcGJJUTA4SmdwVWlYakV3Tkw2VUdNcjhOQU5Nd3BLaUxaVmtmdUdyV0hablExZHB6WlVzQlZFWjdoaEV6NzlfMXRUUlRTaHotRE9aUkQ1VmgzVnozdw?oc=5",
-"o": "Crypto Briefing",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-11-15T23:31:27+00:00",
-"seen": "2026-11-16T00:02:16+00:00",
-"status": "unverified headline"
-},
-{
-"id": "a4397519e498",
-"t": "Bezeq stock: Comparable Q3 profit jumps 44% to NIS 372 million - ad-hoc-news.de",
-"u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWjZRR0hIcG1qZmpVRi10MDM2eUJueHR0bkZKVEctUlFjT3lXRGhabmJ5WmJLMnFlZmhfRDd4OW02Y1NMZUkyYzFDT0FNQmgyYXdNSzR2TmR6QThhMzBDb3FzWm5lZWJpU2ZlQUctc001UjFXYlcxT3RaaFFDSEZzdUZjelB1TFc2c3BwR0xhNkt6TEVyVlhyUzNlMEJDU0JRU042NnZyeV81SU03VVZnMFFNbmc4NHVRREEw?oc=5",
-"o": "ad-hoc-news.de",
-"via": "Google News: ai-deals",
-"lane": "search",
-"at": "2026-11-15T23:30:12+00:00",
-"seen": "2026-11-16T00:02:16+00:00",
-"status": "unverified headline"
-},
-{
-"id": "62656d49282f",
-"t": "Optimism on AI guardrails next Congress - Punchbowl News",
-"u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5WbjNmZHN1U2xBV053ci15dmtEMUl2S3h1UmVieGhJTDZxa3FPYTRmaFp0R045ZW5nMEJnSHZET3NRaEdvLVVvSy1ua2tRcHZzdWJ2VWNwcEVYREg0TlFWajlMeEdORXBlbGc?oc=5",
-"o": "Punchbowl News",
-"via": "Google News: money",
-"lane": "search",
-"at": "2026-11-15T22:56:22+00:00",
-"seen": "2026-11-16T00:02:16+00:00",
-"status": "unverified headline"
-},
-{
-"id": "e37a03b335ed",
-"t": "Nvidia’s Jensen Huang may be planning a comeback just days after stepping down - Digital Trends",
-"u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNT2d0cURiVEJrbGFhSHpDNWI0UkxyUUprNEdYVWZoTkRNeDk4UWpjNzVpVEwxdUpYRnNlYlVVM0M4cmp1QzVlbS1pNTZNTTd4akNfdWtXaUo2amxuUUFzdEI0a0ZUQUFJT0VsOEdyOFNmWFp6OC05RjRiQV9SSVRmc3JBemNBZk0?oc=5",
-"o": "Digital Trends",
-"via": "Google News: money",
-"lane": "search",
-"at": "2026-11-15T22:48:03+00:00",
-"seen": "2026-11-16T16:02:16+00:00",
-"status": "unverified headline"
-},
-{
-"id": "0f9a9a9e1bd8",
-"t": "Italy fines Meta $887M for accessing Android users’ photos - The Washington Post",
-"u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZ0EySlV6RS15bU1oSFBQY3FVX3BWR1gzcnNlcHR5aW1oSUVEN3Z0c0twekFTRGsxLUZ2b2wzYkVrUUctLVhhaHAyMndQTUo3aUVfZ0ZnVVRUR3V2Q3NCWFFTc1Q5bkpTeVRxclBnLW91SnZqVDhJNkJTaFRPOFVnWWQ0d0FJWFhCbmVKcHhBTWdyVXhjbFdtV1pGSDZfYmE1THhFcnVRTWN5cEhkTWc?oc=5",
-"o": "The Washington Post",
-"via": "Google News: washingtonpost.com/technology",
-"lane": "search",
-"at": "2026-11-15T22:43:28+00:00",
-"seen": "2026-11-16T00:02:16+00:00",
-"status": "unverified headline"
-},
-{
-"id": "08c18d941bdd",
-"t": "Disney Will Come ‘Crawling Back’ To Johnny Depp For Pirates As ‘Ebenezer’ Takes #1, Insider Says (Exclusive) - Cosmic Book News",
-"u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBka1dNc1RObUJFZUlaZW9JQzlGV290ZUtjZGUwU2FjU0lZZ0VSV0dWbnRYTExnSm5tSGVkNUZkRjFUajVuRnpNRmhZODFDU3gyYVRJTEZB?oc=5",
-"o": "Cosmic Book News",
-"via": "Google News: labor",
-"lane": "search",
-"at": "2026-11-15T22:40:33+00:00",
-"seen": "2026-11-16T16:02:16+00:00",
-"status": "unverified headline"
-},
-{
-"id": "c9fe9f8ca5de",
-"t": "Huang ‘considering comeback’ days after Nvidia ousted him - The Australian",
-"u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPal9uRlVhSmRta2ZqdUVfeVdGLXFiUDJBdnB0YzRibHdhLUxLc3dhNzlKaDIxdHVZNEpBWUp3Yml3Y25rREdvSC1wR0ZlMEV3MjJrYllBYkp5dXdrUVNfeGNGNms5UFFXTWlSLWpZakxQVzVSelNGZ0hxTHQwSy1uaVZwcFVqRnFLQWhoSW1ubEJIcFZkSnhNZllmdENfLUFTU2hHQWhEQkk3OHpXYVJnVDVzVlY0SjRiZ2E3U2YyMTBKaUFPcDREc2xwRW0?oc=5",
-"o": "The Australian",
-"via": "Google News: money",
-"lane": "search",
-"at": "2026-11-15T22:36:04+00:00",
-"seen": "2026-11-16T00:02:16+00:00",
-"status": "unverified headline"
-},
-{
-"id": "f36939fb5b51",
-"t": "US, China Discuss Farm Trade, Tariffs in 1st Trade Board Meeting - NTD News",
-"u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOanZ3Y0pIWlc1NDFQQmlIcFNadnkwT1gwQmJtcnVrZ3o5NG5SLVRFWGs4cllHd2NrMWExeFV6QWJ0U0JpbW1ocnNGMlZONjIxcTM2a3hFbGZpeVFDSmZ6RjN4SVd6NHZqQlpTcVhxUHdleE40V1FZTDBqVkppc294bFRoaFo1OVRESzc4c3phSWlwTHNuSGxucFZVZw?oc=5",
-"o": "NTD News",
-"via": "Google News: dc-utility",
-"lane": "search",
-"at": "2026-11-15T22:30:52+00:00",
-"seen": "2026-11-16T16:02:16+00:00",
-"status": "unverified headline"
-},
-{
-"id": "b870d78fb1c3",
-"t": "Beloit city council to discuss data center moratorium - Beloit Daily News",
-"u": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOSC1YbVUxWDBGOHdPQjVWZ01hZUJSRDFycUF1dmp5YTZlcG9mNTJQQWM5NGNObnBudTZEcEdmXy1RMGwyTS1TR3hiZnFxSmhKNDZESkl3QXQ0X1podmVQNTFBOTNaWHl0R3lMQ3Fqek1uaGdqS1J1ODdSUHh2eUtNTjNTdFFzYV9KV3ctb1gzODNMaGdQQ1BYaWljNE0xcTBSRXdlX0RNUkVCNVlkcHZTa1QtYVYyeWZObXVQV2FtbXlRbkF1RHZ2aWFNN1prRk0ydThVUGlIZFRIOXNnUWFnZXZQVlFidw?oc=5",
-"o": "Beloit Daily News",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-11-15T22:24:55+00:00",
-"seen": "2026-11-16T00:02:16+00:00",
-"status": "unverified headline"
-},
-{
-"id": "93d53ef63a93",
-"t": "Jensen Huang considers comeback as Nvidia boss: report - Nine.com.au",
-"u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYjMxS0NpV01sRFl6TVdDVmJ1UUJTR00yMjdvbmVJSUxEMExOc09nQWJYSnZrdW96aGhIX2FUNldtQmtRUnFEdXdJbGJJSnJueHZCT2liTHVLaDhxTFZoOF9xdTZ3Unc0SGR3WENpRWc5enNFR2VaUzhPUnhXTm8zdlIwVFVnYnV3SC0yMERCYW41Z2Z1WExvamNGd1hjcHduZWRONA?oc=5",
-"o": "Nine.com.au",
-"via": "Google News: money",
-"lane": "search",
-"at": "2026-11-15T22:16:39+00:00",
-"seen": "2026-11-16T00:02:16+00:00",
-"status": "unverified headline"
-},
-{
-"id": "90ce01253d29",
-"t": "Meta, Microsoft, PayPal Lead 2026 Tech Layoffs as AI Spending Results in Significant Job Cuts - Crowdfund Insider",
-"u": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPSktwZWp4WG9xQU84WnFOcnNnTmJXX3lZS0d6ZTloNW1ZRXEtNDVPSFVTc2dlZVhUX3lUNzNWUEpoVHpIOElrTnpTemM4dDM3RHR5VG50bm9OM0p3M3pHZWVndDZwR01MZlQxY0UtVHhnWnppNVZxemxhUGJwMGt4ZnJ0aEdwTWp1c3B1elc3QUc1OTZsUEpNdDZfd1hSYkpqaUNxQTNfajJ4UDVnSnpWTTRUcFZSOGN1eDZpQXp5anBCUUl0UHhqR3JPdDhqSFdrREZIYVBNYw?oc=5",
-"o": "Crowdfund Insider",
-"via": "Google News: labor",
-"lane": "search",
-"at": "2026-11-15T22:11:23+00:00",
-"seen": "2026-11-16T00:02:16+00:00",
-"status": "unverified headline"
-},
-{
-"id": "5f13a559f56b",
-"t": "Commentary: Microsoft discovers AI can’t keep the email going - CNA",
-"u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZWxqS1c3YjRKWWJOOTFQdVBIZkhjTlBqNGloUjFGS2lVSkk5UlhYWDh4OU4wTXJvU0xDRjJ2NjlWVFVlYWV5dktwR29IaTY0ZG1SaU5GSzVBUzk3Um0wWUJTblNicG1BUGN5VDlKWWVHc2RqRFctWFlpZ3hvSTVURTFzU2FsSS1UTHhMbVNyaWVObG1td0JLZTctZGhXZzVVd1pQcWNfU3lpdw?oc=5",
-"o": "CNA",
-"via": "Google News: labor",
-"lane": "search",
-"at": "2026-11-15T21:59:00+00:00",
-"seen": "2026-11-16T16:02:16+00:00",
-"status": "unverified headline"
-},
-{
-"id": "96af215e4779",
-"t": "Weitz Responds to Moratorium; City Says Letter Doesn't Exist - mountainhomenews",
-"u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQWl3VUI0WnVfbkM0TFo1QWhjSm0wakZxWmVLTHVwMWhuQWJuTnpSNEhxcG9ja0xwYTczbjlZTjh4SEFwdWY4TzNVM2s3NzlWOHktMWllZTYteFFILUNrZ0JweVpOTk8ycHZFN3V6blpjRlExM1JIRXBPUzdWOTMtS1I4d3VObnZoWVBOZl91SEp6UE9IM0YweVM2STdKa3FNbGhXU3hrb3J0Z0d0MzVwRURyMUUyZzVCWVFxZ1FJcXItQQ?oc=5",
-"o": "mountainhomenews",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-11-15T21:56:57+00:00",
-"seen": "2026-11-16T00:02:16+00:00",
-"status": "unverified headline"
-},
-{
-"id": "5e23486d9c07",
-"t": "Gov. Hochul Once Resisted a Data Center Pause. Now it’s Central to Her Campaign. - Radio Catskill",
-"u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMF9XT3Fpb3JUZ3VERXNDOEJLUTVOdktwSEo0M0ZKOF9COXpBUUxQMVp0NEV0R1JrUzVkOFdBdGREZzhiUU9BTXB0bURJVWJhdWo0d1g2am41d25JejVKU09wdGJBSmNXTFBfRUhPNUVlZ1B5WlpTLXNZMkNXX1hfWFRPNGZmVmlaemdmbE05QWVIWFpFdGJfUVZxamI0bms5WHNkRU1B?oc=5",
-"o": "Radio Catskill",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-11-15T21:38:53+00:00",
-"seen": "2026-11-16T00:02:16+00:00",
-"status": "unverified headline"
-},
-{
-"id": "d848443f16f8",
-"t": "Oracle Stock Forecast: ORCL Faces Layoffs, $70B Capex and Rising Debt - TradingKey",
-"u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeHNuY25XOEVoWjNvUGh4bEh1YkxKNFQ1STZwdExBWWFVd3dTeENlMzJtNmNPc1lqYmZJRTRDdkY1Ry1SQ0xzVF9JeERLU2VnajFLZHRLd0F2MHNjQWdhcHV4ci12cnJsQkZSa0hvOWJ6bVRJaHo0RjhueFk3T0tqQkk3aldKTXZCdDItQlJGeDNISEJ2Q0Q5blVWLVNLUERFYXY1cWFMenNwc3kyR3dBcWp6WGhzSEpZ?oc=5",
-"o": "TradingKey",
-"via": "Google News: labor",
-"lane": "search",
-"at": "2026-11-15T21:25:02+00:00",
-"seen": "2026-11-16T16:02:16+00:00",
-"status": "unverified headline"
-},
-{
-"id": "444e8ee91024",
-"t": "Is Cipher Digital (CIFR) Fairly Valued On Its Q3 Profit Turnaround And AI Push? - Simply Wall St",
-"u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWTNLRUtPRWhpYlZPQmViTDY2eWlmSE1QbEF3ZkVpQlZPU1hZdTA3d1VmaDNqVDVvM3NyUGZIYWxWUXh5SXZBMmpNVm56Qm5QZGZoQUJ6bWNYSy1lVkZmdW9QYUVPVmV0T05vMjJyZVF2MXVlWWpZbkJFY2dHSzRNMVpmd1hQT0UzQ3dlSWYta3lDMTJRREcyYW1fZEVLcGotMG9DSnhoNEc3eXREc2JKWm9uaDNBeXhEbEczc0RSUEdVb0g3MHFvY2lMWkJ6Z9IB0wFBVV95cUxQZW9ZeUZpWnNrbk1oejlUSmZFTnFudG15Ym9mNTFwZkhCd05QS2lTVmNRcEtxTk5yMEFza0F6Y3hRSEZUOVNVQlB1aHNXT0gyTnZ1MUh0VUNiRV9NVzhGVnhNdFB4QThUemFacnFCelctNkdWN0VxWEQtVVF1QTBMVDR4cjVpNEdJSlZtdks3NzBDenFQSGVUb2otcmtZWjlQQWIya0hLT2tUdnAtYWdod3BCV29Lam1KVTZ4TktNMjhuUlBRclhaNjE4dXM5dkt3N1NV?oc=5",
-"o": "Simply Wall St",
-"via": "Google News: dc-utility",
-"lane": "search",
-"at": "2026-11-15T21:24:14+00:00",
-"seen": "2026-11-16T00:02:16+00:00",
-"status": "unverified headline"
-},
-{
-"id": "b2ecf40f1bd5",
-"t": "How sensitive data from Centrelink and other Australian agencies may have been fed to Palantir software",
-"u": "https://www.theguardian.com/technology/2026/nov/16/personal-data-centrelink-ato-ndis-palantir",
-"o": "The Guardian",
-"lane": "news",
-"at": "2026-11-15T21:06:03+00:00",
-"seen": "2026-11-16T06:14:41+00:00",
-"status": "unverified headline"
-},
-{
-"id": "2899029b29f3",
-"t": "Allies Plan Nvidia Board Push to Bring Jensen Huang Back - www.tokenpost.com",
-"u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ZVVdiMzRQaGFxc3laN0lmN3RrMzJheEZnMkl1NUpmQTlqem5vcmFKSXJEOW9odEd1QXlQMjcyUUxVd3ByeE5UeFpRWThwQy1janp4V3FrZHE?oc=5",
-"o": "www.tokenpost.com",
-"via": "Google News: money",
-"lane": "search",
-"at": "2026-11-15T20:37:46+00:00",
-"seen": "2026-11-16T00:02:16+00:00",
-"status": "unverified headline"
-},
-{
-"id": "aad3f6bee47f",
-"t": "Meta fined $887 million for accessing millions of users' private photos without consent - Ynetnews",
-"u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9TbWdfTG9RQzZnMzZocndFY2R6d2NpdW9vS3FKMjZCbjJrT3h1dW1MRDFSU3otbVdid29lTUNaSnNiN1BCaXpVOHcycGoxa0F0THllSWxxVXRicWJvVzZ6dE1FbjA5azc4Qkw3Zmh3?oc=5",
-"o": "Ynetnews",
-"via": "Google News: privacy",
-"lane": "search",
-"at": "2026-11-15T20:33:24+00:00",
-"seen": "2026-11-16T00:02:16+00:00",
-"status": "unverified headline"
-},
-{
-"id": "e1f9749da727",
-"t": "BAAJA vs. Local Opposition to AI, Transmission and Clean Energy - RTO Insider",
-"u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSGJoQWNsUnRkRm5XdDNraTRxMjMySjZDbVFKSThvaHVZT3NrUnBJelRhM0ZJVkV5VTVLRWsyYkdVT29HcjJtb3Q1VF9BNFZvYllTcGZiM3B3bWtHM2Z4WTNvYkdmTFFNazRoWU5fNUQ0RlBMaTJJMmtmemNIRWlxZkxOUjZmWG9oMjAyeDJOb3g0Sk0?oc=5",
-"o": "RTO Insider",
-"via": "Google News: dc-utility",
-"lane": "search",
-"at": "2026-11-15T20:30:26+00:00",
-"seen": "2026-11-16T00:02:16+00:00",
-"status": "unverified headline"
-},
-{
-"id": "3ec0c1c9358f",
-"t": "Diamondback Nears Acquisition of Double Eagle V for About $5 Billion - www.tokenpost.com",
-"u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5yVEVfOHgtUjZpMFpMRWtXLThLbUpwRzFPZkg5ak8xVHJkdVgyclAzVU81SHd6UzZVaFRINkRQd0hlc294VnByVHpoVFdYQXRZWm9iOVVDaGE?oc=5",
-"o": "www.tokenpost.com",
-"via": "Google News: ai-deals",
-"lane": "search",
-"at": "2026-11-15T20:25:02+00:00",
-"seen": "2026-11-16T00:02:16+00:00",
-"status": "unverified headline"
-},
-{
-"id": "6306021b71d5",
-"t": "Jensen Huang discusses a comeback as Nvidia CEO with allies, FT reports - MLQ.ai",
-"u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcFlTdUdYQUpxM2ZsRkdwY1d0MUxfSDlrR1RwWU41dEQtazBWX1lxRXYxTmRQLTdRajd0RDRWMnlYZHE0eFNCY0F6d1lzVUlpSFNBa0Q3Qng0RnVwNngybVc5VVFZWFlxbHZpcUo1a3h5aHl1ZXVtaTBqRWxweW1wcmpkbHRSa3VPQTFraHpnbG9qMV9zREE?oc=5",
-"o": "MLQ.ai",
-"via": "Google News: money",
-"lane": "search",
-"at": "2026-11-15T20:24:14+00:00",
-"seen": "2026-11-16T00:02:16+00:00",
-"status": "unverified headline"
-},
-{
-"id": "64a9077d3b84",
-"t": "Nokia's Pentagon Sensor Contract Lands as Cash Conversion Questions Weigh on the Stock - ad-hoc-news.de",
-"u": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNU2JMSFRmem5wY0pzeEJsSkJnNllTTG1zdHpKMUtQdjdBcHQwNWVUODVTdWZqV2swa1B6cXpNSHo3YWkwbGdqT2JvRmNHVUlWNURYdUJ4T2pRUnZlUUNodDhWaWJYRkdIUS1KVS1IMVNORVQwSzVhUzlyRk5TdGFpekZES0N2XzRvVVc3LTdRY2w2bWh1TzN2aXJMdWdWeHNEVkNsTHhDeVVKaFZGOTl2TUZzOGZvM2h3SFhzV25ZOVQ4Wl9MTGNaQktRdEpVQm1sRHVvWnhKRHlsX3ZVTDhUVlk3WExNWTRHVHdxMl9PYw?oc=5",
-"o": "ad-hoc-news.de",
-"via": "Google News: contracts",
-"lane": "search",
-"at": "2026-11-15T20:20:53+00:00",
-"seen": "2026-11-16T00:02:16+00:00",
-"status": "unverified headline"
-},
-{
-"id": "8b18ba29e1e3",
-"t": "Virginia data center tax break returns 22 cents per every $1 companies saved - Prince William Times",
-"u": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxONXZXUTdjX1hET09GMlNaalJBQkp3S0JvSFJWNFZpOFZrQ3djUkt1TXRMVmtEY3IxX0NOOEgwYU1QU1RXYzdzZGNfaldqNnF3dm9FZGdFMXdTMjNKa3AwMFhZRHNIa0pnNTh5aENNLWdvYVIzS3ZTZktVUW1Wc0taTV9BbjFMWUY0SjZBeXl6cF80TUlJQXZCRk1tdjNuZXJvY0pMaUppWERtVUdiLTU5NUJVM2s3RVBJQ0dZOFlETHRnbEF4WEMzM0xxVzNBMnZUZ0tvdTJER3BxVUduMDVfbTQyN2p2dnNqRFdEdG1vczRoMUhQajMwUnlsSTNERVE?oc=5",
-"o": "Prince William Times",
-"via": "Google News: dc-incent",
-"lane": "search",
-"at": "2026-11-15T20:19:25+00:00",
-"seen": "2026-11-16T00:02:16+00:00",
-"status": "unverified headline"
-},
-{
-"id": "418432dcb805",
-"t": "U.S. Congress Moves to Slash AI Chip Sales to China After Spy Scandal Forces Out Nvidia CEO - Latin Times",
-"u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUFJoM3NKa2dHR3pHZU5jb01RWkFCZVM0dE1ocldYQnhVd3QxbUxMaEtjTDNYRktrb3RfSVNFcGlxcGlrVGVBa3hib2RSLXZidG00SzA3OV9oUlVqWTFGbHlXdER4d2JkME1SeTV0YndhQ3E1eko3V3FUNlY2akcxQXhGMVp5Q29J?oc=5",
-"o": "Latin Times",
-"via": "Google News: money",
-"lane": "search",
-"at": "2026-11-15T19:53:48+00:00",
 "seen": "2026-11-16T00:02:16+00:00",
 "status": "unverified headline"
 }
