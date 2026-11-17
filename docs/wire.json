@@ -1,8 +1,80 @@
 {
 "name": "Tracewire",
-"updated": "2026-11-17T00:10:42+00:00",
+"updated": "2026-11-17T07:56:48+00:00",
 "note": "Unverified headlines collected automatically from public feeds. Not checked by Tracewire. Verified items appear in the Feed.",
 "items": [
+{
+"id": "e0912a6cf8de",
+"t": "Nvidia warns chip buyers of legal risks tied to China AI access, sources tell CNBC",
+"u": "https://www.cnbc.com/2026/11/17/nvidia-china-cloud-ai-chip-access.html",
+"o": "CNBC",
+"lane": "news",
+"at": "2026-11-17T07:07:35+00:00",
+"seen": "2026-11-17T07:56:48+00:00",
+"status": "unverified headline"
+},
+{
+"id": "a22a4bdea83a",
+"t": "California sues OpenAI, arguing it tested models without adequate safeguards - The Washington Post",
+"u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRE1GTDZsNjlRM3BlOWRPeUZPZGNqUGUtb1dwVVVQZTBLUHJ6S3Z0djRnRXlzRHBQVVQwd2VxUzRTX216b0xxQ0RCRTdIQm5GODBaR3hiN3o4ZnlKY3k0X3ZNemxIYjlWdlVTMUVzSDg1QjJVOFlYOHR0dmJmVERUZlhHMzdLWDRkeFFGZ3Ztc24yS2U1RzcyYjBBMGFhdXZkRVNGelB5c1p1RjdLMkxmTE9ENVpIWUYtLVNtOHVJVWFPaU1GYXRfUg?oc=5",
+"o": "The Washington Post",
+"via": "Google News: washingtonpost.com/technology",
+"lane": "search",
+"at": "2026-11-17T07:00:58+00:00",
+"seen": "2026-11-17T07:56:48+00:00",
+"status": "unverified headline"
+},
+{
+"id": "155fd66b09a7",
+"t": "U.S. agencies say they initiated investigation into Nvidia partner Megaspeed in 2024",
+"u": "https://www.cnbc.com/2026/11/17/megaspeed-investigation-nvidia-jensen-huang.html",
+"o": "CNBC",
+"lane": "news",
+"at": "2026-11-17T06:59:42+00:00",
+"seen": "2026-11-17T07:56:48+00:00",
+"status": "unverified headline"
+},
+{
+"id": "a7e5a4618008",
+"t": "Trump sees ‘both sides’ as Nvidia scandal fuels feud between top aides - The Washington Post",
+"u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRGExcTN0elpySG9lRUtYX2tkOXhfVkI4TmhMbVlja2VlUWRfeHduNVFEY01QRUFadWh4X3pZLVBrajlTSUZ2b3dzSnc0NjhHajJPaGJjSWwtTW1HV3l0YkV2dGhRamR6X0dJMjJaTkZqd1luMDg0aWIzYktJU3B3UUM3SXBlcUxna0xidVE3RmVoTUlYcURJeDN4eWd5U2FrOXcwQXp1NjgxWVI4bEk0?oc=5",
+"o": "The Washington Post",
+"via": "Google News: washingtonpost.com/technology",
+"lane": "search",
+"at": "2026-11-17T04:34:00+00:00",
+"seen": "2026-11-17T07:56:48+00:00",
+"status": "unverified headline"
+},
+{
+"id": "6ac0f3843e5f",
+"t": "Chipmakers can’t dodge antitrust suit over simultaneous cuts in DRAM supply",
+"u": "https://www.courthousenews.com/chipmakers-cant-dodge-antitrust-suit-over-simultaneous-cuts-in-dram-supply/",
+"o": "Courthouse News Service",
+"lane": "news",
+"at": "2026-11-17T03:51:20+00:00",
+"seen": "2026-11-17T07:56:48+00:00",
+"status": "unverified headline"
+},
+{
+"id": "a898bd10c27e",
+"t": "Energy and Climate Startups Are Stuck in Nvidia’s Web, Too",
+"u": "https://heatmap.news/daily/energy-and-climate-startups-are-stuck-in-nvidias-web-too",
+"o": "Heatmap",
+"lane": "news",
+"at": "2026-11-17T03:07:22+00:00",
+"seen": "2026-11-17T07:56:48+00:00",
+"status": "unverified headline"
+},
+{
+"id": "67e9e453bdd7",
+"t": "Nvidia’s top lawyer agrees to testify before Congress",
+"u": "https://www.politico.com/news/2026/11/16/nvidia-top-lawyer-testify-congress-01168851",
+"o": "Politico",
+"lane": "news",
+"at": "2026-11-17T01:13:40+00:00",
+"seen": "2026-11-17T07:56:48+00:00",
+"status": "unverified headline"
+},
 {
 "id": "ecd2c7d793be",
 "t": "FCC Announces One Year of Clean Carts Success and Best Practices",
@@ -21,6 +93,17 @@
 "lane": "agency",
 "at": "2026-11-17T00:10:42+00:00",
 "seen": "2026-11-17T00:10:42+00:00",
+"status": "unverified headline"
+},
+{
+"id": "10345fe0f165",
+"t": "Largest data centers take up about 2 percent of U.S. electricity use, study says - The Washington Post",
+"u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRGxVVjR1eURDQWRNcTIzc2otQUtzYVY1ZFVoQ3dabkNsSE1VdzRZNmR2OWhOS0pYRXRTSFpKWm84M3h2a3c2Z3NJQmpQS2RVSEVYdE1EZmM1Ulo4SkVtVXljOV80VkwwWjN6YzlrNFNGTVFvVUp1UG9tU0JUdFNJWFVCQ0tacTZVVHdTWHZ6NDBHZTRwQ0ttWUxGc2ZhZFF2QnJLY3BCVGxndnZ5QVdmZkpRQ0VGSXNzUGJ5NlcxSQ?oc=5",
+"o": "The Washington Post",
+"via": "Google News: washingtonpost.com/technology",
+"lane": "search",
+"at": "2026-11-17T00:00:00+00:00",
+"seen": "2026-11-17T07:56:48+00:00",
 "status": "unverified headline"
 },
 {
@@ -2073,93 +2156,6 @@
 "lane": "search",
 "at": "2026-11-16T01:06:00+00:00",
 "seen": "2026-11-16T16:02:16+00:00",
-"status": "unverified headline"
-},
-{
-"id": "4cc50fce45ed",
-"t": "Calvert Data Center Ban Heads to Nov. 18 Public Hearing - - - SoMD Chronicle",
-"u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWVk3ZGZBN1Jma3VwbG91SUtOV3p6Y3ZYNWg1cW5LZi1XaFl2Y1kzcm5iMVhQSF96cGRxOWFmQjFEN3kyUUZRS3BramRBeXM5MmlETWxKZVhXTUlxamZRYlZ1a0FxelVDZ3VUdDZJTV9uWnlPX3FPSFR1amtiVUZHV2RqR0ZUeU5kT1ZZdGJCMWNDdGlYVlFEWEZwYUFXMlB5cTdEYW5fV2dUMXM0M3RjbXNKeTdieVk?oc=5",
-"o": "- SoMD Chronicle",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-11-16T01:00:00+00:00",
-"seen": "2026-11-16T16:02:16+00:00",
-"status": "unverified headline"
-},
-{
-"id": "2b463c60d265",
-"t": "Maryland conference tries to unite data center opposition - Big News Network.com",
-"u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNy1OeV9tOGUwam4zdDg3TlZrXzlrcllKMlk3M21TclpzSzVleDhmYzFyTUlFVFNNbVJqcFJJbmtwdGNEWFVFcHcteDVrUTBKS19kTFF5UW9pWFhZQm5Hd3BaRlo1OEM1Um1UU0MyeG5va2FFLTFHenFEeWRhbTBpMVpkZlVhX2xaZUZWeFlFRHkwczJadVpRaHVlbG9qWmhpbGN2NTl3?oc=5",
-"o": "Big News Network.com",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-11-16T00:52:00+00:00",
-"seen": "2026-11-16T16:02:16+00:00",
-"status": "unverified headline"
-},
-{
-"id": "ddc460ca1a31",
-"t": "Berea City Council to hold second reading for data center moratorium - WKYT",
-"u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcVZ4RHBXMVRfWUhkaXdYaU5hOWp2OUpISVRXX0xIdHNOclRsMWdDdVhBaXRDVjEtbFQ5OFVER2pHaTYtaUV2UjFfWjFiYVZiN0pnVEJyUVFUSGp6dUtaR0NXcDQySnVMVnlMOWNVNk1wZkl5UXhqcHRidGliQ3ZFbUwyRExXd3Y0UEdDMjltM0RvcUVOTjRvXzdrV3RhZ1RFWFE?oc=5",
-"o": "WKYT",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-11-16T00:28:58+00:00",
-"seen": "2026-11-16T16:02:16+00:00",
-"status": "unverified headline"
-},
-{
-"id": "a78f167038b1",
-"t": "Tax break turnaround: Could Michigan repeal its data center perks? - Belleville News-Democrat",
-"u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9kUG02WS1SSTBYVFNPV0ktdkpQREo3c1A5OWNYQXlWZmtHUjh6ZHJzUGhDYzVQRFYxV0l4bmZDSGV4amF6WkZXbE1kRnpWNnpHbWI0WWRxZk0teEhjZ1JIRnU2YlpaYzZUT3dCQTJHNmtwSDNjVFg0?oc=5",
-"o": "Belleville News-Democrat",
-"via": "Google News: dc-incent",
-"lane": "search",
-"at": "2026-11-16T00:17:00+00:00",
-"seen": "2026-11-16T16:02:16+00:00",
-"status": "unverified headline"
-},
-{
-"id": "ef3464e86867",
-"t": "Megaspeed says Alice Huang left in 2025 as company conducts internal probe over Nvidia fallout",
-"u": "https://www.courthousenews.com/megaspeed-says-alice-huang-left-in-2025-as-company-conducts-internal-probe-over-nvidia-fallout/",
-"o": "Courthouse News Service",
-"lane": "news",
-"at": "2026-11-16T00:02:07+00:00",
-"seen": "2026-11-16T00:02:16+00:00",
-"status": "unverified headline"
-},
-{
-"id": "59758cd1d756",
-"t": "San Jose seeks temporary halt to data center approvals before new rules take effect - Local News Matters",
-"u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcERHcUxnREJOdzZnaDBFWXpUeXI2SFdFdGlzN3lQdlI4eW5faGJBcG9qZTBsUldRbjd4VHltTDNlb3VJakVjUGxGWG51LTNrTzRROE5BWURKN0tyV0h6SWVhMy1rckRVcnprOEtST01fSTlRcjBVMDNBYm5DcVdVeFVMdTlFdWZqZE5GaDlsNENJRTFWdlVGRHlPdWdiRk9uOGNFc2stRzI4d1c1N0RhU3ViV1dMdmNIQ3k4WDhjOUZEZw?oc=5",
-"o": "Local News Matters",
-"via": "Google News: dc-water",
-"lane": "search",
-"at": "2026-11-16T00:00:00+00:00",
-"seen": "2026-11-16T16:02:16+00:00",
-"status": "unverified headline"
-},
-{
-"id": "54df6345af0e",
-"t": "NTT DC REIT beats payout forecast: Will German acquisition drive further growth? - 联合早报",
-"u": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOT0lpMC0tLXc0ZGxrYlhFYUxzczVsWXZIc1BfOUdVa1g5RmdqdHo3TmtubXNrRXVxbVJxVFhQbl9uUEJIMlNUTzFFTWwxUTdvb3NqV0p5TmNzV3NmbmV2YVZzUGV5LXFqWGNNNHZJclliT1l3M2tSS21pSzAtQUFJUVUyT0Z1UGoyQnJqTDk5V092UExjSmpLZDNrdE9VN0otZUZkV3M2b2ZxUEVKa0Z1X3JyZnNva0NOcXpENEhNZ1lpOFl2VDIwczA4ZkJtX1dHY2p5NFVDTUdULTNKZGNLWFh0TFFCd3hhNFM5SHdn?oc=5",
-"o": "联合早报",
-"via": "Google News: ai-deals",
-"lane": "search",
-"at": "2026-11-15T23:57:59+00:00",
-"seen": "2026-11-16T00:02:16+00:00",
-"status": "unverified headline"
-},
-{
-"id": "b95875b95b2a",
-"t": "Payward lifts Q3 margin as diversified revenue grows - grafa.com",
-"u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSEw2ejRkOFlWSXZCRlVwMVktVEVjMWc1aEVqN0VNLU9fY1ppbnVxRmNpMkpRMDV6VHRaMmYxbW5TR3oxOVFVM1ZwX2JkVHNld2lQV1NOY1JHbXlOZ2g0THhUZkZaRWlOOUVEc0pYcHVyY3QybGxmUmhEVHFFV2h6S2NRTEo0dU9oT3c?oc=5",
-"o": "grafa.com",
-"via": "Google News: ai-deals",
-"lane": "search",
-"at": "2026-11-15T23:35:59+00:00",
-"seen": "2026-11-16T00:02:16+00:00",
 "status": "unverified headline"
 }
 ]
