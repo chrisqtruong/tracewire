@@ -1,8 +1,48 @@
 {
 "name": "Tracewire",
-"updated": "2026-11-17T23:55:54+00:00",
+"updated": "2026-11-18T06:36:07+00:00",
 "note": "Unverified headlines collected automatically from public feeds. Not checked by Tracewire. Verified items appear in the Feed.",
 "items": [
+{
+"id": "f6f523366f4a",
+"t": "FCC Announces Start of Upper C-Band Auction on April 27, 2027",
+"u": "https://www.fcc.gov/edoc/426831",
+"o": "FCC",
+"lane": "agency",
+"at": "2026-11-18T06:36:07+00:00",
+"seen": "2026-11-18T06:36:07+00:00",
+"status": "unverified headline"
+},
+{
+"id": "a4999d616507",
+"t": "Voters Reject ALPRs and Surveillance Tech at the Ballot Box",
+"u": "https://www.eff.org/deeplinks/2026/11/voters-reject-alprs-and-surveillance-tech-ballot-box",
+"o": "EFF",
+"lane": "news",
+"at": "2026-11-18T06:36:07+00:00",
+"seen": "2026-11-18T06:36:07+00:00",
+"status": "unverified headline"
+},
+{
+"id": "bc1083d540d9",
+"t": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future  deals in doubt",
+"u": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
+"o": "TechCrunch",
+"lane": "news",
+"at": "2026-11-18T01:44:21+00:00",
+"seen": "2026-11-18T06:36:07+00:00",
+"status": "unverified headline"
+},
+{
+"id": "56e4daaf37df",
+"t": "Ofqual urges ‘life-altering’ penalties for students who use tech to cheat",
+"u": "https://www.theguardian.com/education/2026/nov/18/ofqual-urges-life-altering-penalties-for-students-who-use-tech-to",
+"o": "The Guardian",
+"lane": "news",
+"at": "2026-11-18T00:01:25+00:00",
+"seen": "2026-11-18T06:36:07+00:00",
+"status": "unverified headline"
+},
 {
 "id": "21729ee21b74",
 "t": "Exclusive: Donald Trump Jr. signals investors underestimated AI pushback",
@@ -2075,50 +2115,6 @@
 "via": "Google News: contracts",
 "lane": "search",
 "at": "2026-11-16T07:11:06+00:00",
-"seen": "2026-11-16T16:02:16+00:00",
-"status": "unverified headline"
-},
-{
-"id": "6883586a92b6",
-"t": "Indiabulls terminates Rs 1,050 cr Fintech Cloud acquisition deal - The Morning Context",
-"u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVTR2WTRHRmpES0d5M0htaGFJRmowazNNR3VXYzk0NHcxN2hUcWZ1aF9sRTJGRDFveHpseGJlZDBEM3p1VjR6OG5RMEctSHNoYjRFWF9LYU9leDdKN2E3X05lSTJ3LTd2SmtkOFJTZlE3a01xcmd1SnJBZ3hBTlA5MEtFT19yWmdaWXpMMnhWc210ZlBzb3RBdl9Dc3dBREQtckhaMg?oc=5",
-"o": "The Morning Context",
-"via": "Google News: ai-deals",
-"lane": "search",
-"at": "2026-11-16T07:08:35+00:00",
-"seen": "2026-11-16T16:02:16+00:00",
-"status": "unverified headline"
-},
-{
-"id": "db0d92ab60f9",
-"t": "Malaysia considers law to monitor data center GPU imports - ET Datacenters",
-"u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTmhVMUVjLVJ5YS1RbWlKcGhVdy1rbHZ2SHpzVWtNRllWa3lNendzYnRIRkNVQkNtS3hXM25QTUoxSDdnLU50S0k4Y1VkU2ZxSUQ4azYxOGRZclNGbXlCZlFoemhKZXNTWXJ2YnhRVU9KUFVKTjR0Mkk4RHplV2ZySVBfNkNSMS1UaUF3LVNoaElueXF6cXJCd1JNWXJkZ2NPZFlqS3V0anM4b2V2dFpRcnloX05HZGMtTy1sdkUwQU9wWWp0cU94b1h0bWQyN0JVZFB6ZXhR0gHaAUFVX3lxTE05U3NRNEVfQU03cmpaSUJPejg5U2d1YVFOVEY1TmFndkY2ZS1UQ3ZWVmlfbHJrY2tOQnVfOW1ybnBtRlgySGR5TXdCT0dyd0hfR2RDQl9lU25DZFd2STVLdTBDdzdVYjd6T2I0MlZrNGZRQWtDNm9fNTYyOFBGV3V2ZE5LNGxFMXU2czNfcUhIOEFTZEJLcUJDMzZUQl9GdTJzTXlQUVg4UWpaUmFQRlBKQ1h3OHVBa1VwQi1sQl9OYktrTmdwN3hGbmtULUFhUzhyS0lsRWRibjNn?oc=5",
-"o": "ET Datacenters",
-"via": "Google News: dc-water",
-"lane": "search",
-"at": "2026-11-16T07:07:30+00:00",
-"seen": "2026-11-16T16:02:16+00:00",
-"status": "unverified headline"
-},
-{
-"id": "6968ce5c196d",
-"t": "CBA's Matt Comyn tells employers to provide AI training before layoffs - Human Resources Director",
-"u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONjZIWkFpQ3NsdjFQXzZuY3Y2YWpIMnZ5U0xBV3hIeTJLV2hyd1FjbnVBQ0c5OXZQTjZGdExyRWlzd2o1YlFYRGVKSGtQM05Pd2xUUzQ4bjAzRXYwWVpuRWMxS0s1dzl5ckd1WW5pdldmeHJUWHp1MV9YWGU0YkRiZDJfc0lFV2xHUW5NSEtIN2lkUXBGOVZGdzVJeDFCU0pFRmw2a0lIeVJEVXFaMG91TS04X2hRbG1mZ25MSlJlQzJUbzdFS1lKbC1xcllleHpabkY0?oc=5",
-"o": "Human Resources Director",
-"via": "Google News: labor",
-"lane": "search",
-"at": "2026-11-16T06:37:52+00:00",
-"seen": "2026-11-16T16:02:16+00:00",
-"status": "unverified headline"
-},
-{
-"id": "5f0ea9c49455",
-"t": "South Korea's Rokit Healthcare to Acquire Fully Capital-Impaired InnoPiTech for approximately $5.2 Million; Court Approval Is the Key - BigGo Finance",
-"u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5sbXNvVXN3Rm5lWm1WeFpyMGxKZHlEcm9uN19ZbHhlNWtrWGRKZkoxU3FieEtGRjhBOEMwbjNHMGNtT1lxcHhoT2Q4OFNsVlVYbmRWMFJhcy1pWDA0NWZXZ2xXNzV4Q3NoMGlKRjRlTHVxcXFIbmc?oc=5",
-"o": "BigGo Finance",
-"via": "Google News: ai-deals",
-"lane": "search",
-"at": "2026-11-16T06:36:00+00:00",
 "seen": "2026-11-16T16:02:16+00:00",
 "status": "unverified headline"
 }
