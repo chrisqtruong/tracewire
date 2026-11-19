@@ -1,8 +1,89 @@
 {
 "name": "Tracewire",
-"updated": "2026-11-18T22:54:22+00:00",
+"updated": "2026-11-19T03:58:46+00:00",
 "note": "Unverified headlines collected automatically from public feeds. Not checked by Tracewire. Verified items appear in the Feed.",
 "items": [
+{
+"id": "d412c50db1b7",
+"t": "Elon Musk says record spending on US midterms was 'pretty foolish'",
+"u": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
+"o": "BBC",
+"lane": "news",
+"at": "2026-11-19T02:59:06+00:00",
+"seen": "2026-11-19T03:58:46+00:00",
+"status": "unverified headline"
+},
+{
+"id": "bb88d1937dec",
+"t": "Musk says Jensen Huang is irreplaceable, regrets midterm spending",
+"u": "https://www.cnbc.com/2026/11/19/elon-musk-jensen-huang-midterms.html",
+"o": "CNBC",
+"lane": "news",
+"at": "2026-11-19T02:49:35+00:00",
+"seen": "2026-11-19T03:58:46+00:00",
+"status": "unverified headline"
+},
+{
+"id": "911cfbcdd8de",
+"t": "Trump says he referred to ex-Nvidia boss Huang's situation 'briefly' in talk with Xi - Reuters",
+"u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZGVNM0xjMGtxNjE0aEFnRWU2QURJZy1TSzZGSkFXNVk0eTM0bkhOZWF4cXJjWGhyZEVfZjNuWjZxVVlqUWh5cDUzckE2QTdISldZeThRZG9sZTB3dzdIU1ZOX2RJV0FMQXJ4V2dKS0U3V0t1YWNpcXE4R2FuZVVRVFJaUUNnYmZkS1pQXzluQ25WaUROQ2NVQk5wNHpPa2NheXhUZFFiQ3o5cjNxcHFWUWRVS3FCNm1meTltX0xiMA?oc=5",
+"o": "Reuters",
+"via": "Google News: reuters.com/technology",
+"lane": "search",
+"at": "2026-11-19T01:46:00+00:00",
+"seen": "2026-11-19T03:58:46+00:00",
+"status": "unverified headline"
+},
+{
+"id": "6deb4a525b48",
+"t": "Musk says he feels ‘foolish’ after GOP election spending spree",
+"u": "https://www.politico.com/news/2026/11/18/musk-says-he-feels-foolish-after-gop-election-spending-spree-01174509",
+"o": "Politico",
+"lane": "news",
+"at": "2026-11-19T01:45:31+00:00",
+"seen": "2026-11-19T03:58:46+00:00",
+"status": "unverified headline"
+},
+{
+"id": "92cdbaff4de0",
+"t": "Anthropic IPO raises over $81 billion in largest offering on record, topping SpaceX",
+"u": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html",
+"o": "CNBC",
+"lane": "news",
+"at": "2026-11-19T01:13:20+00:00",
+"seen": "2026-11-19T03:58:46+00:00",
+"status": "unverified headline"
+},
+{
+"id": "56673e8fb67a",
+"t": "Anthropic IPO raises record $81.3 billion on strong AI demand",
+"u": "https://www.npr.org/2026/11/18/nx-s1-6046212/anthropic-record-ipo-price",
+"o": "NPR",
+"lane": "news",
+"at": "2026-11-18T23:54:56+00:00",
+"seen": "2026-11-19T03:58:46+00:00",
+"status": "unverified headline"
+},
+{
+"id": "d2cb25e8bf70",
+"t": "Four Maryland high school students sue after AI mistakes Doritos bag for gun",
+"u": "https://www.theguardian.com/us-news/2026/nov/18/maryland-baltimore-county-doritos-gun-ai-lawsuit",
+"o": "The Guardian",
+"lane": "news",
+"at": "2026-11-18T23:53:51+00:00",
+"seen": "2026-11-19T03:58:46+00:00",
+"status": "unverified headline"
+},
+{
+"id": "da609ca95203",
+"t": "Russian national charged with spying on Silicon Valley tech and defense firm",
+"u": "https://www.theguardian.com/technology/2026/nov/18/russian-national-spying-silicon-valley",
+"o": "The Guardian",
+"lane": "news",
+"at": "2026-11-18T23:41:29+00:00",
+"seen": "2026-11-19T03:58:46+00:00",
+"status": "unverified headline"
+},
 {
 "id": "1e57bc6d020f",
 "t": "FCC and U.S. Government Partners Announce Priorities for WRC-27",
@@ -1982,93 +2063,6 @@
 "via": "Google News: ai-deals",
 "lane": "search",
 "at": "2026-11-16T12:31:28+00:00",
-"seen": "2026-11-16T16:02:16+00:00",
-"status": "unverified headline"
-},
-{
-"id": "74202a76b03a",
-"t": "Canadian Natural Resources Agrees to Acquire Advantage Energy for US$1.77 Billion - www.tokenpost.com",
-"u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE00YTlEdURucXVxdzdIeXZxNHA1SDBHa0R5b1QzTFNsVmtmeGFQbTZJdFRqVVFyaC1MQVAwX19ULVFRRmhBZkFITWJFQVlfMloyNnN1SVNIdmM?oc=5",
-"o": "www.tokenpost.com",
-"via": "Google News: ai-deals",
-"lane": "search",
-"at": "2026-11-16T12:26:42+00:00",
-"seen": "2026-11-16T16:02:16+00:00",
-"status": "unverified headline"
-},
-{
-"id": "c143f232dc30",
-"t": "CADE, WIA to strengthen Journal of Competition Defense — Conselho Administrativo de Defesa Econômica - www.gov.br",
-"u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNU1VMW9DR1BLdTJmY0xDUXJndmVOdlFhbktyNi1SZ1BmOEt6MGRReGZhNXVTbUNnQjZfNUx0Ti1JMU9MN2lVb1NqbklJYWlfNlQ4bWNpNDhWY0xnc3R5NnNOLXFZeUU2YTdlaVZuSUxOU254cVFTTWZMMzZzajhMVnBIeVpNU1owWkJ0YndkVThZN3F5T1dUcw?oc=5",
-"o": "www.gov.br",
-"via": "Google News: antitrust",
-"lane": "search",
-"at": "2026-11-16T12:15:11+00:00",
-"seen": "2026-11-16T16:02:16+00:00",
-"status": "unverified headline"
-},
-{
-"id": "3616396f8f94",
-"t": "Lilly Agrees to Acquire Calytrix Bio for Up to $1.5 Billion - Securities.io",
-"u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSUFRQ3ZPSEF3MVB4TGV4UkNfZzdtalZpcGY2MWNId3ZzTHJqaG5iekpvREZtb0dkM3dGLVNqZHhtcURWTWp2TEV5dFpmaUdlYmtOWi1xcFZWNHRhTW5WSzJ2Wjl3cjd6ZmpBeFBLVlZBZWVISzA0YzFQR3hrWk9VMnJoVTM1ZjZfUmhJRGV3?oc=5",
-"o": "Securities.io",
-"via": "Google News: ai-deals",
-"lane": "search",
-"at": "2026-11-16T12:15:01+00:00",
-"seen": "2026-11-16T16:02:16+00:00",
-"status": "unverified headline"
-},
-{
-"id": "6b77c9921340",
-"t": "Anthropic Is Making a $28 Billion Bet on Texas Data Centers as It Prepares for the Biggest IPO Ever - Inc.com",
-"u": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQeGI3cjd4ZTRmaG1tRjk2ejNSWGZPQUZmbjJRNEFuck85TDh1V0R4M1lvaGllMDNOdzYwMzZmQWJhY1RscmdyM1ZaNWMwSE8wQWstaHJacWRmVGtXOE9YV1o5QWtfX0FQVzB0QUZfa3djWXV1c1dmanA4dm80QzlZZmY4T0JKaDNwalRYLVpmUkpMNm41ODNUeTJkVnNnYmtBdlJLU2xPZ3ZGdXI4N2pvbi1rMkUtUlltNmJOd1hoaUFzdk5DcElnaUcxMHpSV1ZOZGQ1UVcwNA?oc=5",
-"o": "Inc.com",
-"via": "Google News: dc-utility",
-"lane": "search",
-"at": "2026-11-16T12:09:12+00:00",
-"seen": "2026-11-16T16:02:16+00:00",
-"status": "unverified headline"
-},
-{
-"id": "5039a124f5b9",
-"t": "Blackstone Digital Infrastructure Trust Announces $5 Billion Acquisition of Stabilized Data Center Portfolio - Blackstone",
-"u": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxObG43UEE1UXpLcjNEcWxXaGl2OGlmX0puZGdWQzFaRkFUdjllY0VpS2lIa1FOUmhuZ0xaQ0x2eXAtTk9lVUI5ZTJBeU9BRHRpSjZNZlJvUXNVMk1uWmhRS2N5bnJoTjdrZzVncTVFTXdiZjNVbTBYUVRadXQ3ZnBjVTFhdms4RVZzREZ6MkNBWkRrMzR5dHBsUk9CSXpVUEFMbnYtazdmUTNNWDZZUk5JUmpEak04cnN5WlF4MkdJV2tkYUZJRmp1cnl1RUVhN01XQkRzR010dm9jWGNQYnZJ?oc=5",
-"o": "Blackstone",
-"via": "Google News: ai-deals",
-"lane": "search",
-"at": "2026-11-16T12:06:14+00:00",
-"seen": "2026-11-16T16:02:16+00:00",
-"status": "unverified headline"
-},
-{
-"id": "1747739a6947",
-"t": "Child Care Pandemic Funds: HHS Can Help States Better Prepare for Future Emergencies and Ongoing Challenges",
-"u": "https://www.gao.gov/products/gao-27-108090",
-"o": "GAO",
-"lane": "agency",
-"at": "2026-11-16T12:05:47+00:00",
-"seen": "2026-11-16T16:02:16+00:00",
-"status": "unverified headline"
-},
-{
-"id": "a74ae13f7c8a",
-"t": "Augusta Planning Commission to review rezoning requests for data center project near airport in special called meeting - The Augusta Press",
-"u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOekpHemhlUmZwTHpuSHAySTh6NlBGY3lrOFhsNmR4OFBEWXRldnZXSXNLVTFmWm5aYXpZVkF6ZmswYnVDTFRfZVpaNlU5czRFWDVRVEtIS0s4dVRFYmJDam5CZmJSZGdkNlBhQ3FVTzNjR2JKQmt1d1JqTjV5ZFRmRzU5SVpzX2VpQ0tnbHhGeDBNNnJFY0I5OGVXYWNwX0dUODJCY0NsX2VPUmwtcDN0MTB3S2hpYUhveUhYRXFrNF9CMUxvaFgzOEQ1dWZqQkhkLWNmeDRIeVVsTHkzNWNGVg?oc=5",
-"o": "The Augusta Press",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-11-16T12:05:11+00:00",
-"seen": "2026-11-16T16:02:16+00:00",
-"status": "unverified headline"
-},
-{
-"id": "a7c51a8aed4f",
-"t": "Fed's Barr warns AI agents could turn bank runs into minutes-long events - Startup Fortune",
-"u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRTVwTnNZVkowT2tNOWdtZkFhejF3b2tjWm1PX1h6S2NRT29PaTVPdmpGWTVRT0QyN09XUzE2UDZwNzVwMmtlMXluRUx2b1BnMXcxOF9qOFRQQlRHUTBkOUMxazlMSGU0NmNHQUJJbjQ2RWZmX0tJTml2YW9nZnFkaklfMy1kUjJmV3Q0RUF6dVd0YWEwY0RNTGlWNl90OUpB?oc=5",
-"o": "Startup Fortune",
-"via": "Google News: labor",
-"lane": "search",
-"at": "2026-11-16T12:04:45+00:00",
 "seen": "2026-11-16T16:02:16+00:00",
 "status": "unverified headline"
 }
