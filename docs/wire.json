@@ -1,8 +1,79 @@
 {
 "name": "Tracewire",
-"updated": "2026-11-19T21:01:40+00:00",
+"updated": "2026-11-20T02:14:16+00:00",
 "note": "Unverified headlines collected automatically from public feeds. Not checked by Tracewire. Verified items appear in the Feed.",
 "items": [
+{
+"id": "0e9876dba44f",
+"t": "Big tech is already building datacentres in Australia. Why is Labor so desperate to give them loopholes?",
+"u": "https://www.theguardian.com/technology/commentisfree/2026/nov/20/big-tech-is-already-building-datacentres-in-australia-why-is-labor-desperate-to-give-them-loopholes",
+"o": "The Guardian",
+"lane": "news",
+"at": "2026-11-20T02:00:18+00:00",
+"seen": "2026-11-20T02:14:16+00:00",
+"status": "unverified headline"
+},
+{
+"id": "4aacf31011a3",
+"t": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+"u": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+"o": "TechCrunch",
+"lane": "news",
+"at": "2026-11-20T00:43:50+00:00",
+"seen": "2026-11-20T02:14:16+00:00",
+"status": "unverified headline"
+},
+{
+"id": "4eec642026e1",
+"t": "California attorney general opens probe into Nvidia over Jensen Huang scandal",
+"u": "https://www.politico.com/news/2026/11/19/rob-bonta-probes-nvidia-over-jensen-huang-scandal-01177017",
+"o": "Politico",
+"lane": "news",
+"at": "2026-11-19T22:43:13+00:00",
+"seen": "2026-11-20T02:14:16+00:00",
+"status": "unverified headline"
+},
+{
+"id": "72d5ac5e2f41",
+"t": "Trump says he and China's Xi want moderate AI rules - Reuters",
+"u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRmhOamVpZF9sMG9qSElyRS13Q2hIdXdncHVuRUIzUU1FYlM4eGNSR1NVcE9DdHVFNXRDT0ZSdTBXUUtSZGJUWGdoNnEwLXRqMmVRd251SWpHNVVsSWRFODZ3S3ZZQkVxM0dTaHNUaXA5M0FLVVYyaFNXa1l1a0Vkc2Rpc01EWWUxYi1kQmhwckhZOTBURFAxeQ?oc=5",
+"o": "Reuters",
+"via": "Google News: reuters.com/technology",
+"lane": "search",
+"at": "2026-11-19T22:34:50+00:00",
+"seen": "2026-11-20T02:14:16+00:00",
+"status": "unverified headline"
+},
+{
+"id": "e60f4e5e7cf4",
+"t": "Meta’s new Muse Charm device may cost $300",
+"u": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
+"o": "TechCrunch",
+"lane": "news",
+"at": "2026-11-19T21:58:06+00:00",
+"seen": "2026-11-20T02:14:16+00:00",
+"status": "unverified headline"
+},
+{
+"id": "8de1e9be8c1a",
+"t": "Data Center Impact Hotly Contested in Federal Permitting Fight",
+"u": "https://insideclimatenews.org/news/19112026/bipartisan-permitting-bill-data-center-impact/",
+"o": "Inside Climate News",
+"lane": "news",
+"at": "2026-11-19T21:43:19+00:00",
+"seen": "2026-11-20T02:14:16+00:00",
+"status": "unverified headline"
+},
+{
+"id": "63c036cc4b53",
+"t": "Meta Joins the Clean Materials Race",
+"u": "https://heatmap.news/climate-tech/meta-stegra-sublime-fortera",
+"o": "Heatmap",
+"lane": "news",
+"at": "2026-11-19T21:32:07+00:00",
+"seen": "2026-11-20T02:14:16+00:00",
+"status": "unverified headline"
+},
 {
 "id": "94e5fe27e4b2",
 "t": "FCC Expands Satellite Connectivity for Ships, Planes, and Drones",
@@ -949,6 +1020,16 @@
 "status": "unverified headline"
 },
 {
+"id": "92cdbaff4de0",
+"t": "Anthropic IPO raises over $81 billion in largest offering on record, topping SpaceX",
+"u": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html",
+"o": "CNBC",
+"lane": "news",
+"at": "2026-11-19T13:57:40+00:00",
+"seen": "2026-11-20T02:14:16+00:00",
+"status": "unverified headline"
+},
+{
 "id": "88fc71a82619",
 "t": "Shooting threat at Fayetteville data center under investigation, police say - Atlanta News First",
 "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeTVrR21FVEZ0RFREYmdRMHBia1RiRUktdTltU0FmVlI2YzkzVTExUXNYZ3R4YVNBMTYtSlhOMzRNYjdhdlNTZDZzMkJpUUl5aVFpSjhGLXJyWWFpMjVFX0JVOWVrT0FianZEcjIxNi1JU3hXRnpOR28zM2ZRaHlRSld2VC1LSWZ6WGVBSW9GX1FINWx6WFJXRWw0Rk5TQl9JNnFGaTd3Z3dodjZjb1AzeDZqSTRZV00?oc=5",
@@ -1239,6 +1320,16 @@
 "lane": "search",
 "at": "2026-11-19T12:03:18+00:00",
 "seen": "2026-11-19T21:01:40+00:00",
+"status": "unverified headline"
+},
+{
+"id": "11ad855909f3",
+"t": "Justice Department’s Statement on the Closing of Its Investigation of NextEra’s Acquisition of Dominion",
+"u": "https://www.justice.gov/opa/pr/justice-departments-statement-closing-its-investigation-nexteras-acquisition-dominion",
+"o": "DOJ",
+"lane": "agency",
+"at": "2026-11-19T12:00:00+00:00",
+"seen": "2026-11-20T02:14:16+00:00",
 "status": "unverified headline"
 },
 {
@@ -2065,105 +2156,6 @@
 "lane": "search",
 "at": "2026-11-19T05:00:00+00:00",
 "seen": "2026-11-19T21:01:40+00:00",
-"status": "unverified headline"
-},
-{
-"id": "db63e809fda6",
-"t": "Illinois Voters Push Back on Data Centers as Courts Uphold Local Approvals - ArentFox Schiff",
-"u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMXB6cVdpV2IzOXFrQlgyOWtOWjZnWlNyYW5na3FGdHpCbHJQVWdEN0REMGw4MlpUOTNTajRZLWM2WkN5TnZYSjhqbUg5aEo0c2p6NFJNVFRNTi1UaFB2OGxDaDd5RDhkVUxzRnB6ajljeUhLVUk4b3hPVk5RYkRKSUxCUTVSRmgySWdiUGgxYVkza0MwVzRjTDJMTTI2eC1QblVtRHNkUmZRLTJYejBVNlVlZTdYTjctODhZ?oc=5",
-"o": "ArentFox Schiff",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-11-19T05:00:00+00:00",
-"seen": "2026-11-19T21:01:40+00:00",
-"status": "unverified headline"
-},
-{
-"id": "6574b5dfd3f5",
-"t": "Pierce Township Trustees ask commission to look at large-scale data center ban - WCPO 9 Cincinnati",
-"u": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQUGRCMFJwb0FpV1c3Zzl0b1lfUWlyUndqdFdxdmJyY05FNDRQdkZKT2RIRGZ0Z3BhTWNhd0tSWVZJVlhmLTJhQzhSWDV3TjFlQTROMlV1aVhMMm4yMk14Mkd5WUxYMnc2RUYtMXc4bUw0aGItdTV0aF9BY3ZOXzNseDJkTmdDWTlVWFRpZUt0UjBoZktXODlLQVZuRlZJcTB2RjBnTHFDZ09rVkxPM0VoVWpkNzBRRDUxU2VFWFIwTDFFZjJYTl9FV0tnR18yQmZjYUw3anRKRGFwUkQ2R19XRndGbG4xa0dXUkNlcVAwNWh1NHVDUnNuMTIwQlY?oc=5",
-"o": "WCPO 9 Cincinnati",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-11-19T04:53:51+00:00",
-"seen": "2026-11-19T21:01:40+00:00",
-"status": "unverified headline"
-},
-{
-"id": "3fa4e80e38df",
-"t": "Governor Abbott, TCEQ resume data center permitting after moratorium ends - WOAI",
-"u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOThaQ0NYa2E1dHhaZUdWaDBxS0xvdy1tbnVPZ0ttOHMtZ2FGODhLblJIWF93YVYtUHhLemhtNEtwdy0zSTcwNnBoTlB1VWRoLVY0RWNRYVRTLV8xRTRES193VnJ2SVNRYklwNUd6dXI5ZmRQYlYxMzBsei1UUjR5X1Bsb01GMEE2NC1mUzQ2TV9CTURRaS1yT082cG1kREdLbHBlZ1hzRHBsTUVKZThSNg?oc=5",
-"o": "WOAI",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-11-19T04:45:56+00:00",
-"seen": "2026-11-19T12:48:37+00:00",
-"status": "unverified headline"
-},
-{
-"id": "3fa5095ecf20",
-"t": "Claude Leads Top AI Models Targeting Civilians and Iranian School With Zero Blocks - The SOFX Report",
-"u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYlNab0ZIMy1tQjViNlk2clgxVXdtTDFxMEszWHdCc2xoLXF4VlBKakRmdTVzWHVwX2RhWS1lbER2M1BJUWoxWFNxY3ZxTlNzU2pGX0dfTHNydjZnLWROeXRBWG4wbWV2WDlTYndiTW5ubVVFNlJLdS1JcE1YQ1oxOHE0Smg3T1lCcFF1a05sRDZJLWphOE8wOENTdjRPZkc4eUVZR3ZxTQ?oc=5",
-"o": "The SOFX Report",
-"via": "Google News: contracts",
-"lane": "search",
-"at": "2026-11-19T04:32:55+00:00",
-"seen": "2026-11-19T12:48:37+00:00",
-"status": "unverified headline"
-},
-{
-"id": "c2c28385ccba",
-"t": "Cromwell residents voice opposition to data center being built in town - WTNH.com",
-"u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRE9PLWc5SlpZMVprX2tSelhEY21jYVZGSGF2TjZsT0NDVDNyM08wVVc1UHp6Zkd4djRPQWgzZFdQQnlpZnhhRVNiVHZEWk1HOWtIekp5RzVKd0hCcU5ONWtmUmxmZFNJVkV6RjRDV05Fa3lvaUxBYUV4dC1YUUJMRmszOTdVZWVPVmd5aUViZzJ5c2hmal82S3NtNGtUeE9jakZMWVRPODNpUVhPUHhPWkQ2LWVvOV83STBV0gHAAUFVX3lxTE0xcVdSdVJIeEdtV000MkdVZ1lLcjVuT3JBX2FzdFFCdlQwMS1UelY0dlp0VTNpSWVNem5ocjdCZWJjYktOZFA2SEFkb1R5ZkVqVnJwMGhPWjV0UjZrLXNDTWJuQWZWMzdyMXF6aFVWOFZhZk5KMzI5dEpQcnFOQXZFYmcydy1OYUNZU0hHUmZlLTMzbk1YbFBxWmxWZTRGOV8tYThTUGlRdGZ0OVpzNFI5UWI4NVNUaENMbkRzMWVJcA?oc=5",
-"o": "WTNH.com",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-11-19T04:28:26+00:00",
-"seen": "2026-11-19T21:01:40+00:00",
-"status": "unverified headline"
-},
-{
-"id": "d7c01e5ea7e0",
-"t": "Elbert County commissioners hear support and opposition on changing zoning for new data center - Denver7",
-"u": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNcUxMa3NPU0htQ28wRXIwYW5MUE5jUXkzNmxzQXlzY1ZNcUxOMjN6SEtIZFdiX3czdUs0Y3M2bll1cVJWU0FBQWhRb1U0MVQyem10WkVCTS00VGlSTGVaSjE2MkFGOWFFRWhpQ0wxbnVNVnFnQ0ltdjJJTVJCUHBoeGxvVWtLRXlaOWp2ODI3WncwVjgtdmxjc0h1bjZPR0p5WHhOWU0xcHBtcWNqRFpiLVNRZlNSZkFRWEMwRHAtcnBsUDlpMVBSNl9KNno3ZWZYcDhLeWV3QTZENjhfc2E3NHozUVJlMWpZbXdRUWdR?oc=5",
-"o": "Denver7",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-11-19T04:02:16+00:00",
-"seen": "2026-11-19T12:48:37+00:00",
-"status": "unverified headline"
-},
-{
-"id": "71275138438e",
-"t": "Starbase weighs SpaceX tax break proposal for natural gas power plant, data center plan - KRGV",
-"u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOXNSVFllRjh0amU1S0Flclo0T3ZqeGlJclhGTGVXU0tiMVU5TU1TVXEtLWxyNlhjTWdVWWZCMlhuaE56VjNkcDhLaUtJMHFVRG9BelcxdUhuNThfaThhRGNkRUJKTGR0QjZaUUlqVGZGeDM5WlJsVWZmVWhkZXExcndKQ01CeGZXc19BanV3aml6QXg0TVpWSENCRTJTZDBJSVdVbVFxZmlMSm0zbldkUk5EU0UzQQ?oc=5",
-"o": "KRGV",
-"via": "Google News: dc-incent",
-"lane": "search",
-"at": "2026-11-19T03:59:58+00:00",
-"seen": "2026-11-19T12:48:37+00:00",
-"status": "unverified headline"
-},
-{
-"id": "558da1ecd387",
-"t": "Salesforce Layoffs: Shocking Job Cuts Hit US & India Teams 2026 - thedigitalbriefnews.com",
-"u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1XQ2NXeVJkM1ZVWDQzcnBwaFo3TGFyNHpRT3RfeGRrOGxZMFR2eUFPVFR4SGl4VHRFZ1BzY2FwZjA3V0Jad2pSeDJ3TTVGREFvOWVTMWtYMWwwbFVpLXJuZWlkZFhKV2JSSWkxYmNfWEhvd2s?oc=5",
-"o": "thedigitalbriefnews.com",
-"via": "Google News: labor",
-"lane": "search",
-"at": "2026-11-19T03:53:53+00:00",
-"seen": "2026-11-19T12:48:37+00:00",
-"status": "unverified headline"
-},
-{
-"id": "c8b7bd09bf22",
-"t": "Data Center Boom: Could new state rules lead to more data centers clustered in some communities? - NBC 5 Dallas-Fort Worth",
-"u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNbUdFUm1wZXJFNWFKMVNpZ2ZtVFp4Slp0UU1VSV9fNW9pUUdMaHRTZzVaZlN4WVMyWVVXcDFDeEd5akhIVVpka1pjNWZsUWcwV3dRQzBEMklKeklMelhHMGN3Si1tRy16OHJZTjBCS3hUb0tjajdXMG1NTFRkT3FSZDRlc0FGZWlvOGZxdXdlUURyRlo1SkxqUzZ6SVVyaTJwZGl2M3BGTUtDR0RXYjJReDJvOEVhQmlyYWxLekZKMFZYWkYtMXp4U016STRZYVFSaW5hWHVLQnjSAeABQVVfeXFMT0phd0JvM0hsU0VZQ1BHY2dtblJWRnJxUVJxYjd2eVdzcEFBSUo3T3YxLVp5bmVxbzY5Y0tJa0ZBX1BINzRzVU1FdHNuVXRoV3FsUmdLdVdUWlpjMnpnTjJvemZtRVlrVHROM0FNejlxdWtkQTB1OFlWajU3eEl2cl8ycEwxNmRRVXdsek1xNVN2bDRuZDVHVmtyMWF3YWdXdEJrSlVtRWVPNkNWUEN2MXJMYl9KbDdHbmFGaEpjNG5RYnhDZFpXbjZlcy1xaFhfTGt5cmhfLXBoTzlNRzZKU2g?oc=5",
-"o": "NBC 5 Dallas-Fort Worth",
-"via": "Google News: dc-utility",
-"lane": "search",
-"at": "2026-11-19T03:50:00+00:00",
-"seen": "2026-11-19T12:48:37+00:00",
 "status": "unverified headline"
 }
 ]
