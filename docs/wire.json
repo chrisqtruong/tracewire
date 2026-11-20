@@ -1,8 +1,431 @@
 {
 "name": "Tracewire",
-"updated": "2026-11-20T02:14:16+00:00",
+"updated": "2026-11-20T10:08:47+00:00",
 "note": "Unverified headlines collected automatically from public feeds. Not checked by Tracewire. Verified items appear in the Feed.",
 "items": [
+{
+"id": "3a88563ea8d0",
+"t": "Blue Wave Trickled Down to Little-Known Utility Commissions",
+"u": "https://insideclimatenews.org/news/20112026/utility-commissions-democrat-election-victories/",
+"o": "Inside Climate News",
+"lane": "news",
+"at": "2026-11-20T10:00:00+00:00",
+"seen": "2026-11-20T10:08:47+00:00",
+"status": "unverified headline"
+},
+{
+"id": "849d6ad23296",
+"t": "Experts say powering data centers uses more water than cooling them",
+"u": "https://www.npr.org/2026/11/20/nx-s1-6045780/experts-say-powering-data-centers-uses-more-water-than-cooling-them",
+"o": "NPR",
+"lane": "news",
+"at": "2026-11-20T09:43:39+00:00",
+"seen": "2026-11-20T10:08:47+00:00",
+"status": "unverified headline"
+},
+{
+"id": "6b27c375bd09",
+"t": "Foxconn’s Vietnam Antitrust Filing Accepted for Initial Review - TipRanks",
+"u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcm1ETDZZMlk1dGVGa3lRN3pNM3duRFZrNlRMdDNUZnN5WkY2Yk1WaVFNY0JKdm50NlpTOXRrQ2xOM3E1c2IxeE1JRGdzNHU4Vmo5YlNibGVhQVRPTTIyMTBjNVMwZlJBZWJUWnpCWWVFMVpZVDJFcmh6SHhMLTNGWEJKMDFtVTBranFZa1N6cmhOSGh0TVNGTGE1MThpQzJrS3V3Zy1NN243T0RoYUdMYi1Pdw?oc=5",
+"o": "TipRanks",
+"via": "Google News: antitrust",
+"lane": "search",
+"at": "2026-11-20T09:39:26+00:00",
+"seen": "2026-11-20T10:08:47+00:00",
+"status": "unverified headline"
+},
+{
+"id": "77ce998683fd",
+"t": "White House removes cyber-security chief after series of tech outages",
+"u": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo?at_medium=RSS&at_campaign=rss",
+"o": "BBC",
+"lane": "news",
+"at": "2026-11-20T09:37:59+00:00",
+"seen": "2026-11-20T10:08:47+00:00",
+"status": "unverified headline"
+},
+{
+"id": "2c3757b0893a",
+"t": "California investigates Nvidia over whether chip exports ended up in China",
+"u": "https://www.theguardian.com/technology/2026/nov/20/california-investigates-nvidia-over-whether-chip-exports-ended-up-in-china",
+"o": "The Guardian",
+"lane": "news",
+"at": "2026-11-20T09:18:30+00:00",
+"seen": "2026-11-20T10:08:47+00:00",
+"status": "unverified headline"
+},
+{
+"id": "95244cb6e38c",
+"t": "Reporters out, bots in? Crypto journalism goes AI with layoffs, fake bylines, piles of slop - ThePrint",
+"u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZGdCUXp6T0dSMEI1a1Q5b2tSanBxd2kya0xtQzVKQURRQk5vaVFJaUgzb2lQME1mMjdsWjhOTWptWVNvNzBXeXpMV21vOFN6cnNyd1M1X1dkUkVPTjl6V3c1ejJ5dGVWRWhDRm1VZi1tc3JjWWpOR3BUN3RwdUpQQ3dDMmtLRF9MZzBnbDd5dER3a2piVnREVjVWWTZFRG84NExxVGpEOTZrMG5CQWlXUE5Xc2Z3MmFNV0JiVmh6V3oyQdIBxwFBVV95cUxOOXZMWXRqcE1qa1R4WGM3ZkJBdnRiYTdIZk9sSE1UVU5ndjZMRzJfNnYtRTJPeEJTRzVLWmFhY1kwT05rXzdSSUVRcjk2clZvVElldDdBalhPdkpZWmw5SkN3UnBGcUhLSE5zeHM4OWNoUHZxUEE3QjdncHJIamtWLTFIWXc3ZU1xZUQyT29vR2NnZlR0RWt1a1lCWC1sdk9JZzlvXzAxeEJqR0xfLVg1STVtTC1BaXBGNW5TNUZWLUhnSVIzTUJN?oc=5",
+"o": "ThePrint",
+"via": "Google News: labor",
+"lane": "search",
+"at": "2026-11-20T09:02:12+00:00",
+"seen": "2026-11-20T10:08:47+00:00",
+"status": "unverified headline"
+},
+{
+"id": "380782f0a8d5",
+"t": "Proposed data center scrutinized at public hearing - Williamsport Sun-Gazette",
+"u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZDNfMzh6STFTX1hYWEpvSVRYX0otaXZUazk1WVphNDBCUXhvZWxHdUVhX2JuX3cwZnhmRDJVX3E4dmNZT3ZkR0NWOUc4SjV2MXFpVjFFY3dtVkp1TkhOS3gwN2syc2hrVHdjSVYxZ0ZJaU1kdFNUY081VjR4aXgyWnVBSC1IYXhHOU1BLS1WNU1zMmtLa0JOeE9hQTNQMXV0Wmc?oc=5",
+"o": "Williamsport Sun-Gazette",
+"via": "Google News: dc-zoning",
+"lane": "search",
+"at": "2026-11-20T08:26:15+00:00",
+"seen": "2026-11-20T10:08:47+00:00",
+"status": "unverified headline"
+},
+{
+"id": "260925f18969",
+"t": "ANC KZN official accused of lobbying against MK coalition in eThekwini - DailyNews.co.za",
+"u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPckstU2h1Z0lQV3RvTGh5dVdROXI4OU9naEwxMVRKenFSTVp4Smt4cmZUSjhlMnpYSmY4QnpXX3Q1NHFpMHNfNlI2YlpEX0ZPRDRJVXlGV1QtOU5qdXQ4eDY3d2k2d01DYzBYdEhMTFNPU3dLT2x4YTQ5UGlOTmpCTnpZQ2tZcmlwS1FnMlNmMXFkUDFpbXVtLXdRQW9rTmhhRGF2bHhab1luM21zUXpySQ?oc=5",
+"o": "DailyNews.co.za",
+"via": "Google News: money",
+"lane": "search",
+"at": "2026-11-20T08:08:13+00:00",
+"seen": "2026-11-20T10:08:47+00:00",
+"status": "unverified headline"
+},
+{
+"id": "9e7774d1df95",
+"t": "Buffering: Data center ad hoc committee examines proposed setbacks and buffers - Index-Journal",
+"u": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPVEdaZDl1NjBTa1VvRmRlYXBGWEZ3TmliSXloZHYxQ0lLcVdpSERlUlpZb2RxQUIwRklNbzBaT3NsT08xN3RlVkZ5MlFUZVZ5ZTdPaFdWTUxEZVJldEN2WVUtWUIxd3lXZ0xETnRNaHl2cC1jZHdsSFIwMXBLSVRkZnR4OFl5Ry1WWlJSRU9uVkM0dlpJb24yTnFnT2x2Q2c3R2NDbm5BZEg2WGNqenpZamtFVVJpVDJOZVo5UjgwNTV2aEpaRWR4U2Z6YUllRndUSVRuZURZSXVzNmJya1h5bUEtUElGR3h1TDNNVndmYTlYWms?oc=5",
+"o": "Index-Journal",
+"via": "Google News: dc-zoning",
+"lane": "search",
+"at": "2026-11-20T08:00:00+00:00",
+"seen": "2026-11-20T10:08:47+00:00",
+"status": "unverified headline"
+},
+{
+"id": "cb5a4e41a51e",
+"t": "Trump says tech outages are 'fine.' They are so not - KCRW",
+"u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNU1FjMVFyLUxJZGFOQXhyVzZuOEw2akZ6bXVQR21qZmxsQmtaaWZOTXdmc2xSYmpueXVmZ2gtV3VEakR6QUFlLTFMaXdIZEtjUjBld2NfRzh1NDVuM2Q5NWNLZjk4MTZCZDIzSTd3WE1WN2Y5NF9XT1gzRm5XUWF5VE5SVURiRDRYVXR2SEVGYTdxc19TVUIxVi1Zc0FRQTJDb0ZB?oc=5",
+"o": "KCRW",
+"via": "Google News: privacy",
+"lane": "search",
+"at": "2026-11-20T08:00:00+00:00",
+"seen": "2026-11-20T10:08:47+00:00",
+"status": "unverified headline"
+},
+{
+"id": "d60fffcc28e3",
+"t": "Champion places three-month moratorium on data centers - Tribune Chronicle",
+"u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZm9qNmlrcnRfemY0SHVWVTQ1d25FenBOZFRPb1FUbTMyZUpfZEUyTU1TdXhzeXdXSDduVnl2eHUzel9qWXpKQjlRdVlHQkVMVTRCU29JaXpRaVFqQmVnM0FKcWdYU2hSV01RSGZXaDdMQXVYekxCM0lYR2J6cEZPckpLbm5rQjRiY2p2NjJaUTluaTN3NkRlSDdoVy01S1Nnc1lIektsSGE?oc=5",
+"o": "Tribune Chronicle",
+"via": "Google News: dc-zoning",
+"lane": "search",
+"at": "2026-11-20T07:58:29+00:00",
+"seen": "2026-11-20T10:08:47+00:00",
+"status": "unverified headline"
+},
+{
+"id": "fad6e02e08be",
+"t": "US Approved Nearly 900,000 AI Chips For China Sale - Silicon UK",
+"u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5hRlVhci1xR0pSeVlhSFBjTXdzaEhYMkh1bVhPd2tINVk2ejAtYmdCdG5PMnRiNVFKVFJ6dVlOLVl0dFlTM1dkVk5UdGkxSnIwZ1IyQXdHM2JLY2tkZ0gtUXh0ZFBSb19tNFBKdlFB?oc=5",
+"o": "Silicon UK",
+"via": "Google News: money",
+"lane": "search",
+"at": "2026-11-20T07:32:57+00:00",
+"seen": "2026-11-20T10:08:47+00:00",
+"status": "unverified headline"
+},
+{
+"id": "33a579c95f01",
+"t": "This 16-Year-Old Founded an AI Missile Startup. He’s Targeting ‘Cost per Kill’",
+"u": "https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/",
+"o": "Wired",
+"lane": "news",
+"at": "2026-11-20T07:00:00+00:00",
+"seen": "2026-11-20T10:08:47+00:00",
+"status": "unverified headline"
+},
+{
+"id": "3b058b27341a",
+"t": "GTA 6 Developers Fear Layoffs Amid AI and Union Concerns - Dainik Jagran MP CG",
+"u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUDNPdWZiOHN1S3VVaFhFNmJyNUhBMnhSV3lMamhTSEFJN2o4LTMtbm56cTg2ZDRzWTVoeTUzUTFHcS1KRjVfczFfS1Q2bUhqYWdFeVV2RS1DTFFnZ1E1aXNJR2M4ajRTVlhjd2ZNRV83V2p6b0ZlcmI1c0IxUXNSQ0ZCUTlxa0NYMWl4MVVBclVEeHZrOF9aX0pMWGluQVl1N3RzREdJSi1FMXMtZ1ZHZTFjZWcxOWV1UHp6T09n?oc=5",
+"o": "Dainik Jagran MP CG",
+"via": "Google News: labor",
+"lane": "search",
+"at": "2026-11-20T06:41:50+00:00",
+"seen": "2026-11-20T10:08:47+00:00",
+"status": "unverified headline"
+},
+{
+"id": "d6c3f5d45eca",
+"t": "Ubisoft cuts more jobs while expanding AI gaming push - NewsBytes",
+"u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYndBN2JyeXRsb0tYTFlzeUltN0U3SEVkUWZXZ24xT2szN3NQOWNraVJmek1EVjF6aENZUE42LWxaNE1jbVRXc2hYVUdhbTJzcXpCNi1OdUpVWTQ4SnNJWXVhOXhiOVJoUmVLYU1vUnluUHRUalRqdjBiZTdJMDM5QWhKRVg1emd5d3VaUkdtQ3AydUNyMkJwaC1BaDNQZVpucFBmcEVJQ0JZbmNZ?oc=5",
+"o": "NewsBytes",
+"via": "Google News: labor",
+"lane": "search",
+"at": "2026-11-20T06:09:22+00:00",
+"seen": "2026-11-20T10:08:47+00:00",
+"status": "unverified headline"
+},
+{
+"id": "a9fa0030a618",
+"t": "Ubisoft Cuts 166 Jobs in Canada and Launches AI Studio Motherbrain - ShiftDelete.Net",
+"u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0zR01ucUNqOFdVVWxEWlBva2lRQ3BEaHUySFRTRWl2bHMzTHlVWXlZY1N2TElPMGp5QXJkU2wyVDBfU1VpZDlNNkVHcy1ORVRaQ3BENnZBSUkyc3dkelJFMm01cmY1OXJ2LWc?oc=5",
+"o": "ShiftDelete.Net",
+"via": "Google News: labor",
+"lane": "search",
+"at": "2026-11-20T05:54:01+00:00",
+"seen": "2026-11-20T10:08:47+00:00",
+"status": "unverified headline"
+},
+{
+"id": "b3db20fcba7d",
+"t": "Texas Officials Reject SpaceX Tax Break for Elon Musk's $24 Billion Project - Law Commentary",
+"u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQXZnRFFNSjRkc2wxTVNOMkxObGM3SVJSeW5nLXNHWEo1UktJN0tCZ0JkUGdRemd1Mnk2TjFVYzY0YWJhV3lXYld3ZldDd1A3SHl3LTQ4UFBLR3lDZmZsMWdHbFVQZ1dQVWU5U1ZxeHVndWtWbGR3bXQxSFIzYWd2WEJidk5Ibmtpd00wb0gwVFZ0aTBjWC03Sw?oc=5",
+"o": "Law Commentary",
+"via": "Google News: dc-incent",
+"lane": "search",
+"at": "2026-11-20T05:46:42+00:00",
+"seen": "2026-11-20T10:08:47+00:00",
+"status": "unverified headline"
+},
+{
+"id": "dc1b86ca2be0",
+"t": "Lawmakers already preparing data center moratorium as they look ahead to January - News From The States",
+"u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMWoxSjFzTnZSRUF1VU5WdU9oOGxrODRQY3RGc1U5QjhCdEU2dmx3TUtlSldmenRrLXNjTzdYcDVsQ19ibWlaUUJkQWRnbEJueV84amdjdDA2NTF4WURGNEZydzBCS0ZGRmx4eHBORzBzZDZRNU5QVmJRM1BIZ0pGekRzZ0k1UHV4SXY5R1BPc01kQ3R4MGlzdVhPTi1yd0F3cnVfUVpHTVB4dE5XWTFtMWVxZFRTWUU?oc=5",
+"o": "News From The States",
+"via": "Google News: dc-zoning",
+"lane": "search",
+"at": "2026-11-20T05:45:47+00:00",
+"seen": "2026-11-20T10:08:47+00:00",
+"status": "unverified headline"
+},
+{
+"id": "1873c27729d8",
+"t": "Proposed Elbert County data center impacts could be felt outside community if built - Denver7",
+"u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTEdBYUJSNnY2bzNPN3NKZUNPQ3NhS2VfdUVIQ2Zhd1VSc0tHbFF2b1hvRXRIeFVNMWUtN21qRXgtRTduZE96RWR3TGVfM3FQSkYybDFiWGxXMGZWRFQtM2JvNHlRcmZ4WHktQ19jTzM2NXhzQ3RUYkE0V0hINktEc2RuRGdScWhyWFNXUG9DbW1ZZHA4N2FsOUtBWkQ4bnNPbFMwS0hMVlg3QVozRXlQTWx1RGZ2NHF1aDFsR1ZyS0o?oc=5",
+"o": "Denver7",
+"via": "Google News: dc-water",
+"lane": "search",
+"at": "2026-11-20T05:12:47+00:00",
+"seen": "2026-11-20T10:08:47+00:00",
+"status": "unverified headline"
+},
+{
+"id": "b2192060227e",
+"t": "ICE Is Paying AT&T to Dig Through a Mountain of Call Records - 404 Media",
+"u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZ3ppZnZiZjRCRzFrdjRvbnp3WnpjbDBfYWNnUHJ5NTVJU0xGX1VrOEhXSDQwRjNreFpfS3NoQU95VmNaR0tONUh6WnByMUlwcURyalRncFhsT2NuNkwwc01DRHN4alh1QTBGcWRGWmNodWJNb3E3RjRrLUJkMFdXa05DZ3E4aHFhdWtTZTgtR0k3MmphMzJURjYwMkE5ZzhHeC1mMk51Qmc0Nzh1VXo2bmJCcXl3NVR2LXRIckdB?oc=5",
+"o": "404 Media",
+"via": "Google News: contracts",
+"lane": "search",
+"at": "2026-11-20T04:41:43+00:00",
+"seen": "2026-11-20T10:08:47+00:00",
+"status": "unverified headline"
+},
+{
+"id": "6a3b010d1018",
+"t": "Booz Allen Hamilton awarded $14M DHS U.S. Customs and Border Protection (CBP) Mobile Device Management (MDM) task - OrangeSlices AI",
+"u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPelRXdG5iWDAycnVja09Ba05tNG1jZVptbXM2LVJDNmV0X25DMFdlaXJSaTl3andOY0VDVVhxTTYwMW9Id0tiS0g2aUFKMm1DQVZwWlBqOHhyb2c5aVNfS3BTQ1RDN2xESzZYbU9oMTQ1Qk92dkN0eS05d0NMUUl5OTJEUzVtUG02SnJja1NybHB1SVFTcW1HZjM4V1lMdFJRMnpLR2ZjNXFVZFE1d2c2SDd4a1duWUN2ZFR4ZkZsZEVrRnVzVXB2ZGZRNFU?oc=5",
+"o": "OrangeSlices AI",
+"via": "Google News: contracts",
+"lane": "search",
+"at": "2026-11-20T04:39:43+00:00",
+"seen": "2026-11-20T10:08:47+00:00",
+"status": "unverified headline"
+},
+{
+"id": "6661b8323cc6",
+"t": "Qualcomm Lays Off Hundreds and Raises $4B in AI Pivot - OpenTools",
+"u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE51M055T1ZpMElCS05UV1J6OS1lLW5VcGxOSVcxU0xSRzI5NEpiOEFNUm5nM280QnVsOW5yVTBYWEs3SnJyNEdPQnVIbmlqUkNlVTQ1LXltSHhCZlVxWXFXRUVIaGkwakY4WFEyYXZHUnJUSWhsbHRhSQ?oc=5",
+"o": "OpenTools",
+"via": "Google News: labor",
+"lane": "search",
+"at": "2026-11-20T04:20:35+00:00",
+"seen": "2026-11-20T10:08:47+00:00",
+"status": "unverified headline"
+},
+{
+"id": "aba43d31e4e8",
+"t": "Former Winneshiek County zoning commissioners speak out after resignations - KTTC | Rochester, MN",
+"u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQT2FNZHNuNUh0Rm9pSWdQd2FoNWxWTW1hNW01U1YyNDF5WHlaSG5NSFFDZGZJay1nd21zTkFFNnN5N0ZVNGttV0Job3JSMllKc29yYU9aYmVBNW94SS14RWV3X0hWcUNMdWQ3c1dfWXBIQzR0bVR0UGdWOHZuR1pUa0x5MmdlNGo0RXdBc3J2WHhYWDJfQzZsSmdCSmNIUWU3aDVPZDlYb09qNDjSAb8BQVVfeXFMTTlYaEpJU3AwTG4zLTZtTmpDY25mWVpUaXpRRGcwYmFpY1JEY05XYy13UUNfMGczYnZNVTIyU2lES09aQml1LUE4OHF1M19tLXJWMXcwN0I0OFJJQmdWd2ZGZ2VtNGpIRDdLZG9aNzU5UmZMRFlVelpMSXlya2FwYXBWS1g1NzB3UEZBLThxNlc5ZkRmV0RheHotTVEyUmNHS1ptb005MFplcnZPRlhiZ0FVZEJ3NEZscE9Pa0hvMHM?oc=5",
+"o": "KTTC | Rochester, MN",
+"via": "Google News: dc-zoning",
+"lane": "search",
+"at": "2026-11-20T04:16:00+00:00",
+"seen": "2026-11-20T10:08:47+00:00",
+"status": "unverified headline"
+},
+{
+"id": "5a1e75d0fee0",
+"t": "Hinojosa calls for data center moratorium as Perry files Senate bill - KCBD",
+"u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQc1dfbHM0cmdrSU1LRk5TTWJxSlA1a05odFVqX0pvejZZSmNKQk8xa1BGdW1wTmpiakdlQURsNmtKYk95dHBIRFRxbnZkbVlyRmtZZk5GZTd6YS1LNjhMWkluYTlQd3IxQjdCOGhBa2phOE8xSjFKYnJMd2ZWVVVtakFka2hZZUUyekd1cU5uckdjbVNBb01JbEpn0gGuAUFVX3lxTFA1U1drWkVCc1hWa3RRUU1ZWTYtcWIzVTBUaFEzbDhHbkpJOTIyZEpwQk45OEs3eXBFUldreEI4WnZ5Z1pEZnZzU0dabVFSOEg0alcyNjdxX2l4c3VTRjNQM1FySmRBWjE5Qy1qOFNUZy1vQTd5bU14YUU2bjRTbk5wNm93cGpTWjRnZXNVckdDS0ZGdHJxX0dQVHVBMDZMYlIwSGNFRk5LT1ZGbGQtQQ?oc=5",
+"o": "KCBD",
+"via": "Google News: dc-zoning",
+"lane": "search",
+"at": "2026-11-20T04:10:00+00:00",
+"seen": "2026-11-20T10:08:47+00:00",
+"status": "unverified headline"
+},
+{
+"id": "3b78f931166e",
+"t": "Colorado's Elbert County considers rezoning request for large data center - CBS News",
+"u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPejRJMmZ1QkJocm5EYjJyRjFValBLM1pmM3NNMGlRUVVfQThvc1VHYk5OLWJWXzVhVzBQeHhyTzhuVDd2VkV5aXo1Um5xNV9YOTJrNFJQZE5Pa2lrZU9kZzdFUm9VdU5tYkMtZjRwMFNhYV9zY1lDamlZeWNFVmxzRTh6RThsQ3pCRXJYektpNi11dw?oc=5",
+"o": "CBS News",
+"via": "Google News: dc-zoning",
+"lane": "search",
+"at": "2026-11-20T04:10:00+00:00",
+"seen": "2026-11-20T10:08:47+00:00",
+"status": "unverified headline"
+},
+{
+"id": "4ace466209c6",
+"t": "Senate passes BAAJA permitting reform bill backed by AI, energy sectors",
+"u": "https://www.cnbc.com/2026/11/20/baaja-bill-senate-passes-permitting-reform.html",
+"o": "CNBC",
+"lane": "news",
+"at": "2026-11-20T03:56:17+00:00",
+"seen": "2026-11-20T10:08:47+00:00",
+"status": "unverified headline"
+},
+{
+"id": "03360815fb60",
+"t": "‘Unite and fight.’ Community plans to keep shouting against data center near Ypsilanti - MLive.com",
+"u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMnpwbU1zVUlJR3pmb1JUcFFVVHo5TU1TSXJ2WnF4blFJenE4ZnBOaVNzRnhaMUw3MlkwRnlpNWdfd01qMGFDQUdEVklSODhfd0JvZjhnOEtSVVFpOHhERXhZMlVicFRtVnc0ZzNFNlJDa2dldFdWU0ltcFZLMEZlUmt3UkJ4YzE3OFlwLURmU2djQkY1U2Y5SS1GV3IwdFRhUG8tUDQ3NmhQdWh0Z0FQVnM4TkFZcURncV9pSFRMc0Q3cmZyWEVmN01UYWZVUQ?oc=5",
+"o": "MLive.com",
+"via": "Google News: dc-water",
+"lane": "search",
+"at": "2026-11-20T03:54:00+00:00",
+"seen": "2026-11-20T10:08:47+00:00",
+"status": "unverified headline"
+},
+{
+"id": "71808cd4f23e",
+"t": "Group Sues to Halt Water Use for Data Center - Wisevoter",
+"u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTVM4anNoZzd2eS1LWU9pX28teFVOYmxuS0M5Q01SSEYwWGoxMG1jTUJOQndCVnFfUXJ4Q3ZMekxaZ1pSWV82dk10OGxGSWpQV2JPS2x5WmZDQk04aGQtc01zQVhrZTdNaFRIWmNQT1A3SHFIeVRNenJNWVZLYWRHMUFlU3NvX3ZmRk05TklMaTdhbGZrUWJXeG5QRHBMTUxuZm53?oc=5",
+"o": "Wisevoter",
+"via": "Google News: dc-water",
+"lane": "search",
+"at": "2026-11-20T03:43:17+00:00",
+"seen": "2026-11-20T10:08:47+00:00",
+"status": "unverified headline"
+},
+{
+"id": "685219908350",
+"t": "Data Center Moratorium Frequently Asked Questions - City of Port Angeles",
+"u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9saWpwR3VVQTBfSlZoODFKajd5WG1LSkVaWlprdHA1eVc1cU44Wlc3eGcwUDJOYU8xSHJqeFNVRmNUVEJJQjhoUUdQZkZRTGRyMG1sUGtLWk5leDUtdUU1cDRn?oc=5",
+"o": "City of Port Angeles",
+"via": "Google News: dc-zoning",
+"lane": "search",
+"at": "2026-11-20T03:39:50+00:00",
+"seen": "2026-11-20T10:08:47+00:00",
+"status": "unverified headline"
+},
+{
+"id": "6b1a1cf50637",
+"t": "Hopkins County approves data center moratorium - Eyewitness News (WEHT/WTVW)",
+"u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZ2E5NDRGbmRJVmJnUlhNZ0d2eTZDTnU2WnVTdGlYaU9wWHdzRVZVLWlBdHAwSTZ5bGFnY0llNEU4eFM5bW44MnBlTlVHVUVZZVhScUk3SUhNVmFQdHlvZXp6OWIwb2Vpd0xUNVdXZkZWRmFGdGx4bWc4WldJTnI3anJCMk5UcEZBSkxzd2VObTc0Y05pVVR0N3BLWHdIYlZzVDJSOVJzZkJUbTZtelJES9IBtgFBVV95cUxNd1JmS1VyZWN2eUo5R3BOUE44V0xyMERicDRDTDJwUUUtYUpxMC1idVhtbGFoZG1fUjRGRHItMU5EWTQ3RUIzSWdwLUZ6LU9kbmpKVTJ5VURIdklNeWxDdUxKZEZPYkRrV29QUlBrdy1MVWV0QWRSa19URmZNa2tJWjViVDBGbGNNVGVTZTFURDg1cUFDc0JNMGFOdjhxeEdPazZMTFZrV1QyVHFHcnM4MlRhMkJyZw?oc=5",
+"o": "Eyewitness News (WEHT/WTVW)",
+"via": "Google News: dc-zoning",
+"lane": "search",
+"at": "2026-11-20T03:36:56+00:00",
+"seen": "2026-11-20T10:08:47+00:00",
+"status": "unverified headline"
+},
+{
+"id": "71275138438e",
+"t": "Starbase weighs SpaceX tax break proposal for natural gas power plant, data center plan - KRGV",
+"u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOXNSVFllRjh0amU1S0Flclo0T3ZqeGlJclhGTGVXU0tiMVU5TU1TVXEtLWxyNlhjTWdVWWZCMlhuaE56VjNkcDhLaUtJMHFVRG9BelcxdUhuNThfaThhRGNkRUJKTGR0QjZaUUlqVGZGeDM5WlJsVWZmVWhkZXExcndKQ01CeGZXc19BanV3aml6QXg0TVpWSENCRTJTZDBJSVdVbVFxZmlMSm0zbldkUk5EU0UzQQ?oc=5",
+"o": "KRGV",
+"via": "Google News: dc-incent",
+"lane": "search",
+"at": "2026-11-20T03:34:23+00:00",
+"seen": "2026-11-20T10:08:47+00:00",
+"status": "unverified headline"
+},
+{
+"id": "c268a1256495",
+"t": "HURIWA demands probe of $4.5m lobbying deal, deleted posts - The Guardian Nigeria News",
+"u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORkNiTzVJN2s1WFRrVUlnZ3hib21aTDlpM0p0VmF2MEFPeVpSR2dCQV85VHQtUUxUWFNmTzRiVFdhaGVKZ0MybUU1OU5JOGZaZnd0UHh4amhMeTFDUjlWbjRJU2VUMkFIdWJ0XzAwRGlDYXFabU9rckJMdS1IdUtmMU9BNnBBaEx6RWZ5Ym1Fcw?oc=5",
+"o": "The Guardian Nigeria News",
+"via": "Google News: money",
+"lane": "search",
+"at": "2026-11-20T03:32:34+00:00",
+"seen": "2026-11-20T10:08:47+00:00",
+"status": "unverified headline"
+},
+{
+"id": "08387e777aa7",
+"t": "Data center developer provides free water during boil water advisory - FOX Carolina News",
+"u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSkdmQUZ4cFlNVWdyNzIzOHpTTVVYRXltdFJmOEFPXzBpNWtQSGNnd292d3ZwOGF2Ym4waVN0U1FiLWhmc3VvVU9ZX29oNS04ZkR2cWNVVXBOWjUyQndXaHJCRGU3WFFpeFJqME5PTmNWank0VHpid2trZlBBaEQ1V1pIT2VxRnRYek01Q3lEczV6dGgzQTd4bDd4TTdSOTBUb1FwRFFna1psOEVR0gHAAUFVX3lxTE94d2ZtQUNyR3lfZEwwcG5rODRuWnplWW9INlZmc0JidkpTbXpIT3FqUGFMVXFDRk9YZ1Y5c1dwdDY3bW5rYm9RR1k3VmNQSHJNS0lvMk8yRkM1bnluQzFndjA2TDJrS1IwRUl3TWVLcE00c3JkWEpTUXlKbXJka0lLVFVyYWZaNGxqNm1uSmdHaWZRR3p4ZDdacVhoNGN4Z1pUdzNMaFJGSDdTU1BSakN1dXFXT211X2NYbFZJYU5EMQ?oc=5",
+"o": "FOX Carolina News",
+"via": "Google News: dc-water",
+"lane": "search",
+"at": "2026-11-20T03:28:00+00:00",
+"seen": "2026-11-20T10:08:47+00:00",
+"status": "unverified headline"
+},
+{
+"id": "ff24c0198d8f",
+"t": "Cedar Creek neighbors fear noise and heat as data center, gas plant plan advances - KEYE",
+"u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORF81dzFzWERWb1RqUFVyNFFvXzJSUFM2VllOdHlWMXZ0c01mMzNWLWFGcjFrMGhYQnVXVXdqMnoyMzdNWDlKVFhCdmNqNHY0RFJrZHI2c2s5MVJ5WDZ0ckdOT3diWUJsczJpVWh6YWRVaEVOSldSdDlrMlhuem9ra0JtcFdsdFEtdVNzM09UUmVIVEJUazQwcXFLb285cFpPMXlxQk9BY1drTDVnNkp1d3g0aw?oc=5",
+"o": "KEYE",
+"via": "Google News: dc-water",
+"lane": "search",
+"at": "2026-11-20T03:26:13+00:00",
+"seen": "2026-11-20T10:08:47+00:00",
+"status": "unverified headline"
+},
+{
+"id": "aed22a31b02b",
+"t": "Washington County Quorum Court approves 12-month moratorium on data centers - Northwest Arkansas Democrat-Gazette",
+"u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWVMxTXdoRUZScHZlSENHUTB4YWlwU3FCZF96dWRfNVltQVlkMVp0SlNHd3YyRWV1R0xmRGhoMGdqa1kxV0JOaEZVV20wTTBvYkQ5bERqcndfeFNwNWlZQVZxMFJxUFpjc2prWkNWU0d6TlRlUXk5bzhsMmdZWW4xV1dMY3hkeDUwNGtUcVJ2UXkwZEoxVmVZ?oc=5",
+"o": "Northwest Arkansas Democrat-Gazette",
+"via": "Google News: dc-zoning",
+"lane": "search",
+"at": "2026-11-20T03:00:00+00:00",
+"seen": "2026-11-20T10:08:47+00:00",
+"status": "unverified headline"
+},
+{
+"id": "a876448be3af",
+"t": "Cisco reduces workforce by 8.8% in two years, reports fresh layoffs in November - People Matters - HR News",
+"u": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOZ0piQngzNFdNdHpldzlFZjhQdjZFSjdnX2dvdWVkY0RKbG1wWXFVby13WlVSbC05OURfU2d5YzAxTnJFUl9iVXdGSjA2NmwyOFpkQmRWVDhvVUVKWWVQNWh0UFMyUVljb2JaWC1CbVBzNE9VLXVDYklaUHFRR2g1bjlCeERQeWdDN0p1OW5WZ3RRcEVld0lmREVqYlQzMHRhRFc4b1cxYnZCaGo0RWhJS0tJUXZ3WVlETExJbnV1bTVUSTQtekFoajN1NHk0dFJUTGpUT2wxQQ?oc=5",
+"o": "People Matters - HR News",
+"via": "Google News: labor",
+"lane": "search",
+"at": "2026-11-20T02:49:49+00:00",
+"seen": "2026-11-20T10:08:47+00:00",
+"status": "unverified headline"
+},
+{
+"id": "53f07ee8668a",
+"t": "Elbert County considers rezoning request for data center near Agate - CBS News",
+"u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdlVKXzhKRVQybVJ3NXJEVzRjRjVSQnBObW5iQ1dMNlBzYXljc2Faa1l6NGc0N3dMcGtRX0pXOXdhMzlHRlFuNUlmUEdJSUEwRHhTQnZSYVBVbHdVTDVScVc0N0ZYMGRTVDM4TFpzdTNVNG1HN1VScThrUTZXdVRBYzRvcXg3OFQ5dDgxb0pveWYwRmZoQ3EzZk1JT0JhcEVvT1RHS0Rzd0MxeE0?oc=5",
+"o": "CBS News",
+"via": "Google News: dc-zoning",
+"lane": "search",
+"at": "2026-11-20T02:35:00+00:00",
+"seen": "2026-11-20T10:08:47+00:00",
+"status": "unverified headline"
+},
+{
+"id": "38e0028786e6",
+"t": "What Should Qualcomm (QCOM) Investors Watch After 500 California Layoffs And New AI Moves? - Yahoo Finance",
+"u": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUnBxNG5ZS0g2QlBWcldacnhOb0lXanZIaXROM2pMdG1UaWx5LXlJT2EtV2Y1QmR5OTlXMVJmc05wNkhWWHZwSEdrUXVlRmIzWDlfdmZFdE03OVJPZjBPbFlWZ2hMV3BWdUV5YVRXODFnYTkzS0Vub0huZUpHV1RWYkEyNVJtT1JtelVidjRYa3dMOG1YeUttVDI4NEI4QQ?oc=5",
+"o": "Yahoo Finance",
+"via": "Google News: labor",
+"lane": "search",
+"at": "2026-11-20T02:16:00+00:00",
+"seen": "2026-11-20T10:08:47+00:00",
+"status": "unverified headline"
+},
+{
+"id": "90481a2efa61",
+"t": "US Data Centers: Loudoun County (VA) “Pauses” Data Center Approvals: Legal and Business Implications - JD Supra",
+"u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRUt1WGtaZEUzZkFseDNVeVFDeVdQTDRydGs3T252bDl2dVZzX2NwdDE5UGdDdjlkckE2X3dHRkV1Qlk1NWw4VnNjb0VIM0ZqNUpMTXZZUW5NRENnRUctdEtYSUN3NGJ3bTNwMWd3MmJiS0tRWDJzaFAwT0JmaXJybFhB?oc=5",
+"o": "JD Supra",
+"via": "Google News: dc-zoning",
+"lane": "search",
+"at": "2026-11-20T02:11:10+00:00",
+"seen": "2026-11-20T10:08:47+00:00",
+"status": "unverified headline"
+},
 {
 "id": "0e9876dba44f",
 "t": "Big tech is already building datacentres in Australia. Why is Labor so desperate to give them loopholes?",
@@ -11,6 +434,116 @@
 "lane": "news",
 "at": "2026-11-20T02:00:18+00:00",
 "seen": "2026-11-20T02:14:16+00:00",
+"status": "unverified headline"
+},
+{
+"id": "7b4a08b8d81d",
+"t": "Broadview Eyes Hyperscale Data Center Campus - Wisevoter",
+"u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOV290T2J1VGJZQldxT0JfcUo4eGFpc2pnYUQxazFKLTBRc0JUTnlWWEZxeHpEd09HX1BXNHBnb0tMN3JxMjdxNlZQUmJORXdMX21QQ1N1RjUxbTBGTkxpQ3FZcFl2a09FdXNIcnpBREZWVEhENl96bzU4OFZWUzhBc24zNi1lVlpIcWstVlMwVWNYeDRXekhfM0d3?oc=5",
+"o": "Wisevoter",
+"via": "Google News: dc-water",
+"lane": "search",
+"at": "2026-11-20T01:43:55+00:00",
+"seen": "2026-11-20T10:08:47+00:00",
+"status": "unverified headline"
+},
+{
+"id": "3606611f17f5",
+"t": "The hidden environmental cost of AI data centers - DW.com",
+"u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWUpYbjhCemF4MnFWUVZVY1BoSlIzZGhaMFhoaW5lX01rek9Oc0otYWZhcW0zenZHRWpISjNVUTlONncxSVNRR0pfUE5aZmZpcl9NRjJsRW5TMmZWOTJ5RDEtREdhZndkdWliVU1BN3VuNlhHWjdXS01QX2ZTMWhiS0txaExpclNJ0gGIAUFVX3lxTE14UGg0b2FyUW5pVW1PNF9LYnlkVVhIVElxeHE2bzVwazQ0ZVZGUkRFRHcwcFlZVGx5OWVMTnRwdGlVMThpRkRzd2FzMGZQajNid09wVmxITUwtRjNrVVppaFc5Z2ZuVXk4TnN3aVZIckN5aUFXN3RyV1Z5NHBZWU5YcWVwdURoUGE?oc=5",
+"o": "DW.com",
+"via": "Google News: dc-water",
+"lane": "search",
+"at": "2026-11-20T01:38:34+00:00",
+"seen": "2026-11-20T10:08:47+00:00",
+"status": "unverified headline"
+},
+{
+"id": "812d485513b7",
+"t": "Texas resumes data center permit reviews before ERCOT community impact report is out - WOAI",
+"u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQY2U3V2h2R0lhYzZGZUlCdDdzTjlrUU5WRngtQ2RhbExvYUk5c08zbFVpaWp1ZlpXU0p1WlJaQUVCZFFIeUkwb1VtNkhrb3U0dG0ybGV2ZzhLc0pJR2F3c0JuTUhmTUdrcmM0SE0zZ1V5RU4xaFRSRV9ZYTJNc1VHa1d1dkRpUi1CWV92VS1XN24wNXZFY051QVN5RlQ2NHJnQ2s4UVAtSDUyZWdxYzM0Wkp6ZDdMMGktMHExTTA0ZUI?oc=5",
+"o": "WOAI",
+"via": "Google News: dc-utility",
+"lane": "search",
+"at": "2026-11-20T01:37:58+00:00",
+"seen": "2026-11-20T10:08:47+00:00",
+"status": "unverified headline"
+},
+{
+"id": "01c4e20952e6",
+"t": "Data center groups applaud new Fort Worth policies, oppose full moratorium - The Business Journals",
+"u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbXc3MFQya3oyQUh1TVFGUEZnYlBpb0FwNlJFVGFmVmNJd0xzd3RDUDczQlNTOEFLUmxqbFplRG9TcnRHQ2lna0JueUhQOUNmdjREb1hEQzV6QWhYUldGR0RYdzlDdTdYYzhCT2xoZFNSbS1oT2piaVBQandvcURma2VBekRvYnZYQ0pxdUxNQjJnaXNpd0FSSERmNGtyUU1zS3c?oc=5",
+"o": "The Business Journals",
+"via": "Google News: dc-zoning",
+"lane": "search",
+"at": "2026-11-20T01:23:00+00:00",
+"seen": "2026-11-20T10:08:47+00:00",
+"status": "unverified headline"
+},
+{
+"id": "bc4b7fd2ccee",
+"t": "Mountain Home data center developer challenges city’s moratorium, saying it may not have been approved legally - KTVB",
+"u": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNbGRseFNqdnFwMEMyMWNWaTdwYWhlWVNseWlNdXFEelowZlZyLWxjVVJzTWJmY0g1bkRLUWRFcVliX1dzZHc3NFNyWmRGaUhkdjEtaW1iRHloUFcwNnNCc2RmcFYxT0N0bFNTVnlwaXNrWW5iMnZieWhJUHRmWEg1am1xUXlNaHprVEZIeU9US3dyeEhQLXluNkdjSmtwdjdnQkUwY2hQV2lWamdVN1dpZGVBTlBuRUJuc0I5eXNzZU1NWDR4cjhGOXFjM0ZaZ1Baa3BRWWFzdjk2RVB6QXlkbFpYejN3YmU0RjloU3duUGhwSUxUNl8xdVh0bHNQVmZsUVdkRnNRSk9oZjU4MGMzMUNhb2tydzZnTTN5YW5rME5qaWRGSEZxTGdadk9pM1VZVVphWA?oc=5",
+"o": "KTVB",
+"via": "Google News: dc-zoning",
+"lane": "search",
+"at": "2026-11-20T01:09:00+00:00",
+"seen": "2026-11-20T10:08:47+00:00",
+"status": "unverified headline"
+},
+{
+"id": "51d99d88cfd8",
+"t": "Stafford Planning Commission recommends against large data center project - Fredericksburg Free Press",
+"u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTlY1NTJDLTQyRlhDUTZRcU90dHRBb1RvTE9ibndvZjF5emNSTlhfdXROY3hEbnRqamJFT1cxUEpIM2xGNnJzRzJuRzBkRHRvZUtJaHNzb1RjZ1o1aVpCSnVyUVh0TXZaOFZDX2V2NVRnMm1hQ2NrSjlKR2U3dks0aDZpVEZjaTEyRjlibUhBczUzZ2xpRy0wSHpiU3NBcTE2NWFGdnZoQTBzbmVCS0xpWFR0cGNqR0dSSl9pcTlZYWQ3T00?oc=5",
+"o": "Fredericksburg Free Press",
+"via": "Google News: dc-zoning",
+"lane": "search",
+"at": "2026-11-20T01:06:49+00:00",
+"seen": "2026-11-20T10:08:47+00:00",
+"status": "unverified headline"
+},
+{
+"id": "dbd4e31efd79",
+"t": "Palo Alto Networks to acquire AI firm for $4.5 billion; shares rise 6% : Global : JKN - 재경일보",
+"u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1vY0ZzQWttYThFRE9vN0hTVjUySThnWGdpLWhrbmVPYU9LTi00VHhObU5aR0QzRjJBdTlzSjR2cUVCN3RyY3E4VjliV2dDaEY5RW9GaEFjSHJOR0prWDVqd1hR?oc=5",
+"o": "재경일보",
+"via": "Google News: ai-deals",
+"lane": "search",
+"at": "2026-11-20T01:05:04+00:00",
+"seen": "2026-11-20T10:08:47+00:00",
+"status": "unverified headline"
+},
+{
+"id": "889b36fe8d3b",
+"t": "Pillen announces Data Center Task Force final findings, recommendations - KLKN-TV",
+"u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeXVUVUFuRmU1ZW5mUGFpenpNUWJoSXhUZHRVQ1R4TnNMYWU4am5OLS1lRExvWUNhZ0p5VnpSWU5pTnh3dTRzaHJ6RnBHb0xPOE9id0lkeTY1eDhPLUs0ZVRJcTRGbzB4dzNER2E3STZIdG9aNTgzeGR1TDdDSnhEM2Fwa0Q2LWtVaWFIeHpqdTV4cGk3T1RxUHNB?oc=5",
+"o": "KLKN-TV",
+"via": "Google News: dc-water",
+"lane": "search",
+"at": "2026-11-20T00:56:50+00:00",
+"seen": "2026-11-20T10:08:47+00:00",
+"status": "unverified headline"
+},
+{
+"id": "e83de9327be8",
+"t": "TCEQ resumes data center permits before ordered review is completed - ABC13 Houston",
+"u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMWV3V0JqTmNRbDRpSmRoUWZtN1hENFhfTm1DcDNIU254bXM0ZW9DQ0lTZXA3NlI1MzNCc01fQklxcFY5SjltemZwMV9TQU5rLTNBVkd2QWxuNC1Ja1R2M2c3dU0wZWxiUXl1Qy1JVlJZTi1NUW52aEMwSDdlTkZ1dFlmaGs3TDN1ODZRU1Q0a01IQ2R4UUdTM1pxSHg2ai1NVXhxT2x4Z1h4M2cxY1NuZUEyZkYzdEVDQm84NC12LWxQTzBsQmFPVW9TUzJyenVK?oc=5",
+"o": "ABC13 Houston",
+"via": "Google News: dc-utility",
+"lane": "search",
+"at": "2026-11-20T00:48:32+00:00",
+"seen": "2026-11-20T10:08:47+00:00",
+"status": "unverified headline"
+},
+{
+"id": "11aed2d7d4f6",
+"t": "A River Runs Through It. A Data Center Rises Beside It. - Chesapeake Bay Foundation",
+"u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMnluMjB3NnQxQUFPM1VtRkFDaGxGSEdYM3doQ2Y5Zk9ZLTlhNS1DTllON2tKZUkyTUZBYVlDaXEwNjJtcUFHVlRRM2FOQWNST19DbmVlSXpCY0N1UktxMXVhREJXUzBDMGlxTDhwb01fWUh4RU9iZXR4ekxuN1BYSUV5ZVVDNDdUUkE?oc=5",
+"o": "Chesapeake Bay Foundation",
+"via": "Google News: dc-water",
+"lane": "search",
+"at": "2026-11-20T00:45:55+00:00",
+"seen": "2026-11-20T10:08:47+00:00",
 "status": "unverified headline"
 },
 {
@@ -24,6 +557,224 @@
 "status": "unverified headline"
 },
 {
+"id": "e08863293950",
+"t": "Upper St. Clair meeting to address zoning changes for potential data centers - WTAE",
+"u": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1fanJlQVhhT3VoLWtadHJxdFUxYm9aenREVkVCU0Q3blV4TGhUOFNNbVZ3SjRMdkppZ2lpS1hWeDNwT3lPaXFmUzJFOUtEREV4OU9HWGpZeW5aaFhPbFhlNFRPemJSeEpFc01qUHdMMXYyQ0JyWWtfY0Y4Zw?oc=5",
+"o": "WTAE",
+"via": "Google News: dc-zoning",
+"lane": "search",
+"at": "2026-11-20T00:41:00+00:00",
+"seen": "2026-11-20T10:08:47+00:00",
+"status": "unverified headline"
+},
+{
+"id": "eb7482822bcb",
+"t": "Lawsuit challenges Project Jupiter water approval - Albuquerque Journal",
+"u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOUZtVVhqSFVxNk9PWThxV24zNGJoTEFQQkdlR3dBZEl6d29RWS1fRlBoay12bFJoU1FLSUdUZFJNcVMwa2k1U1hJTHRMU3ozRWNYcGxDcE94QWZpNEFGbjZ5QWlVWEpDdnd2LWRUeUszS1J6alVXU0p2YldSVUZVX1QwMFV0UzJjVFpUbDJwWUNZTS04anEtdlNTZEljaTloRkRTQ05uUFpDWXltcTVSU0Z3?oc=5",
+"o": "Albuquerque Journal",
+"via": "Google News: dc-water",
+"lane": "search",
+"at": "2026-11-20T00:36:00+00:00",
+"seen": "2026-11-20T10:08:47+00:00",
+"status": "unverified headline"
+},
+{
+"id": "a49d063b0b39",
+"t": "Whitley County data center ordinance planning continues - The Post & Mail",
+"u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNaE9Fc1ZZcjdERmF6Qi05QUliYU03NS1LNFdEeUdUTXRodXEzNXZzMTVNTDJWdVBjWWg3SWp2MXVBUTNiSDlzMC1ZTnhaMGdZZURBXzJaUFVtblNIRC1iTldmandKS01ocmpDOWRLVjRZWTRmaExzaDNrdnFkOWxRZTVLYlJLVXQ0QUs5WlpoZ0t4Z3AzWEZFMWtjbDF1aDlnZ3oyamxDcFI1aVN1NTlZWXlHaTNkQy1lYkxuaTBaWWJCNUlSYTlHSDNMYUo3Rk5ONkhIQTl2bjI?oc=5",
+"o": "The Post & Mail",
+"via": "Google News: dc-zoning",
+"lane": "search",
+"at": "2026-11-20T00:29:00+00:00",
+"seen": "2026-11-20T10:08:47+00:00",
+"status": "unverified headline"
+},
+{
+"id": "1c88ab9719ab",
+"t": "EU hits car transporters with €395 mn antitrust fine - ET Auto",
+"u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMU4ySWpRLWQwaFI0eHZFT0QtUm9DbFhjMnVyeFBhai10c2JvVzB1ZWFydFpvdkc3YjBWRDZ3WG1UNEVxSjJvZDR5NHVEcDBkVnJxczNYRjBIcTNNVkpjRklCcmhnR2c5ZVEyT0t0aXF6aExPRnVDZVpINlJsdjI5c1JmWFg1R2VpN3JRRjRyU1M2NUI3ajRDN0Q0dkxLX0VrOElvZUYzWG9oeVJVRWlqN0Jzby3SAa8BQVVfeXFMT0tfelV3UGNBV1pkb2hjQVNob2NfcVE5UG9OXzRqakx4SE5leUFERGZKTzVwSVd2amFMSDJ1cGRKSzN5UVhHSjRuZnFDODVYME1YRjU1SEh5U1JNdDNYWS1yQkdZRnRzWm9Ka1hIRDVrWG9ISV95STZIcTg3M3A2VkN4anE1alJrcE9VTlJzS0c2RnJZTm1uNDdoeWMyamR4NlFyM0xoM3BTMjdvWW14aw?oc=5",
+"o": "ET Auto",
+"via": "Google News: antitrust",
+"lane": "search",
+"at": "2026-11-20T00:04:51+00:00",
+"seen": "2026-11-20T10:08:47+00:00",
+"status": "unverified headline"
+},
+{
+"id": "d2071fc9f669",
+"t": "California Attorney General Issues Investigative Subpoena to Nvidia - WSJ",
+"u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPU1JnZlB6YVZ4SGVkcGZoWFc3eWVGdjY2T3g2ZXhoZ2NrcXd5NjZNTUx0ZE9wZ2I0Uk9fNGxyal9pWnZYdS0wa0tKYUlpem5PSllfSWFueWw3VnY5aVM1andIeTZadW1ZSEduazNsWTNXemlITUpDV0R1d3N1WU9aNG9JSk1kSklNTlBHTXlCb2ttZ3otUW95Zld4YWlQS3pNbjdn?oc=5",
+"o": "WSJ",
+"via": "Google News: privacy",
+"lane": "search",
+"at": "2026-11-20T00:01:00+00:00",
+"seen": "2026-11-20T10:08:47+00:00",
+"status": "unverified headline"
+},
+{
+"id": "4c866763e28d",
+"t": "Self-Regulatory Organizations; MEMX LLC; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Amend Its Rules To Permit the Listing of Binary Options Overlying Key Performance Indicators",
+"u": "https://www.federalregister.gov/documents/2026/11/20/2026-23650/self-regulatory-organizations-memx-llc-notice-of-filing-and-immediate-effectiveness-of-a-proposed",
+"o": "Federal Register",
+"lane": "agency",
+"at": "2026-11-20T00:00:00+00:00",
+"seen": "2026-11-20T10:08:47+00:00",
+"status": "unverified headline"
+},
+{
+"id": "52b8d111730a",
+"t": "Self-Regulatory Organizations; Miami International Securities Exchange, LLC; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Permit the Listing of Binary Options Overlying Key Performance Indicators Reported by Cer",
+"u": "https://www.federalregister.gov/documents/2026/11/20/2026-23649/self-regulatory-organizations-miami-international-securities-exchange-llc-notice-of-filing-and",
+"o": "Federal Register",
+"lane": "agency",
+"at": "2026-11-20T00:00:00+00:00",
+"seen": "2026-11-20T10:08:47+00:00",
+"status": "unverified headline"
+},
+{
+"id": "221e5d52ab85",
+"t": "Georgetown planning officials recommend denial for proposed data center zoning - Community Impact",
+"u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQUR6NnZCQUFkNGVKaHk3bzlfZ3VKOUtRdXR5cTRjeWFCaU5DaS1oZDJIOWY2TkVqRGE2MXJ0RExVOXRMT3gyMm1SblRRYnB1NkMyZjdhV3huOEZyTFVqZGoxSU94U0Y5RU5tdndyenJ6T2prU01zc1VmOEI5NVdVLU9kZFp5RXB5cjBRZ0I4Y1JEbGNlbmFlQVliNmZQSVNNNnl2N1U0M3E2TXFMYW9mN2t3VUxTZGJBQ0JQa3luaFFVNExKRzZzbDBR?oc=5",
+"o": "Community Impact",
+"via": "Google News: dc-zoning",
+"lane": "search",
+"at": "2026-11-20T00:00:00+00:00",
+"seen": "2026-11-20T10:08:47+00:00",
+"status": "unverified headline"
+},
+{
+"id": "bf4c376da2e6",
+"t": "San Jose Planning Commission wants authority to approve large data centers - The Mercury News",
+"u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaHZwdzNxRUJpLXB6c0cwVkF2OExuQ0dBbDhSbi1TY2cwWmFfMnl4RzlNeE1MdVZHT0R3dE9PaFF5cGI5SnVtY2JET1ZrZk9keXBIMXJtOUlKSnpnQVZkUVgxWjVwbmNObjVzMmZwLXRoVUszbTNob1RNY2RMalVYelhhQjloZEt5TGJtbjFwdkZuVG5h?oc=5",
+"o": "The Mercury News",
+"via": "Google News: dc-zoning",
+"lane": "search",
+"at": "2026-11-19T23:59:19+00:00",
+"seen": "2026-11-20T10:08:47+00:00",
+"status": "unverified headline"
+},
+{
+"id": "68ea5b23b03a",
+"t": "What Is AI Washing? How To Spot It In Layoff Announcements - Forbes",
+"u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRXBrMFFsVWQ0cjk0cV9OU2dTdFRxM0p3QmpOb1pSSjgxdFQ3Z3JjN3NfbW9qV25QblBtb3NTN2c2ZDhsYTBGbUVnS1N3ZDh6N2pJMl92enRUZE1kSXNSbFdZWEcyT054T3dfSVJLMWRnMks1WFYxQ2F6NEd0Y2NqX0stMjcteG1VT3BRSUZiVko2QWFlbUpaWUJxOTBDVUtzYlBabXJuLVBLeV8yYnptSg?oc=5",
+"o": "Forbes",
+"via": "Google News: labor",
+"lane": "search",
+"at": "2026-11-19T23:42:35+00:00",
+"seen": "2026-11-20T10:08:47+00:00",
+"status": "unverified headline"
+},
+{
+"id": "446c3ecf759c",
+"t": "California AG Rob Bonta serves Nvidia with subpoena in wake of Jensen Huang's Chinese spy, affairs scandals - New York Post",
+"u": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNVGc3a0V2cVdqRExpN3d6bnRiRkRuNGNiVFB0R1RjNU14alBRTi1RUUM1TkVRQjk0YTIwQWRjWGV1WXQxS1VsRzk4MWI0ZE43UEo5anVvdXA3YmVnbDAxa2hUQWViaUxnVVlNRVp6NFJ3SHB6NTB4cmtuLTUwMjJOZlB3ZXoxODl6UlhIZFkzRFVoOE1tblRVQ2otVWxrSWdtU2xaTTBaTm10WEdnR3JGOV85TWV5V0g3SnBsdXM0YkgtWUlsT0dLODMtb1F2aTB4M3VsMnRNd05nQkRaTFE?oc=5",
+"o": "New York Post",
+"via": "Google News: privacy",
+"lane": "search",
+"at": "2026-11-19T23:41:00+00:00",
+"seen": "2026-11-20T10:08:47+00:00",
+"status": "unverified headline"
+},
+{
+"id": "a2987a328b55",
+"t": "Navy awards 28 companies a combined $7.1 billion contract for SEWIP shipboard electronic warfare - MLQ.ai",
+"u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeDBfTWRLNGxiYkJkWWpzb0FNNmNaZl9QOEU5YXZ1ekk5UkhieXVpV3ZDdnpDQWpqN1lFaVFFcTRlMlRuOXJWM055MnlGN0d5UEhMXzkxRTBGNXFXTGxNdDVxMVRzUE84S2pNdUJ0MTdEWXNOYWhheDNvMDc5Q3gzczIyYy1kTWprQldtRi1xQnVJclFmeVRkbzU3WlA0UUlrdE1DNWxIb2pPeHhpS084R1lFRHFGdw?oc=5",
+"o": "MLQ.ai",
+"via": "Google News: contracts",
+"lane": "search",
+"at": "2026-11-19T23:38:37+00:00",
+"seen": "2026-11-20T10:08:47+00:00",
+"status": "unverified headline"
+},
+{
+"id": "e6f434ba3d4d",
+"t": "Lyon County Commissioners extend solar and data center moratoriums through next year - KVOE",
+"u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZ2JuMXJoTVpyenB1S29mTm1WLTZNVTNTVDg4WVdyOEMyQmFZSWRfQVEzdHY3REdmUkhZdTh6ZV9DbFZsdEpOMFVDNk1jTTVKQXhrcUl0SVEyUmZWd29SbXgwTm9PTlY2eUZJb3lndzh2bTctZlJKQ2ZiWF9zb2RFbXVOMXdkak53ZmM3MGx1eWJiWVYwV0dmcmhHcW1ETUVaSHI4UjFvN29zYVJ2WUZ0NmMwRQ?oc=5",
+"o": "KVOE",
+"via": "Google News: dc-zoning",
+"lane": "search",
+"at": "2026-11-19T23:28:21+00:00",
+"seen": "2026-11-20T10:08:47+00:00",
+"status": "unverified headline"
+},
+{
+"id": "a6b6878a4e81",
+"t": "Netflix, Tech Cos. Win As Fed. Circ. Backs Axed Music IP Suits - Law360",
+"u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaGVtc3ZGeU1hWE5GVWtkM3ZlNElsd2RZXzlwSHZ1WXdEUGdOcVZrN0ZxR1hNWXVkZk5iT0R1bXlkVlEwVVdTdmNDcklQdEpDQTB1YU4xZmxLZnFDZ0tFV0s2Y2RsVFZZdFotM0RXclhuRG43TUJVdl9kcW9XaE10ZFNERVdCTzZsOFRIN3R1bHc5MmJiRlpoNzZIcUTSAVZBVV95cUxNY0ZwNWdjZ2hMcC1sV1pSV2duWk1GRGgtYWQ3Szl4OU92SENuVm1zSXBpR2xDWEVSeno2aXY5dHBrOFI2RDRwanA4M24wWnFKYzVnMDVkQQ?oc=5",
+"o": "Law360",
+"via": "Google News: privacy",
+"lane": "search",
+"at": "2026-11-19T23:19:52+00:00",
+"seen": "2026-11-20T10:08:47+00:00",
+"status": "unverified headline"
+},
+{
+"id": "9a6ded557851",
+"t": "Prologis Inc: Disclose Responsible Data Center Policy - As You Sow",
+"u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQejVOalBYdTVOd3dLM3pkTHk2QXpKREtaenFqWXh0LUpVOHdZbk5EN2dDTjdrTnB4SUFsYVB3WE05TkRSUDdwN3ludUh6b2VwdFczeDRFdGc1QVFiVnVacnlTMjNSOW90Nk5jWllmRmY4WkthV2x4cFBaLUMtRHlKUFR1bWhxY01xSk9YOEFsb2I0RmdUZWQyQWJZVUI?oc=5",
+"o": "As You Sow",
+"via": "Google News: dc-water",
+"lane": "search",
+"at": "2026-11-19T23:06:50+00:00",
+"seen": "2026-11-20T10:08:47+00:00",
+"status": "unverified headline"
+},
+{
+"id": "8a27dc05d6d9",
+"t": "Siemens Energy CEO Sees Data Center Boom Lasting on Power Needs - EnergyNow.com",
+"u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNG9NWHo3c3FtVHkzbmxwZVEwcnJpeElka3czUTlpbjJkZFBiYXZGN3dlYjhKZ1pPOE1rVlotMVFoaFNKVEljSldhek5sX09KU3lQRDFCNGdDU2taVVR2RTY5RjBvWldXQ045WTY5YlZxOENLejdibnJpUkg4eFhhcVNjX3A5TTd4c2N2M0VyaUJMX2trN2ZRdzBn?oc=5",
+"o": "EnergyNow.com",
+"via": "Google News: dc-water",
+"lane": "search",
+"at": "2026-11-19T23:05:37+00:00",
+"seen": "2026-11-20T10:08:47+00:00",
+"status": "unverified headline"
+},
+{
+"id": "07b44e1f693a",
+"t": "GEO Group sells its Tacoma ICE processing center to the government for $453 million and plans a $500 million buyback - MLQ.ai",
+"u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcTQyS280enFSakJrWGN5UDlsZWdwUE0tUXplcnlFdklYMGlvS2ttcnZmN2hYMkVmaWpMLUpTRUR4RDhDbE9VZHVjT1J0ZnV3NDExVGcyVGd0S3poLW5BLTV6MmdIc1hxYkdDWTQxRFJHZlI3Uk0wNWVSNEZpTVJuOUtlcWZTTTdOWkp6cVlkb2dOeFFaLUJDTmE4Qm1vRHRoeEVUSzE0YlpWNDk0RUd4ZXFFWU5wZWRsclI0b0ZOVDFaWDBrQmdGOTBkclo0d0Ft?oc=5",
+"o": "MLQ.ai",
+"via": "Google News: contracts",
+"lane": "search",
+"at": "2026-11-19T22:58:37+00:00",
+"seen": "2026-11-20T10:08:47+00:00",
+"status": "unverified headline"
+},
+{
+"id": "b0632752a183",
+"t": "DHS ICE Market Research Eyes Nationwide Criminal Analyst Support Requirement for Up to 1,500 Positions - OrangeSlices AI",
+"u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQaVZrOU93ZWZJdGVEQ0xvZnJlZmF1ZzlhcV9EX0szaTZKdjhDTjA2dlZjZHlWNE5GZjFmMHNYTzlSQXlVNzI4VlJTM0pNM1o1dW5MalpuQzZlTk1DOTVjdnF2Rkg4TjdRVHVnVl9yNDJyUUU5SzRxLTliMDBmTll1bHBQc2E1T1JON3FTUjZOYUkxX2R0ZkJXODNYUnVWSmFvVzI1MDZMNWhNcTdDaWZNUjJwc2FrcV9OT01zMTYzckhPRmFP?oc=5",
+"o": "OrangeSlices AI",
+"via": "Google News: contracts",
+"lane": "search",
+"at": "2026-11-19T22:52:09+00:00",
+"seen": "2026-11-20T10:08:47+00:00",
+"status": "unverified headline"
+},
+{
+"id": "990fcecf78cc",
+"t": "Elbert County Weighs 5,700-Acre Data Center as Water Fight Splits Residents - Hoodline",
+"u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUHN0NEZ6NUJzRUctSmhhWS15UmpnTF9xb2F3cHU0YTFpVUg0Z2NNQmU5THZXWi1BVXVQUjZzbWtFQjRsMHZ2VXhWQUNTLWJ5ZGsyRTdkYktsOEx2a0VTUnNfLWRMQ2VXMVp6QURnakFJaGw5UXhTSWtvMzB0SDQ5T2hmYlVUUHV1d0RGU1BFTm1wby03TlREY1pQZFJHSm51VWctdzZpRjQ?oc=5",
+"o": "Hoodline",
+"via": "Google News: dc-water",
+"lane": "search",
+"at": "2026-11-19T22:48:57+00:00",
+"seen": "2026-11-20T10:08:47+00:00",
+"status": "unverified headline"
+},
+{
+"id": "81ab5eb43751",
+"t": "Energy provider PJM proposes new safety, reliability standards for data centers - AOL.com",
+"u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOODJzZG9PY3BaWUFSLWpXRThhZkRYYjc1cUN4YW1URDhpQnhOblRrTFZRdGU4RnFMc19kMHhGd3Q0UDhXTjVnTnNCNGxhUkF1NVVKcmY0S29Tc2JXaGw0RktiMXRJWm95TWFlN09kOW91a3Q2N05xSjBITlEtb3hhZHNHR01PUQ?oc=5",
+"o": "AOL.com",
+"via": "Google News: dc-utility",
+"lane": "search",
+"at": "2026-11-19T22:46:59+00:00",
+"seen": "2026-11-20T10:08:47+00:00",
+"status": "unverified headline"
+},
+{
 "id": "4eec642026e1",
 "t": "California attorney general opens probe into Nvidia over Jensen Huang scandal",
 "u": "https://www.politico.com/news/2026/11/19/rob-bonta-probes-nvidia-over-jensen-huang-scandal-01177017",
@@ -31,6 +782,50 @@
 "lane": "news",
 "at": "2026-11-19T22:43:13+00:00",
 "seen": "2026-11-20T02:14:16+00:00",
+"status": "unverified headline"
+},
+{
+"id": "b0a65ae11f63",
+"t": "Nvidia Nears Acquisition of Diffusion AI Developer for More Than $500 Million - The Information",
+"u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONjI2ZmljcWphUkcxbzlYMXNKeFZFRkw3Zzh1Y1dHVFVVSXBIbTNFNFlyNnY1UktVV3VRNlBIMVJKaXBGd1kzM2RyMkN4eGpNbVVwSzhwRm9mWXcwSGZlcjg5eFdxZHpqMlVCQjExZ084dVZCUDBBeW05Ni1vaUNNWTdvcDFDMjRiRl9oS2czcUJSbTZuemRRLVBtMWtFWTZ0?oc=5",
+"o": "The Information",
+"via": "Google News: ai-deals",
+"lane": "search",
+"at": "2026-11-19T22:43:00+00:00",
+"seen": "2026-11-20T10:08:47+00:00",
+"status": "unverified headline"
+},
+{
+"id": "7d7106841ae6",
+"t": "Tallahassee Weighs Ending ICE Agreement - Wisevoter",
+"u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcDBxR1l5SEVReVJHSDFCSDFIRHlEa3NtR1RQUjJuWGM1SjhTT3hWcFdiWldXVUtwbGdXWnM3TmMxaEcwQ1FmMzVzbEdwNzU1Q0dpT0ZFQ3ZDVlFyYmhYakU1T1UwbnRpZXdjR2gtUWNHVlBaY0VjT3ZDRmR1cmNSV3BLeXVzamhoN1ZSY2JNZGpnbXEyb1JQVnliOGhDMV92?oc=5",
+"o": "Wisevoter",
+"via": "Google News: contracts",
+"lane": "search",
+"at": "2026-11-19T22:42:51+00:00",
+"seen": "2026-11-20T10:08:47+00:00",
+"status": "unverified headline"
+},
+{
+"id": "7f89c7d5a232",
+"t": "FACING SCEPTICISM: Kevin O’Leary’s Huge Data Center in Alberta Faces a Skeptical Public - EnergyNow",
+"u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZm9SVlFwVHRhXzkycjNDbGl6Ri10TThqNlhLc3IxeThrUFlVLVhGX3ZIS1RUc1FLT284VGRNekFUTmhSRjZiZXZuVXFzWXpPYjJWZENCQlJLZF9Zb1JNZFVtM2NaUVB1cmp0VmVpbVRsUjZOaVNXa0o5N0hxWHJCX2dMbHV6TkZSOWpBMkkxSGlxd1NZd0tuMzk0TQ?oc=5",
+"o": "EnergyNow",
+"via": "Google News: dc-water",
+"lane": "search",
+"at": "2026-11-19T22:38:56+00:00",
+"seen": "2026-11-20T10:08:47+00:00",
+"status": "unverified headline"
+},
+{
+"id": "6ab997fd8b17",
+"t": "Short staffed already. Now a 15% cut? - Washington Federation of State Employees",
+"u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1IWE11NHpVVnpTZVdiVWo2OVJjelFmWDlUaXBfeDBkX01xNkhNTldkUFNQb3Z3bWE4NVRvQTN4TlJnZmE2aXlTejAzNThJMGZhQzlQUkljcW15cmRvZ3l1TjFyelU?oc=5",
+"o": "Washington Federation of State Employees",
+"via": "Google News: money",
+"lane": "search",
+"at": "2026-11-19T22:37:23+00:00",
+"seen": "2026-11-20T10:08:47+00:00",
 "status": "unverified headline"
 },
 {
@@ -45,6 +840,127 @@
 "status": "unverified headline"
 },
 {
+"id": "8045b6067076",
+"t": "‘A city short of 30 MLD water will use 12 MLD for data centre’ - Mumbai Mirror",
+"u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQR2NhU0lYMFFVQkwzQ2JQMHVvdTJnVzJiYlpIc28zYkk4OTB2eHRsZERUb3Q4MHBBcDMtREptajQzWGdHczZSM0xxeTFCX1ctNVBBMXFtQVZVUmJMeHY0UWFHRmFEazRQT2NjbzZxRVJLY3dPc21WcUp3bWwtaDlyUlhCbnVTeF93MnA2OWZ0T3B5akFESGNMWWp2VVRwV1BiSzd3ck9WREE4anFKYVE?oc=5",
+"o": "Mumbai Mirror",
+"via": "Google News: dc-water",
+"lane": "search",
+"at": "2026-11-19T22:33:53+00:00",
+"seen": "2026-11-20T10:08:47+00:00",
+"status": "unverified headline"
+},
+{
+"id": "719e449b89a7",
+"t": "Washington County Quorum Court to discuss data center moratorium - Yahoo",
+"u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUXR0QkxpZXNJaWlnaWNyLS15Z1pjVEZ4Y3VCeUFJYldGMi1WX0N6Yy1ZU3pMZER1SnBzZENUQVBhaFlMa3g2N2RDaE1hZm9RUy05M05Nd05veDNKSTVQVXpuaXZHRHBXZDJyZUtXVVh0MEhzU2YtMkc1NVRDUDAwdGViY0pTVVZhVHJhaUozNU4zOE85dlVxUjhNeExuTXc?oc=5",
+"o": "Yahoo",
+"via": "Google News: dc-zoning",
+"lane": "search",
+"at": "2026-11-19T22:31:12+00:00",
+"seen": "2026-11-20T10:08:47+00:00",
+"status": "unverified headline"
+},
+{
+"id": "3541e513f02b",
+"t": "Loudoun County hits 12-month pause on data center development - The Real Deal",
+"u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTDdDQnVHUWhRSXJrdkEwSU5qcVdEUktmUmdDcjgzSmthLTduaE8wNHRGT2xrOFZ6RE9SRzZwQ0JmcmM5T0xGQ2VWdTRsV1RoN3NjOVgxR1FxaGVWVDg5NHRMWVduMTBDVXBvXzdtUnoyZlg4RVB2MS1ZZThPbmlBQkYwUFdxZzdlVXk0SmdwSzVBaEJqTjBvM0VxWUxFT1hSa3dCUkJNSzYxZHljbGRPZg?oc=5",
+"o": "The Real Deal",
+"via": "Google News: dc-zoning",
+"lane": "search",
+"at": "2026-11-19T22:30:00+00:00",
+"seen": "2026-11-20T10:08:47+00:00",
+"status": "unverified headline"
+},
+{
+"id": "0bb5ed132cd6",
+"t": "Google adtech monopoly trial in New York pushed to Oct. 25, 2027 - MLex",
+"u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMWNKT0JiZXl5UEFXM3NPc0gzRUIwaDdkUWNoUm95XzVJcG1tSWZDUkFnM3VObU1pV2VFOUowZTk1NFdIMVlFampzam5YNk9mNHBVVzJ4aEdmT3VRazJBZUhwWkc4NVFqU05uMEQyZGlXYU5QcEpxMHh0MS1PSnVKa1lZdGpwY2hJaDZlOGw2c21pcVZvNEJuZHR0VzFZem5LV0dQVnhPT2c3TXBCYjduUGZhUVp0Z9IBWkFVX3lxTFBEYnF1MWRBai1DSl81VVFMeWdNOTByVEVDTHJNMkNkai02ZE1PWHNtd3Z6RmZGV1A2VVV4TEk1TEhfVXNaX2hTc3FvT0pUOGN3V3B4ZHRkdjIxQQ?oc=5",
+"o": "MLex",
+"via": "Google News: antitrust",
+"lane": "search",
+"at": "2026-11-19T22:29:57+00:00",
+"seen": "2026-11-20T10:08:47+00:00",
+"status": "unverified headline"
+},
+{
+"id": "2e6d06f1b422",
+"t": "Madison County presents first draft of ordinance to regulate data centers - Indiana Public Radio",
+"u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcDdoWXA3cmtRdlNhbnJLX3NydVA3eDE3d3ZiajhnTlVZT045ZzA5ZWZpdVhFQ3lZbElDQ0ZNbVdCRHpLSjVocWVBdThmZXh2QW9oQmdPQTFaZEpCT0YzWXBPNWhZMTAtaTdEVkRucDliZjBseThjZTl6Tl9QMlhxOG9wQlFJeUpD?oc=5",
+"o": "Indiana Public Radio",
+"via": "Google News: dc-zoning",
+"lane": "search",
+"at": "2026-11-19T22:27:51+00:00",
+"seen": "2026-11-20T10:08:47+00:00",
+"status": "unverified headline"
+},
+{
+"id": "4a8dedc49b9a",
+"t": "Packed house at Massena Town Board as Akwesasne Mohawk Tribe calls for data center moratorium - North Country Now",
+"u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOclk4ZjdxbV8yNXFYZF9rSFBTMWpsbHk2RDFWT1RxelRGQkxrNUFoX0xtTmEyU01ITHotRkNzQUh0U0hSLXg2QU9pT1M0eFRKSzV1UlUzRkotMkxjVTF5ek5fX3FMRjNKWjZIdkUtSFE1bWk4MGlkdUJ2aGNLV2wySmhVTDl0VnhISkZ6WG4zQmxMQ2Y3NjN2NUdZWl9tUVZCNURFOG5RZGwxc3hadmp3eEdIMGR6QjIxYWM4WU1ZREpfdXdyam9iUkVfdzFTNFE0cUE?oc=5",
+"o": "North Country Now",
+"via": "Google News: dc-zoning",
+"lane": "search",
+"at": "2026-11-19T22:20:00+00:00",
+"seen": "2026-11-20T10:08:47+00:00",
+"status": "unverified headline"
+},
+{
+"id": "b911cb346e39",
+"t": "Apple shouldn't be allowed to avoid injunction through gamesmanship, former judges say - MLex",
+"u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxObFpwNjJTWEQzVzdCNjRvN2VRS0lKVXBkQjNSLVhIZ2J4Mkw4LVJtMTdaaGVEaEtTenZfYVNwUVBqY3lqdnFpd3IwNmRFUXlaZFMwTjNhLUFuOGcwZ2w4RUJYaFg3Q1VzX2gtRlJvQzJSWlJNd19CUkwwSTlsNzV0VWZWakpEbEJTR1F6cWZ4WUZqNG80NUZ3cVZMZEs3XzdJUzNqTHhQcFRBUEJkc3RSNk5SREFTd2JoRWtnR0tZcDFaa2cybTl0V0cxc1dPQy1KR3dnedIBWkFVX3lxTE1LLW5kbHNkQTFVbVJTQ01xSkNPVVI3Tjd3bThheWllUFFPT2tTdzNWVXp2dGtjZlYxMFNKQTl1ZFZUVDJFOGE4ejhmM1RXYnBCb0Y0cEdLRDA4QQ?oc=5",
+"o": "MLex",
+"via": "Google News: antitrust",
+"lane": "search",
+"at": "2026-11-19T22:19:31+00:00",
+"seen": "2026-11-20T10:08:47+00:00",
+"status": "unverified headline"
+},
+{
+"id": "03c5d2773ef9",
+"t": "Utility Dive: PA Consumer Advocate Darryl Lawrence Joins Advocates In 7 Other PJM States, Independent PJM Market Monitor Urging PJM To Delay December Generation Auction To Avoid Billions In Added Costs To Consumers - PA Environment Digest B",
+"u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVmR4aWJTOGRXeVg5Vms4cHRvTFJna1A3SnpYVm0wMEl0Q25IMnUtYjZPalJuaGhkSV8wUnJqNFRWNjJMY3hnNXpFcnBkN1lTY0VJeElKd0lyWDhLUWVGTUUxNk0yckQxemp5UnRkRDVhYTRTSlBpSVJVaDRudHB4V2JuQ1d6X2MwWVl0YWdn?oc=5",
+"o": "PA Environment Digest Blog",
+"via": "Google News: dc-utility",
+"lane": "search",
+"at": "2026-11-19T22:19:00+00:00",
+"seen": "2026-11-20T10:08:47+00:00",
+"status": "unverified headline"
+},
+{
+"id": "962d8385d028",
+"t": "Salem residents largely favored city council’s data center interpretation, written testimony shows - Salem Reporter",
+"u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNd0tLWi1PZTFRM1dtN2pIYWNrZ2IwNFEwVHU2UFZuZW5xZ3ROUVFMSFFYLVE5djdPWkRyc0FPYnBfSjAxYXFQbjZJcWQ5TEtNU2pHVVoyS2VvcEpLRTdKNmFQTkxaYnNtMnBMZy1NYTRVOVNDeG1JNjZ3OHV0YW9PV01lTkVGQzNKZXlOMERnRFZ1a3A4MnBkQ0hWSDhZYkhXTDVTck9BeTNKbDZ3dGNKdWs0cHV0ZXNTRFdjS0NWZmx5RGRINFFGRjktS0NDVDhoZWxOdg?oc=5",
+"o": "Salem Reporter",
+"via": "Google News: dc-zoning",
+"lane": "search",
+"at": "2026-11-19T22:18:33+00:00",
+"seen": "2026-11-20T10:08:47+00:00",
+"status": "unverified headline"
+},
+{
+"id": "9dfb8acffbd6",
+"t": "Hazelwood to discuss data center moratorium - KSDK",
+"u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVkpzT2M2XzYzM2pKR0hLNzlXWWRWQ1ZYc3Z3MDg4eEE2a0ZaZDQ1WlVybC1EU2tTbGtWVk9Lejh0YXBWVU5SakRiLWhUaGx2NFQzYjlMOWxJclpIVDhBNDAyOEQxX2dfNnVzSWFtM25wZVF4cEQ4Q1VKcVRqT09GOUo4alBwbmxvblZISnJmZklHdVFiSjd3VEZmaTctQkFuRC1peU9obHVlUjVkLXlIRjZPcG13S2dlTlRsQkI4Rm1ydHN0VXl0cGJIMFFpT21vUFVOQg?oc=5",
+"o": "KSDK",
+"via": "Google News: dc-zoning",
+"lane": "search",
+"at": "2026-11-19T22:15:43+00:00",
+"seen": "2026-11-20T10:08:47+00:00",
+"status": "unverified headline"
+},
+{
+"id": "c59439653a26",
+"t": "McDowell County residents raise concerns as data center moratorium nears expiration - WLOS",
+"u": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOc01lbDFsM2Rzazc1eWNZc1NKVENKZ1FXRERWWklHQ2J4NjJENDhDaEJTc1IzSjJOUDNPNFRGU0dvSHNlR3pTMHl3VE9idHVXbXhhWHNEaUxyWlRuVlhuTGRxMjdycUQxTEZaODVwLW1tSFh4b3haLXJLeEgtX1A3NzJCWnhYSlhHcHdKOHF3TVhBQjRnZWUxUWlJYmZpVGw0T2NMUktSU3RMZGZHYy1SY3J4UWIzQUNSb0RncWR5TGg2ZUJoTmtHVUdJeVY4Q2xFaUpJQzZ0SnJFUzVxcDRDTmw4VWxUQXVjci1RT0JxOGE4SkF3VHcwcg?oc=5",
+"o": "WLOS",
+"via": "Google News: dc-zoning",
+"lane": "search",
+"at": "2026-11-19T21:59:47+00:00",
+"seen": "2026-11-20T10:08:47+00:00",
+"status": "unverified headline"
+},
+{
 "id": "e60f4e5e7cf4",
 "t": "Meta’s new Muse Charm device may cost $300",
 "u": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
@@ -52,6 +968,28 @@
 "lane": "news",
 "at": "2026-11-19T21:58:06+00:00",
 "seen": "2026-11-20T02:14:16+00:00",
+"status": "unverified headline"
+},
+{
+"id": "0b56bbaf16e2",
+"t": "Intelligence Authorization Act Heads Toward House Floor Vote - Legis1",
+"u": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB0aDVkY2JZVHpucUlYOXpHRjNZOEhFTmRpUFRCeU45Mm1JaEVEUHBJNlR1Zkw1YWVZb0tJVGRKTjQ2X0loNFZ5NDN1X0RqQmoySHRKU1lyb2lJNFlTTzVPZUVkZ1gtNEpKQkZFSnotUHU4M3hTU0x3d0xuVkxRUQ?oc=5",
+"o": "Legis1",
+"via": "Google News: money",
+"lane": "search",
+"at": "2026-11-19T21:45:34+00:00",
+"seen": "2026-11-20T10:08:47+00:00",
+"status": "unverified headline"
+},
+{
+"id": "8418762531dc",
+"t": "State officials warn against sanctuary cities as some consider ending ICE agreement - WCTV",
+"u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORTZTejN2cHNRNzRoR1ZUT1lwek56eUF2cXZhc2JIWWlEenVIZllqYVNFc09OVlpiMk04RmVKWG9GT0t4WGtsV1VYNnAtVS1pcTFEN2J5Y25PMnRseGx6YWVsQkFSYkRRTWxsakxQQ252Q2xydk5ybVgtYTM4M0tiMmF5enIzckZ3Q3ZvZVk2VmJNLW9kWU5zT01DVkZ2bFNVMTBzQTBpd0tVd2FZbjVrUEdB?oc=5",
+"o": "WCTV",
+"via": "Google News: contracts",
+"lane": "search",
+"at": "2026-11-19T21:45:00+00:00",
+"seen": "2026-11-20T10:08:47+00:00",
 "status": "unverified headline"
 },
 {
@@ -65,6 +1003,39 @@
 "status": "unverified headline"
 },
 {
+"id": "9c36fb33b5e4",
+"t": "Ferguson data center opponents say they’re still pursuing referendum petition, eligibility questioned - KSDK",
+"u": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPMEJnZ3NieHBfQmNPLXNnRmtvNEFJdlFJSHZ5Q3JsS2JuTXFFWkZQQzJjd1NPMUdMb2NtN193NmpiR3hoSFVPaDJ2Z2FoSkxmallCZ2YwX1huX0R3cThPajJCcFZTXzRxMzZKT2JZaGpPcm9tOTlaYWdodWpLb3pKUmU4cjdyYmRGekhnelJTZjFpQ3lkak5ZbThuV196eWdpUVRiQ3JNbmN2TldYQ2E5LWRBeHZvRDVBQjdjdHREdkR0UGFsS2s3ZHpHTzdjSXZqUklkUEU0WHdIODNpTWxxQkIySjRUZUVB?oc=5",
+"o": "KSDK",
+"via": "Google News: dc-incent",
+"lane": "search",
+"at": "2026-11-19T21:42:16+00:00",
+"seen": "2026-11-20T10:08:47+00:00",
+"status": "unverified headline"
+},
+{
+"id": "ef3678fd9db0",
+"t": "No tax abatement for SpaceX - Spectrum News",
+"u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcTRQSTZoYjNEMU5xZURDeEFoVFNmelJ3QkJDbVRKdl9BcEZ1QXNDRG95STB4dC1ST0M2VTlqYUVmUE5rNDhOMnM2dHpLbDNscndtbmZpQmEzQ2dLU19iUS1PemhHRm9CTHYtUHYtR0hxc21obS15dDFBbDI2STRtWVQyYUdHcVE2WFF2RFNEUVZSNFBMNHhmMkM2RXI?oc=5",
+"o": "Spectrum News",
+"via": "Google News: dc-incent",
+"lane": "search",
+"at": "2026-11-19T21:42:00+00:00",
+"seen": "2026-11-20T10:08:47+00:00",
+"status": "unverified headline"
+},
+{
+"id": "13623ce725e7",
+"t": "US DOJ asks to take part in Apple's challenge to contempt order in Epic case - MLex",
+"u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdXhOWUMxUVZSc0gzTmh5NlE0ZUZHc3hQOHlMZm9EMmEtWHRpMUZVczRZb3hMRWVFNnNTUl96TFJhNnBsYTE0UWlwYi1ZVTdHUndjUTQxU2l1a3V0OHpqWlFfaWR6NjlZT1BCY3dLclJRQTdSbksyUTJ4RnhWRkN6X19nVVZPMFl4eXROUVZKX0VENjZrLUlyUko1ZkRKZWo3aW1fSzFIZlNGMzU2dDFsczB2cjNUa2xLZUdQODdpOFl5bkVpNDVCQdIBWkFVX3lxTE1oTnBlNVhVRm1wUERvOVR6T3J0WFFWcGIyUVBwcXFvYmtmVC1CZEh4eFJuS2JsQzA3LU55dXhlRkRHbXdaOG9tb2Q0dGtuS2JodlVBTG9DOFZJZw?oc=5",
+"o": "MLex",
+"via": "Google News: antitrust",
+"lane": "search",
+"at": "2026-11-19T21:40:15+00:00",
+"seen": "2026-11-20T10:08:47+00:00",
+"status": "unverified headline"
+},
+{
 "id": "63c036cc4b53",
 "t": "Meta Joins the Clean Materials Race",
 "u": "https://heatmap.news/climate-tech/meta-stegra-sublime-fortera",
@@ -72,6 +1043,39 @@
 "lane": "news",
 "at": "2026-11-19T21:32:07+00:00",
 "seen": "2026-11-20T02:14:16+00:00",
+"status": "unverified headline"
+},
+{
+"id": "e148f7bfcf8f",
+"t": "GEO Group Sells Tacoma Detention Facility to U.S. Government for $453 Million - TradingView",
+"u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOX0IwbG9lQktMUS00eFZfalU3Q1FQZTNxcUtZSFE4UTB6ODZPdFZEM3dSdWlNSEhJdDA5bVlFNlZvX0d0UjJ1RGZyU3JWN3l3cW96eDNKdmNDdW1GRXRkSXNpS2pkMVlmdDA5Uk9hUl96YklOTGdHb0JGcU1PbFNrTTBsNlpqcENxN0w2S05sM2thaENaQTlXcy1GVnBsclFTYWRXeVRma2YyQUtoM1NHMElydkx1cVJmVUM1S2s4WTRqbGdpbDdTa25kMGhGWndrb29J?oc=5",
+"o": "TradingView",
+"via": "Google News: contracts",
+"lane": "search",
+"at": "2026-11-19T21:23:02+00:00",
+"seen": "2026-11-20T10:08:47+00:00",
+"status": "unverified headline"
+},
+{
+"id": "8c05a35b5ffc",
+"t": "Wallace considers six-month moratorium on data center development - WCTI",
+"u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNM1VvN2xQSnpZallyRkp0ek5RU2NMbVpIeEdEY2hEal9DQ09fdEQ1Y1VBdVlZMUpSbTJQTTlXaXpHRzlCRWY4OWxmaklUbHV0eTVQQ2RJdEhacmNDUVJsR19FYlFuMG9IaDhMZ0tDVjVKcmNjUEYzb2NVa2Y3VmZsaWNFVVZSMURySFJicDRXbk9CbDQtNkI2WmFuNA?oc=5",
+"o": "WCTI",
+"via": "Google News: dc-zoning",
+"lane": "search",
+"at": "2026-11-19T21:13:39+00:00",
+"seen": "2026-11-20T10:08:47+00:00",
+"status": "unverified headline"
+},
+{
+"id": "1c47c5ff33ac",
+"t": "Giga Energy Nails Down $1B Lease With Tech Company for New Data Center in Hunt County - Dallas Innovates",
+"u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVmFTMU1PemFxSU1ScWdLaExBVTd2cG9nTHJ1UmZfYV90T2Q4eEwwZXVadE9ycklrSlExN0pmNWFvN2JrcFhhQ21nWlo0UjVNbk5LMUVuam9ZUU81Z1ZyWUtOZDVlamhFLVppQWdnODF3U0x1S29hUGNOUV8tbFZ0NTVEa3NCVzBub0RSTm90MncwWE40RUFTWUpsN3lSQlo5VDNXc1UzSk4xbFFHTm52Y3FwNA?oc=5",
+"o": "Dallas Innovates",
+"via": "Google News: dc-water",
+"lane": "search",
+"at": "2026-11-19T21:04:14+00:00",
+"seen": "2026-11-20T10:08:47+00:00",
 "status": "unverified headline"
 },
 {
@@ -125,6 +1129,39 @@
 "status": "unverified headline"
 },
 {
+"id": "c5f269b1c612",
+"t": "1-year data center moratorium proposed for Jacksonville - Jacksonville Today",
+"u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1MYTFtdDFfa0t5cEZZcHptaUw2cDFVX21sNk1kYkpmbVJNdGF4V0ZnUy1ScXV0d1JXbnpFTTczX1FNbV82VHNQV2dxVVpsNFptcDlxOXJLS0ZuYzBIUU9wR0VCb01ZUnlCRUlJX3BSZjdXT3J4Y2E4?oc=5",
+"o": "Jacksonville Today",
+"via": "Google News: dc-zoning",
+"lane": "search",
+"at": "2026-11-19T21:00:31+00:00",
+"seen": "2026-11-20T10:08:47+00:00",
+"status": "unverified headline"
+},
+{
+"id": "8abe2eabb342",
+"t": "How much electricity will a Lehigh Valley hyperscale data center campus use? Questions linger over plans - The Morning Call",
+"u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYUpTcVFKSDFoY0xydndhYlFSY3EtamhETm1MWHhWNk5SWm9mVnJ5eEFoLXBCWElRc3lxSkdyTjhhclpzRjQtSlZxY2ZfNExWTXN6YnNhNTUxbjZRVjVzR2QwWE1QN2NoNzY5VE1UZ2NXUmI0cHJadExHYzJXM2JId0E2WWpJRmNlalhva0lad0dVaU5WZDFfSy1LeURrU1dSZDZIdE1ZMDZmNDQ5RmZhdGVnZkhTLWtHTUNiQlFXbWp3Uy15Nmxla1VsTVpzbzZzMzdN?oc=5",
+"o": "The Morning Call",
+"via": "Google News: dc-water",
+"lane": "search",
+"at": "2026-11-19T20:53:21+00:00",
+"seen": "2026-11-20T10:08:47+00:00",
+"status": "unverified headline"
+},
+{
+"id": "b6be05194af7",
+"t": "SpaceX responds after Cameron County rejects tax break for data center, power plant - KRGV",
+"u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQY3ZRTDAwRjk3THlYdDdpMkRCeVZVT202THpFZGtfdE5XLS1iTzI1RGdKa3FXNmRoVGxJaDVQQkFOd3VUZVFxOGhVUnR1aUdkbG9QZXJiVDB3SHNjemd1Qy14RlhJSjZVVHlNaVZJVmR3TkVfcnV3QlNMMlhqc0VuZUpBQWdaTXBpU1YxbkM3b3pMZER3MHZSZkVyR1lsTGJ2MWJhRUloMjYzUHBVcGc?oc=5",
+"o": "KRGV",
+"via": "Google News: dc-incent",
+"lane": "search",
+"at": "2026-11-19T20:53:00+00:00",
+"seen": "2026-11-20T10:08:47+00:00",
+"status": "unverified headline"
+},
+{
 "id": "88ad1820dfba",
 "t": "Amazon app warns New York of higher costs if Mamdani delivery law passes",
 "u": "https://www.cnbc.com/2026/11/19/amazon-nyc-delivery-protection-act.html",
@@ -168,6 +1205,17 @@
 "status": "unverified headline"
 },
 {
+"id": "307e13a3142f",
+"t": "Dewatering for data center utilities not a new practice - WVPE",
+"u": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZk1vTHZIem5TY3dGMS1tVjVzZjFJLVAwYjEyZnFraFREQ1hwME9HcWNwak9nQnhwU2NsYkJ6dFRnRkRTTVBMcEo2cnN0Z1l2R2RvdlVFWnlFUnJfVkp6aUdSa05nbFFKTFBnS0JmN1d5dzJobTFFYnlpZFRVUk96LWY1Z1Rzc19qNHJjODA0ODlmX3lkVEtEelVRazBwdw?oc=5",
+"o": "WVPE",
+"via": "Google News: dc-water",
+"lane": "search",
+"at": "2026-11-19T20:41:00+00:00",
+"seen": "2026-11-20T10:08:47+00:00",
+"status": "unverified headline"
+},
+{
 "id": "b0341a0ae375",
 "t": "Meta’s Muse Charm might cost $300",
 "u": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
@@ -189,6 +1237,17 @@
 "status": "unverified headline"
 },
 {
+"id": "a404377f7c9e",
+"t": "OpenAI site plan for $20-billion Effingham County data center passes - Statesboro Herald",
+"u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYUZuQ0RvdVNpTXdzRUxZUnlmNlZjbnU3T2lKT0o2bGFtdXZxcndSZi1hbE9xck5iZDVnbFVLMlNyTWdkX2ZMS290cGJkcFN4X3poMVl1RjIxcjZFODNWTjFpRV9fR3BJbmpzQTFnN2dYQTFCbXRYRnlkRzQ4QnJuZ2ItY0FRczctS2dFdDhRUXB3Q2xzTXpVdjRBekFvb3dFbE81Mjdvd2dPd2M?oc=5",
+"o": "Statesboro Herald",
+"via": "Google News: dc-zoning",
+"lane": "search",
+"at": "2026-11-19T20:20:46+00:00",
+"seen": "2026-11-20T10:08:47+00:00",
+"status": "unverified headline"
+},
+{
 "id": "e63fea43dcbf",
 "t": "Traumatized teens sue school, cops after Doritos bag triggers AI gun alert",
 "u": "https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/",
@@ -196,6 +1255,28 @@
 "lane": "news",
 "at": "2026-11-19T20:19:28+00:00",
 "seen": "2026-11-19T21:01:40+00:00",
+"status": "unverified headline"
+},
+{
+"id": "c9c3e5acfd78",
+"t": "Trump’s accounts bought Palantir ahead of $42.5 million in federal awards, CNBC finds - Superpower Daily",
+"u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZDFleDlkcGYyWjhyUVVQX1dGV0htMkNOdW12cElhTmt5S05xOHhXWVN6dmg2dmVqWVhIQkx6VHBRR2xIeEttak50UUx6NHQ4ZEdoU2hZNlp2am5LWHkwWkdqa3Z0cGtJalRVOTY4SzdvSzY0TTY2aDNjM3dGYVhCUmpOUy1ndF9ORTg3RThCMEQxTUZ0X0E0YU9uZ0lqRUdJNEVmaGxBdmZMZjVCZ0w1SkxHYUliVktH?oc=5",
+"o": "Superpower Daily",
+"via": "Google News: contracts",
+"lane": "search",
+"at": "2026-11-19T20:12:37+00:00",
+"seen": "2026-11-20T10:08:47+00:00",
+"status": "unverified headline"
+},
+{
+"id": "965c8595ec42",
+"t": "Samsung’s $7 billion AI move could reshape everyday tech - Rolling Out",
+"u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1fMF9xLWYwS281QnoyMlFsUmNmYlZxeWhveF9kZ09ock1uUnF6YmVhaFNMWmxmR3JxWjBMQXhUSE1QNWRMQnBzcEx0Q3I0X2ozTHdvZXZwM2xrT0wxLXhTUXh2cVh1Rm0zOGhWNmRsZnJsU1UtQ1E?oc=5",
+"o": "Rolling Out",
+"via": "Google News: ai-deals",
+"lane": "search",
+"at": "2026-11-19T20:08:04+00:00",
+"seen": "2026-11-20T10:08:47+00:00",
 "status": "unverified headline"
 },
 {
@@ -217,6 +1298,28 @@
 "lane": "news",
 "at": "2026-11-19T19:58:11+00:00",
 "seen": "2026-11-19T21:01:40+00:00",
+"status": "unverified headline"
+},
+{
+"id": "8a1f97b1d196",
+"t": "Committee Files Massachusetts Data Center Ballot Question - Wisevoter",
+"u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNY19EVzRrSkpQXzUxZVVZUWRPREpaVEtnYkJiWUJiZGoyRElxUmN2TEVZajA3MzlyT1FHQzAtZEY3NkFrTzBvQWpNMjNpczhUOTNQaDlJOGxyZzJjSjVPeTRDWmhUMTc3R1Ytb3pnLTFhbUpMRmtvaVFYU0gyVnpUcEhSUF9RNFo4N2t1ajlPWFlPcVJFRkRR?oc=5",
+"o": "Wisevoter",
+"via": "Google News: dc-water",
+"lane": "search",
+"at": "2026-11-19T19:55:02+00:00",
+"seen": "2026-11-20T10:08:47+00:00",
+"status": "unverified headline"
+},
+{
+"id": "e1fbeae16c80",
+"t": "Psychotherapist Says Workers May Be Struggling With AI - Tech.co",
+"u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQc0tsX0dlTWpzam1fZmZNeUxfZFZycGpXeWI2U1J3eVkwaW9qaWE4VnEyaGFvd3ladi15WEljcWY3YnRnb2w2T2RURWlzS3U5MDZkN3NmaFZWQVhvUjVFdDJsWkJLVHQzRnNLYnpYakY1LTFwN2tfYktVSFdaSjgzT3d2U3dHOUVE?oc=5",
+"o": "Tech.co",
+"via": "Google News: labor",
+"lane": "search",
+"at": "2026-11-19T19:50:59+00:00",
+"seen": "2026-11-20T10:08:47+00:00",
 "status": "unverified headline"
 },
 {
@@ -447,6 +1550,17 @@
 "status": "unverified headline"
 },
 {
+"id": "5d197617d905",
+"t": "ICE Is Paying AT&T for a Phone-Record Analytics Service Linked to Hemisphere - Gadget Review",
+"u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWi05RHo2MnBUMjNNcXFVa2x0aUNfNlBibWp0Q2lPZndsVDJfbzVRSVd6X3RJUWIwLXV5LUI1Zk9WYWVwaW1HaUdmZ2d4NHV0Tkhsd1E3NksxUXJFalZLQ2dMX0VfVXFiZ2lVLWY1XzhLUUFESkhsNWhTeHNXQ0VCaURwNllvZkFBa0drb3lQalUzQmU1Z2pCWFNJSTlOd1ZQZ3R5RFMwRQ?oc=5",
+"o": "Gadget Review",
+"via": "Google News: contracts",
+"lane": "search",
+"at": "2026-11-19T18:41:35+00:00",
+"seen": "2026-11-20T10:08:47+00:00",
+"status": "unverified headline"
+},
+{
 "id": "7ed8ca005c63",
 "t": "Brady Township PA Approves Data Center Ordinance - Hoodline",
 "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUjZfV2wwSGtKZnZZNXh1UFh4d242VW0zdDl6VTU0SURHZUpwdVRxTUdlTDYwSC12NFh5bW1PT1FHS2lhNE80bHdTZDFtRmRsbXQ1TmIzc2dteGhrdnlhSG5iTTh3V1BwZml1VVJoX19wMVc5SWRFazE0cGRHWjh0WTFDeDhQRGlGWXI5QnZVaHBsN3RJYWxyOVpRa0cwOEZwOWpWZEVicEpnMExxd3dZbg?oc=5",
@@ -466,6 +1580,17 @@
 "lane": "search",
 "at": "2026-11-19T18:35:22+00:00",
 "seen": "2026-11-19T21:01:40+00:00",
+"status": "unverified headline"
+},
+{
+"id": "23aa98e72da7",
+"t": "CalPrivacy and Minnesota Attorney General collaborate on privacy enforcement against powersports leader Polaris - Lassen News",
+"u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxObThNTkVJdjVudHhGWW1Odk9abVk5blo4dlZ4M19zM3JJTENHOUtoSFVyUXFQYTJ5LTZJTXpWcUxFV2tOZ2NxQUtiZjdBMXZWeHpsdTAxWlpVYjVYY0ZnaTg4Q0VRVVFEVEp0SXBiS3FWLTJoZ2xCTWtDak5DR1l0Tk9hVC1LaDZ6RHZyemJpUGhsaGlxY1BocDMyNzFaQzBEeVB5UVRRWlF0cVdvUlJweXlWZGdVN1YxTEJtZlZBUHltWm5ybjB6OVZ3dlhxTWNqRjNYNQ?oc=5",
+"o": "Lassen News",
+"via": "Google News: California privacy agency",
+"lane": "search",
+"at": "2026-11-19T18:30:37+00:00",
+"seen": "2026-11-20T10:08:47+00:00",
 "status": "unverified headline"
 },
 {
@@ -499,6 +1624,17 @@
 "lane": "search",
 "at": "2026-11-19T18:26:55+00:00",
 "seen": "2026-11-19T21:01:40+00:00",
+"status": "unverified headline"
+},
+{
+"id": "ce712a30484c",
+"t": "Consumer Groups Seek PJM Auction Delay Over Data Centers - Wisevoter",
+"u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNUhKRFZ0cDQtZFMxMFNaUTJsanFIM0JLbHVBU1JwQjJSMTBSZGMyYWN0dVlFXzM3UExzR3cxQ0Y1cHM5ZGxTcnlVYkp3NHNWZThmeW5oaHk4b01RLTNHRHNLVDFrLXpidFoyUEJNbzF1LTVKNUppZ3BCTGV6TGhNNHd1VFFPV3R4WXVLcjZMSDlmeVlvWkZHUg?oc=5",
+"o": "Wisevoter",
+"via": "Google News: dc-utility",
+"lane": "search",
+"at": "2026-11-19T18:23:36+00:00",
+"seen": "2026-11-20T10:08:47+00:00",
 "status": "unverified headline"
 },
 {
@@ -554,6 +1690,17 @@
 "lane": "search",
 "at": "2026-11-19T18:07:34+00:00",
 "seen": "2026-11-19T21:01:40+00:00",
+"status": "unverified headline"
+},
+{
+"id": "0f253c416204",
+"t": "Former Warriors Champion Forward Secures $4.5 Billion Sale Of Company - Heavy.com",
+"u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSzZHU25yMkVtcktoV0JLV0oyVzFzS2tkR2s2d29sWmpqYmVMV09LOEUwNWh4WS02RHlybHBfNHVGc0xRRlRtaDVnWUZWSHd3djRUNDhjNE5VSjNSLWE3Wmc2R19FNjZMTUJoM3pMNllTUHliNXR1UnJ6eWhvaXdhTEpmdFpjVUdwaFpTTmRBQUswd2s?oc=5",
+"o": "Heavy.com",
+"via": "Google News: ai-deals",
+"lane": "search",
+"at": "2026-11-19T18:04:20+00:00",
+"seen": "2026-11-20T10:08:47+00:00",
 "status": "unverified headline"
 },
 {
@@ -621,6 +1768,17 @@
 "status": "unverified headline"
 },
 {
+"id": "03389f560ffa",
+"t": "Texas Resumes Environmental Permits for Data Centers - EC&M",
+"u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcGJtQ3BYcFdBV3Z1UjJjS01XU25Nbmdya0VoT0lQX3lJeG8tX0JhYm1LZlBlaGtWU0V1eDlqenRlMldQZnVlQmFCUlVIWEJMMlJxeDBZTkxpY0JiT3gyR25FTlExOHF6RDI4aXhfZEFRcy1lSkVKNEMwN25sdlVfZmk1a0NyXzZjTTJSZkdJZmVDSUpSY3JET2lEMXM0Vk1BcncwVlJNeWpJdmlsamc?oc=5",
+"o": "EC&M",
+"via": "Google News: dc-utility",
+"lane": "search",
+"at": "2026-11-19T17:47:16+00:00",
+"seen": "2026-11-20T10:08:47+00:00",
+"status": "unverified headline"
+},
+{
 "id": "301b80ceca58",
 "t": "Hillsboro Extends Pause on New Data Center Talks For Another Six Months - FM News 101 KXL",
 "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOHBVVDFWeHhHWmJrODY2eHNDLXJjenNuaVVIR3R4clpjd2FTR2hrQTgwZ04wLTBxZ1hSNzJGaUxrQ1lkM2lKczYxQ21PVTdlaUlCOEJXWklTdHRwUmJnTTNtcGYxZTY1eEFrXzFiWGNRZDVQcVFlaU9EMllrYlljeEFoSXF3bkJtTmF5VGp6cmd0U3lvbTZN?oc=5",
@@ -661,6 +1819,17 @@
 "lane": "search",
 "at": "2026-11-19T17:38:24+00:00",
 "seen": "2026-11-19T21:01:40+00:00",
+"status": "unverified headline"
+},
+{
+"id": "aa35eb32a3c8",
+"t": "November 19, 2026 Press Release - Minnesota Attorney General's Office",
+"u": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5CVC1mZFpBOXI4MWxMYjN4dHdEUVBuTkNWNnRMVFZwY1AxR2FEZWZPelMwUUlDYjBQdlhBdW0tUDFMaTFLeDFaZUlJMkFMLW1WTXd3ek4xenRqc0JnRmF5U1prZXY4RVVCREZpTTNOcHpJR0p1X242R0pGaw?oc=5",
+"o": "Minnesota Attorney General's Office",
+"via": "Google News: California privacy agency",
+"lane": "search",
+"at": "2026-11-19T17:18:59+00:00",
+"seen": "2026-11-20T10:08:47+00:00",
 "status": "unverified headline"
 },
 {
@@ -715,6 +1884,17 @@
 "lane": "search",
 "at": "2026-11-19T17:13:00+00:00",
 "seen": "2026-11-19T21:01:40+00:00",
+"status": "unverified headline"
+},
+{
+"id": "f6a3947c90d2",
+"t": "Texas Officials Weigh Ending ICE Cooperation - Wisevoter",
+"u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORjBkY1Aya1puS0Y3SUVyRU9FX084ck9aeDM4S0hwTU91UUp2cGhDVlRPekZsdUJTRk9YbDdabGR1eVlmYnphMWpYOG55akFvUkpWRTZQWWRQTk4zVVhTRkVYZ3hBOTdGX2szSzRRbzJaWlFhendjUnJjZXRYb3hubEliTFJoRy1TVXJjNmhkVGEyOVE?oc=5",
+"o": "Wisevoter",
+"via": "Google News: contracts",
+"lane": "search",
+"at": "2026-11-19T17:07:53+00:00",
+"seen": "2026-11-20T10:08:47+00:00",
 "status": "unverified headline"
 },
 {
@@ -773,6 +1953,28 @@
 "status": "unverified headline"
 },
 {
+"id": "07a37fdafe47",
+"t": "Washington County Quorum Court approves data center moratorium - KNWA FOX24",
+"u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZG04WXNJaVQzX3NLRmlWUGQyUFJBanlPNVhsTnhaTmgxcEFmNjdJZWJNWjE1OGNmaUN4WUM3Ti1uZTk5ck1KTkhBU0VpdmN4dEtmVjZObVZ6R090MmdYWlhZbVRCcmJGemc4TzZzbnRjMWxRcmdjLTdFaFMxQWlqOWs3eDFmV2lCNGc2UmoyUVhEMXc3eGhQZjNzUkR1M1k2b0lkbzNVNlN2TE92VVJOLUVvOFJ5Q290cFhhQzV30gG-AUFVX3lxTE9kbThZc0lpVDNfc0tGaVZQZDJQUkFqeU81WGxOeFpOaDFwQWY2N0llYk1aMTU4Y2ZpQ3hZQzdOLW5lOTlyTUpOSEFTRWl2Y3h0S2ZWNk5tVnpHT3QyZ1haWFltVEJyYkZ6ZzhPNnNudGMxbFFyZ2MtN0VoUzFBaWo5azd4MWZXaUI0ZzZSajJRWEQxdzd4aFBmM3NSRHUzWTZvSWRvM1U2U3ZMT3ZVUk4tRW84UnlDb3RwWGFDNXc?oc=5",
+"o": "KNWA FOX24",
+"via": "Google News: dc-zoning",
+"lane": "search",
+"at": "2026-11-19T16:31:12+00:00",
+"seen": "2026-11-20T10:08:47+00:00",
+"status": "unverified headline"
+},
+{
+"id": "f20c0a39b790",
+"t": "Mercedes Will Let Select California Owners Go Hands-Free at 85 MPH in December, but Its Fine Print Says They’re Still the Driver - Yahoo Autos",
+"u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYkd4amxmajF5UkVSWUx2X0Iza3daY3d6blhPX3EzM0x6UTRvbUhfbGlpRi1CaEhSTFZWaFBpVDhpcm1LTnlNelFISWZua1hXenQyeEdlUW1qdnRlS0JMdllvVm8zWDhGNU54MHlDREhKdkxOaTduaVZURlNWbERGZGxGZldETmtjUXdGTHk2UF9tcUlybFM2dnp2M2hrdWcyb1RyejRsZw?oc=5",
+"o": "Yahoo Autos",
+"via": "Google News: privacy",
+"lane": "search",
+"at": "2026-11-19T16:23:48+00:00",
+"seen": "2026-11-20T10:08:47+00:00",
+"status": "unverified headline"
+},
+{
 "id": "04a4299ccb83",
 "t": "Tulsa councilors likely to pass data center moratorium extension - Public Radio Tulsa",
 "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZklVbWxwOGF5SjZleko0dUtWLXJBcUZxYW9JWHJjeEh0cVctV1R5Ymh2WjZKM2VCaXZLMzZNQnBIOG8tX21uUHpZNkhVQlpxTEVkV1ZDZzdxOWV6b21XY1FEN3h2eHI5cm5lMmtINEhDTE5QTC0tSTVLMG5nUVdMb21mZXZVWVZsUWFuT05RYkUyc3NLQWI2d0tRakpFaDNPX3VNaEljcW1NN1g5NWZWamJnVWRORzRvMFR6Zm1JSHQ?oc=5",
@@ -803,6 +2005,17 @@
 "lane": "search",
 "at": "2026-11-19T16:19:08+00:00",
 "seen": "2026-11-19T21:01:40+00:00",
+"status": "unverified headline"
+},
+{
+"id": "8dcb8cb80445",
+"t": "Hazle Twp. entered nondisclosure agreement with Amazon in 2024 - The Standard-Speaker",
+"u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPemJqTXo0LUFuaHo3MElGT3lVZ1ozbHdWa0RpenYwRGxhMl9EZm1yQktoZ2hQMGNfZzJFdHZMR2JIbkdTSFZBbENuN3NjNUZ6SXluVUtoREFuRno0a0RRM0JDMGRZYzVVRmpzaUVRcWl6R296Z29sTHpPLXNqOGd2NVNBYm1mSXVRNlp6cUM1dmVQR3dLT2MtanRsMlp1NkRIZVZuWWxmdUs?oc=5",
+"o": "The Standard-Speaker",
+"via": "Google News: dc-incent",
+"lane": "search",
+"at": "2026-11-19T15:57:40+00:00",
+"seen": "2026-11-20T10:08:47+00:00",
 "status": "unverified headline"
 },
 {
@@ -871,6 +2084,28 @@
 "status": "unverified headline"
 },
 {
+"id": "d4dffb2f2857",
+"t": "Virginia Vape Businesses Challenge Directory Law, Allege Tobacco Lobbying - Vaping360",
+"u": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQc0tqTXM2SGJMT21DME91bkI0aktjcHA0SzRFYzhKcFhtZE9hT01rZGV0MEtoS0F4TDJkbWo1eFJYN1JVeDYwSktkUkZ1T3BHZzY5bTBYWlVYV2R2QUowb0VYekJhWmVCY0hIUjhURl9OZHdVaENhUy1rQmoyaGlYUE1HX2VKLUZLZTlnTVpibHc?oc=5",
+"o": "Vaping360",
+"via": "Google News: money",
+"lane": "search",
+"at": "2026-11-19T15:08:32+00:00",
+"seen": "2026-11-20T10:08:47+00:00",
+"status": "unverified headline"
+},
+{
+"id": "09408204ec2a",
+"t": "Roundup: US Lawmakers Probe Microsoft Over ByteDance Deal - Mingtiandi",
+"u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRjZZS2Z3eFFSSklSbWNpQXVDTEdITS1hTUpsUTF4Tml6V251cUx4S3ViVkc5cml0M2tqVV9VUTdNOGxhSzU1N2VqbHpOeHpWcmtfd2J6YWhsUUJoMV9pLVN4bnJMNDJvamtSbHFld2FBS1ZQcFduNEt0ZHpQNXpaQW1FQmNNX2VWdWZXT1NVb2lXTkZ3Q21pSlFfN1NkQjZ6N09DclVWNA?oc=5",
+"o": "Mingtiandi",
+"via": "Google News: contracts",
+"lane": "search",
+"at": "2026-11-19T15:05:11+00:00",
+"seen": "2026-11-20T10:08:47+00:00",
+"status": "unverified headline"
+},
+{
 "id": "826b800d4b20",
 "t": "Amid national AI push, councilors prepare preemptive data center regulations - The Laramie Reporter",
 "u": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1lRmVWUTliZ0h0NHRxRnd6bGwyRTJIUVJscThWVE43dkpzeERjUzgyOFl1MWtfRk5zVDV6M2xjTXYwYmJEcFJ0YTdZcXAySWZ1MmctNDBLVF9CWjVVZGlLMzdTb05sbzlvbG9OM1NuaS0wR1J0SkxTQnMwRQ?oc=5",
@@ -879,6 +2114,17 @@
 "lane": "search",
 "at": "2026-11-19T15:02:51+00:00",
 "seen": "2026-11-19T21:01:40+00:00",
+"status": "unverified headline"
+},
+{
+"id": "ae85b3566ee2",
+"t": "Polaris To Pay $1M To Calif., Minn. In Data Privacy Settlement - Law360",
+"u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWkVRbnBNMkZ1VU1zcHd2NnJuOGhFMWkxY3QzQ01JUno3R2xRR1lPYnllU2VLY1RYaURYVzRzMkNIRDRXUndrb25TSWFia0NHWEV5SG9LNkdEMW5MdGdZb1pYYmN4NDFqTm0wNENlaUEyQl8wemlVVWFrejgwWkpxc0ZqUlFfcmpqY1hoRVd6WURhX0xza09PZDZEUVpHTFFZVDQ4akVFeU9GWG9uaHfSAVZBVV95cUxQSTVqc005bmNFNnVUM1NJV0FpamJ0c28zbzZ1THNXMTNIendJUGI4RmNuVVA0bDA0Q01XOW9SNE5TeFprMllxdXc0QjR3V2pQRm81UWpvUQ?oc=5",
+"o": "Law360",
+"via": "Google News: California privacy agency",
+"lane": "search",
+"at": "2026-11-19T15:01:12+00:00",
+"seen": "2026-11-20T10:08:47+00:00",
 "status": "unverified headline"
 },
 {
@@ -903,1258 +2149,23 @@
 "status": "unverified headline"
 },
 {
+"id": "f45e8b3e8c94",
+"t": "Maritime Domain Awareness Market and Capability Assessments for the Department of Homeland Security - RAND",
+"u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE45SmRudzRVMzFzM3FYS1RPQWJaSFFjbjEteVRMbXlYbHcwVFhjcklsZkY4NWpsT1RiTlA2M0g0THdWOHZTX1RlcXd0dkdOdUtWMVZzelVfbUFwOGNFQ2hkTkxXWnZRVjBD?oc=5",
+"o": "RAND",
+"via": "Google News: contracts",
+"lane": "search",
+"at": "2026-11-19T14:57:02+00:00",
+"seen": "2026-11-20T10:08:47+00:00",
+"status": "unverified headline"
+},
+{
 "id": "b585aeaf21f0",
 "t": "Mass Surveillance and GTA",
 "u": "https://www.404media.co/mass-surveillance-and-gta/",
 "o": "404 Media",
 "lane": "news",
 "at": "2026-11-19T14:54:09+00:00",
-"seen": "2026-11-19T21:01:40+00:00",
-"status": "unverified headline"
-},
-{
-"id": "08e8e8fd17a5",
-"t": "SpaceX Wins Permit For $24 Bil Texas Data Center Project, Tax Break Rejected - Investor's Business Daily",
-"u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSGsxRXhWWDh4LVA2cFdQQlU5S2RjLWJWeHc1emw4LTFmSzNZdGNYMU9QdFZWUVZSekRVcWVaeHZtY2RkVjdOSHd1Nm5meWpydXgyc3pvbU1teGcxbVZjNUFCNnM1RXhhTUpTV2pyVWZkT1ZMZVg3UlB3RlAydzYzeEk4M0tYZE5WVDlBeVRnZGYxX1IxbXJkVFNJSVJvclBEa3JneVhmN3hmaGNJV2tuV2pGR3hXNDlSRjR4M0tXbFpJVDR6WGNkZEdqcw?oc=5",
-"o": "Investor's Business Daily",
-"via": "Google News: dc-incent",
-"lane": "search",
-"at": "2026-11-19T14:40:00+00:00",
-"seen": "2026-11-19T21:01:40+00:00",
-"status": "unverified headline"
-},
-{
-"id": "aa408022453f",
-"t": "SpaceX Starbase Tax Break Rejected for $24B Data Cente - Construction Review",
-"u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWGQ2MmJUdWw5RE5xdjJIazJsTXNsREVGU29rMmpLZDU1SnYtblpNb05ueW9mOHRfZFg5MVhzZVJhVDRtOVN1c0NlMU5MbGxHZDBUQndDcFczZENMR0gzYW5nZ25vRmFOOTdqNXlkMWNFM1RkTGZBUlQ0ejNianQzSFhSRzVDODJXLVhFbWlzLTVTb1Y3Nnc?oc=5",
-"o": "Construction Review",
-"via": "Google News: dc-incent",
-"lane": "search",
-"at": "2026-11-19T14:33:31+00:00",
-"seen": "2026-11-19T21:01:40+00:00",
-"status": "unverified headline"
-},
-{
-"id": "f5bdf8ef35ff",
-"t": "Non-profit claims 60% of Anthropic’s mapped US data center power demand is tied to natural gas",
-"u": "https://www.datacenterdynamics.com/en/news/non-profit-claims-60-of-anthropics-mapped-us-data-center-power-demand-is-tied-to-natural-gas/",
-"o": "DatacenterDynamics",
-"lane": "news",
-"at": "2026-11-19T14:30:59+00:00",
-"seen": "2026-11-19T21:01:40+00:00",
-"status": "unverified headline"
-},
-{
-"id": "1fc049d60c4e",
-"t": "PJM urged to delay base capacity auction until data centers cut from forecast",
-"u": "https://www.utilitydive.com/news/ratepayer-advocates-pjm-market-monitor-capacity-auction/875165/",
-"o": "Utility Dive",
-"lane": "news",
-"at": "2026-11-19T14:29:26+00:00",
-"seen": "2026-11-19T21:01:40+00:00",
-"status": "unverified headline"
-},
-{
-"id": "440ec5c1fb55",
-"t": "Cisco lays off more employees - SDxCentral",
-"u": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBZeEpZWVBYWlNxbjNhRG11em9VU2J2S3o0eHotc0R0YkhEMll0NURKaHcySS11ZGU1cHlwRkJfcnhmdVROa0pUczZ3Z3NGVl9ySG5oa2luVFg3RU5mcGVNcW5nOG9zbENsckdUQV85bw?oc=5",
-"o": "SDxCentral",
-"via": "Google News: labor",
-"lane": "search",
-"at": "2026-11-19T14:20:03+00:00",
-"seen": "2026-11-19T21:01:40+00:00",
-"status": "unverified headline"
-},
-{
-"id": "7285e66ef8f5",
-"t": "Blue wave likely to change terms of US data center growth, but not the pace - Rystad Energy",
-"u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYmx3WVd3ZVRNeHhYYzFIR21iT1VRelpYWC04VTNBcDl5cGs0VUlma2JZdTZwMVplbl9XdklmeDFQVUJWYlJaOEVfQnE5bFlPeFRGLU01Z3gwaDcxUGkxb3Q4a3daYWlEYWlUU3BsYmdOX2hFUTJIdFVRRVcwelNnck90YUxUaWpWVXNyS0d4aDVHR2c3dUFqVDVkNWRsOFo3RUUxWU5sREllaHJhYXNlZS13?oc=5",
-"o": "Rystad Energy",
-"via": "Google News: dc-utility",
-"lane": "search",
-"at": "2026-11-19T14:17:43+00:00",
-"seen": "2026-11-19T21:01:40+00:00",
-"status": "unverified headline"
-},
-{
-"id": "c303dd14c884",
-"t": "Nobel Laureates Slam Anthropic as 'Not a Safe AI Company' on $81.3 Billion IPO Day - BigGo Finance",
-"u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9BNTdLcjMyaDg2VjVEUXdNMS1IRGJBOHdkVUNYNEtfSW1ucTZBVUhpRHIyRHMyZ2ZVVHFmT0Z3RGxtRC1RMTIzbUo4ZFRYcFg2cEo1TnFQSXpXczZSMWdpaU5rcjNiX2w5QjBYMFpKbmJDSkpFRlE?oc=5",
-"o": "BigGo Finance",
-"via": "Google News: money",
-"lane": "search",
-"at": "2026-11-19T14:05:00+00:00",
-"seen": "2026-11-19T21:01:40+00:00",
-"status": "unverified headline"
-},
-{
-"id": "cfeab4f3add0",
-"t": "‘Communities are really angry’: how Australia’s datacentre opposition has gone from marginal to mainstream in five months",
-"u": "https://www.theguardian.com/australia-news/2026/nov/20/communities-are-really-angry-how-datacentre-opposition-has-gone-from-marginal-to-mainstream-in-five-months",
-"o": "The Guardian",
-"lane": "news",
-"at": "2026-11-19T14:00:50+00:00",
-"seen": "2026-11-19T21:01:40+00:00",
-"status": "unverified headline"
-},
-{
-"id": "70b8a8545b1f",
-"t": "The Chip Ceiling | PPL’s Data Center Queue Outruns Chip Supply - Enverus",
-"u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeC1fUFFCN0NzQ0s0THJSRmh5X3VvVkNUVlc3dFAzSF9XdFMyRm1kMV94ZndZV0NocUtQU1R3T0ZDeTBUZ2dJLXdCSUFZQ0RsaWh4QUwtNGFGWDhTVGw1dWZlc1U1eGFhS0RDWHprM1hVOEFyeGthV3pSaDh5YzdsbUJtelgzRWtQLWgydzkyaUJFU2s?oc=5",
-"o": "Enverus",
-"via": "Google News: dc-utility",
-"lane": "search",
-"at": "2026-11-19T14:00:00+00:00",
-"seen": "2026-11-19T21:01:40+00:00",
-"status": "unverified headline"
-},
-{
-"id": "b369127459c2",
-"t": "Stafford Planning Commission recommends denial of 11 data center applications in 4-3 votes - Potomac Local News",
-"u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaElvcWdpVXZGTVdOWDU0NUVUNnhwT0VMdjl6bUdaWFVuZTUySWNQM25nVWV4ektETlJUMW1CdFpCTUxnVTg3NFdOQUh6UUsxSFpDYWRPclVGY3NaN3NiRGlxYV9RY0ZhWjlqMEYzV1hoSllBbTE4YlhsdFBsaW5PX3NreFRiYUVNYTN0c3FPZHE0M2pUVlBXVlJVZkthWU1GTXRxajBPYlVELTA2TVMxNHQtdlZIZjMzb1E?oc=5",
-"o": "Potomac Local News",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-11-19T13:58:00+00:00",
-"seen": "2026-11-19T21:01:40+00:00",
-"status": "unverified headline"
-},
-{
-"id": "92cdbaff4de0",
-"t": "Anthropic IPO raises over $81 billion in largest offering on record, topping SpaceX",
-"u": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html",
-"o": "CNBC",
-"lane": "news",
-"at": "2026-11-19T13:57:40+00:00",
-"seen": "2026-11-20T02:14:16+00:00",
-"status": "unverified headline"
-},
-{
-"id": "88fc71a82619",
-"t": "Shooting threat at Fayetteville data center under investigation, police say - Atlanta News First",
-"u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeTVrR21FVEZ0RFREYmdRMHBia1RiRUktdTltU0FmVlI2YzkzVTExUXNYZ3R4YVNBMTYtSlhOMzRNYjdhdlNTZDZzMkJpUUl5aVFpSjhGLXJyWWFpMjVFX0JVOWVrT0FianZEcjIxNi1JU3hXRnpOR28zM2ZRaHlRSld2VC1LSWZ6WGVBSW9GX1FINWx6WFJXRWw0Rk5TQl9JNnFGaTd3Z3dodjZjb1AzeDZqSTRZV00?oc=5",
-"o": "Atlanta News First",
-"via": "Google News: dc-water",
-"lane": "search",
-"at": "2026-11-19T13:57:00+00:00",
-"seen": "2026-11-19T21:01:40+00:00",
-"status": "unverified headline"
-},
-{
-"id": "bac0bd15ea6f",
-"t": "Calvert Planning Commission Pushes Data Center Vote To December - The BayNet",
-"u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQeDFLbmZVYmJtaVBXaHRxZENhSmhwdFk3WjFUblVvZmpEZnZRNjQzRldleUFNMklOY3dJRHUzSy1LY25CTGlfRkhIeHdmU2RlSGVsaFhoQ1o1N3ZOaTdXMGJremF6aE40MzRkaDlGUEVpSUZoVlRpVjFwTFRDb3hfRWdMZkFMdWZSeDZSOUlpMA?oc=5",
-"o": "The BayNet",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-11-19T13:53:13+00:00",
-"seen": "2026-11-19T21:01:40+00:00",
-"status": "unverified headline"
-},
-{
-"id": "c5879c73affa",
-"t": "Viridis Data launches, touting offgrid renewable powered data center solution - BeBeez International",
-"u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOWtMSElLaENaakpVeDJyQ2lIRVZzaW9xakVkcHpHQmVnQ09KZ2h2ek5rSFJZNHAzZ3dQSEItcjRHbGJHaC16d1dDdGpwSHRiejFES0h4SzhuMDNoaEQ4OEVNQ1REdFdLWms4UTBZVUtlQ3NKT09IUXdTTWR3ak9YUTFlTmgwMmItU09rY0dDcmdUdzNhdlN4c2lKZWNZX1U3bnRSY3FESGFqdw?oc=5",
-"o": "BeBeez International",
-"via": "Google News: dc-water",
-"lane": "search",
-"at": "2026-11-19T13:49:14+00:00",
-"seen": "2026-11-19T21:01:40+00:00",
-"status": "unverified headline"
-},
-{
-"id": "d3d77d0360ac",
-"t": "SpaceX Breaks Silence & Says 10-Year 100% Tax Abatement For $24 Billion Starbase Data Center Infrastructure Is Necessary To Avoid Rapid Tax Value Fluctuations - Wccftech",
-"u": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOR3pYMF9GRktLSFFVZXFuR1lpY29fTDVPRG9CUE1IWHZRRTNFNnlIcDZKX1NyVzREQlk3b1VhVmU3cHdTdDBQdVNacHVTUnhPSktpeDRFU3FYaFhoZHBoNV9NWGNhNE5ydERwYl9MSEZPLTMzdE1oWUJSYkRmVEx0a3BFYnRFLWY3RTFjNVBYbEZ1SlBmRm93ZmRzOGdqUEZFQjVvVU1fdGEwUEVoUXpnM2I1ODBGbUVlU1ZrLTdaNEF3eGtmZmgzbVZkbWpfeXpNNGxFZm53TnIwOGtySk9FbWw5Ry1ibGJYMDZfTnVKZWNzMlA5V1l5TjdsMXdVdVNDLVQ4NVk1TdIBjAJBVV95cUxONXcyVXRqSzNtdnVEUjgzQjRtd2h1MFE4UENKeDVUbmppRUk5T3JmbXBTRmVCb1FaSEp1TE5CUTdDVGRtNUV3NkFGSXdIQmpoaUVZWm9DT0gxT3J2b2tuSVJIc1VybDFpX2VPVXlGak5ZV3VIUFA5LVdPS2FzNUk3ZzVveDRUOHhKVnZ6U2N2QnEwQWdwLW42aWgxYVQ3WVNKNUdVS3lBR3JqeFc1VjlPN1FmU2FudVhJSVE2TnRyVEF6a0VKVDJlYWZxaEcwOXNPWmg1SHVDd2hibmVuRWdBT2FsdjFSVEZOcUtKNVVvcWRkeUVmMWZUMTlsdEZ0a2ZkVjZWcjZtdXR3di1U?oc=5",
-"o": "Wccftech",
-"via": "Google News: dc-incent",
-"lane": "search",
-"at": "2026-11-19T13:32:39+00:00",
-"seen": "2026-11-19T21:01:40+00:00",
-"status": "unverified headline"
-},
-{
-"id": "24274294332a",
-"t": "Nvidia And The Trump Administration Begin ‘Investigating’ Themselves In Wake Of Blossoming Scandal - Techdirt.",
-"u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNQUtYMzM3bVlicHRmMnVFT185VE5BeGxKSmhMTTRXYmNVelhBWlVaaXlSWGwzMFZBbVJKOEY2eTRjZXI5dzA1M0FUQVNaRERZYmQxeFpNTHRWaUpUMVNKRzdmTndRTDBJWmYwYjVlcjlveWQwMDg3ZTQ4RTRUcjNiUGQwaFVtajFIUzk0WFA0anRSV0FCbUpQWUhTQXd6VlBwWGlVVURXTUVJRU1mWktjQk05V2VaQl8zTnk1aHFrTlU0Rl9uZ296QW5KQ24?oc=5",
-"o": "Techdirt.",
-"via": "Google News: antitrust",
-"lane": "search",
-"at": "2026-11-19T13:24:00+00:00",
-"seen": "2026-11-19T21:01:40+00:00",
-"status": "unverified headline"
-},
-{
-"id": "941982d7df51",
-"t": "Alberta Energy Strategy Faces a New Test as AI Data Center and Oil Sands Compete for Priority - Construction Review",
-"u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWFNSQ1J3akhyQl9paXU4VE8tVFJVWjNDM29tVHVBOEd2U2wyQWlxN0hzYWRsMGZjd3htNVIzVENhR25HTHh4NEp1ZjFpY3lncHNXNVpxdnFhNGpZNkYyY3dDMzlrckRJeEY3c1pRYWp3aDFPNDNUSDJfWVRMc29tV1pmYmxlSzdUMVphY1RIeXN5QnpWdWFJVnZGSnA0VzB2YUZjMklQSTUwX3Mzai1ZWFgtVXN4M2lTS0h2UU44N1ROSUdQSHRIdzJxMA?oc=5",
-"o": "Construction Review",
-"via": "Google News: dc-water",
-"lane": "search",
-"at": "2026-11-19T13:19:28+00:00",
-"seen": "2026-11-19T21:01:40+00:00",
-"status": "unverified headline"
-},
-{
-"id": "db693d023f5d",
-"t": "Yelp Layoffs: 2026 Job Cuts and Severance Pay - Samfiru Tumarkin LLP",
-"u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUUhWVTZocjZsWUZDX3NjdnJVYzRXTVFneWxlNEE0OTh5WlRlQ3hIUUVfRzZBc2JBdlVyd0oxRmRVYjN4NFBPRWthaURxZC1WUS1aazN5ZXo5OUdsUVByS0NxUEhodWxZS2xVcmpkNmFuT3RWM2g1VGJmQ3pzeDJMZmtB?oc=5",
-"o": "Samfiru Tumarkin LLP",
-"via": "Google News: labor",
-"lane": "search",
-"at": "2026-11-19T13:19:24+00:00",
-"seen": "2026-11-19T21:01:40+00:00",
-"status": "unverified headline"
-},
-{
-"id": "c9ad2ab0de1f",
-"t": "No data centers are in the works; Washington Co. justices could still vote on a one-year pause tonight - khbs",
-"u": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA1SjhoalNYd3E3VmFQb2NxNlZTdHVGcGVxa2k1N0VVbDFnLTU5eTFXR1NwUk1TTWN2OXhuN2RzUVQ4N01pT1pYLWhkM2I1dWxjZXR1LVNINUdycEhDaHAwOGpUUHpqQ3I2MGFXSjZXdw?oc=5",
-"o": "khbs",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-11-19T13:09:36+00:00",
-"seen": "2026-11-19T21:01:40+00:00",
-"status": "unverified headline"
-},
-{
-"id": "c4fa74de9987",
-"t": "Texas is resuming data center environmental permits, handing SpaceX an approval - Quartz",
-"u": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9HaDJmS19RWG8yTWRuMlVpWWRuc2NFQ2J1aGhFNzV3SlkxNXd1LTNqOGhhSEFmQTdPM0pZUHpVX0QxcVFOaFVUSHdzSDg5X0R0X0hBTGpCbTJqMFVveG5JY0dmUGxreFJYWjVqMTV3elVTcnl5aHlyYmc2WQ?oc=5",
-"o": "Quartz",
-"via": "Google News: dc-utility",
-"lane": "search",
-"at": "2026-11-19T13:08:13+00:00",
-"seen": "2026-11-19T21:01:40+00:00",
-"status": "unverified headline"
-},
-{
-"id": "a81cf3c1c365",
-"t": "A big Utah city bans data centers — at least for now - The Salt Lake Tribune",
-"u": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBiZXlLTzl6TkREWTkyVXlUVERLSWNIWWJiRW5DQVBjQ21QS2wwNjltbG84YXZ2N1B4b19vQUtpZmE2S05Wc1FLV2Q1aEtwTzlsbzZ0d2Z4WU0talVzOFhIanR2Ukg4Snd3aWVSd3VIMUo2LUdRaDdKbVVYcnQ?oc=5",
-"o": "The Salt Lake Tribune",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-11-19T13:03:42+00:00",
-"seen": "2026-11-19T21:01:40+00:00",
-"status": "unverified headline"
-},
-{
-"id": "ae1c5b322f78",
-"t": "Data center regulation has been left to local governments, but power is about to shift to Austin - The Texas Energy and Power Newsletter",
-"u": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9veElYcThlOUktVzhQam1GOU1WNkEtYlFoX19kd2tHb3pZNzJFVnZ4b3AwYWpCa3dNNDRFZHZDRUxGZlB1ZjJFc1YwY1pxRW5sZmRBaUlMVG5WSFZEd2liNVJ3ZDJhMWphaF9vcjVkQW1uTDZOc2FiMXBxUWVTY0U?oc=5",
-"o": "The Texas Energy and Power Newsletter",
-"via": "Google News: dc-water",
-"lane": "search",
-"at": "2026-11-19T13:03:13+00:00",
-"seen": "2026-11-19T21:01:40+00:00",
-"status": "unverified headline"
-},
-{
-"id": "15e5c1931490",
-"t": "Group protests in Dimondale over proposed Windsor Twp. data center - Lansing State Journal",
-"u": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPVzR6cURyOGd0aHdmZU1VRHhBaVJEV2s4ZlpJdkdJOFNoVU5SS2JuNktEb2tJWWZkOFZsZXNRa0lUTGE0WTd2UXFsMElvOGJtQlJ3ZTVFd3hXQjJ3WHNkZUl6d0FyOHo0dW82REpRWnBvNUlCbk5fODdtUUZYTVFQOWxKZ29rV2Iwam1WcWs5aWR2QmFER3RtY2ZpV3UxN0N4eVA4UEVpT1Y5R3E4SjBWeEFxQVVOa1BsX2ZPZnVHRVhKQ0gyMktINEdIOWdFS0tZSlQ0N1hhZWxzVTYtMGtDQmFYLWVxT2s?oc=5",
-"o": "Lansing State Journal",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-11-19T13:01:00+00:00",
-"seen": "2026-11-19T21:01:40+00:00",
-"status": "unverified headline"
-},
-{
-"id": "72b3ff3fdbcd",
-"t": "Anthropic Makes History as the First AI Lab to Go Public",
-"u": "https://heatmap.news/am/anthropic-ipo",
-"o": "Heatmap",
-"lane": "news",
-"at": "2026-11-19T12:54:29+00:00",
-"seen": "2026-11-19T21:01:40+00:00",
-"status": "unverified headline"
-},
-{
-"id": "1f1b6b64a0fc",
-"t": "Palo Alto's $4.5 billion acquisition exposes a missed opportunity for Israeli AI startups - CTech",
-"u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBnUW1WUm1leDJndDlmLWoxVTZvdnhmVkpqdVduNmU5bUZRSzkzTFFPLW9EOW5oMHVsaEpmclZ6R1U1bnlqMVdFdndKaFFiQ1RGeS1Ub29rX1pjUlVzeGs5V1BlVUZWTjBx?oc=5",
-"o": "CTech",
-"via": "Google News: ai-deals",
-"lane": "search",
-"at": "2026-11-19T12:49:00+00:00",
-"seen": "2026-11-19T21:01:40+00:00",
-"status": "unverified headline"
-},
-{
-"id": "fea54f87f996",
-"t": "Maryland Consumer Office Urges Tougher Proposed Data Center Rules to Shield Households - Environmental Protection Online",
-"u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNXlRUjJvX0oxZ1RJcWx0Y2xOekpBd3lZWm03SER5ZW81VVExYW9FZlJ4N0EtSTlwT2t4azV3eWtoem40aDBLT0NlaDFqOFdWOG1MbTRYQUlWOEFwcXN4R0IydmZncVk2WVZRY3hkMDN4RmduUUVrbHhJek5uZXF5bXBoUW5CaGxucGUxY2ROWTd2M1hzelRQRnduZ253blFLVXRickt4Wll5MjNIS0NRcWpqSk1EYTJ1WHhwdW9kWFgzRTZTQlhyQ2JHSzg?oc=5",
-"o": "Environmental Protection Online",
-"via": "Google News: dc-utility",
-"lane": "search",
-"at": "2026-11-19T12:45:54+00:00",
-"seen": "2026-11-19T21:01:40+00:00",
-"status": "unverified headline"
-},
-{
-"id": "6198dc0e5b59",
-"t": "Insights into data center resource use in Nevada - Tech Xplore",
-"u": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5qTnd2Z3Q1bE5OcHc3VUpfMk9UbXExRlpNNC1JS0ZCVzg0Uko3dFZKUnpJR1EwcWptZ2pIM3p5bmdEckNwUXFHUXdvTUtHYXFSLWNnV2ItWFAwYzB3YnEzbTFibmlSZWg0Q2pRTnJvN01BWTdiaVFlS2JCZjc?oc=5",
-"o": "Tech Xplore",
-"via": "Google News: dc-water",
-"lane": "search",
-"at": "2026-11-19T12:40:10+00:00",
-"seen": "2026-11-19T12:48:37+00:00",
-"status": "unverified headline"
-},
-{
-"id": "8ddb310e1737",
-"t": "SpaceX's $24 Billion Texas Data Center Hits Snag as Cameron County Rejects Tax Break - BigGo Finance",
-"u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9XYTRyQzNuWmRYUlQxdWd3RVFFT1V1MFBuNGpKWjR1N0xvdXk5c2xsOXMxRnFUaGF1SDYtajBwejBlbWpaS0x5SVVxbkFQbTRaY2RHYTNQQy1XZXBtM0J4V1lwZnV6S0Vyb2x4UmZsS0sxMWpMYVE?oc=5",
-"o": "BigGo Finance",
-"via": "Google News: dc-incent",
-"lane": "search",
-"at": "2026-11-19T12:35:00+00:00",
-"seen": "2026-11-19T12:48:37+00:00",
-"status": "unverified headline"
-},
-{
-"id": "330d01341dfe",
-"t": "Anthropic gave $40M to an AI safety group. Most of the candidates it backed won. - The Washington Post",
-"u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcUtkTmd2NE5ZUnZKZm1SUk9NdGpidExKNEpLdmt1bzNVQ0FoaGNZMGRIbk1pQjBGQ28xUE5HVzlva0xIY19JNzBnLUVJNmtJQ3Z3eFBWcktZWGpmSWN1M01rUHlrempjLV9qdGFUbm0xU3J3UVhaVy1iU0FQVXFpaGRLZ05lWnVJUFFjeVFwVm91NnZRZFVjUGdJLWthMkR6UGI3ZC05ZTZUSEpuSnhSNTZJR2MtSHFwZUhsbTVB?oc=5",
-"o": "The Washington Post",
-"via": "Google News: washingtonpost.com/technology",
-"lane": "search",
-"at": "2026-11-19T12:31:07+00:00",
-"seen": "2026-11-19T12:48:37+00:00",
-"status": "unverified headline"
-},
-{
-"id": "147aacb8bc80",
-"t": "Data centers can be good neighbors, but it takes some arm-twisting - Houston Chronicle",
-"u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVDhtUXp3anc4Z3hBTVNNc0VhWVR3UkcyQV9KSThiTkM0aHN2UTRhVVREN0k0Skg5UWlSVXFLYTNpWkNxWGNsa3NFWXRuekZfN0I0U1lsVzV1d2YzM2x6Xzg0V1pVWU53UG9USGxxM0JxUC1sRTZwTlk2RDNXWm9TSDYxNEZHbEEzUm5NZzFiLVpRZ25wTzNKTlkwOUItNGNuVkZZSnZWRFlzdDg0N1RYaHQtNlcwRXhqYUNYRW1YMDNBU3Z5?oc=5",
-"o": "Houston Chronicle",
-"via": "Google News: dc-water",
-"lane": "search",
-"at": "2026-11-19T12:25:42+00:00",
-"seen": "2026-11-19T12:48:37+00:00",
-"status": "unverified headline"
-},
-{
-"id": "a8a1dc41c6c0",
-"t": "Small Business Research Programs: Selected Agencies Address Foreign Risks and Take Various Approaches to Track Data",
-"u": "https://www.gao.gov/products/gao-27-108923",
-"o": "GAO",
-"lane": "agency",
-"at": "2026-11-19T12:15:49+00:00",
-"seen": "2026-11-19T21:01:40+00:00",
-"status": "unverified headline"
-},
-{
-"id": "36f0274e1e83",
-"t": "Advanced Micro Devices (AMD) Closes $8.2 Billion World Labs Acquisition - Yahoo Finance Australia",
-"u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZkNtckk5TW0wbDQzTkxSU3JQNVJROTBBdE5OMjlyWDZMcHR5VE1BemMxOFZxSXNZR2dQS2JNWDRSN2VJYkxDU1FTLVlielg5SW5IOXdibDEzcmNzZU16ekxGNkhoWDRnX0xRcWVzaFBpUmpRMFRmSllnM2pfaGRzYWFXSl9nRmlzUUE?oc=5",
-"o": "Yahoo Finance Australia",
-"via": "Google News: ai-deals",
-"lane": "search",
-"at": "2026-11-19T12:14:39+00:00",
-"seen": "2026-11-19T21:01:40+00:00",
-"status": "unverified headline"
-},
-{
-"id": "5aa599afed7c",
-"t": "Salesforce layoffs in India: What is ‘garden leave’, and what benefits are employees getting? - Firstpost",
-"u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQOElOeWd0YWRsMXBITXFyX0w3WU1IUG52R3B4R1N6enFmeXIzczBZc2JKdGx6Y3FINExpNkp1SHRyUkxkWkpEbTYwM2o5UmJJeWxkRWZlREV0d1pULS1Qa2puT2c5Z3VNNmV1TnlVRG9WOHZ5Y2N2Vzg5V0NxeUxqNDFLNzNfenpjZFlXTnJiY0tDeUd2STJYUjcxOC1aS0dSdkFtRnBvcnFPdXVSTGNRVmRYWHpOaVJ3c2FKNGUtSTU3WHFyMGVPTTZUS2ZObkVTcjNNOWRn0gHbAUFVX3lxTE15c0liS1hjTGRkQ0ZDWU9lRHU1azRMM09EdjFZTE1TWU1YRnZ1dzFnZ29vVnozejBmT1FVVGttWkJZMmJ0UWpUelVyTzl4b092UENqOHI2SjdrQnJNc1N5SmQzak9nWUlVYlFrbXAyRUF3b2lqV1d1VHRha1NjS2REZGRnTENneVlaNUN1NDRPb3dxSGJvaDNtNG5LOW14U0xVdks4M1JzNlhaOGUxdWlHTTZUVk51OHlidEYwdVIxOTlDQUJfczd2X3FMUUJsMmRjODJYM2k3QUlsaw?oc=5",
-"o": "Firstpost",
-"via": "Google News: labor",
-"lane": "search",
-"at": "2026-11-19T12:14:25+00:00",
-"seen": "2026-11-19T12:48:37+00:00",
-"status": "unverified headline"
-},
-{
-"id": "b881273c20b8",
-"t": "Trouble For Elon Musk's SpaceX In Texas? Proposed $24 Billion Data Center and Power Plant Face Uncertaint - Benzinga",
-"u": "https://news.google.com/rss/articles/CBMingJBVV95cUxPZGpQRnNrMzdLRXY1c24zeHVRcmtma3hEZE9EUFRyYWZFZ0dVY1pQWndveVFJOHJWX1BZR0ZmTlI0TXY5aG1kZHo4eVFBYzlXNVNaLWFGVkNaWFZTaHBZVXRtZHpwaDVIOWt0amExWlM2V1NFSWhfREJDYmdfenBJTUJRalUwZC12NU1mbjdXM0tSTGw4enVsN01xSFFJeUs3Q0ZGajdqNmktU3V0NENTTDgzb2ZsZGY0dmlxaXNaaWN5cENCQkFtYWlqdVhBU3pVc05JQkIyUTRGY0NvdElXejlHMzRmOFN3dmh6cnRIUTlYOS1rNk9Wc0F1YkVwUzlBVjFUcTU3Yy1RanVoMzJ4S0FIN2NTZ3A2QzB4NWp3?oc=5",
-"o": "Benzinga",
-"via": "Google News: dc-incent",
-"lane": "search",
-"at": "2026-11-19T12:14:04+00:00",
-"seen": "2026-11-19T12:48:37+00:00",
-"status": "unverified headline"
-},
-{
-"id": "4779bf3eb914",
-"t": "Gov. Shapiro: New PJM Governance Rules Ensure The Electric Grid Will Continue To Be Held Captive By ‘Greedy Corporate Interests’ - PA Environment Digest Blog",
-"u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSVc4ZXNIbG0wcDQybGJqQldyVUJ3dFlmYlVWWkRMZXZnNGctV3RKZklJSjJQUW1DQUxrU1pFTXo1VlB0SVJRMzA5SFd2b3F5NHV3WDBGY083SlZZM0VkZ04yellUajdfc2lCU2FxS3RicEVjVVR5bkc1bHQ1b19tOVpPOXI2NmtMMG0wb04ySzdrQQ?oc=5",
-"o": "PA Environment Digest Blog",
-"via": "Google News: dc-utility",
-"lane": "search",
-"at": "2026-11-19T12:13:10+00:00",
-"seen": "2026-11-19T12:48:37+00:00",
-"status": "unverified headline"
-},
-{
-"id": "ce654ca5fc27",
-"t": "Federal Accessibility: Agencies Not Consistently Meeting the Information and Communication Technology Needs of People with Disabilities",
-"u": "https://www.gao.gov/products/gao-27-107934",
-"o": "GAO",
-"lane": "agency",
-"at": "2026-11-19T12:12:01+00:00",
-"seen": "2026-11-19T21:01:40+00:00",
-"status": "unverified headline"
-},
-{
-"id": "d81a4b21bbc2",
-"t": "Federal Real Property: Commerce Could Save Tens of Millions of Dollars by Consolidating Underused Office Space",
-"u": "https://www.gao.gov/products/gao-27-108813",
-"o": "GAO",
-"lane": "agency",
-"at": "2026-11-19T12:11:05+00:00",
-"seen": "2026-11-19T21:01:40+00:00",
-"status": "unverified headline"
-},
-{
-"id": "17d2555aa173",
-"t": "This horizontal-drum fine-screening tech makes inspection easier - ChemEngOnline",
-"u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYjltamhHR2hTbkNxX3JqRWN0cHVWdEV3NjZKQ0VnS2oxVGdNOWFfUGtwdEtmZk1TcVRUNlh4aHlxY3FZMktVcGlrS3FQa2szM3R1TGFhMmg0bGhsVGlsSWpIX0loWmx5U0NwT1VmTGdzelFDX3dPR0RiOWFGdzlXejlzUmJBcm81SDBMdmVaVUc1UlZtZmZhX2dYbV9mbTljRk9v?oc=5",
-"o": "ChemEngOnline",
-"via": "Google News: privacy",
-"lane": "search",
-"at": "2026-11-19T12:03:18+00:00",
-"seen": "2026-11-19T21:01:40+00:00",
-"status": "unverified headline"
-},
-{
-"id": "11ad855909f3",
-"t": "Justice Department’s Statement on the Closing of Its Investigation of NextEra’s Acquisition of Dominion",
-"u": "https://www.justice.gov/opa/pr/justice-departments-statement-closing-its-investigation-nexteras-acquisition-dominion",
-"o": "DOJ",
-"lane": "agency",
-"at": "2026-11-19T12:00:00+00:00",
-"seen": "2026-11-20T02:14:16+00:00",
-"status": "unverified headline"
-},
-{
-"id": "f3aec19c4c87",
-"t": "Can US Data Centers Ditch the Grid and Supply Their Own Power? - Bloomberg.com",
-"u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeUlFUlRBZ0VwZjFSN2oyR2t6Ny1LcWlycjJjTW5oWWI0eVBuX3dBVDRpdHVndjBuZEJSMFpZSkhvSzczUWZhb2hZV0MtanNBS0w2a0stNHIwSGtrNTFNWGFRVW1kV3hUekFmanRVZWlxQXVlUDB4QnZSNGxvdXducURWS0MwVFJQQnZzNmlQVEJjaWd6LTNmX2xfZFVUU0s4Z3dHSVZPM1JhV004Y3V4RERSdllfaVBLYVVZM2YxMVQ3QQ?oc=5",
-"o": "Bloomberg.com",
-"via": "Google News: dc-water",
-"lane": "search",
-"at": "2026-11-19T12:00:00+00:00",
-"seen": "2026-11-19T21:01:40+00:00",
-"status": "unverified headline"
-},
-{
-"id": "1a83b444400c",
-"t": "Before Trenton’s data center ban, permits covered first building and major infrastructure - Cleveland.com",
-"u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNXzl2bEphQUQtQlFmNzM3Y2tXdVdWR0FXc3BjYnBCaTlPNXpFU2lJRi15bTl6RmQ2NWNuc0lpTjBYRlFOUHJ1blNnT2ZUelNwTjV3bjF2RENuWlFxUEZwVnZOZEQ5VWUxak1ibEJEVl9fTHRHY19rR0Zua3VCdXF5MnNpbkQ5RTRhemF3ZTRaTXQtQjJybHFQSW1YeDAxSW0wajlpZzhfZkJUUDlRMW9LMXJqYmFSd2lNUEJVLVR0UjdvS1RIWVk2ZDcyU2s?oc=5",
-"o": "Cleveland.com",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-11-19T12:00:00+00:00",
-"seen": "2026-11-19T12:48:37+00:00",
-"status": "unverified headline"
-},
-{
-"id": "be3161b0e6ed",
-"t": "Google commits $10M to local water resources - The Business Journals",
-"u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbWR2X2Z5NlZlb3J1ZDNtVTZYWHRMdzVoaHBvNEdXTGJFRTJucUtLLV83bC11Q1VKc3RCSUtNUnFOaGcwQU54TGlYSkZIMEt3MGRMYTNkYlpYUF9RZ1lwYXZQbjk3LXdBbGRGZ2FDcjVqclptSTJKb0g2LVFYSWxXWHRUWWNNVUpFWEF6Z2NtMEFLVllaWHBCZmJISXlCVkFHRFE?oc=5",
-"o": "The Business Journals",
-"via": "Google News: dc-water",
-"lane": "search",
-"at": "2026-11-19T12:00:00+00:00",
-"seen": "2026-11-19T12:48:37+00:00",
-"status": "unverified headline"
-},
-{
-"id": "859b897ed859",
-"t": "Critical Infrastructure Protection: Further Action Needed to Enhance Cybersecurity of the Food and Agriculture Sector",
-"u": "https://www.gao.gov/products/gao-27-108656",
-"o": "GAO",
-"lane": "agency",
-"at": "2026-11-19T11:58:18+00:00",
-"seen": "2026-11-19T21:01:40+00:00",
-"status": "unverified headline"
-},
-{
-"id": "bfa46c2b8011",
-"t": "Palo Alto Networks Shares Jump 9% on $4.5 Billion AI Acquisition and Raised FY2027 Guidance - Yahoo Finance",
-"u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWWdEZ2VweEx2TzRUc0ZpNWFBZ0d2Mm5aWHVGVzFyTGxRXzdMMW1FN1Z0TXk4eFdKYW1JQXE1WUFyVGxrUXZHNjZkSmFhdzJIZWE2Z3F3aFFSbHdiRHZvMzZoVFNVVElDcGIxd1dfYVJxTmV1d19SX3d2Q25iQWZyUERvYnNQNVBkTHo5ajBxY1FTY2ljUHdmR3B3?oc=5",
-"o": "Yahoo Finance",
-"via": "Google News: ai-deals",
-"lane": "search",
-"at": "2026-11-19T11:56:22+00:00",
-"seen": "2026-11-19T12:48:37+00:00",
-"status": "unverified headline"
-},
-{
-"id": "d31b33c4f0a6",
-"t": "‘A fear, not a fact’: Actual engineer takes apart the case against Opelika’s data center - Yellowhammer News",
-"u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWGdjQnVEbF9tZGk4N3RvRFdzcFZYSE1mcGdCekxkS2JGYmhnMWxIcnE5RXA3MXcwTlg3MFB6YzNMYzU0M1FqOEZxZGhYX1pKX0Z0UDFrSmxYLXh1UWZwUE94Vmg0ODJ3SFVKVDBSZ1BJc0pjVzVuV0EySXFsSE9nTGRWbGREWUNrQmVsRnQydnk4c3FGN2tob1ZYVlNqVUl1aWZkT3FCa2U0X1FmV09UX05vaw?oc=5",
-"o": "Yellowhammer News",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-11-19T11:55:33+00:00",
-"seen": "2026-11-19T12:48:37+00:00",
-"status": "unverified headline"
-},
-{
-"id": "ac23a3cf596b",
-"t": "Stafford County Planning Commission recommends rejecting massive data center proposal - FOX 5 DC",
-"u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPam5FR1p2Z1dpb2MteC1pRjJZOEh0b2VWYmN0VWplanpZQzlTY1h4NzJzMkx2UnFWbTJ4ajNCVU44R3l2cVNKNnBndGk5WmNjZ0kxMldTTzh3Z2o5NEhTaGdJcmpMR1pVVEVPekcxNVc0M1IyUFdEMzJGeFdxc3dMTTBMYjFpLU95YXdHc0dMQ28xRElZeFZKMldENS03eWU1V1V5WEpCMHVDbnFEYmhmMjNoZw?oc=5",
-"o": "FOX 5 DC",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-11-19T11:43:53+00:00",
-"seen": "2026-11-19T12:48:37+00:00",
-"status": "unverified headline"
-},
-{
-"id": "f3d1bc4c8cfc",
-"t": "Kilowatts and Toktogul: why Kazakhstan’s data center debate matters to Kyrgyzstan - Economist.kg",
-"u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUDY1TVJ5X2NhbERDcjhuM1hoVUp0aXJTcGt0czJnTy1qRmxjSV9MMng5M0FVOFh1UGd0bXZaU2UwSHZMbDVHODJ0MDl3eE9Bdmg0Zko2YmlGVDAtVEtaNVpDamQ1T1hzRGZOOVUzT3NMRVpuc3FmOHdWdEpSZDRmZjZEckp4SUNCSFcxQnlB?oc=5",
-"o": "Economist.kg",
-"via": "Google News: dc-utility",
-"lane": "search",
-"at": "2026-11-19T11:38:44+00:00",
-"seen": "2026-11-19T12:48:37+00:00",
-"status": "unverified headline"
-},
-{
-"id": "d5ba42fbe1ea",
-"t": "Data center electricity use could double by 2030, IEA says",
-"u": "https://www.cnbc.com/2026/11/19/data-center-electricity-demand-iea.html",
-"o": "CNBC",
-"lane": "news",
-"at": "2026-11-19T11:34:24+00:00",
-"seen": "2026-11-19T12:48:37+00:00",
-"status": "unverified headline"
-},
-{
-"id": "4676aa0e6c3b",
-"t": "T-Mobile files to acquire 600MHz spectrum from Bluewater",
-"u": "https://www.datacenterdynamics.com/en/news/t-mobile-files-to-acquire-600mhz-spectrum-from-bluewater/",
-"o": "DatacenterDynamics",
-"lane": "news",
-"at": "2026-11-19T11:32:00+00:00",
-"seen": "2026-11-19T12:48:37+00:00",
-"status": "unverified headline"
-},
-{
-"id": "e17dd4eed7e4",
-"t": "The midterms weren’t really about data centers. An AI researcher says voters want a pause on AI itself - Fortune",
-"u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOakM1cHQxaVlfRXF6eFpJNTQzRWVKZ0Jndk5fNGQ0YlAxZVNqVG1PQTRqREYzSFQxZ2ZHd3dNaW9UZDk4U1plQWtJUzdCWXRvczRTRUZOMlJ4MUx6dFBXMG1qOG9ZNnRIbjJJUWJQUVd0N0JHZldhMHJFSzRMYnVYT2tRUG1kSXhwOFVFTUVldXdpOHpnckZXcER2dnJCNmdhVjBUcFln?oc=5",
-"o": "Fortune",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-11-19T11:30:00+00:00",
-"seen": "2026-11-19T12:48:37+00:00",
-"status": "unverified headline"
-},
-{
-"id": "1075e4fdaa0e",
-"t": "Sutton has leverage in the data center fight. It should use it. - The Boston Globe",
-"u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Yd1JnNWhGYVVyOFNBU3Zfc2dZZjZGT01TT3AwWUlBVFR0VE54SUtBMXlrQ19uejh3Yk9mbjNPOWNtRll5eE1IaDROMU9pNFE0Z3djaEhPOUkyZmdKelFxdGd6aV9Rd0htcEM3emRyQ0RWMGZXNGc?oc=5",
-"o": "The Boston Globe",
-"via": "Google News: dc-water",
-"lane": "search",
-"at": "2026-11-19T11:21:00+00:00",
-"seen": "2026-11-19T21:01:40+00:00",
-"status": "unverified headline"
-},
-{
-"id": "8de84f5f0a48",
-"t": "Sartell mayor addresses rumors about data center: Exclusive - St. Cloud Times",
-"u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUFFSanY2YTB1OXB6aS1qR2I5TUxjZUt4cWVySTdUbTJVSFZwRnM2X2laTWpjOUZXVGdfR05nUVpjSHQ3bUlWazhlUXRFakV5OVI4Vl9mZmFHN3duWExvSFRhdURrb3dvZTRsMzRHTDV6NmtadnhxRzJrZFVNQmJyUTZyTkZBUXRjTEdBNUl2MmFsN1RpT2QwaU80b0pURTNUTDQ3NFJOSnZ1dER1Z1JTbDk0bkF3OXA3WHAyaktuNTdzQ295ZXA2VlFHS0tqN2c?oc=5",
-"o": "St. Cloud Times",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-11-19T11:15:00+00:00",
-"seen": "2026-11-19T12:48:37+00:00",
-"status": "unverified headline"
-},
-{
-"id": "3503bc4cbe4e",
-"t": "‘Clear the room’: Opelika Planning Commission approves data center zoning change in heated meeting - 1819 News",
-"u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVGc0VEhlM0tUeEFpcXRNMkdIUEdCamJTaWtBTEpBaW9HLURzbTREX0xmMk05SVAwOVpfQ0JqcnVlUUR2Y2E3ckc2NGRJRjJnYjZqV19kZ1ZSMXJxLWdDTmhmZ3RTa3V3STAxSHZfZDdwZk9fZlZBSUhBOFpyYmJ4eWQzMUwzTjVuRklUMTk2bzkzYlh1V1o0WVhTOWpXY2NMU1o1RlZyMlFqaGRXR2hYajNwRFllZHBMUlNxbzVwRjJBOFYt?oc=5",
-"o": "1819 News",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-11-19T11:05:50+00:00",
-"seen": "2026-11-19T12:48:37+00:00",
-"status": "unverified headline"
-},
-{
-"id": "0296de7c03d3",
-"t": "Google’s water stewardship commitments for local communities - blog.google",
-"u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVWt0bmdKbFdyUU5pdy15Q0xlTjEzc3dPcHVtTXgxeHI0TEhGOUVLWTFCZ1lUWTZMWDFJTmk2bUdjNThnZTJ3dVVybjE5U3VYeVRSRV9TNTFHZHdLLWRjQU5zS2ZQWVgzUllxQ0IydTMwa3FqNjN3YmNFSndMcTZ5WFIwNG5JZTI0Ul9hTG9VSHdNcUJjdU9QUWhTc2hyZXdhX0lDWndjY3g2MWM?oc=5",
-"o": "blog.google",
-"via": "Google News: dc-water",
-"lane": "search",
-"at": "2026-11-19T11:03:06+00:00",
-"seen": "2026-11-19T12:48:37+00:00",
-"status": "unverified headline"
-},
-{
-"id": "a671dac14ca5",
-"t": "AI Was Blamed for More Than 120,000 Layoffs in 2026. These 10 Jobs Are Still Growing Fast - Money Talks News",
-"u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE54YXZMZnJsVUQzRVRYTHFXakRNSDU3ZjJMbVFWUW5yQnZpYk5GazRBZHI2YVZnOHY1a3B4Ri1uUTNNQ1V2M192dmgzemlnaDlDcHBiTHdDem1DS0F4OExSd2o5cTBjcXA4cVNYTkJhWjg?oc=5",
-"o": "Money Talks News",
-"via": "Google News: labor",
-"lane": "search",
-"at": "2026-11-19T11:02:20+00:00",
-"seen": "2026-11-19T12:48:37+00:00",
-"status": "unverified headline"
-},
-{
-"id": "35d3986411c0",
-"t": "Illinois POWER Act: 6 Impact Areas, Still Not Law - shattered.io",
-"u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPN2xPand0UERpOGwtdDFZNmpIZFZrdEFrR09mN2VYRlBUS0Y0blh1WmZLMjRxR1JLb0NBOUg4MjUtT0RkdWwwVG5kbGwzeUo4UnNZXzYtb3BySWptNFA5bFZCeDNZTWQzYXBjNXd5ZHVoSEwzYldzZ2xKRHFNaEJIZUVVVlBRY2NyUUE?oc=5",
-"o": "shattered.io",
-"via": "Google News: dc-water",
-"lane": "search",
-"at": "2026-11-19T11:01:36+00:00",
-"seen": "2026-11-19T12:48:37+00:00",
-"status": "unverified headline"
-},
-{
-"id": "70dc7264d245",
-"t": "Trump says the tech outages are ‘fine’. Who believes him? | Margaret Sullivan - The Guardian",
-"u": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1PRVZMT2I2TDV2UVdmQ0xKaGl3a0hkVUstN00yaFZ0eFVwMXN3NE4yMmw3Y2c1VXlDcXRaTGJqdTN2aEtVQUlhMmlTS0h2ZUhvU09XRkxTaEIxTUZtTmxzems2TVdrUVFuYkdGQko5RHBiVmNETlFkZHkzSGc?oc=5",
-"o": "The Guardian",
-"via": "Google News: privacy",
-"lane": "search",
-"at": "2026-11-19T11:01:00+00:00",
-"seen": "2026-11-19T12:48:37+00:00",
-"status": "unverified headline"
-},
-{
-"id": "3b0d1d138ab9",
-"t": "Digital Firms With Political Power May Need a Democratic Check - ProMarket",
-"u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNX2lzalZjZEFLNnpvR2Q2ajYtcXdidjZXX05EOWJiSFU3Q2JRMVJnZnQ4cmdqZkJ4Qmh4WHlwSGZEcGdjMG9KTktWbWo5TGUwUmQzNWJxU1FMX2ZOQU9yLUM4a0RSWGFlbzUyNDNoMi00dHlrOV9semhaN3FPRFlYbG5jTndVV3hkeVVnV19wMFJPNG1OMTltMjJFcWZPNHgtaVE?oc=5",
-"o": "ProMarket",
-"via": "Google News: money",
-"lane": "search",
-"at": "2026-11-19T11:00:00+00:00",
-"seen": "2026-11-19T21:01:40+00:00",
-"status": "unverified headline"
-},
-{
-"id": "bc3ff4b4409d",
-"t": "Meta plans consultation on revisions to commercial terms, EU welcomes move - MLex",
-"u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNE9JMUNSMWpZYVpnYTQ3SzdnZkp6aFVFSTIwSlRtOTJ2aUNxcG1UYjZXcDgwQkdvZGxYMmtqNUk1TFZTUVVHTU5DVHlZeUZmZVZNSzNiTkdMcEt3OXJtTWhoUkVfS2FtWDBheTNoUEIwNnFyT25EWlVDZjFMYkZaRE9nRmNJYlYxRXRlN29zSlFZS1J0eFFxQWRQZ0ROY1lrT3ZEYVd5dW1xRno4LWZVRTFHVXJScTFLMG1xcldrUjEwZTl10gFaQVVfeXFMTUVid21sdDBNbDJRMjFDRnhCbDFDT0Ztb2RLYkYteC1ua0V0ZjMtOGpOb0dWbXotakZpNDRtYUFyS1FqemdPV1FfMmZUUUg3dWZTY3hwaVpuWFR3?oc=5",
-"o": "MLex",
-"via": "Google News: antitrust",
-"lane": "search",
-"at": "2026-11-19T10:50:30+00:00",
-"seen": "2026-11-19T21:01:40+00:00",
-"status": "unverified headline"
-},
-{
-"id": "31465afe0629",
-"t": "Rural advocacy groups band together to oppose data centers, related energy projects - Virginia Mercury",
-"u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNN3ZFWjVFT2otV1hiTnVrWnFjTkFCa1ZGWFg5cjNRQzcyLUtYUWRNZ1dHMjN6SFBXeVVweV9pcEdaVEE4S0JMQXJhWUxMM0xMRENob0VRcDRtN3Q5bFlFSFFGYWZpc1RkSHNPVVBqNnBkeVBtNHJxbXZQWlRGNktNeEZmX2I4dW0wNnpWcFVXY0MzMS1zalY1ckw0WFdUdTRxaTRTbUxxcUhENUI2RDJ2RklaTkwxWDNodVdpTHFtQQ?oc=5",
-"o": "Virginia Mercury",
-"via": "Google News: dc-water",
-"lane": "search",
-"at": "2026-11-19T10:28:10+00:00",
-"seen": "2026-11-19T12:48:37+00:00",
-"status": "unverified headline"
-},
-{
-"id": "a7c7adc6b88c",
-"t": "Palo Alto Networks to acquire Applied Compute for $4.5 billion - Help Net Security",
-"u": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOUJBa2dleVp6aDlGUDRfZ0pWc2o0dlNRcDdta3RaZ205OC1aXzdKY3FJNkJ2d29GN2NabHh4Y3FZcjRreWlzLTZvX25BU3FiaW9hRkZGMGNGLXY0bVBpZ3pVbUE2eUtSZFN2cDc4ZlMyNlp5WmZsNUItU2oyc1N6VDNEZUdySGNzMWhMY25rN08?oc=5",
-"o": "Help Net Security",
-"via": "Google News: ai-deals",
-"lane": "search",
-"at": "2026-11-19T10:23:41+00:00",
-"seen": "2026-11-19T12:48:37+00:00",
-"status": "unverified headline"
-},
-{
-"id": "fead757ab1a4",
-"t": "Strategist rejects $4.5m payout claim as lobbying row grows - Business News Nigeria",
-"u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbVFSVGE1aHFsNWZSQ1Q3T0poQk1va2F5UkZnT1hLNi10V0dHbTRQR1VvMVNfcU52SWhWbVVhWmFJODV5d1Y0bjZKQ085TWNMTmttNkNiTW81amdLRHNiWkt0eF9Ub3dGOFlqVllkM2ZvMEhzNEFpVlpaYTdwLVFZMHgzS0tSTUdBMGNxZTRmeTJkX3dOZjRPa3k5MjVLSzRr?oc=5",
-"o": "Business News Nigeria",
-"via": "Google News: money",
-"lane": "search",
-"at": "2026-11-19T10:22:36+00:00",
-"seen": "2026-11-19T12:48:37+00:00",
-"status": "unverified headline"
-},
-{
-"id": "d8b4be7ab45c",
-"t": "Singapore's Racks Central to be acquired in reverse merger",
-"u": "https://www.datacenterdynamics.com/en/news/singapores-racks-central-to-be-acquired-in-reverse-merger/",
-"o": "DatacenterDynamics",
-"lane": "news",
-"at": "2026-11-19T10:22:04+00:00",
-"seen": "2026-11-19T12:48:37+00:00",
-"status": "unverified headline"
-},
-{
-"id": "5305f3e05a26",
-"t": "Your boss may soon ask AI whom to fire: Startup founder makes bold prediction - India Today",
-"u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPNTRzaXVJbTdndU84M1dIcWVnNkp4cDFjWXd0MDc3X0szNGc1NV8zWWxNWjlxb0I1bTF2bGJmVXZaajUtU05tVXpYNUFQMmU4ZEh2TFl6eVROVEM2SGVGSmJaaFozazQ0SER6UjdSSTNFaloyTXhEdEIzbTdXbUxRLXF2QXZGbV9fZ0JXN3ZXbV9HMmpMbkRaV2tyb1hsc0lxX3NjV0pKcVFCRzlWWEtVX1VaX01ka2Z2aHU4MmtPRzh0YTFwdmxKOHpBdTJzSlRyVzdVTlk1Q181cUpO0gHiAUFVX3lxTE9pUnZSaU9CMlhsOTEwSUh3cTBPWExwRkpzOUw1TG5xWXluNWlDekQwcWUwX2hBMFFKSmZ4UDhOS1pzZHFGdU5HcFQ2Rm1yZy1VRnR4bFoyV0NLZlhJdTFaOVBQZEMxU0p2SGNPQUtORXhLZUZLeHFraTdMYmtVLXRQb04yNnBGNGpFdjMtRTB5TUp6RlhBNGJMX0JzQ29taWk0UGU2LTBNNXIzSDRDQUs2NmJTT0FqOW5CVEJ3UFJ4eUx1cVVLVmJ1SkpSbXpMT0pvOW9MZlZia3hVYnlzbzQ2c3c?oc=5",
-"o": "India Today",
-"via": "Google News: labor",
-"lane": "search",
-"at": "2026-11-19T10:13:11+00:00",
-"seen": "2026-11-19T12:48:37+00:00",
-"status": "unverified headline"
-},
-{
-"id": "cbf86817bc5d",
-"t": "A Data Center Was Coming. The Town Had a Message: Stay Out. - The New York Times",
-"u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYXFBUWVEeUZ0TUw1Ym1xc05RMFA1WjFSU2tYTktRbUIzckVrRkVXb0ZXdk5PUHFPeEFGbnFvWmJRNUxfeml1OEIxOWRCTURBZ3FrNUZnVDBuLXMxTGdrREZSOTkzaF9RV2Q1bDZlOXFHRklTQjl6a0Zvbm9JRHZjU0xod28?oc=5",
-"o": "The New York Times",
-"via": "Google News: dc-water",
-"lane": "search",
-"at": "2026-11-19T10:10:27+00:00",
-"seen": "2026-11-19T12:48:37+00:00",
-"status": "unverified headline"
-},
-{
-"id": "058476e147a7",
-"t": "Regional Chamber hosts Amazon data center panel to answer FAQs - South Bend Tribune",
-"u": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQLUlOOUxDc1RVSlVYMm5sUjNzOXM4eF85bVZHZ2lZa3FDMkRFZW5ud01naGc3bTJSOWJLbEhmX0U2ZmlHYXVhVEhnLXpCSWhueUdURjZYRUZqbkpwV2RmQkliQUFzVDRCVVRieFp0T085bUM3a1REY0hDVE1fa0lYUGVrZ2k4elo5eDAzT01hVXNoM2NWTWNiXzdtTGxSMzZwZTdkTWM1bU4wdGVnUmlxSDg0elpLMld4TFUzWE85VHhNY2ZEdUVqZnlWOXhCLXp0bWtjX2ZuT0VuT1E?oc=5",
-"o": "South Bend Tribune",
-"via": "Google News: dc-water",
-"lane": "search",
-"at": "2026-11-19T10:08:00+00:00",
-"seen": "2026-11-19T12:48:37+00:00",
-"status": "unverified headline"
-},
-{
-"id": "343d1893b519",
-"t": "Saipem sets a 2027 revenue target of €16.5 billion and pushes its Subsea7 merger to early 2027 - MLQ.ai",
-"u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNkZQRnhMRVJiaUt4SmtoQnloQk1rVTBOdm9JNTRZUUk3US1Ea3RMVHcyRWx1V1U2YndQM0RVTTlVaDJja3NBWldLSF9xeFZSekFPRTc3ZlVJT0F1SVdsRHUweEJjaHhRcEQ2bGFrWkdPUFY3SXpWQmdzdDYzd3JyRzRZU0pRYk5vd092aEZGRENPLUxvUGMxdUMycHJ2MlFGcVp5OGtDQS1QWG05Q1hva3lDcw?oc=5",
-"o": "MLQ.ai",
-"via": "Google News: ai-deals",
-"lane": "search",
-"at": "2026-11-19T10:03:13+00:00",
-"seen": "2026-11-19T21:01:40+00:00",
-"status": "unverified headline"
-},
-{
-"id": "7a62dc7e3595",
-"t": "Transcript: What Happens to U.S. Climate Policy After the Midterms?",
-"u": "https://heatmap.news/podcast/shift-key-161-midterms-roundtable-transcript",
-"o": "Heatmap",
-"lane": "news",
-"at": "2026-11-19T10:00:04+00:00",
-"seen": "2026-11-19T12:48:37+00:00",
-"status": "unverified headline"
-},
-{
-"id": "273befb01121",
-"t": "AI Workloads Hit by Power-Quality Issues at Data Centers",
-"u": "https://www.datacenterknowledge.com/energy-power-supply/ai-workloads-hit-by-power-quality-issues-at-data-centers",
-"o": "Data Center Knowledge",
-"lane": "news",
-"at": "2026-11-19T10:00:00+00:00",
-"seen": "2026-11-19T12:48:37+00:00",
-"status": "unverified headline"
-},
-{
-"id": "fe44b1178bdb",
-"t": "AI giant Anthropic raises more than $100 billion in record-setting IPO",
-"u": "https://www.npr.org/2026/11/19/nx-s1-6042558/anthropic-ipo-breaks-records-100-billion",
-"o": "NPR",
-"lane": "news",
-"at": "2026-11-19T10:00:00+00:00",
-"seen": "2026-11-19T12:48:37+00:00",
-"status": "unverified headline"
-},
-{
-"id": "32fce354acd6",
-"t": "Tech antitrust would be high on Van Hollen’s agenda - Yahoo",
-"u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaEJPX1lmdGtuQU8xTDVuUmNrckJXUk1SNUJ3OC12cnNSeVVqZl9iaklyVnlyS1doSllsazRjcEY1OGNVTndzbHBVQkw1eUM3ekJ4dGtNSjlTb3dvVVo5RkZ5WUJpdVNjQ1dxazFKSkhxaDg2bGNaeXc0VlMwblpVOGkzcjlyTl8zaHhDTVRsSWVTYUdB?oc=5",
-"o": "Yahoo",
-"via": "Google News: antitrust",
-"lane": "search",
-"at": "2026-11-19T09:53:07+00:00",
-"seen": "2026-11-19T12:48:37+00:00",
-"status": "unverified headline"
-},
-{
-"id": "d65c65de2231",
-"t": "Anthropic Faces 89 Signatories Challenging Its AI Safety Claims Ahead of IPO - www.techtimes.co.uk",
-"u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTmJkZmk2cG44di1xMEptU0g2ZHBOREhTdHZQUWp0dXUzYjdsRVdlV2FGaXhMcm50ZjdpNHlkVDd5aGxSOW5oQmowWHd5czdMUENwRmVQWkNqV0RVVXJnZk82M0w0N1NGUzd5c2xOTjR1UXV0QnVzdFozdzNCemlPUTNocENGMnJlc3dVRDJxaFk5UQ?oc=5",
-"o": "www.techtimes.co.uk",
-"via": "Google News: money",
-"lane": "search",
-"at": "2026-11-19T09:52:41+00:00",
-"seen": "2026-11-19T12:48:37+00:00",
-"status": "unverified headline"
-},
-{
-"id": "af7b74235bff",
-"t": "All the latest updates on AI data centers - The Verge",
-"u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOb0UxRGMyQ3VLZ1hCY2U3dVVzZnYyX1FZSGJ6OElGOFZ3amc1NnY2Z3Fhb2NIcUp4UFNQNTBQZ3RPa2RiaGEtYWROcHpadFpCV244Nng2VDZuOTBMZDNwdHR3ajl4RXhSSEFjSUZQMVlFd25GSXNZWHZxaVpJYXN0VFJSYUtwcWpOc1huZENJSTRjTlJtTUN3RXh4WFgxRkhOZnBLNVFwSHc?oc=5",
-"o": "The Verge",
-"via": "Google News: dc-water",
-"lane": "search",
-"at": "2026-11-19T09:47:51+00:00",
-"seen": "2026-11-19T12:48:37+00:00",
-"status": "unverified headline"
-},
-{
-"id": "8ef5adf5b064",
-"t": "Alberta Data Center Limits: 600 m Buffer, Cap Repealed - shattered.io",
-"u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUHFVd1hzYllrQm9Tbm45ejJMU1V5WUROcTRBa3NzR2d1eW9pSXJZU0xpNmVGQXlhb2hNcWFNel9lU1RpRU5CaUxOLUt2TGhHcVFwejFLcmhESjIybUl4VUg2YkwzUFkwazJjbDlKRTF2RGZmZlVqcFBiS3BuQ3lhZ2ZrMmZWaXRIVm15V29ZZXJNQQ?oc=5",
-"o": "shattered.io",
-"via": "Google News: dc-water",
-"lane": "search",
-"at": "2026-11-19T09:47:30+00:00",
-"seen": "2026-11-19T12:48:37+00:00",
-"status": "unverified headline"
-},
-{
-"id": "f7a70a588b94",
-"t": "Letter to the editor: Say no to data center zoning proposal - Cecil Daily",
-"u": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNbVY2ZDV1N3BtRm5IaU0wMExya0VzX0tsYVdPYXJBZlZ3Q1V0S3k4V0pYd1JkNWlwYmYzY1gzeGdyWEtKWXBPVzdQaUhpOHNfdlJUQkxseFBHUjhTd2tNYmVkRXA0NlN0V1RYc2RTWWFkUDU0cXBMS0VCSmpjcmJEWWtNZTRCdVdseHZCdWVnT0VOZG82a2pGMTZlV2ZGYUR4Y3RLY3lNN1ZUcFI5UHhVaXdXbmFVUGR6YUR6akljUXFPQzJmNmRiai1MUTBzaHkwbm1HNndGbzlUeDdOa1VqQ3B2ZjI?oc=5",
-"o": "Cecil Daily",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-11-19T09:34:00+00:00",
-"seen": "2026-11-19T12:48:37+00:00",
-"status": "unverified headline"
-},
-{
-"id": "87937fb3df85",
-"t": "Anthropic's ₹7 Crore Lobbying Payment In Washington To India's Electoral Bonds, The Revolving Door Of Money And Power And How Lobbyists, Billionaire Business Houses And Political Funding Are Reshaping Democracies - Inventiva",
-"u": "https://news.google.com/rss/articles/CBMizwJBVV95cUxOSkt3dWFjQUVwcUpFem0xU05URGc4X29FTzJKRzFjdElweF9zeDVxUFpLSEpjbEtITGtSb0xOQXhfMzhWRmpXWFFnX0lxNHphc1ZZUm9uVjd4VjdVVDAxdWVrU1o1Zl9fZWxrRGpjeWZ2dzlDaXlpSHRuaGwyWi0xTU1GdVpaM1hJb3FNdkxKWXQ1MnJWQzd4NkJRUDBsTWxhSGNtclh0NDlHZDBuaXRnUVFqVENVeWhXcEFGVEJRZU9WMzVab0h5emtEN2lhRi12MEJkSU9VMDRmU2I4M0FjUFBqU08zQmZjSXRDZTJ0QWRDZncyT3djUTN0SWpOcUdldmE4cjJLZ2lsQllkNlN4aHNDVm1nMHdmd1Y3V2g1NWI2TVk4Z2JKSGFYbjNBTFZ1MUJnQTJRejFmYWlSN3ZyTWZSOTRndmVoUkRXOFYwaw?oc=5",
-"o": "Inventiva",
-"via": "Google News: money",
-"lane": "search",
-"at": "2026-11-19T09:33:14+00:00",
-"seen": "2026-11-19T12:48:37+00:00",
-"status": "unverified headline"
-},
-{
-"id": "8cc89177d34f",
-"t": "Hydronics at AI scale: Connecting power, water and cooling infrastructure",
-"u": "https://www.datacenterdynamics.com/en/whitepapers/hydronics-at-ai-scale-connecting-power-water-and-cooling-infrastructure/",
-"o": "DatacenterDynamics",
-"lane": "news",
-"at": "2026-11-19T09:22:56+00:00",
-"seen": "2026-11-19T12:48:37+00:00",
-"status": "unverified headline"
-},
-{
-"id": "9c2dde9e60b4",
-"t": "Data centers loomed large in local elections, as Kentucky lawmakers eye new policies - Louisville Public Media",
-"u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQT1plYVdUZjFDQ2tmTkxFSFc2clFGbktzNDljbHlNT1pPZUdFQkF0TktpbnRIQXliRW5sSTVvdXJhanFLeTFiY0xEYnlmNU1WaDk3eFgzSjhJaXpfdTYwM3lVbk50WUd6MVRzbkxYajdKV1J2b2IzcWJQMkZIcHN2TVVrWS15WnQxQlF1VTZ1UVlTa1NCRzI0ekwtYU9IdzZleXJoalh0bFpfRTUyU0tfNEM5MjJXMFRTeHRn?oc=5",
-"o": "Louisville Public Media",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-11-19T09:00:00+00:00",
-"seen": "2026-11-19T12:48:37+00:00",
-"status": "unverified headline"
-},
-{
-"id": "611506ae144f",
-"t": "Ohio senators consider eliminating data center sales tax exemption - Ohio Capital Journal",
-"u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdGFUdjZRSFNXMEpKbGxtcTFPVHoxa3NoLUpNVXcyNElPSDlocjVJQjJqUDlTUERodUhzbFFBbi14em1LVm5fd3dYTl9WUTZCRW1QcTRwcmxSS2EtQjRkZ002SGYyVEVZRVNrbUp0RnJnazF2aXZWUEJHN3EyZVQzNzdUNk9sVkY1RWJ4cmg2OThkcDBRcTg4Rnl4N3JlVGZVQTc4WF9MYzM3ZHRxZ1E?oc=5",
-"o": "Ohio Capital Journal",
-"via": "Google News: dc-incent",
-"lane": "search",
-"at": "2026-11-19T08:55:05+00:00",
-"seen": "2026-11-19T12:48:37+00:00",
-"status": "unverified headline"
-},
-{
-"id": "dbc6c30d5212",
-"t": "Salesforce layoffs: Company starts another round of job cuts, internal messages show - Moneycontrol.com",
-"u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNSVVvVTNwcEF0NDhtOVFURzVLTHlfTHltSVhXRlBvcFdpYlJ5bGlQUXJCaFA0RE5kN0lzcVZkbkNOUktXblBMNGprUUMzeVdvd2Jwd2dhZFlhbFhCZ2FpcGE2eHBpQ1VzMlg4Z1JVUHQzbTJsUHBLQjZqWHIzbFppNmlsOWNiaUN5dTdJNGxUa3ZMNGg2dTdRNEZXWmxGb0Q0WndjNHU1VmZVbklrUTUtdzl6NkF5NlhQTS13c3FwbjQ2R3JfSUViZU1FdG5yRTZtZzFYckZrODF0Wm5u0gHiAUFVX3lxTE03SUhDajEtZW85NFRmM1ZqNVNCemp5LXdDRzFZZ0RCQjZYZWg2VFhkVkp6c2hLRzhhaGItOFAxVk5sbVBnSzZRcFpvWGY3UlF6M1A0LWhsOWlOenh3Q2ktZm14U2dleW03WDNRU3NnWV9YdWVPb0JkS3ZEd2FKaFdIRVN1c2NhMkQ5bFNmTUF2eDkxLXk1UDFJSENzRTFXVk1NYlBqUzJqQ0plQi1qY21ISlptYUI4Nk1FbHNqU0F0THdmLU9tUTJBZDd1ejZ4Y3R4LUt1NHg2ZVhRQ3daWUd2M2c?oc=5",
-"o": "Moneycontrol.com",
-"via": "Google News: labor",
-"lane": "search",
-"at": "2026-11-19T08:32:10+00:00",
-"seen": "2026-11-19T12:48:37+00:00",
-"status": "unverified headline"
-},
-{
-"id": "0d3c92157ba0",
-"t": "Flower Turbines Announces Energy Solution for Irish and Other Data Centers - The Detroit News",
-"u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNcWczOGlDT3ljaTg3V1BLWWFnVUxDTjd2RVJyd1puVEV6TVhGc0xzREJpS2FFcGxyS1A4VU1zYUJjMmp3WVBUclV6SEo4OTB0QzE1VW5aeVUtWTdqM1ZkeDd4M0lXZWI3NjM2d3ZvVm01ZlQtREZLQXRtb08zdDZWUVhUV2FxdVlQa0hQTEJ5TzlpY1VQVFRDNnpNRURQcWVFMXBlUnZzT2l5b1Z0bVdjaEwtbGRFV1dmRHdiUW1oVTBYeDZMRHJTTVh3?oc=5",
-"o": "The Detroit News",
-"via": "Google News: dc-water",
-"lane": "search",
-"at": "2026-11-19T08:22:03+00:00",
-"seen": "2026-11-19T12:48:37+00:00",
-"status": "unverified headline"
-},
-{
-"id": "da048d45ba13",
-"t": "Data Center Power Plant: Pentagon-Listed Trinasolar Unit Debuts Gas-Battery Hybrid, Tests Unfinished - Tech Times",
-"u": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxORGRsQ1ZTTTIxZkh0NFd1WEVHQkVtVlNMenktUGxpbC1wdTM2VW5WT3BvUG4wcHdHSnN4NVlkWVp3ZGhsUEdDVjNhM3piYzBUV1E0S1doN0xuUHJWMVlKRkZZWlp6S1hpb2FMS0JTeXVuU2lhNkVXeFU0dFpxTEhLemgzSUhXSDduVmtxem5LX1owNEZyeGVzVTdKSllyZldMbzl0SFMyLWU1TEdDdVVhTzl1M0x4ZUVrOGppNjBTMV9SbXBZN3lKZWNYUzVYYW5DRWhyczR2eWxjUDcwUVJoYXRYY2hrWFhU?oc=5",
-"o": "Tech Times",
-"via": "Google News: contracts",
-"lane": "search",
-"at": "2026-11-19T08:20:13+00:00",
-"seen": "2026-11-19T12:48:37+00:00",
-"status": "unverified headline"
-},
-{
-"id": "7cc141e360fd",
-"t": "Humanoid Robot Debut: Phantom MKII Claims 200-Pound Walking Payload With No Independent Test - Tech Times",
-"u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdi10dGw5V1dJS242N2hKYUpJVEd5dmZNQnd4RXBuM2EtWkdhTm9KUFhCNS1GRkpUNHpuRldpQlFzd3ZpbzF1NEhacV94MGM1Q1JRSEdPcWNLQThQaTc0cURYUHNyQldJVFFreHVJWXNtSlk4SlJkdGRQZlotMzFpSEx6aXVNejdDQ1dXUG5mSkMybG9OS2oyTU5zOVEtaDB6WjU2Q3JsSHdtbmRlWmRSLUQ4Y19GTGprSW55ZmZ1MFpSUnBXaXg2WjhkZ2JuNXI3a25KUjktLWc?oc=5",
-"o": "Tech Times",
-"via": "Google News: contracts",
-"lane": "search",
-"at": "2026-11-19T08:17:36+00:00",
-"seen": "2026-11-19T12:48:37+00:00",
-"status": "unverified headline"
-},
-{
-"id": "7610e2676be3",
-"t": "United States v. Morgan",
-"u": "https://www.courtlistener.com/opinion/11066664/united-states-v-morgan/",
-"o": "CourtListener",
-"lane": "court",
-"at": "2026-11-19T08:00:00+00:00",
-"seen": "2026-11-19T21:01:40+00:00",
-"status": "unverified headline"
-},
-{
-"id": "7454ca4362c4",
-"t": "Palo Alto Networks to Acquire Applied Compute for $4.5 Billion to Enhance AI Infrastructure - KuCoin",
-"u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdUJEbGxTVEYtN3NqNGRLQ1otUkhiTkF2eGJITWRJYVc2SzdpODc3QWNTZHhjQzhsZXpyYkZPZ1BSYzNXcVZ6eEFHdzg1aU9fOGo5SFMySFcxc2lrTjFYMHN4RFhvVXhjY0VqYVp2T2JUUU5qQ2NxOWdHRG1fMlZ2a29xczk5Tm1RYlkyb1pEM0tEQWllNTZQZ21GS1pqcVRTc2kzNDRMeFNBWl8zaDdYa3FOdG1lT0xmeTFvWVZEbw?oc=5",
-"o": "KuCoin",
-"via": "Google News: ai-deals",
-"lane": "search",
-"at": "2026-11-19T07:56:58+00:00",
-"seen": "2026-11-19T12:48:37+00:00",
-"status": "unverified headline"
-},
-{
-"id": "d91a5b621cf3",
-"t": "Planners continuing work on Howell Township data center ordinance - thelivingstonpost.com",
-"u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRGhCRVB2bHVvcWVJTjhueUgtbTQ5elJGYnd5N2N1dlM1WlUwSDkxR2lZR2VVTjFHem1CUzVkc0U2dUZ6Nm9aYllEWEhHWEMyOGVkZl9rREExTDY1amN2Wl9fYlJObVRqYU1ya3UxbS02NXdkVnAzNnVLWkdqbldZYUtUdGpsRDJTdFFwQUw2RFM3dGVSWHJpMHA5MG0?oc=5",
-"o": "thelivingstonpost.com",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-11-19T07:52:30+00:00",
-"seen": "2026-11-19T12:48:37+00:00",
-"status": "unverified headline"
-},
-{
-"id": "b7e377440f77",
-"t": "Microsoft-ByteDance AI Deal: 3 Key Lawmaker Concerns - shattered.io",
-"u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQX0lHeGNGOEVvYlVSQkFpMW91VHJubjFvUEVmeGxvODBuNzI0UVhHTUw0S2RwaV96Wkh0a1I0X2E4cGpaUjJ1NEJoVlNxTUkycS1iVmVFdnlNV2xNazU1SkNWR0hDY000c3pud0JYLU1XRDBBaHBTM0d2X1lILWhoRXlSY1pLTWFIQWV5QlhrSEdVZEFYUDF3?oc=5",
-"o": "shattered.io",
-"via": "Google News: contracts",
-"lane": "search",
-"at": "2026-11-19T07:47:15+00:00",
-"seen": "2026-11-19T12:48:37+00:00",
-"status": "unverified headline"
-},
-{
-"id": "18793f6c0ba4",
-"t": "John Moolenaar Calls Out Microsoft for ‘Playing Both Sides’ of US-China AI Race - TradingView",
-"u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNkVjYUp0TGo3cVpXazVoU3E0R1VsV1pEQVBOMUNrV0t6OG1iTjVNc2J0ai1JY3ByTWhFbzZZUjdPQjFXamVWUThCdmFWd2I3eTBxUEhrLUZZTjdVODVRV2I0MjM5YmlSck1lcFpUeGctalNqU2JIaFpBZENLSXJTdkZPX09YRmdhMUMxbUZBS3JkRWw1Tk5felVfUVluUjNRazJtT2F0MEtFZS1aX0VicDV6ZTk4QUVGczgwXzdvQ1pCa3V1Y0N4UHJZX2RwVjE4cUE?oc=5",
-"o": "TradingView",
-"via": "Google News: contracts",
-"lane": "search",
-"at": "2026-11-19T07:37:00+00:00",
-"seen": "2026-11-19T12:48:37+00:00",
-"status": "unverified headline"
-},
-{
-"id": "36a458aefbde",
-"t": "Tillis Blocks Senate Vote on Congressional Lobbying Ban - Wisevoter",
-"u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUWh6QVY3aEFOUmlzcFFxMXZjelh2ZVNsSkFReDV0Wk9DMExIMFJqZHVBZjZQTTJGc3EwX0FGbHZ2UGE5NFJ4aEQ4WEZUMjI5TUw5T1hUWlZjNWJMWkFkLXYzMGRXeGpFM0ZxcHZVZDRhUEVPZmhUU3lKWHZBczktWmVVSFI5QWpoZDZUMkVEcWxNcEoxQnc?oc=5",
-"o": "Wisevoter",
-"via": "Google News: money",
-"lane": "search",
-"at": "2026-11-19T07:33:59+00:00",
-"seen": "2026-11-19T21:01:40+00:00",
-"status": "unverified headline"
-},
-{
-"id": "e4e343aaa529",
-"t": "Salesforce layoffs hit India; employees report garden leave until February 2027 - SME Futures",
-"u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNnZwaV9PcEZvdUZDT0tOS2EwMWZTRmlJQl9MclJqd3JOTlBRdzBLRDI0UWI5U2VwN0gwYnZ4OE9jZF83ejFoQWlPMW83VDZsYlhLUERDV2RPMm9vdS1uOUZoVVEwbzRFVEpVNlRvdG9ydVc3c3hlR2lVX3kzVDJCVkJBUjFDQU5US3dOd25MNjV4Z3FSeG1GWlpuU1dpaGlvNi1ycw?oc=5",
-"o": "SME Futures",
-"via": "Google News: labor",
-"lane": "search",
-"at": "2026-11-19T07:16:46+00:00",
-"seen": "2026-11-19T12:48:37+00:00",
-"status": "unverified headline"
-},
-{
-"id": "ff24054f85ea",
-"t": "Meta launches standalone 'Direct' messaging app in Türkiye, Thailand - Türkiye Today",
-"u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdVpqY1pwR2h1aHY0anpQVElac0xwdWxFeDZSbXFsVncyMGhXU0tDUkxSc3pBNlM1aHBxU3E4aXBBRjVQaUJ3Q0I2NTlidmN2ejJHMXRKTTVpbnZXdVpmV1BxNndGU3pZWkdCbFA3alh0NXRLS0syWFQzS0sxVUNRYWxDSzJiM1RXcUVUVjhJMFFwYlFOVTBsdTJ5dGhxaWRGaGNGUi1vSU5RQ2xnZUUwTw?oc=5",
-"o": "Türkiye Today",
-"via": "Google News: antitrust",
-"lane": "search",
-"at": "2026-11-19T07:11:11+00:00",
-"seen": "2026-11-19T12:48:37+00:00",
-"status": "unverified headline"
-},
-{
-"id": "bda0377f8b26",
-"t": "New York Attorney General Creates Dedicated Unit to Enforce AI Safety Laws - CDO Magazine",
-"u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUEZqMUN4QUNXbGZOcXZzUnFNNzNTR1Z2dFBvd1Zwal9WN0E5RW5ybmhiRFQ5aF9oTkRtX3dLVE9lSXo5alAxV0ctUGpTblh1UEpMUEhSakF2YzlhczR3eHIwYlhuUXdqUFYtakZxWWlIZ0VVZjdOTmFka2g4aUkwOEVWcDZOY00wZHVjOGMwMjBZSzg2V2Z2WXd1eFBCdWZzTjJDMVByYlNsZDVH?oc=5",
-"o": "CDO Magazine",
-"via": "Google News: privacy",
-"lane": "search",
-"at": "2026-11-19T07:09:00+00:00",
-"seen": "2026-11-19T21:01:40+00:00",
-"status": "unverified headline"
-},
-{
-"id": "aa9eae14336b",
-"t": "Palo Alto CEO says $4.5 billion AI acquisition could become bigger than cybersecurity business - CTech",
-"u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5zZzdGeXpoR2syOWNUeDZYUEQ2RU5iSUZYaEpBTHo0X05mQkQyekY3Q0MxaUR6V2M1anhreElPLVc4M1JCUzdvVUtSYzFBRUJucDBuQVN5Nk1LaXVfQUlfTGhoaDJnbkU?oc=5",
-"o": "CTech",
-"via": "Google News: ai-deals",
-"lane": "search",
-"at": "2026-11-19T07:04:00+00:00",
-"seen": "2026-11-19T12:48:37+00:00",
-"status": "unverified headline"
-},
-{
-"id": "4239779756fb",
-"t": "Data center moratoriums being adopted - dailyadvance.com",
-"u": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOSG84SXdsUVppYThLNFNVWkY3Y2R2SjJsdlRsWURLYk1xR1FtMDdWaHljRzROOUI4dWR0ZkhheGI2UDZ3UW9jRmF3ckE5Y3NUdENFZWk4NDl2YlRWM3JlUGtNcm1ORHdYSklfRXlub1NpbUR1VEZfbEJDOXBaX1BMVmgxNHBuZndDcUFpVWxrZmE2Qm1tWndsQ1RnYnVrT3VEanZVY2pvNWdqNVRpeWduVnpYd2daemdtRG9kejl1Umx6cnZFYzJ4eENoU050X181VGNEeVFOOEpQeEtXaF8zODc3a3M0aFk?oc=5",
-"o": "dailyadvance.com",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-11-19T07:00:00+00:00",
-"seen": "2026-11-19T12:48:37+00:00",
-"status": "unverified headline"
-},
-{
-"id": "475e6db4b70c",
-"t": "Navajo Nation Council to weigh data center in San Juan County - Santa Fe New Mexican",
-"u": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOX1J3UC1EZE15MTZENEl4WmdoNWZZNFNxTWVrZkU0V0JDQ3NXUU8wd1B0eDQ2WDlPT2trRG5sVXV0aGJ0Z19hakxOaXlEZldkSWo0WEZkNlNjOUVaNUpRbmlvVzJMVTFvZWJWSmhYUVBFSk1UN0VaaHl6S0wtajBFeGUtNkRnb0dPMGo1U2tLS0dJOUxSeGtoZEEteVE3bmhtNkdnTEx1aWl2cmJTMWRHRzB1eEMySnhuMGNIZ2lyd2ZaSXFobGsxYXpsVFB2Wi1DanY5MEtRRlNGNVZNUUxJZG9KSjJLS00wYkpRaDUyT1FKakE?oc=5",
-"o": "Santa Fe New Mexican",
-"via": "Google News: dc-water",
-"lane": "search",
-"at": "2026-11-19T06:50:00+00:00",
-"seen": "2026-11-19T12:48:37+00:00",
-"status": "unverified headline"
-},
-{
-"id": "1f60275fd12d",
-"t": "Palo Alto Stock (PANW) Soars on $4.5B Applied Compute Deal and Solid Q1 Beat - TipRanks",
-"u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUWJBYk9PVkF2dkVtQmIwZndIMjhwa1RxS2FkWnF2cmRxN19QSnpSajNLREV2SWM2dEp0UGUxLWttRVZUUk41T19aaFVuU1hqNlA4SVJjZHlmMk9LOFhkeDVMQWx0NmlKV29GVG8yc0htWlQxZEY5WDBYakU2NjVOTjEzZUtkTDlHMmMxdkExWlhHRWRlclJQQV81RGQ5N2xPREo1bkh3?oc=5",
-"o": "TipRanks",
-"via": "Google News: ai-deals",
-"lane": "search",
-"at": "2026-11-19T06:42:27+00:00",
-"seen": "2026-11-19T21:01:40+00:00",
-"status": "unverified headline"
-},
-{
-"id": "9f030915ace9",
-"t": "Atiku challenges Tinubu to live interview amid $4.5m lobbying row - Business News Nigeria",
-"u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9xTU0wbzhlYm4wS09CcmNaUUx4b0Z0OFZaVi1reTgweTBKSl9rSWNrWko2N0I5bjBzQmthd3g0YnhjVE9IVHJRMQ?oc=5",
-"o": "Business News Nigeria",
-"via": "Google News: money",
-"lane": "search",
-"at": "2026-11-19T06:33:24+00:00",
-"seen": "2026-11-19T12:48:37+00:00",
-"status": "unverified headline"
-},
-{
-"id": "33a1ab5acbb5",
-"t": "Palo Alto Surges 9% on Earnings, $4.5 Billion Applied Compute Deal as Stock Eyes $400 Mark - TradingKey",
-"u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOSkJ4cXJJaGF2SkJUTDhrVFlJM3hfQS1NcmVVY2Q1VVJ3a2ItYzFsNk5wSGl3cHM3T0NWUFZiODhuRmY1NjdrRDEwSC1WZ0xhT1plWGszMlBkMTBOWGdtZVoxc0VPb3VJTmFCbnNMTmxWalN6RER1REVhUGdSNjV2T0dDNEwzQmd2c3h2anRZVGdFb2tVRkFlRTlEdjY2a1NEdjNrMlo0TS1JbU40eHVwdWFiVVVtMGxGMlpVZTNvQ1pwbkJQVVhPbFVjZWF4N00?oc=5",
-"o": "TradingKey",
-"via": "Google News: ai-deals",
-"lane": "search",
-"at": "2026-11-19T06:32:24+00:00",
-"seen": "2026-11-19T12:48:37+00:00",
-"status": "unverified headline"
-},
-{
-"id": "35bbe36c95a5",
-"t": "County Accepts Data Center Impact Report, Eyes Permanent Rules - Newstalk KGVO",
-"u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9vMG9JQXZmTVh1U2MyLUd0Q2RrN3M5Q084bVdzS2thV1JQNVNyVGRMLW5QX3MwQXZ2bERVY0pyRURaLVZhMTRQQ0dkekM4N3dRemdpRnF6eW9nRHpmUHhDMUNB?oc=5",
-"o": "Newstalk KGVO",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-11-19T06:26:02+00:00",
-"seen": "2026-11-19T12:48:37+00:00",
-"status": "unverified headline"
-},
-{
-"id": "825195134a1d",
-"t": "Hillsboro Council Passes Extension Of Data Center Moratorium After Passionate Testimony and Debate - The Hillsboro Herald",
-"u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOHdsNk5hVV84M01uYmIzMWE1Z3RMb2RZWjU4UlJkbUNJNUQ5cXZNRm1MMHY3U3AtdThkbTZBUDI2cmZJRktRcjlWZnQ2OFFFUkUtejNWWDRINHAtdlBydTlSNTU3Wll5M24tQXR0Mjd4RktRa1pvUTlVQlphMDNOemppZl9ZWmxfUHFwZGNwZUI3RWpsdl9SajEwdFhTRXdMRXN6Z041SmVKMEVXZFJZUl9oTmp5aXVwaDNJ?oc=5",
-"o": "The Hillsboro Herald",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-11-19T06:06:49+00:00",
-"seen": "2026-11-19T12:48:37+00:00",
-"status": "unverified headline"
-},
-{
-"id": "ae4c55aef7ce",
-"t": "Shocking NYT Report Reveals How $4 Billion in Nvidia Chips Made Their Way to China - Mediaite",
-"u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOV0lwNl9aUlNDcUtUamJsUFdYbW5ZZFZEdHpOZU0xcTNmN2Vwalh2bzRzZmtVSHRVZms4NjUwMFZvQk5DcW9zS2gwOFQydkVDWHM4VmlrWXRMZ2ZTVUhISTh3a0xPT3hndHdWazlGdnRHTTljQTFxbnd3aTZsV1FkMV8tZGpNc0s1djJZOVZiV2lZeC1xZUtTOEZTeFhVeE4zLXBVRVE5U0pTTFdCYTdsa1NxUGhNTy1XR0JxcDFNOA?oc=5",
-"o": "Mediaite",
-"via": "Google News: money",
-"lane": "search",
-"at": "2026-11-19T06:00:00+00:00",
-"seen": "2026-11-19T21:01:40+00:00",
-"status": "unverified headline"
-},
-{
-"id": "92ba4eb03e90",
-"t": "Moreno Valley, Riverside take steps to restrict data center development, as opposition swells - 91.9 KVCR",
-"u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOX2FtaEk4XzJMemVGYzRsWHdxRkxEdVpCQ1psVVNKd050Vk1EOGwzWlFiNGZaVnA1Uko2WXowaENLblNEMnk3VGtrTUxubWZlTEx3ZEdHUVlPdkNUMHRuWUVsLUgxVHVxRWNmSXRrNnJ6cTRvQ3pSdlRIeXBYVEdFUlk5c3hNRkFEU00zNlRWeWVKNVd5SF8zRVpqeTFXb3BPTXN5WkZHYXNmVFZJVDdvTXZNWm80NUtCc0hjM2E1ZkxXU3VNTkhhdC1GS1lmWVZQUW5BRQ?oc=5",
-"o": "91.9 KVCR",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-11-19T05:58:00+00:00",
-"seen": "2026-11-19T12:48:37+00:00",
-"status": "unverified headline"
-},
-{
-"id": "adf4ba1e0b67",
-"t": "Apple, Google's compliance with Japan smartphone law to be reviewed in December report - MLex",
-"u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOY3AyemZGeGpfaXBDcl9UUnp6VDRaZHY1N1lJQW9IeFZJSTVyRWNjUnctZ2luR3JkaE96bEV6SGpVeV9GdGNJa2RJaFhST0NZLUJTaE1iNWhBWEIwa2lVdnhhN3JHdV9acGpOU2xNUmxNeGJHNnVESUktQWJGUVJld291bFI1VUU1QmFJUUVqajAyVXYzVXV3WXFIbjJLSFNlckg2R0djczdUTEo2ZEtDa0RSRlNOd2RnMTJuWk82aWRJcDVlNVgzdGFzZjE2UnRxaVNpWNIBWkFVX3lxTE9CNFVuSlhfaXBwS1I5Q09WcU9XRUlPV2sxMjl4MGVNanhYSEF2OXYwUFh4LXA0TTRPaDVUUjBfS1M4cDRHQnViS3QyZWJZVjZXdDlYeFJsWmRzUQ?oc=5",
-"o": "MLex",
-"via": "Google News: antitrust",
-"lane": "search",
-"at": "2026-11-19T05:57:45+00:00",
-"seen": "2026-11-19T12:48:37+00:00",
-"status": "unverified headline"
-},
-{
-"id": "d969eb8f6a61",
-"t": "This bill will fast-track the dirty data center buildout - Earthjustice",
-"u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTjlVNUtvMDdNT1hxdU9XODdHSFRNSGstN0tGYnJ1SlJ0THhjZkVlYnVyUEVZcEVIODB3ZktUV1dZZjhHbHlZeWlKV3hYZmNPem9WZjdDRGdLY3FYNDc0cHpEVk1RTmVRei02cHpfcHJkOXoyLUxxNFd3RDhOOGdCai1LcWFIQ09FenZNWQ?oc=5",
-"o": "Earthjustice",
-"via": "Google News: dc-water",
-"lane": "search",
-"at": "2026-11-19T05:54:49+00:00",
-"seen": "2026-11-19T12:48:37+00:00",
-"status": "unverified headline"
-},
-{
-"id": "c1ecf32e8bfe",
-"t": "UMich officials discuss Ypsilanti Township data center development ahead of Board of Regents vote - The Michigan Daily",
-"u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPeVc3NFI2cDZDUGREZjdyV1A0S1ZONUlPcUZFVnJqSnRJYnQ1eVFjRzhLbGZ5Z3dmV1ZXXy03QWpKbGZXZXpvNlpLVzlab0M5ZElrLW1DdzVFWGxkRXZ2VXpsUk9yYWdPR0lGWEZQZFJGS3ZQemxtVmZwVjV4WDM5dVVkUEFFOVhRX254ZHZjOU1zQXVDTm1PNTI0Uk5uYUpUZ19naVVSeS1FNUJzUEs1Z2NKM2gwcTQxdks2NDZpVURMX3djZ2hKTVZnMWRrbmFDUklXOXQxbW1Pbmc4WWdfb3lB?oc=5",
-"o": "The Michigan Daily",
-"via": "Google News: dc-water",
-"lane": "search",
-"at": "2026-11-19T05:54:12+00:00",
-"seen": "2026-11-19T12:48:37+00:00",
-"status": "unverified headline"
-},
-{
-"id": "24a4b61fd804",
-"t": "Virginia Data Center Tax Break Returns 22 Cents Per Dollar - shattered.io",
-"u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPa3hkVXRmMmVQNEZSVnFVeDJ1aDZPbnRGSjI2YmIzcHJRZlNMckowVFRoSl9Wc2pHSWNFS1dZU0VleWg2R3RiQkNST1Q4bEo0bFVIXzZsUHBaUElUejZnM3ZlOV80WEhrcUItT2YtN24wLU9QOEh4RGFLWkRPZi1NdmkwQkE0R2g1eUdaYXFzNUhMNFlBQ1E?oc=5",
-"o": "shattered.io",
-"via": "Google News: dc-incent",
-"lane": "search",
-"at": "2026-11-19T05:40:10+00:00",
-"seen": "2026-11-19T12:48:37+00:00",
-"status": "unverified headline"
-},
-{
-"id": "c94c2ce7352d",
-"t": "Proposed Wade Hampton Boulevard data center would use 5 megawatts, far less than Spartanburg County projects - FOX Carolina News",
-"u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNTXhGaDVzUUhEbGJtVWhkUmluV2VOVVk3ZUlYUHJBZl95Y0hCTXY4ZjE2N0h2bU1GNlVLSkRId0JHU0MwbnJtdHh5VWtEU2NadW0xY19oYVJaMGNucElRYmN5RzZtbU81VFV2RGpZWlBRYUU2eDBya0EyNWlsOXlCNVJxV2lBV21TZHNhcjU5a0dPMEhDUUpyR1dvQU16RmxvSDc0VXVRa056ZXdNblVWWWsydDlOX3BqelBGX3lMa2hOb21Ha0huSzdjNU40VGpleFpvRVVFQ3BkYjVzemNncdIB9AFBVV95cUxNNzFPMkQ3aEUzQlMxZjJTSk9ObU1tR3E3ZnFIQlF5SEJwa1FHSWcwM0ZzR1NyUFFfTkZ4SXlKRGdUV0ZhVkJ1Wlp6c285STk1X1lUT1pDeDhfR19UTTRuODRSRkxhVGpfb3AwZWNPQ014SkJ6RWJYOUdMN1o3dHkzWG04OHM0X1BCVllWYmFTQUVSWnRiSFhXRXQ3MXZIX2xtaTBSZGZobDQ2ckRfTTQteVBBZWZ5V1ZLNHh6U01ZQWtwalFReDg0b2I1bFV1ZEV1N2VTMTR4ZlB2ZVdVenFyZ1JFVXpseUg3NUZsY2xyQnlwSkNv?oc=5",
-"o": "FOX Carolina News",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-11-19T05:39:00+00:00",
-"seen": "2026-11-19T12:48:37+00:00",
-"status": "unverified headline"
-},
-{
-"id": "47306ab45e56",
-"t": "Palo Alto Networks Q3 CY2026 deep dive: AI-driven security demand and Applied Compute acquisition reshape strategy - TradingView",
-"u": "https://news.google.com/rss/articles/CBMihAJBVV95cUxONWlGNUZlQXJDRnNDWkVfSXdpdkNpYkphQm1zVWhMSnM4cFhfYU5seXc3VE9qalZXQnpjd29HdEw1ZzlHV1J0SUJhYWZlcDhGeHpmX3hZY20xWWZkNHVRNDdTblktX1M0NktCdjZCLW5VVFBYYnROb2wxZWJLX1EtVGstT0s2X0NjeGR6RThGWVY3WWlOcWlpRGtWdHpCRlB1MDVkZWhtNEI4cTI4YWZ1Ync3Uld2R3V0bnZ2NGdibE1PWmpEUktEN0h5RjVwNDFDX2xMeGgxUTZsQVF3UDk0Nm16TVhVdEcwRGVrdFZRdzNpaXAyb1RzekJtT0dOZHpwZWllUA?oc=5",
-"o": "TradingView",
-"via": "Google News: ai-deals",
-"lane": "search",
-"at": "2026-11-19T05:30:00+00:00",
-"seen": "2026-11-19T12:48:37+00:00",
-"status": "unverified headline"
-},
-{
-"id": "21939dc94dde",
-"t": "Lobbying register fails to log full extent of meetings between officials and Amazon, Google, Meta or Microsoft over data centres - Irish Independent",
-"u": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPeXNQZHpZM05yakxJTWUwOFhSVUpwcTd6MkFNdU5NZ183RGttSVJDUHU4UUt0TnoySHRkRGx5T3RNVWo3V3pNUU5ubHhRRDN4bjRucTRUZFpMQWVwbG0zeXJiLUFqNkkxMGVLSGNDQVBYdDQ3QnB5NFBhSk1jZ1A0MVduY2FYemhIMGxsR0ZVZ2RrVTlpc0E3bHNEdnBMX3B4Xy12amgybWpmaE92MGZ6cFliUUZWUF9HMi1KWU82eUF2N2NEck1Qdmd6YjFxUGNxZURuSVFGbDlVSGFVdFAzUkdQN2ROSEVIVzdtbHhXM1J1VmFZR1UwSndFR0EzVTFlVGRYVWhoNGctZXc?oc=5",
-"o": "Irish Independent",
-"via": "Google News: money",
-"lane": "search",
-"at": "2026-11-19T05:30:00+00:00",
-"seen": "2026-11-19T12:48:37+00:00",
-"status": "unverified headline"
-},
-{
-"id": "1a481ca972ab",
-"t": "AI Coding Boom | First the layoffs, then the rehires - Deccan Herald",
-"u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWFdMZjVlb3hSR3FLdndvY0tIRnFIX2dzdks0ZG9SMTUzNk9pQ0h2d2tmOWJDcElmWVdBQ01OQVlLS3lFVnFNdDFOMmJGVnFpbmpVRUpIZVpMVWhxaE9RWHE3bkRqQXpVeEJkcnk5c2tOX0tPYXBRNTdTREYxLW5va2xmeGctcWl3a2dJS1laZnEtbjVkekc5enNR0gGnAUFVX3lxTE91bzV2NWlWMVZfZmQzLXpYMXh2V1VidWdscU1ta0JDR3JwUmVvZndyNXRRN0lEUVJJbkYtdUoycDZTZkF1bGVXLXd0Uk1hclJfQTN5dVdmNGdPaXQ0YnpETFU3Wl96LUFTQkZGN3pwZ1piZ1VFNVNRQVdrWUlfQ0pkODZadDdEWkVJcFc5UVJGbkVjMjFaT1VyNm5oZHdXckZJNHdLdGJn?oc=5",
-"o": "Deccan Herald",
-"via": "Google News: labor",
-"lane": "search",
-"at": "2026-11-19T05:29:16+00:00",
-"seen": "2026-11-19T12:48:37+00:00",
-"status": "unverified headline"
-},
-{
-"id": "eee38a6e6d2f",
-"t": "Palo Alto raises annual forecast, signs $4.5 billion deal for Applied Compute - The Indian Express",
-"u": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNMVhCYThiYjV0b0pYeWl2dHlidjE3ZTRVRV9RNnJRbFdzOEJaWkpXX1FHY29GWG4tM2RJTm1YemN6aGc3elRjalFEMlhxOXBvNE4tdWJBNHR4SUktZVNIOXhSQjJGR3FuQ3BkVkdocWgwS3R4ZW9UeHBFbmJRX3Q4TF9LTFVvbm1Tazg4ZHo3YWhSNUVtRnRIb0s3UXJNNEY1djg2VEdleFdVdENURjg1S2VYTUJpaEFjaTBfYVBpWDdHYkRkQ2V4ekxDVFVPaWNQR2NBOWlWU2ZoeFpXU0hlcTk2RjVXUdIB7AFBVV95cUxPOE1RQkNwaG9OT0dyejM2ZU1WZUk0NURIQnk3QUM1YVFOUE9wcXJabUtuWHhGWDZCd1lhYUJhQ1V0SzZIUzgxd3dVSEVhNG5uVGFPbGRrTUVhMmUzazYwSE0wTkFIR1h1aGQ5ZERGaUlIUzFfSWJadHpkTlA4b1BXeHZoNWw5Qmh4cU95VzFwS3YtYmRYR3dFV3AtMEt4YkVPQllXTDRwN0RCOEVwLTllVVhhN05hMHpzVWtNRl9MWDE3X0tLM1RGOC1Wenh5eDljM0p1RzFlZUhoQ3pERDZBZ1VOYVViVW1tOC1UWA?oc=5",
-"o": "The Indian Express",
-"via": "Google News: ai-deals",
-"lane": "search",
-"at": "2026-11-19T05:25:34+00:00",
-"seen": "2026-11-19T12:48:37+00:00",
-"status": "unverified headline"
-},
-{
-"id": "321a6532a575",
-"t": "Atiku to Tinubu: Tell Nigerians If Recorded Interview Was Part of $4.5m Lobbying Deal - THISDAYLIVE",
-"u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUENNOFdySUdrYVdUZk9aOWFFcHpiM3A4dHYya1ROMzJFR0xlak5GM19HYXp2d1ZPeEpIVllYZDlHd01tUTRrU3FlQW4wUk00SGxObVhUSnRjTWVqM19ULW9VX1hxSU9nR0Zwd1lnMndaNUw2MGxrUjlod0xDZERfdThaQmFaU0tQTlM1RlZWbE1oeF9zazgtd2thY25rSkdaZzNtd2Rnb09Ld01MTlgyTTVTcXRRRGJlRElZdEQxUVU?oc=5",
-"o": "THISDAYLIVE",
-"via": "Google News: money",
-"lane": "search",
-"at": "2026-11-19T05:06:36+00:00",
-"seen": "2026-11-19T21:01:40+00:00",
-"status": "unverified headline"
-},
-{
-"id": "c0c216cc5b66",
-"t": "AI Data Center Demand for Aeroderivative Turbines Adds Pressure to Shared Engine Supply Chain Serving Business Jets - Avi-Go",
-"u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9qMkgxWS1ZVUdSNDRoVFc4czBLNDAtLXdiRTVyclVnbHlQT0lpTTQxZERjZVZxNHBSSEduSGwyNmVrMktGQmUtZjJvVGlrLUlpN1RZdE80VERfWUxDOFBRNWdFSDZwcVYtV3lJakN4ZGtSU0E?oc=5",
-"o": "Avi-Go",
-"via": "Google News: dc-water",
-"lane": "search",
-"at": "2026-11-19T05:01:03+00:00",
-"seen": "2026-11-19T12:48:37+00:00",
-"status": "unverified headline"
-},
-{
-"id": "aae72e4c0679",
-"t": "Datacentres to create 70% more carbon emissions by 2030, IEA report warns",
-"u": "https://www.theguardian.com/world/2026/nov/19/datacentres-to-create-70-more-carbon-emissions-by-2030-iea-report-warns",
-"o": "The Guardian",
-"lane": "news",
-"at": "2026-11-19T05:00:18+00:00",
-"seen": "2026-11-19T12:48:37+00:00",
-"status": "unverified headline"
-},
-{
-"id": "fa11352a6b52",
-"t": "Area governments adopting new data center rules - The Chestnut Hill Local",
-"u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQa1F6dF9OZkhzUlp1TkdPVFR1LTZWb1NXU3ZUTkF2T0lGaHp6MmNoV2x5WE9oVVF4N2k4R1dLSFVqY2ZCOHBQbWptMDdLTmxKcjNKa2tUYmNlbDJHR1FPRWNRZmxOOUpPSERHbnZrRXNkM3R6eWdqZ0hNQ3VPYVoxNjFETzVxUm53UlZYdzV2dzZMWTFuN0dTQldQdnA?oc=5",
-"o": "The Chestnut Hill Local",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-11-19T05:00:00+00:00",
 "seen": "2026-11-19T21:01:40+00:00",
 "status": "unverified headline"
 }
