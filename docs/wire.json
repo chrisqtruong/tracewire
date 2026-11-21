@@ -1,8 +1,128 @@
 {
 "name": "Tracewire",
-"updated": "2026-11-20T18:36:19+00:00",
+"updated": "2026-11-21T00:13:04+00:00",
 "note": "Unverified headlines collected automatically from public feeds. Not checked by Tracewire. Verified items appear in the Feed.",
 "items": [
+{
+"id": "b2be175c855c",
+"t": "FCC Adopts California Network Modernization Order",
+"u": "https://www.fcc.gov/edoc/427392",
+"o": "FCC",
+"lane": "agency",
+"at": "2026-11-21T00:13:04+00:00",
+"seen": "2026-11-21T00:13:04+00:00",
+"status": "unverified headline"
+},
+{
+"id": "1c34fe372381",
+"t": "Back in lower court, Amazon wants to continue suit against AI assistant",
+"u": "https://www.courthousenews.com/back-in-lower-court-amazon-wants-to-continue-suit-against-ai-assistant/",
+"o": "Courthouse News Service",
+"lane": "news",
+"at": "2026-11-20T23:47:42+00:00",
+"seen": "2026-11-21T00:13:04+00:00",
+"status": "unverified headline"
+},
+{
+"id": "15a0eafd72d7",
+"t": "Alabama Power Announces $160 Million Rate Decrease for 2027 After Pushback on High Energy Costs",
+"u": "https://insideclimatenews.org/news/20112026/alabama-power-rate-decrease/",
+"o": "Inside Climate News",
+"lane": "news",
+"at": "2026-11-20T23:32:21+00:00",
+"seen": "2026-11-21T00:13:04+00:00",
+"status": "unverified headline"
+},
+{
+"id": "9efc52d1f8b3",
+"t": "YouTube is reportedly preparing to settle social media addiction claims for $3 billion",
+"u": "https://www.theverge.com/streaming/1039096/youtube-social-media-addiction-school-districts-settlement",
+"o": "The Verge",
+"lane": "news",
+"at": "2026-11-20T22:51:40+00:00",
+"seen": "2026-11-21T00:13:04+00:00",
+"status": "unverified headline"
+},
+{
+"id": "3116f89aeeaf",
+"t": "Trump says he discussed Jensen Huang with Xi; Bessent tells CNBC Nvidia chip export policy is unchanged",
+"u": "https://www.cnbc.com/2026/11/20/treasury-secretary-scott-bessent.html",
+"o": "CNBC",
+"lane": "news",
+"at": "2026-11-20T22:08:41+00:00",
+"seen": "2026-11-21T00:13:04+00:00",
+"status": "unverified headline"
+},
+{
+"id": "e685f0516617",
+"t": "EFF to Congress: Mass Surveillance Is Too Important to Shove into Must-Pass Bill",
+"u": "https://www.eff.org/deeplinks/2026/11/eff-congress-mass-surveillance-too-important-shove-must-pass-bill",
+"o": "EFF",
+"lane": "news",
+"at": "2026-11-20T21:52:51+00:00",
+"seen": "2026-11-21T00:13:04+00:00",
+"status": "unverified headline"
+},
+{
+"id": "556df8017185",
+"t": "The Freakout Over the Data Center Loophole That Wasn’t",
+"u": "https://heatmap.news/plus/the-fight/spotlight/internet-access-senate-permitting-bill-data-centers",
+"o": "Heatmap",
+"lane": "news",
+"at": "2026-11-20T21:34:01+00:00",
+"seen": "2026-11-21T00:13:04+00:00",
+"status": "unverified headline"
+},
+{
+"id": "6b394b0ea6c7",
+"t": "What a Biden Environmental Justice Official Wants Data Center Developers to Know",
+"u": "https://heatmap.news/plus/the-fight/qa/natasha-dejarnett-data-centers",
+"o": "Heatmap",
+"lane": "news",
+"at": "2026-11-20T21:33:33+00:00",
+"seen": "2026-11-21T00:13:04+00:00",
+"status": "unverified headline"
+},
+{
+"id": "36fb31620a7c",
+"t": "Trump threatens ban on US firms building AI data centres overseas",
+"u": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
+"o": "BBC",
+"lane": "news",
+"at": "2026-11-20T20:54:12+00:00",
+"seen": "2026-11-21T00:13:04+00:00",
+"status": "unverified headline"
+},
+{
+"id": "3505a492be43",
+"t": "Trump vows to stop U.S. companies from building data centers abroad, threatens 'tremendous tax'",
+"u": "https://www.cnbc.com/2026/11/20/trump-data-centers-ai-companies-tax.html",
+"o": "CNBC",
+"lane": "news",
+"at": "2026-11-20T20:47:58+00:00",
+"seen": "2026-11-21T00:13:04+00:00",
+"status": "unverified headline"
+},
+{
+"id": "f088d67105bb",
+"t": "Trump says he’ll tax companies building data centers outside US",
+"u": "https://www.politico.com/news/2026/11/20/trump-overseas-data-center-tax-01178999",
+"o": "Politico",
+"lane": "news",
+"at": "2026-11-20T19:54:37+00:00",
+"seen": "2026-11-21T00:13:04+00:00",
+"status": "unverified headline"
+},
+{
+"id": "3a0cb236fd32",
+"t": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
+"u": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
+"o": "The Verge",
+"lane": "news",
+"at": "2026-11-20T18:50:19+00:00",
+"seen": "2026-11-21T00:13:04+00:00",
+"status": "unverified headline"
+},
 {
 "id": "f55d5aec8fe3",
 "t": "FCC Announces Latest Conditional Approvals for Covered List Equipment",
@@ -2018,136 +2138,6 @@
 "lane": "search",
 "at": "2026-11-19T17:47:16+00:00",
 "seen": "2026-11-20T10:08:47+00:00",
-"status": "unverified headline"
-},
-{
-"id": "301b80ceca58",
-"t": "Hillsboro Extends Pause on New Data Center Talks For Another Six Months - FM News 101 KXL",
-"u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOHBVVDFWeHhHWmJrODY2eHNDLXJjenNuaVVIR3R4clpjd2FTR2hrQTgwZ04wLTBxZ1hSNzJGaUxrQ1lkM2lKczYxQ21PVTdlaUlCOEJXWklTdHRwUmJnTTNtcGYxZTY1eEFrXzFiWGNRZDVQcVFlaU9EMllrYlljeEFoSXF3bkJtTmF5VGp6cmd0U3lvbTZN?oc=5",
-"o": "FM News 101 KXL",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-11-19T17:47:00+00:00",
-"seen": "2026-11-19T21:01:40+00:00",
-"status": "unverified headline"
-},
-{
-"id": "71975ebde102",
-"t": "Bipartisan trio unveils new AI safety framework",
-"u": "https://www.politico.com/live-updates/2026/11/19/congress/bipartisan-trio-unveils-new-ai-safety-framework-01175648",
-"o": "Politico",
-"lane": "news",
-"at": "2026-11-19T17:46:18+00:00",
-"seen": "2026-11-19T21:01:40+00:00",
-"status": "unverified headline"
-},
-{
-"id": "db5ceafa54fa",
-"t": "Opinion | What Trump reveals when he says the tech outages are 'fine' - MS NOW",
-"u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9kM0lHTHhjTVBLRzdYYWU0TDJmbkhveVVaUXRxODJvYlRtWDUtV2REMUI3RmJibU9RWmk2V1VhdTlUekxKSTc4V0RZRlJiSjB3YUFMbHhVcHFKQVZkanVEMUx4MUJNN0V3b3lKRU53?oc=5",
-"o": "MS NOW",
-"via": "Google News: privacy",
-"lane": "search",
-"at": "2026-11-19T17:38:30+00:00",
-"seen": "2026-11-19T21:01:40+00:00",
-"status": "unverified headline"
-},
-{
-"id": "c9af3053475a",
-"t": "Ballot question campaign with WMass roots aims to restrict data center development - WGBH",
-"u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRUpIdEJySW53eTFhcElxN0VFWmxXcFVuYXBEWFRLNmhEeGpSZmpDR0F5U2QyLWwxVU5WbGhfWXVHc0stcWlSSnJhN2IwU2F4QlFER3MxZlFSX21FZG9pYjl0eEFNb3pobDljVnRuZ3VPVEhyX2kzWGNwMUtMcUo1a2JCYk1MRUVfVWszb1V0WFNVa2Zsb2lJcEdCNEZiaDlfZDl3TFhsSDV4ZFphZmpRa0pyMGdxbFBLUnZqUmhMNmt4dzQ?oc=5",
-"o": "WGBH",
-"via": "Google News: dc-water",
-"lane": "search",
-"at": "2026-11-19T17:38:24+00:00",
-"seen": "2026-11-19T21:01:40+00:00",
-"status": "unverified headline"
-},
-{
-"id": "aa35eb32a3c8",
-"t": "November 19, 2026 Press Release - Minnesota Attorney General's Office",
-"u": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5CVC1mZFpBOXI4MWxMYjN4dHdEUVBuTkNWNnRMVFZwY1AxR2FEZWZPelMwUUlDYjBQdlhBdW0tUDFMaTFLeDFaZUlJMkFMLW1WTXd3ek4xenRqc0JnRmF5U1prZXY4RVVCREZpTTNOcHpJR0p1X242R0pGaw?oc=5",
-"o": "Minnesota Attorney General's Office",
-"via": "Google News: California privacy agency",
-"lane": "search",
-"at": "2026-11-19T17:18:59+00:00",
-"seen": "2026-11-20T10:08:47+00:00",
-"status": "unverified headline"
-},
-{
-"id": "7dd103d8bf7d",
-"t": "Officials in Hazelwood considering a data center moratorium - Audacy",
-"u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcTNNVFRBYXNhdmtnSUxHN1V1dnh5YmJDMVhSZlVPV1FtVnp4QTZHUWtPaExRRS13OUpmcTVfdHdPMUFWMTR6ajN2dUJySzhHNXdBWGRpM1lybmcyVGVsNVl5bWI0d2ZWRkV1WElOVXRsS0tDckV0YVEzN0RRYWVZVUNFUENRXzJoTTE1S0hxdXRUTW93RDJNMC1uTlIzYWIw?oc=5",
-"o": "Audacy",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-11-19T17:16:00+00:00",
-"seen": "2026-11-19T21:01:40+00:00",
-"status": "unverified headline"
-},
-{
-"id": "19e364d4d973",
-"t": "Lawsuit Challenges New Mexico’s OK of Water for Project Jupiter Construction - Center for Biological Diversity",
-"u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPWUVyQ0t1bnNPcmFDYzU4NjI5ZE5oMGZPa1JYbGFWd3YxampMZE5lRHRrUWNHT3E3Umt3eWxFdl9hZlhPT2JUZmpkeVZ5cHhZWlZMTWU0MzB3Z2pYN2YwUlAtRzN1MkFsUlJUTnZic1BYTWllUktVTE5GWlp2OHZoRExsemVWaHc5SHk1dk1rRUZ4cUpxcWRVeXVQR0VMejJPUGI3bkNxOWZiRlYzaVVMX1lBeXlfRERHZGdXMlV5N0JVU2gyZHNNQXFEeDRFbHR0MDZOcjN4b0Y?oc=5",
-"o": "Center for Biological Diversity",
-"via": "Google News: dc-water",
-"lane": "search",
-"at": "2026-11-19T17:15:51+00:00",
-"seen": "2026-11-19T21:01:40+00:00",
-"status": "unverified headline"
-},
-{
-"id": "d99e5a5021ec",
-"t": "Grid operators need data center ride-through rules that protect reliability",
-"u": "https://www.utilitydive.com/news/grid-operators-data-center-ride-through-rules-ercot-nerc/873466/",
-"o": "Utility Dive",
-"lane": "news",
-"at": "2026-11-19T17:13:16+00:00",
-"seen": "2026-11-19T21:01:40+00:00",
-"status": "unverified headline"
-},
-{
-"id": "2174b054081c",
-"t": "Navajo Council mulls data center ban and a new data center proposal - azcentral.com and The Arizona Republic",
-"u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPS1E3WFd1d1RySGJoLVpBRHJoSy1GY1RQS2NZay05MWFNU3pISGdycG1WbkRaRGxfNHBpX2lWbk1CSHoweUpxNmhmemF5cXZGbWV2WXpqMUZEZ2t3UzJkeXI4SnliNDA2VGVpTzkwY0VPSDF2OHliLS1pYjdyVkdNTzAtNy1DM2ZjUERhaHc4alI3N3BGZXJYdmhNNWVHY19HMktIRk9pM1g?oc=5",
-"o": "azcentral.com and The Arizona Republic",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-11-19T17:13:00+00:00",
-"seen": "2026-11-19T21:01:40+00:00",
-"status": "unverified headline"
-},
-{
-"id": "abdff41e0519",
-"t": "Fayette sets public hearing for data center zoning ordinance - Daily Courier",
-"u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNR2RxRDJLZU5PU0NkcTN1RG5MSHRMUC11Y1dLTUE2YUxEcGdPYkZtNEVGLVRjdkxjVkRpYnNhSWoxcnZyQ3g1c1lHWXBmbHRaVFBOX1FxaVBteVpONHpQVGJ0cllVMW1VY08yeGxoUzZxZ0tNNWJCNjNyelZ6cXc5VTJTNVN5UGgxNkNiblJRS1FqN0NQY0RVVnJCcFZ2d2s0cWYtbW5BcE5QT1M2Y2N0akxMNXpCTGJpcDFaWVBkU3FQSUhXYkE3Z19hT1pTdFQzQkRQUFFrUGFXZjNE?oc=5",
-"o": "Daily Courier",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-11-19T17:13:00+00:00",
-"seen": "2026-11-19T21:01:40+00:00",
-"status": "unverified headline"
-},
-{
-"id": "f6a3947c90d2",
-"t": "Texas Officials Weigh Ending ICE Cooperation - Wisevoter",
-"u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORjBkY1Aya1puS0Y3SUVyRU9FX084ck9aeDM4S0hwTU91UUp2cGhDVlRPekZsdUJTRk9YbDdabGR1eVlmYnphMWpYOG55akFvUkpWRTZQWWRQTk4zVVhTRkVYZ3hBOTdGX2szSzRRbzJaWlFhendjUnJjZXRYb3hubEliTFJoRy1TVXJjNmhkVGEyOVE?oc=5",
-"o": "Wisevoter",
-"via": "Google News: contracts",
-"lane": "search",
-"at": "2026-11-19T17:07:53+00:00",
-"seen": "2026-11-20T10:08:47+00:00",
-"status": "unverified headline"
-},
-{
-"id": "eaa9d1ad8e97",
-"t": "Data Centers and Water: A Primer - Legal Planet",
-"u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5jMGZuNE9QR25idmI4a2FZTjlkdTV4R1BFOHp5aWQ0SEFLNWU0UV9JNzZYUUVFTnlLR1prVTdaRGh3VnRyOXRnTGdjMDQ0THEtVGNydDZlZWhudEZvaUJVZENuVWZtYUhIZ0Vj?oc=5",
-"o": "Legal Planet",
-"via": "Google News: dc-water",
-"lane": "search",
-"at": "2026-11-19T16:52:10+00:00",
-"seen": "2026-11-19T21:01:40+00:00",
 "status": "unverified headline"
 }
 ]
