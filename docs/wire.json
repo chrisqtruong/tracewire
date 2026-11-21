@@ -1,8 +1,18 @@
 {
 "name": "Tracewire",
-"updated": "2026-11-21T00:13:04+00:00",
+"updated": "2026-11-21T07:18:29+00:00",
 "note": "Unverified headlines collected automatically from public feeds. Not checked by Tracewire. Verified items appear in the Feed.",
 "items": [
+{
+"id": "e42ac64463d6",
+"t": "Startup sues Apple in India over tap-to-share contacts feature",
+"u": "https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature/",
+"o": "TechCrunch",
+"lane": "news",
+"at": "2026-11-21T04:00:00+00:00",
+"seen": "2026-11-21T07:18:29+00:00",
+"status": "unverified headline"
+},
 {
 "id": "b2be175c855c",
 "t": "FCC Adopts California Network Modernization Order",
@@ -2127,17 +2137,6 @@
 "lane": "search",
 "at": "2026-11-19T17:49:02+00:00",
 "seen": "2026-11-19T21:01:40+00:00",
-"status": "unverified headline"
-},
-{
-"id": "03389f560ffa",
-"t": "Texas Resumes Environmental Permits for Data Centers - EC&M",
-"u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcGJtQ3BYcFdBV3Z1UjJjS01XU25Nbmdya0VoT0lQX3lJeG8tX0JhYm1LZlBlaGtWU0V1eDlqenRlMldQZnVlQmFCUlVIWEJMMlJxeDBZTkxpY0JiT3gyR25FTlExOHF6RDI4aXhfZEFRcy1lSkVKNEMwN25sdlVfZmk1a0NyXzZjTTJSZkdJZmVDSUpSY3JET2lEMXM0Vk1BcncwVlJNeWpJdmlsamc?oc=5",
-"o": "EC&M",
-"via": "Google News: dc-utility",
-"lane": "search",
-"at": "2026-11-19T17:47:16+00:00",
-"seen": "2026-11-20T10:08:47+00:00",
 "status": "unverified headline"
 }
 ]
