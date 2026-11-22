@@ -1,8 +1,18 @@
 {
 "name": "Tracewire",
-"updated": "2026-11-21T21:02:19+00:00",
+"updated": "2026-11-22T01:10:36+00:00",
 "note": "Unverified headlines collected automatically from public feeds. Not checked by Tracewire. Verified items appear in the Feed.",
 "items": [
+{
+"id": "f3487ac9886e",
+"t": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+"u": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+"o": "TechCrunch",
+"lane": "news",
+"at": "2026-11-21T21:37:10+00:00",
+"seen": "2026-11-22T01:10:36+00:00",
+"status": "unverified headline"
+},
 {
 "id": "51bc41deb096",
 "t": "Employee or Independent Contractor Status Under the Fair Labor Standards Act, Family and Medical Leave Act, and Migrant and Seasonal Agricultural Worker Protection Act",
@@ -32,6 +42,16 @@
 "lane": "search",
 "at": "2026-11-21T21:01:23+00:00",
 "seen": "2026-11-21T21:02:19+00:00",
+"status": "unverified headline"
+},
+{
+"id": "ebfe362eaaee",
+"t": "AI’s blue state reckoning is growing",
+"u": "https://www.politico.com/news/2026/11/21/state-democrats-ai-data-center-regulation-01179300",
+"o": "Politico",
+"lane": "news",
+"at": "2026-11-21T21:00:00+00:00",
+"seen": "2026-11-22T01:10:36+00:00",
 "status": "unverified headline"
 },
 {
@@ -2158,28 +2178,6 @@
 "via": "Google News: contracts",
 "lane": "search",
 "at": "2026-11-20T17:59:53+00:00",
-"seen": "2026-11-21T15:27:45+00:00",
-"status": "unverified headline"
-},
-{
-"id": "b8eb465a2c70",
-"t": "In apparent first, South Texas county rejects tax break for SpaceX data center - San Antonio Express-News",
-"u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdGlJOWYyc0h5YWZZNUxtSFREa1dYSEZXS1JjQzgtQS0xamhSQkZlM0Mxd21jY284MTltX0hjVzFlbE5xQXIzZ3pwUDB4NjBMS1FNV2VNM2NGVlNYTnBvUW1oVUNPZndCN1k5VVN4cmt1dVpqd0FWR0dtRDNKX1lfT2ZQTXVVRm9YRXBxcWtES0FEMldxU2JJa0VMREloRzhWc2Nn?oc=5",
-"o": "San Antonio Express-News",
-"via": "Google News: dc-incent",
-"lane": "search",
-"at": "2026-11-20T17:56:20+00:00",
-"seen": "2026-11-21T15:27:45+00:00",
-"status": "unverified headline"
-},
-{
-"id": "a24f46024a5f",
-"t": "From Stanford to $4.5 billion: How 23-year-old Indian American Yash Patil built an AI empire in 18 months - The American Bazaar",
-"u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZ2pLSFRuS1V3TW5DY2JYVTUtOXNlSENESzk0QzRQRmI0UXNjLUttTEY4cW05VDRXZTZoWHZmMWM0WFpNaHIwWjdoN1hGMTNleVp4T2R3RFlGbmM3aVppQnhwOGJ0SWxQY1pDZmlQX2l4SDJJYlZQSVJxV2hrWUgtaGVYMkxOdTN0Y3d4Z3h3aWZpQXBlZEtZOFRwVENWa3VGMnJXR3VZdDhady14LVNFdWZB?oc=5",
-"o": "The American Bazaar",
-"via": "Google News: ai-deals",
-"lane": "search",
-"at": "2026-11-20T17:47:42+00:00",
 "seen": "2026-11-21T15:27:45+00:00",
 "status": "unverified headline"
 }
