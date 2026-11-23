@@ -1,8 +1,68 @@
 {
 "name": "Tracewire",
-"updated": "2026-11-23T02:01:23+00:00",
+"updated": "2026-11-23T10:39:18+00:00",
 "note": "Unverified headlines collected automatically from public feeds. Not checked by Tracewire. Verified items appear in the Feed.",
 "items": [
+{
+"id": "078cab4f34b3",
+"t": "Doctors who disagree with AI could face legal jeopardy",
+"u": "https://www.axios.com/2026/11/23/doctors-malpractice-ai-liability-danger",
+"o": "Axios",
+"lane": "news",
+"at": "2026-11-23T10:25:06+00:00",
+"seen": "2026-11-23T10:39:18+00:00",
+"status": "unverified headline"
+},
+{
+"id": "d620da4b8a12",
+"t": "Trump: We won't let US companies build data centers outside the states (unless we tax them)",
+"u": "https://www.datacenterdynamics.com/en/news/trump-we-wont-let-us-companies-build-data-centers-outside-the-states-unless-we-tax-them/",
+"o": "DatacenterDynamics",
+"lane": "news",
+"at": "2026-11-23T10:17:17+00:00",
+"seen": "2026-11-23T10:39:18+00:00",
+"status": "unverified headline"
+},
+{
+"id": "43e24db5e7a5",
+"t": "A Power Provider for Meta Urged Regulators to Exempt Data Center Plants From Acid Rain Rules",
+"u": "https://www.wired.com/story/a-power-provider-for-meta-urged-regulators-to-exempt-data-center-plants-from-acid-rain-rules/",
+"o": "Wired",
+"lane": "news",
+"at": "2026-11-23T10:15:00+00:00",
+"seen": "2026-11-23T10:39:18+00:00",
+"status": "unverified headline"
+},
+{
+"id": "623b4ff87272",
+"t": "Transcript: How AI Ate the American Economy",
+"u": "https://heatmap.news/podcast/shift-key-162-load-bearing-transcript",
+"o": "Heatmap",
+"lane": "news",
+"at": "2026-11-23T10:00:07+00:00",
+"seen": "2026-11-23T10:39:18+00:00",
+"status": "unverified headline"
+},
+{
+"id": "69b96e05507b",
+"t": "A Midwest Manufacturer Ditched a Potent Greenhouse Gas. Will Others Follow?",
+"u": "https://insideclimatenews.org/news/23112026/indiana-magnesium-recycler-stopped-releasing-super-pollutant/",
+"o": "Inside Climate News",
+"lane": "news",
+"at": "2026-11-23T10:00:00+00:00",
+"seen": "2026-11-23T10:39:18+00:00",
+"status": "unverified headline"
+},
+{
+"id": "814ebf4be148",
+"t": "Want 24/7 clean power for data centers? Try giant heat batteries.",
+"u": "https://www.canarymedia.com/articles/batteries/24-7-clean-power-giant-heat-batteries",
+"o": "Canary Media",
+"lane": "news",
+"at": "2026-11-23T08:30:00+00:00",
+"seen": "2026-11-23T10:39:18+00:00",
+"status": "unverified headline"
+},
 {
 "id": "f55d5aec8fe3",
 "t": "FCC Announces Latest Conditional Approvals for Covered List Equipment",
@@ -2123,72 +2183,6 @@
 "lane": "search",
 "at": "2026-11-21T15:04:27+00:00",
 "seen": "2026-11-22T21:48:33+00:00",
-"status": "unverified headline"
-},
-{
-"id": "b6999a147f71",
-"t": "'Economic populist' Texas Gov-elect Gina Hinojosa eyes talks with Elon Musk - Fox News",
-"u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZ2EybjlQYjdDRGFpNmVodnlrZFpMcDJXbGtXaWhxU2E2OWFhX294X05rSWZGS2o1ZmVPRWVuQU5uUjdpd3E3QjNHZU0wd3pBYTd3YXNjT3lmN1Q2bWRTT3VmOEViT2RfcWFwUS1hYWJyQ1JDdGRUM2xiX3I0aDUxcnhOOE9fOVNrMkEyalBOTlpkaG44MXQtcFpEWk5lQVnSAaQBQVVfeXFMTU5CUkFtRlc4VElRLVg2YTNJcGp5S2xrZHVYRXY5MjFaNlZsQUVLYnFod1VUNXRGd3phWVBZYVdPYk5SWVlyYVh2bmZ4VTFuSm9aX2hNUWxwME4zZ2l5d2RRX1IwVVp1ZTFzUURjMVBzR2VhUWZFd1pENHg1YUU0SzZOWXhQTWJONldfWUtoTzlla1dDeFVVTFRhdmsxTzZpVHVXdmY?oc=5",
-"o": "Fox News",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-11-21T15:00:17+00:00",
-"seen": "2026-11-21T15:27:45+00:00",
-"status": "unverified headline"
-},
-{
-"id": "3471671368a7",
-"t": "Judge appears skeptical of Pentagon arguments in legal fight over Anthropic 'supply chain risk' designation - ABC News - Breaking News, Latest News and Videos",
-"u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeFFmS0tuRHY2cGZRaFRneEUwZUJzY2lmU0RiUm9YWjdGcjBqbHczcl82ZGdYS3hrNmxPLVM4WUZkeEViUThqZnBmXzFmb0std1ktckZyT3pXckZOVXJqTGZkMlZTS2s2UUlsRHVZQTNpdHlhQ0hBdHo0dWNGTGJHQ2xscGZrY3VUOVB3QU5POGtVRUVEc01EV0NsSFZVako5OVlia19PSGNMTmhsNndaaGl30gG3AUFVX3lxTE1rdlpUT192RDFETTA4cThDWVljVHl0QUpfNEN2OFpOSk9nTXVfWkQ0N2JtT2RialZOU3B2ZWxNUkt1NVl4SWY0VHRMeHRPaWI1SU9Zc1RtWkphSXVfT0ZNa28zSTE4clFRVEI1ZlJadGJwcW1ZOTVNa1hXSG91REpZaElCbW5fdTkzbTdOSFFDa2k4X1dDUVEybTN3dWhYMXJZTHV4d2ZmaV8xUWlJVHN0TGxUMmJncw?oc=5",
-"o": "ABC News - Breaking News, Latest News and Videos",
-"via": "Google News: contracts",
-"lane": "search",
-"at": "2026-11-21T14:45:42+00:00",
-"seen": "2026-11-22T21:48:33+00:00",
-"status": "unverified headline"
-},
-{
-"id": "196791eaca06",
-"t": "Crypto Security Concerns Grow as XMR1 Dump, $95M DHS Deal and SEC Fraud Charges Emerge - Tekedia",
-"u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbERTVkVUbms4QXJ1dHNqdXE5UDBnR3Voc3RwQndGSVFIQ1I1dXBHX0g3QkNiM3FvdVZZT3l5UkNFY0JUc2pvM1hKRms5VmxzVHFFVmxWa2IzN3l3X2VQU0FodXFSZnZJNzZFbGZuTjJHRGx6V09zdzFGVHRVeUt1a1dFeGljV1N5b0xmY1hjYVV0S0ZiNlh5WDM3X1pXbXpwUXNfMkc4ekFfQ09Ya0E?oc=5",
-"o": "Tekedia",
-"via": "Google News: contracts",
-"lane": "search",
-"at": "2026-11-21T14:44:11+00:00",
-"seen": "2026-11-21T21:02:19+00:00",
-"status": "unverified headline"
-},
-{
-"id": "1ee7db66278e",
-"t": "Palantir Just Dropped 25% in a Month. Is It Time to Sell, or Load Up? - TIKR.com",
-"u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNWtOY0xrZk42YUhwUzRXOVhVaE81cXRnMkhEM1dIWUNOZTVvcmdaS1g5eVVNVUtBTVM3SENORm0wMlRNRmlENWVWZVJUUl9CaERIWGRGYUdMOTc0aEdQVnd1VWFubDhkUHVxQXZWU2JRVFJldmR0dDA5NmJERUhrME04LVQ2aF9wZG1DcWRJNHpaem1DSW1J?oc=5",
-"o": "TIKR.com",
-"via": "Google News: contracts",
-"lane": "search",
-"at": "2026-11-21T14:41:05+00:00",
-"seen": "2026-11-22T21:48:33+00:00",
-"status": "unverified headline"
-},
-{
-"id": "5b361c62c494",
-"t": "Epic Games gets amici brief support from 32 states in U.S. Supreme Court case with Apple - GamesBeat",
-"u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVWxWaTdiLTBjSXZEa21pZ2NnbTFmRG5hUl9UMXY4NTk5ZkwwblNHRHZLRTFCVGUxaXRQRDhvYlotYUptRGc3SmVnWU1rOThVWGV1d0IxWGpPWGdVVFhlU0tmNEpHeFFiMDBNQlR2cWdObjdiZUVwSl8zMnJSWmg1dDN4TjdxemlOVEZ2R0IwOC1SUnk5bkNHWXpnZ0NZZUJMTGtnVjZwelFLOGQ1T3JB?oc=5",
-"o": "GamesBeat",
-"via": "Google News: antitrust",
-"lane": "search",
-"at": "2026-11-21T14:31:45+00:00",
-"seen": "2026-11-21T15:27:45+00:00",
-"status": "unverified headline"
-},
-{
-"id": "34fb6b9f80d5",
-"t": "Food & Water Watch demands Schumer step down over data center permitting bill - njtoday.news",
-"u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNG56QlBiS1VFQm56UmlnVW9zdjhtWEhJRldaakZZQzZoaEVCX2xXYjFMSEJZaS1RQXBOOUxGc0FYdXYtdnkwZUJNMlpfQVNMVlFDb2RwTWtxdUJmV3FDelpNUXBkZ3VaR05zR2JiUTVjMWROa1ZvdnBER2pEaV80RHdHaHAxLWc2U1ptd1BESmNfTDJMMFNOUjZQSGlLMG5yMTFtRmhwYnRiU2h6?oc=5",
-"o": "njtoday.news",
-"via": "Google News: dc-water",
-"lane": "search",
-"at": "2026-11-21T14:21:33+00:00",
-"seen": "2026-11-21T15:27:45+00:00",
 "status": "unverified headline"
 }
 ]
