@@ -1,8 +1,99 @@
 {
 "name": "Tracewire",
-"updated": "2026-11-24T17:42:55+00:00",
+"updated": "2026-11-25T01:37:47+00:00",
 "note": "Unverified headlines collected automatically from public feeds. Not checked by Tracewire. Verified items appear in the Feed.",
 "items": [
+{
+"id": "fde04cb0012b",
+"t": "FCC Announces Tentative Agenda for December Open Meeting",
+"u": "https://www.fcc.gov/edoc/427531",
+"o": "FCC",
+"lane": "agency",
+"at": "2026-11-25T01:37:47+00:00",
+"seen": "2026-11-25T01:37:47+00:00",
+"status": "unverified headline"
+},
+{
+"id": "8721c595a3c6",
+"t": "The People Who Want Data Centers … in Space!",
+"u": "https://heatmap.news/climate-tech/space-data-centers",
+"o": "Heatmap",
+"lane": "news",
+"at": "2026-11-24T23:16:05+00:00",
+"seen": "2026-11-25T01:37:47+00:00",
+"status": "unverified headline"
+},
+{
+"id": "db9635c782c5",
+"t": "Nvidia braces for a long fight on Capitol Hill",
+"u": "https://www.politico.com/news/2026/11/24/huang-oversight-hill-01182637",
+"o": "Politico",
+"lane": "news",
+"at": "2026-11-24T23:03:32+00:00",
+"seen": "2026-11-25T01:37:47+00:00",
+"status": "unverified headline"
+},
+{
+"id": "eaeb2618c24d",
+"t": "Anticipating the Next Congress's Tech Investigations Agenda",
+"u": "https://techpolicy.press/anticipating-the-next-congresss-tech-investigations-agenda",
+"o": "Tech Policy Press",
+"lane": "news",
+"at": "2026-11-24T22:53:49+00:00",
+"seen": "2026-11-25T01:37:47+00:00",
+"status": "unverified headline"
+},
+{
+"id": "5b0ad5da71df",
+"t": "Dell earnings beat on AI strength, company authorizes $25 billion buyback",
+"u": "https://www.cnbc.com/2026/11/24/dell-earnings-report-q3-2027.html",
+"o": "CNBC",
+"lane": "news",
+"at": "2026-11-24T22:07:45+00:00",
+"seen": "2026-11-25T01:37:47+00:00",
+"status": "unverified headline"
+},
+{
+"id": "732fd1570f14",
+"t": "Saudi national charged in OpenAI bugging to be released on $1 million bond",
+"u": "https://www.cnbc.com/2026/11/24/openai-bugging-aflozan-release-saudi.html",
+"o": "CNBC",
+"lane": "news",
+"at": "2026-11-24T22:03:01+00:00",
+"seen": "2026-11-25T01:37:47+00:00",
+"status": "unverified headline"
+},
+{
+"id": "c2397e767382",
+"t": "Welcome to the Trump-Nvidia-China-AI Hyper-Spectacle",
+"u": "https://techpolicy.press/welcome-to-the-trump-nvidia-china-ai-hyper-spectacle",
+"o": "Tech Policy Press",
+"lane": "news",
+"at": "2026-11-24T21:50:02+00:00",
+"seen": "2026-11-25T01:37:47+00:00",
+"status": "unverified headline"
+},
+{
+"id": "85865b28fe69",
+"t": "AI consumes less water per dollar spent than almond milk or golf, Enverus report says - Reuters",
+"u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNLXlYaTU4SDlDWXJSNGFNN1FFaGZSZzcxY3NnM0VEd0ZhbThkT1d5UDBsLTRfLXAzSmk5MUxpUGdMY1BrakhsbndpV2pycnpsblZaX0E0V2JpTExxam5VWW0xcUV4RFNabTk3bk51QmwyQjd4bHZEdFI2ZTFMeVpPWmVpc1RFaXFtRHZMWHdPaXNTWE9PQ253S1M5eFFaZHF1UE01SFZJbGtkdGNZWngwUVgxLVpNSGpaQ1JyeExYRlUxc3h3?oc=5",
+"o": "Reuters",
+"via": "Google News: reuters.com/technology",
+"lane": "search",
+"at": "2026-11-24T20:53:59+00:00",
+"seen": "2026-11-25T01:37:47+00:00",
+"status": "unverified headline"
+},
+{
+"id": "32af257829de",
+"t": "Jensen Huang reportedly tells Nvidia staff it’s ‘not true’ Trump got him rehired",
+"u": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
+"o": "The Verge",
+"lane": "news",
+"at": "2026-11-24T20:52:19+00:00",
+"seen": "2026-11-25T01:37:47+00:00",
+"status": "unverified headline"
+},
 {
 "id": "0e18989f8290",
 "t": "Trump’s Nvidia intervention rewrites the rules of American business - The Washington Post",
@@ -264,6 +355,16 @@
 "status": "unverified headline"
 },
 {
+"id": "b15ff465e3a7",
+"t": "TVA touts $1.7B data center deal under new large-load tariff",
+"u": "https://www.utilitydive.com/news/tva-touts-17b-data-center-deal-under-new-large-load-tariff/875630/",
+"o": "Utility Dive",
+"lane": "news",
+"at": "2026-11-24T16:11:04+00:00",
+"seen": "2026-11-25T01:37:47+00:00",
+"status": "unverified headline"
+},
+{
 "id": "ec05c11baf78",
 "t": "TVA announces $1.7B data center deal under new large-load tariff",
 "u": "https://www.utilitydive.com/news/tva-announces-17b-data-center-deal-under-new-large-load-tariff/875630/",
@@ -445,6 +546,16 @@
 "status": "unverified headline"
 },
 {
+"id": "62d912e7815c",
+"t": "Should Europe Replicate the US TikTok Deal?",
+"u": "https://techpolicy.press/should-europe-replicate-the-us-tiktok-deal",
+"o": "Tech Policy Press",
+"lane": "news",
+"at": "2026-11-24T14:47:00+00:00",
+"seen": "2026-11-25T01:37:47+00:00",
+"status": "unverified headline"
+},
+{
 "id": "6a6eb2ee3ebc",
 "t": "Google Cloud India Denies Mass Layoffs, Confirms 30 Roles Cut - The Times of India",
 "u": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQeGNlRzRjaG5Ra3otamMzS0YtYVZYYUx6dTYwYkp2NF9EWldISGt4VGg2NTZPc2toS3lTdEQwTFV6MjE0NG1RRGdZVHBnRzF0cGNOdm9oMzF3em90cTNtSU1wTFNpRm95YzJwQmpWMUVOSkFLOUd5X3k2Wl90aWQ2b1F6SzdnZDdBMTJoVXJfaDd0M3R0SGtWeDZtelpyaWR3S0E1LXZUZEdfS1VYdjIyVnJzeF9lQ1kxQTB3VVduaV82cVdzc09KWFVhTUhNZThBTkhoLTA3aURMMTYwWFBN0gHkAUFVX3lxTE00WU4ydmgyUjJTRjJBSzl3UWQtNnhfd2FpbDNaU1dIVHl0dW5lQ0p4R3E2S2xMUWRoUXJvQ2VBcFBEZm51RWFZQ085OUJ1YTlQRWJNS2lpcExTeXY0MHY2bi01MXRjUTB5T29QSFhJOHI4QWJlblc3bjlObUQxWm5ZZ1VXaXp4MmFid0hiWEpNeDhkZEp1a2xQdkNqN1N0bFVJQVNSaWdSbEVaMGFGUjVRQVNfYURVSXZVaVJHOF8waFR0RGVsVjI0dDV1OU92ZkhSTHZnUm1hY3V1TWpPTmZjYlg5Nw?oc=5",
@@ -463,6 +574,16 @@
 "lane": "news",
 "at": "2026-11-24T14:39:48+00:00",
 "seen": "2026-11-24T17:42:55+00:00",
+"status": "unverified headline"
+},
+{
+"id": "01e80721e220",
+"t": "Why Brazil's Elections Offer Hope in the Fight Against Big Tech",
+"u": "https://techpolicy.press/why-brazils-elections-offer-hope-in-the-fight-against-big-tech",
+"o": "Tech Policy Press",
+"lane": "news",
+"at": "2026-11-24T14:38:16+00:00",
+"seen": "2026-11-25T01:37:47+00:00",
 "status": "unverified headline"
 },
 {
@@ -843,6 +964,16 @@
 "lane": "search",
 "at": "2026-11-24T12:00:49+00:00",
 "seen": "2026-11-24T17:42:55+00:00",
+"status": "unverified headline"
+},
+{
+"id": "4ec388f636fe",
+"t": "Justice Department Announces Largest-Ever Crackdown on Scammers, Targeting Over 800 Defendants to Protect Americans from Fraud",
+"u": "https://www.justice.gov/opa/pr/justice-department-announces-largest-ever-crackdown-scammers-targeting-over-800-defendants",
+"o": "DOJ",
+"lane": "agency",
+"at": "2026-11-24T12:00:00+00:00",
+"seen": "2026-11-25T01:37:47+00:00",
 "status": "unverified headline"
 },
 {
@@ -1438,6 +1569,17 @@
 "status": "unverified headline"
 },
 {
+"id": "fc7ceb7424b6",
+"t": "Nvidia reinstates Jensen Huang after Trump speaks ‘directly’ to board - The Washington Post",
+"u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQmNHaTN2YnhWcEZ0QVVkbkdNamZzRU5VWFRYd0JhaDVpaEpveDRzc2F6X21RS1lqZjIxbVZUaXhsYllvelpqQjdfYWtuYm0yVUV4eEdoT00xNV9aalVLSm9SNFVReTZQVXpqU2Z5WXBwNHo0RDBfY2FuaENWUy16UHNPU1E0eV9pUGN5VlByS0RzM09BS1NVQ3FlbENIMjB6WkcyQ2lOb3BRUldJZHJBdW1Ebm8yZVk?oc=5",
+"o": "The Washington Post",
+"via": "Google News: washingtonpost.com/technology",
+"lane": "search",
+"at": "2026-11-24T06:06:12+00:00",
+"seen": "2026-11-25T01:37:47+00:00",
+"status": "unverified headline"
+},
+{
 "id": "2eb16fd59b97",
 "t": "Why The Nvidia And Jensen Huang Probes Matter Far More Than Boardroom Drama - ИФЗ РАН",
 "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOV3lVc2VDNkJ5MVFWUWdjTXRFV0pUMjRjbzJQeGJaeGQzTXpLSG1lMHZWbGhnRWx4NDVJUnNJV2JHeHBIV0FpZ0JQNUR5RThzWjhuS01ZdHY0NURDcnRxblZtd0pramxsRC15RWpnS3BGRUdzLWlGd0RfRVBiX0ZNQkJnNXY?oc=5",
@@ -2027,159 +2169,6 @@
 "via": "Google News: privacy",
 "lane": "search",
 "at": "2026-11-24T02:24:00+00:00",
-"seen": "2026-11-24T06:08:56+00:00",
-"status": "unverified headline"
-},
-{
-"id": "7a6e3db833df",
-"t": "Alton Denies Data Center Moratorium Amid Alleged Legal Setback - RiverBender.com",
-"u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUEMxYmZ0M1pMb3V5ejZXTk1Pelk3b19MbVJnNzZGcGZTRWpZMmozdkJHRjEyQmVUbVdtZUpJTE9TYzdzU01TQWlzdW14RUVyQk9vcXRUbk1Ga09WZUIxS0VSXzdFTzZnbGEyZExCY19DTTFxY2pHMUp0X1p2bk1VNmJ5Zmd4OTZRRmR0dkFjeFhZU0FqcERqYnZuaGRmdllzNkdrSWtRdmpEQjZPOG5Uckx2TQ?oc=5",
-"o": "RiverBender.com",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-11-24T02:15:00+00:00",
-"seen": "2026-11-24T06:08:56+00:00",
-"status": "unverified headline"
-},
-{
-"id": "0208c02f6c6c",
-"t": "$16 billion propulsion mega-contract posted in error, Air Force says - Breaking Defense",
-"u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbmo5LVFTNkRqeWRNR2lSYzdxTzZ5WldNVlhlYklWTnV0bGFWbHRBdWRWQmNsYVM3eUtjRzJLaDJHYkpEV0lxbkd6NURTSmYzQl9kR0NBdE1FcEJPY2FGNnJRMzZCalFfaXF2eHBTRGIxTG9xTEFabHI4a05BaXFjVkFKeTFKT3VJMHhmRVdWT3FGWVZhSExJ?oc=5",
-"o": "Breaking Defense",
-"via": "Google News: contracts",
-"lane": "search",
-"at": "2026-11-24T02:12:30+00:00",
-"seen": "2026-11-24T17:42:55+00:00",
-"status": "unverified headline"
-},
-{
-"id": "aa363507829d",
-"t": "Allstate silent amid reports of 5,000 job cuts as AI push accelerates - Crain's Chicago Business",
-"u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYXA4X3pzOFZiZGRBRWRDRl84V040eUdDX0otVko3VHRycWx2WUFKX2NrcUdCQ204dl9Tc0dHYmJJV0JtMDJ2d3JkeFlkUlNFOXRqcXg1Mng1VDdUOTdWc0dlMHFrS0tOOHpQR09BYTZKNHJBM2xwdHNOMXBBbnotc0xB?oc=5",
-"o": "Crain's Chicago Business",
-"via": "Google News: labor",
-"lane": "search",
-"at": "2026-11-24T02:11:49+00:00",
-"seen": "2026-11-24T06:08:56+00:00",
-"status": "unverified headline"
-},
-{
-"id": "4ca548f6a661",
-"t": "Data center regulations start to move through County Commission - Daily Memphian",
-"u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUDE2OXJackxPQk0wZzNkQmVQRTd2dWdET2lhRlp0cnpjcTRKQ1kxLUtYUUZMN0NmeVh4VFN0SmVTRklhYldRR1pQQ2Uxei1SMU12dzJDWjRDb2Qzb2d4RjVjOTVmSkZLVGJMeGdlVThNVlRSNFg3RU9Kd0RhRkp6eUJTSVMxMWNGdWdQN3laNmVEWjhEc1FyTnFvZmxFdjhpend0TUE1YnNWeEdoLUI5MA?oc=5",
-"o": "Daily Memphian",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-11-24T02:11:00+00:00",
-"seen": "2026-11-24T06:08:56+00:00",
-"status": "unverified headline"
-},
-{
-"id": "a72c5c9a7cea",
-"t": "Aurora City Council unanimously approves data center moratorium as Vantage drops proposed Trident site - Denver7",
-"u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMXY5a1lnYmZCTlZhTzdBenN3S19MVzVLMEQ3WHZxWWpfdGVNMjh1NzJaRjQycm9hbzVWcmhzRmFkOVJRZWp0cS13YldoTnRMZlM2TTR3OFNSVzJ5blVvLWpjM25zcmdMaHRqdDVCMTctRkc4SEx6OE4zVGd2WjdudGpSRGhLaTEtamRYRlF6SVY5ejVEOXA3QXUwcmk0UXJoeXc?oc=5",
-"o": "Denver7",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-11-24T02:07:44+00:00",
-"seen": "2026-11-24T17:42:55+00:00",
-"status": "unverified headline"
-},
-{
-"id": "ee2645036931",
-"t": "Waterloo community members raise concerns over proposed data center regulations - KGAN",
-"u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVXZWc2ViczNLc1p3azlkdzhuWWpoYWN4WFJoUEQ3SkJucmh5SFpMb1lyLUpmRmd0Rnc5NTk4elpMSmRya0hjVG1OTGszRENPMWRkOHRTaTE1OG9raFZsVFBjOFIzYk5FUk16Y0U0VzNiQUVBZnJTZENJckZLWVRvN0ZKZXZlcG10OUlFc1k2N0d1Zy12UjVpaWdDTWQ0cEZlX3J6ZXJWME9ySjJzakpNag?oc=5",
-"o": "KGAN",
-"via": "Google News: dc-water",
-"lane": "search",
-"at": "2026-11-24T02:06:20+00:00",
-"seen": "2026-11-24T06:08:56+00:00",
-"status": "unverified headline"
-},
-{
-"id": "5eee8d56a4ee",
-"t": "Apple's Siri Layoffs Hit Only Legacy Architecture; Advanced AI Agent Reportedly Not Coming Until Late 2027 - BigGo Finance",
-"u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4tLTZHaW1SNGhucHhQN3RrbVc4WUh2VWZzVHlTUnEyWGIzQmpaLTB2VTlhOW5UQUhKTS1WUmlhajdKTHBXZHJkU0hPTEJTRWRvemIweDh6ZzdYU001b3NKZTh2MzZXTVBmdGp0VWJvZ2N3MkRYN1E?oc=5",
-"o": "BigGo Finance",
-"via": "Google News: labor",
-"lane": "search",
-"at": "2026-11-24T02:05:00+00:00",
-"seen": "2026-11-24T06:08:56+00:00",
-"status": "unverified headline"
-},
-{
-"id": "282da6eca8fb",
-"t": "Vantage drops Aurora location for Trident Data Center - Denver Gazette",
-"u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaDFlYU9vUjZZaTR5d3Bra3l2eGdBalNjZ21NdGs0NnJqMmhLXzNPR1ZKSVRncDhFOFh4YmN5WGlSdndkd2NkSG1vOUF4XzUwZDAwUDFMXzhQenlRd19nSjVIdnFMSDNqN05ydTdVSTlJb0NIWVQxZU1jVHloTVlHaXZ3RUlaeVRIdkt2S21ycTdFaGxGU3VPVmpxNA?oc=5",
-"o": "Denver Gazette",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-11-24T02:02:41+00:00",
-"seen": "2026-11-24T06:08:56+00:00",
-"status": "unverified headline"
-},
-{
-"id": "dea62ac161a7",
-"t": "6 major probes underway against tech giant Nvidia: Donald Trump had welcomed reinstatement of Huang as CEO,... - Bhaskar English",
-"u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcEpSQVVVcW5iSTFaR2NsdmZiWGhGSGhLMGJBY2w1UG1tUnI5QmtPXy1pOEZPRTF6amtteG1lMzdaUjhrRl9haWc3Y0xwcU5mOEdCRzkxLUJJMTQ0bGRoQ2Jad3M4Uy0xR2xveUw4aHJNVkxHTlBxbU44cHZtRUVYMHA5MnVwajB0T3dlTmd1eC02clNCcTI3YWFpSG9xYjlzY1JhZ0pCOXRjTkZSOUk1em1YUW3SAboBQVVfeXFMUF9zcGFtV1RhLXlMdFFzRkFBT2hkZEJOUFJwcUx0cHpZTW9VYmxSak9ZczZ1RXBFaTc3SkZ0T2p5WjhCcEM4T0xLVXNadHlrWURaUmloVmlMMW1sTUJ0Qm5XeXhxanRyVFlLZ3ZxSlIxY1hZcERfRERpMUROelVacFNQamFuMnB1cEFoLW1HeE1nNlB0WWh1TE40VEhrc0RYeGlfS1ZnaHdFdDRpREx4dG54ZW1Ncloxb2F3?oc=5",
-"o": "Bhaskar English",
-"via": "Google News: antitrust",
-"lane": "search",
-"at": "2026-11-24T02:01:57+00:00",
-"seen": "2026-11-24T06:08:56+00:00",
-"status": "unverified headline"
-},
-{
-"id": "7f9ea21c9cb2",
-"t": "Alton Plans Public Hearing Following Alton Steel Rezoning Request For Data Center Development - RiverBender.com",
-"u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYllrOVFZYXVDZXNFUEN6SHBvdnR0SXhBVExLbkp1NmtGZFZocWszaXByeFJtTFNyQ2FYUThjZHd6T0llVGgwR0N6XzdzM1YxU0ptUE54cVFXMW9GSVlMMXZjSUQ4Q05ybUVsVUJMR3hxQ0dqZU1DQjEtYTlBNUlTZlhTb0dtZ0F1cGhYNU80QVBSSE5KUlEySFE1MG1qMHJ1UnBTOHJqQUdZdktUb29sM2dHLWxFOFk?oc=5",
-"o": "RiverBender.com",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-11-24T02:00:00+00:00",
-"seen": "2026-11-24T06:08:56+00:00",
-"status": "unverified headline"
-},
-{
-"id": "98304cf4c3d1",
-"t": "Data center regulations hit another pause in Christian County - Kentucky New Era",
-"u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaTBBcHpGMVY5MGtvd1g2YW85SGgxcG03NjdmQWhQT3NJVEtQdnlNSTR2TFB5aTBodzFETjB3UGE4Q1IydXNRZTlpTTJxSGR2TWxjZUJ0Q2tqV0RWVHZzOXlTYkZGR0VKZVNmbW43b3B3YWpUb1hLejk0NXlaYUpoYXB1eGlBNDRSZ3MxSXNhSFhFajNwaVE?oc=5",
-"o": "Kentucky New Era",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-11-24T02:00:00+00:00",
-"seen": "2026-11-24T06:08:56+00:00",
-"status": "unverified headline"
-},
-{
-"id": "488a7bab7dc8",
-"t": "Marvell to Acquire Lumentum in $115 Billion AI Optical Connectivity Deal - The Fast Mode",
-"u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOY0Zzczk5djViYUVEUm5KQVhGYTN6cDM2TS0waXlLdXVmeDBZYXlXa01UdGJUdEROdERSelNQekVtbHZyckRPb0R6OTVXazFhSkxmOWktUHJHalFNenJPNUMyWEIzekw3bmlpemxqdlZnQTF6bWQ4LXgtYUZVQm9zV1FJbktzVEF0bWJaVHk5cGlmVTVRR3k4N0YzQ2tkSy1CZEJSV2ttUVIyTHBtQnpzVE11MDdWNGViX0M3djZQdW1ZX0JQ?oc=5",
-"o": "The Fast Mode",
-"via": "Google News: ai-deals",
-"lane": "search",
-"at": "2026-11-24T01:52:46+00:00",
-"seen": "2026-11-24T06:08:56+00:00",
-"status": "unverified headline"
-},
-{
-"id": "d9b3139b11bc",
-"t": "Duke Energy rate hikes approved as N.C. regulators seek to shield customers from data center costs - The Daily Tar Heel",
-"u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYktiZTZwR3dIRkg5SlQ2d2dRWlB5VTNUQ1NacXZWVnhfWFJrQ0t3aTlNREZUYmJyN2U0cmU4R056NnY5QzA0eXpQdS02cERDZGh2bng3WnFRTmlwOGFvWHl0UUJReGZneFVDZWhqRlpfNGhrYXZuVElSSWNkTWl3TTJ6THpXQTJjZ2NTcnlnVWg1OE1ILWpFRWpYcw?oc=5",
-"o": "The Daily Tar Heel",
-"via": "Google News: dc-utility",
-"lane": "search",
-"at": "2026-11-24T01:36:27+00:00",
-"seen": "2026-11-24T06:08:56+00:00",
-"status": "unverified headline"
-},
-{
-"id": "9b0b258cccd7",
-"t": "Nvidia rejoices at Jensen Huang’s second coming as White House takes victory lap",
-"u": "https://www.theguardian.com/technology/2026/nov/23/nvidia-jensen-huang-return-ceo",
-"o": "The Guardian",
-"lane": "news",
-"at": "2026-11-24T01:34:39+00:00",
 "seen": "2026-11-24T06:08:56+00:00",
 "status": "unverified headline"
 }
