@@ -1,8 +1,81 @@
 {
 "name": "Tracewire",
-"updated": "2026-11-26T11:33:49+00:00",
+"updated": "2026-11-26T20:30:48+00:00",
 "note": "Unverified headlines collected automatically from public feeds. Not checked by Tracewire. Verified items appear in the Feed.",
 "items": [
+{
+"id": "42ef1d298d77",
+"t": "FCC approves 1 million SpaceX data centers in space. Astronomers are dismayed. - The Washington Post",
+"u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWWRGMWR3bjFJZmlWaVE5Si0zTk56UnpEcDNYS0gxalgyV2Q5ZVBiNWRoMVAycmRvVUlfN1Mydm00dlpZdWZsTkVPMGtabEZsQ3FlNC1QbXFSZTF1MXhMQ2p0R3JtRUg1VlEyUFc2aVBGVkMwWHFrZl9UanJfQkg3VkNMejE1ZEs4TUdNVE1KdkZELURVd0NHNnZaOHJRZUhCMUxyckJqMmZGUEl2enh2MmRVd2V5VnpnaUNpakx5QnVUSXdWUmc?oc=5",
+"o": "The Washington Post",
+"via": "Google News: washingtonpost.com/technology",
+"lane": "search",
+"at": "2026-11-26T19:25:39+00:00",
+"seen": "2026-11-26T20:30:48+00:00",
+"status": "unverified headline"
+},
+{
+"id": "84279315ce6b",
+"t": "Nvidia chip buyers told to rule out Chinese renters to purchase GPUs, sources say",
+"u": "https://www.cnbc.com/2026/11/26/neoclouds-nvidia-china-ai.html",
+"o": "CNBC",
+"lane": "news",
+"at": "2026-11-26T17:04:54+00:00",
+"seen": "2026-11-26T20:30:48+00:00",
+"status": "unverified headline"
+},
+{
+"id": "8bf5fe14afd0",
+"t": "SAP considers at least 10,000 job cuts in AI restructuring, Bloomberg reports - Reuters",
+"u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUUhZaXItb2lOYVhHRHBoUkpGZFM2Y0ZpQ1dSN3QwUnEyQlBKdmlRVG9fdFM5WS1UNm41dGZnRVhyY1FIbjBvOUNFWEREN1F4S1l1amVSUGFheGl4N1NNbk1ieF9HU3N0azQ1djN1bjA2RWhIc1VhVWVWb0RVbG1HMVlPbFQyb0N5N1ZLTUVZeXlxMDk4d3d0UHh1ajdZeWd3ekx5TU52Z3BDaXdhOU9uN3dtd1lLMXM?oc=5",
+"o": "Reuters",
+"via": "Google News: reuters.com/technology",
+"lane": "search",
+"at": "2026-11-26T16:56:45+00:00",
+"seen": "2026-11-26T20:30:48+00:00",
+"status": "unverified headline"
+},
+{
+"id": "8cbf30fb64dc",
+"t": "Polish defence ministry to sign agreement with Palantir on Friday - Reuters",
+"u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMVYxMVNENzdjcUtUSWdqcXBwVzVhNDNhRkRrdy1PbVZuWG1YYld1Z1dETUtqX01icTZkN1JBaUhDMmpRNE52T09tM0ZLSFFWal9XTnhwdGZId2xOSUhuZVdZVjdVQzNldlZrWEVRYnIyeGlXRVRjU1lmQmFyaDQyY2t3Zk12dzF5VmtQb3pnZjF3NlI5YkJkNml5cDB6R3M0aVBIdVZpVkhfdw?oc=5",
+"o": "Reuters",
+"via": "Google News: reuters.com/technology",
+"lane": "search",
+"at": "2026-11-26T15:53:48+00:00",
+"seen": "2026-11-26T20:30:48+00:00",
+"status": "unverified headline"
+},
+{
+"id": "c71b3487c7c1",
+"t": "Pennsylvania police arrest suspects over threats to Olyphant council after controversial data center vote",
+"u": "https://www.datacenterdynamics.com/en/news/pennsylvania-police-arrest-suspects-over-threats-to-olyphant-council-after-controversial-data-center-vote/",
+"o": "DatacenterDynamics",
+"lane": "news",
+"at": "2026-11-26T14:49:01+00:00",
+"seen": "2026-11-26T20:30:48+00:00",
+"status": "unverified headline"
+},
+{
+"id": "fd141ea3b4a1",
+"t": "India's state-owned natural gas company seeks investment partner for data center project",
+"u": "https://www.datacenterdynamics.com/en/news/indias-state-owned-natural-gas-company-seeks-investment-partner-for-data-center-project/",
+"o": "DatacenterDynamics",
+"lane": "news",
+"at": "2026-11-26T12:45:09+00:00",
+"seen": "2026-11-26T20:30:48+00:00",
+"status": "unverified headline"
+},
+{
+"id": "3e7cbdc05736",
+"t": "Trump administration pressured Intel into accepting gov’t stake in company, lawsuit documents allege",
+"u": "https://www.datacenterdynamics.com/en/news/trump-administration-pressured-intel-into-accepting-govt-stake-in-company-lawsuit-documents-allege/",
+"o": "DatacenterDynamics",
+"lane": "news",
+"at": "2026-11-26T12:17:06+00:00",
+"seen": "2026-11-26T20:30:48+00:00",
+"status": "unverified headline"
+},
 {
 "id": "3b12e42900bd",
 "t": "Agency Information Collection Proposed New Survey",
@@ -2088,83 +2161,6 @@
 "lane": "search",
 "at": "2026-11-25T09:27:18+00:00",
 "seen": "2026-11-26T02:49:05+00:00",
-"status": "unverified headline"
-},
-{
-"id": "5e294334a945",
-"t": "Huang’s Return To Nvidia Followed Industry Lobbying - Silicon UK",
-"u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5BNDZGQk5sd2xxODdPX01MalkyQ2ZfMGlyV3ZIWDVqaS1qQ3BrVGFyU205VWdkYXVBVTlsTnlEMEh6Yjd4TWU4UVJ2cHIwUy1xUTREWnlVUlJzdHZSYWN0T0FIUHpmR2M?oc=5",
-"o": "Silicon UK",
-"via": "Google News: money",
-"lane": "search",
-"at": "2026-11-25T09:17:06+00:00",
-"seen": "2026-11-25T10:29:22+00:00",
-"status": "unverified headline"
-},
-{
-"id": "30e51a94194a",
-"t": "JioStar begins second round of layoffs amid TV biz woes - The Economic Times",
-"u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNek1pYUNDck5iZ2ZOYWhaOFY1aldFRTBMZE9uTXJ4Z1VEejAtZW5qZWZWUmxzYlNmNGZCRUJMTkFjRGhpVTd2OWxnZWIzZER1WndBcFMzcklZejE3U0EyT21WeWRVSExOcFh0dUJyR1BtVV81LWxiMG9qR3RoWGNSN1F1bFJoWGJDOHJjbWFMU1k1b3BjMk9xdW5jZkdIQ05qVVhYSXg5TnVqM2d3X3pxY0p6NlhFUThmSFRITlVsa1h4SGNCWTN1Smt1ajM1dVVsa24yUXl5d3ZTVnpV0gHiAUFVX3lxTFBrak9EV004ZHBqaFl5VHh5WVpZcnZ3N1VpZlhRcFJjTjZtcHBjVDhkR2NIb3VuSVp3VDhFU1dfM3dCSi02eVlHSy1pWjgwcU9hVkJubGF5ckpLb3ZWYVU1VktYSllFS255VlY4eVZJQWQ0SzdaZnNfUzFHb1pFWjloNzlOaUo2NS1jN2hXY1h0ajRtWFJQLXJ6SXhfeHNGeWNvM05GOEp1UFdTaDZaeTdiVWtPaEd2RllldEJJYVREUXRvUERGTEtzSGtmczFYNTJud3RFejE5ZThZcWdESEZVSVE?oc=5",
-"o": "The Economic Times",
-"via": "Google News: labor",
-"lane": "search",
-"at": "2026-11-25T09:13:50+00:00",
-"seen": "2026-11-26T02:49:05+00:00",
-"status": "unverified headline"
-},
-{
-"id": "e852ee72fe7e",
-"t": "Bill Gates and Melinda French got divorced in May 2021, everything about the divorce settlement has been - The Times of India",
-"u": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxQWVI3RkQ3MGh4d2VPTUEwZXVZbm16WDdaZWRYdVM1dTZkcUVFWVpqNXVELU0tRWtLUzNybko0NGVjU1ptQWRxanlqa05yNDNWdzdhYlIyaWFFaXJndGFXMFN4TzRZNnNVTTlVYXdjYzEzZ1AzeTJiaExXT2k5Vm10eENvNHp2SnRkSHJ2a2NXRWhVZlpGd2Y2dl9fQkZ1bnhkandaWTg2cTkydFVSdGRlNG9ZQXJrVzBzZ2lNNXJLZXRRZi1FWTdmeXlrM3RoVUxBMVk4MXFWQ1ZkOEhBTXdKUWs5aHFiUk41TkRxbF9OTURMaUNMN1djMzNvM1pvMTJ0Y1RhX2JKd1NUVmQwQXdYQVd1QmxQQ192Z08zS1F2cElUVFNQWkFkRTlmcWpCRTV5LUFFYTAtZjdHWWlWUlZETDIxU1VUYUg1REpNNVIyTHTSAdYCQVVfeXFMT2NWQlQ4UUVtbjVKMjVZeDZadDZRbGJsQlBtTjFWRnZOR0haVU1NYTNWbGg5NHBWOTQ2WTc1aldyM3VfNlJBVlJfSFJVNG53Si1WSm5tVlBqbG03LU4yT2VPWGZiZzJEcXRBMkoydDJocDl6V1lrWDRhMDB2SE1xd0djWktUMmR6bXhQNWluX2Q3MVItaHdGSjd4RkRoZzdIblNLZTBNODRaSm9DM2loeTdMR1ByZ2x6SlBvU01jZkpEY2dHMXNTM1VEdWw1by1qdTc1cmRmUEtqdFdoaEhZN2NpNVpJRFZwZ3J3TFc1c3QxcUFFUld0MWY3SjZUREVaU3Y3blZoQUdieHYtSHBFeWNpemt3VC1QeHpSZ0daTlFKMGhZdzNaWHNPdlRyM0QyNG9iUERpWmlHeTNyNWtIczZiaFo2Tnp3cThEZHN2V2VobDZlbzN3?oc=5",
-"o": "The Times of India",
-"via": "Google News: privacy",
-"lane": "search",
-"at": "2026-11-25T09:08:00+00:00",
-"seen": "2026-11-25T10:29:22+00:00",
-"status": "unverified headline"
-},
-{
-"id": "d79a6a27c0e2",
-"t": "Ohio manufacturers urge federal regulators to ‘retool’ energy markets - Ohio Capital Journal",
-"u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNzg1UDJxdjJjSG53Q2VOcHNPT2dkMVV6MWNxRFRRNkN6OENNXzNhMkQyWG9wejNLZWZqQ25kZno0Y3FBeTRoZXBMUVNkRUtPSk13cm1RUEFGYlRSWmlCZHprdXZLeXQ4Wk9LOGt2UzVLUmotTDAySTRVbnRFWml0UTRQaFNYRXcwUnBNaUJlNzZOR2xpVWFSSGtuRW9WLUFTV19ObHlQRWVyN0pCaWpB?oc=5",
-"o": "Ohio Capital Journal",
-"via": "Google News: dc-utility",
-"lane": "search",
-"at": "2026-11-25T09:05:58+00:00",
-"seen": "2026-11-25T10:29:22+00:00",
-"status": "unverified headline"
-},
-{
-"id": "ccb733da73a4",
-"t": "The Contract Was the Easy Part: How Accelerator Day Put the Pentagon on the Clock - War on the Rocks",
-"u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORTJVV01MYzBrOXBzeWhpNC0tT0E4XzFnTlRmZFYtREZjejUzZmFHeV9zVzkwdTVTSVhiSURseE5jU2NyOWtmMXE0c3JZX1h2Z3hsMjdOWkpNUVhaanl0WnJFUVZnVC1DQVktR2RScER5VDNfWUZVMUl0c0d0OGVFbzBZMnBTQUlxcUt3N3FTY051clo0a3hIckplSkoyUk9JMURZRUx4cTFRYjhmbS13dDB0blJITUNMUHpZ?oc=5",
-"o": "War on the Rocks",
-"via": "Google News: contracts",
-"lane": "search",
-"at": "2026-11-25T09:04:12+00:00",
-"seen": "2026-11-25T10:29:22+00:00",
-"status": "unverified headline"
-},
-{
-"id": "3df1ffc9f185",
-"t": "Why 97 NY towns halted data centers on top of state pause | Exclusive - Lohud",
-"u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMTN4cW9aOXcxVVZwSExKbnMxaXdxSGQ1a0ltVFg4bEdlX3JjSkVjWlZZZEk5cjhXalZMTl92b2M2SmFFWi04UDdsMDNpajhYSExpS0RLd1A2bTlKdWJXMmhDRTN2ZGJMTXp5S1dBUWpQV2N0M016TUZoUGJDWEtTTTVlSlZCMTlMeWY5ejB6dno4UTB1ZFZUejBFRWI0ZnNXRFBYbjRGNUJ0dXpPck5CeUpvMU12OWpnYTRaRGVZZXI2bVNWTXdSeTRxaWc?oc=5",
-"o": "Lohud",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-11-25T09:03:00+00:00",
-"seen": "2026-11-25T20:06:58+00:00",
-"status": "unverified headline"
-},
-{
-"id": "b5024599e0b1",
-"t": "Congress can’t take Huang reinstatement laying down - New York Daily News",
-"u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNalI0emVBZERld21wMHJWWTBsZU9WR2FuaFU3cHlZV3p5UDd2d1hSUEVzZ29ZZDNYOWdKSC00b0MteDltdDhWamtnc2NoRkN5SnVkTTNfMWRWN3gtdk5fUVJpSmwwRHlTS1ZOZzZkQVVESktNYXBTUmx1Ri1uYzZ6YjdEMjVOc2hMMXpMYjlKM1JXTWMw?oc=5",
-"o": "New York Daily News",
-"via": "Google News: money",
-"lane": "search",
-"at": "2026-11-25T09:00:26+00:00",
-"seen": "2026-11-25T10:29:22+00:00",
 "status": "unverified headline"
 }
 ]
