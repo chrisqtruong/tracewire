@@ -1,8 +1,68 @@
 {
 "name": "Tracewire",
-"updated": "2026-11-26T02:49:05+00:00",
+"updated": "2026-11-26T11:33:49+00:00",
 "note": "Unverified headlines collected automatically from public feeds. Not checked by Tracewire. Verified items appear in the Feed.",
 "items": [
+{
+"id": "3b12e42900bd",
+"t": "Agency Information Collection Proposed New Survey",
+"u": "https://www.federalregister.gov/documents/2026/11/27/2026-24077/agency-information-collection-proposed-new-survey",
+"o": "Federal Register",
+"lane": "agency",
+"at": "2026-11-26T11:33:49+00:00",
+"seen": "2026-11-26T11:33:49+00:00",
+"status": "unverified headline"
+},
+{
+"id": "f1c1a4f0da47",
+"t": "American SI Exports Program; On-Demand Consortia for Specific Foreign Opportunities",
+"u": "https://www.federalregister.gov/documents/2026/11/27/2026-24107/american-si-exports-program-on-demand-consortia-for-specific-foreign-opportunities",
+"o": "Federal Register",
+"lane": "agency",
+"at": "2026-11-26T11:33:49+00:00",
+"seen": "2026-11-26T11:33:49+00:00",
+"status": "unverified headline"
+},
+{
+"id": "4a218a47efce",
+"t": "Dozens of court cases in England and Wales affected by undisclosed AI use in 2026",
+"u": "https://www.theguardian.com/technology/2026/nov/26/dozens-of-court-cases-in-england-and-wales-affected-by-undisclosed-ai-use-in-2026",
+"o": "The Guardian",
+"lane": "news",
+"at": "2026-11-26T10:00:51+00:00",
+"seen": "2026-11-26T11:33:49+00:00",
+"status": "unverified headline"
+},
+{
+"id": "c0f2de19f056",
+"t": "42 state AGs are trying to stop Character.AI from selling users’ chats",
+"u": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+"o": "The Verge",
+"lane": "news",
+"at": "2026-11-26T09:54:40+00:00",
+"seen": "2026-11-26T11:33:49+00:00",
+"status": "unverified headline"
+},
+{
+"id": "936733cfe648",
+"t": "FCC says SpaceX can deploy 1 million satellites for data centers in space. Scientists are skeptical",
+"u": "https://www.npr.org/2026/11/26/g-s1-155940/fcc-spacex-satellites-data-centers-in-space",
+"o": "NPR",
+"lane": "news",
+"at": "2026-11-26T06:53:09+00:00",
+"seen": "2026-11-26T11:33:49+00:00",
+"status": "unverified headline"
+},
+{
+"id": "aae33c1cefef",
+"t": "Musk makes $18 billion SpaceX stock pledge for every kid in America",
+"u": "https://www.axios.com/2026/11/26/musk-spacex-shares-trump-accounts",
+"o": "Axios",
+"lane": "news",
+"at": "2026-11-26T05:39:02+00:00",
+"seen": "2026-11-26T11:33:49+00:00",
+"status": "unverified headline"
+},
 {
 "id": "6e158b15fd02",
 "t": "GA Election Board documents, data center fight & tariff war - FOX 5 Atlanta",
@@ -2105,71 +2165,6 @@
 "lane": "search",
 "at": "2026-11-25T09:00:26+00:00",
 "seen": "2026-11-25T10:29:22+00:00",
-"status": "unverified headline"
-},
-{
-"id": "9252e06bb282",
-"t": "Enverus study challenges assumptions about water consumption from data centres - Sustainability Online",
-"u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbnZPZlNXSS1HREFqOVEzSlZYdFBkY3FkZ2paS3FKY2RBLUJVako5bFFlN1l1OWlaR0hydXBYVmZ1bmRTRk4wR1NvakJWVXVLMUxkMk9DSkxuY1lBT1hTMkdyVGF5dWRtdWZLT3Rab0htbzZ4NEUxcmk2NDRySVktdWZuZWwtVzBBeXVQcXJOLU44WHJfRzg3NDU5dWRiT3d2X1NGei10c2tvV0V3U2FoWVIzZlkyc3Zw?oc=5",
-"o": "Sustainability Online",
-"via": "Google News: dc-water",
-"lane": "search",
-"at": "2026-11-25T09:00:00+00:00",
-"seen": "2026-11-25T20:06:58+00:00",
-"status": "unverified headline"
-},
-{
-"id": "2165383e8d61",
-"t": "Sponsored: Demystifying the data center is necessary for AI innovation",
-"u": "https://www.datacenterdynamics.com/en/marketwatch/demystifying-the-data-center-is-necessary-for-ai-innovation/",
-"o": "DatacenterDynamics",
-"lane": "news",
-"at": "2026-11-25T09:00:00+00:00",
-"seen": "2026-11-25T10:29:22+00:00",
-"status": "unverified headline"
-},
-{
-"id": "047c52acf060",
-"t": "Virginia Budget Gap Widens as Job Losses Mount - Wisevoter",
-"u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUG1iYWk5YU9qY1h1UVRmV1oyc3Q1UUZhYTZQSU5CWkRuc19SRkdRc2RHREhabndjSWhkV2NvNmctTWRkbEhKZkxRV2Qxb2VsYmpvYm50bUVBT1FGczhyTE9lMUoyTjBwVGF2OUtvMkV4TEo5UWwtZGxGMGtLMXBtaGFOd1pGa3BWZFpfQTc4eTNBV2s?oc=5",
-"o": "Wisevoter",
-"via": "Google News: dc-incent",
-"lane": "search",
-"at": "2026-11-25T08:35:55+00:00",
-"seen": "2026-11-25T20:06:58+00:00",
-"status": "unverified headline"
-},
-{
-"id": "21e498a68fbe",
-"t": "Amazon to buy Decart's AI chip optimisation tech in latest AI talent grab - ET CIO",
-"u": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQaDNMZEdFd0ctNnlESXkwQThBdmtjclZNMUVrS3RoQlRQSm82bS13WVNWc01zYnQ0cG56ZW82Z1FFMG5pamYzaGhzVFY5U2xYVnhCdEwwY3k5MTdGYndySU43MjFvdHA5SFowdFJVRV9BLTV2WTAzU2JPWkwwa0lNTXRLSWZ2amZnMGdXVWlCYWF2b1I3Nm9neGZnN1hQUm95VEpsektQVXA2bENuaWVNc1B2UkNqclduNVRFb19ReXdYNUM1M2pKVmtCZnoxaFNpODg5ci1LMEpqMkJrZ1kwWklwNkJWaUV4ZEp5Y09aWjhEWGtoY2pfeXlRbHRDQXZkS05IeUxUOS1CVnpWYWJiUVlXQW9nd0V6eFZVT0ZxZTlkcGNvQV82czR4dkRGTFHSAewBQVVfeXFMTkl1c1hNdWpOLVZTYzdscHRyRXhNMDN6cWw2TTVfb0hwdUN2R1pvMGtub0pMUEYwbFpKY2VhT1NTaXR4cExLc2Nnc3BpenB3UzBYd2g5ZXZmeVp6dmhBYU5hOG13emJZWUZ6cndQUVlGT0huQmFxSzE4UzFZVkVrRGFyYWF0R0g2LVdxZ0hHOWhCVU54QnczMlZGczJSRDhQOFZGeW9WTlFVOXl1TW9xR01CbU9FdENQLWtfQ2g1UXVORjliaU5tU21ONkZ2YkVuTkx6Z3ZDd3NnVzJ5OENhdTRjMHUwNHNQWW84SFc?oc=5",
-"o": "ET CIO",
-"via": "Google News: ai-deals",
-"lane": "search",
-"at": "2026-11-25T08:30:00+00:00",
-"seen": "2026-11-25T20:06:58+00:00",
-"status": "unverified headline"
-},
-{
-"id": "4ba92ede4766",
-"t": "As One of the Vice Presidential Candidates, Sugiono: No Discussions or Lobbying - Kompas.com",
-"u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdjlsUkJuUTd3MWZTUF9kLUx0V2RuR3V1UXZiRVlSVkNWWWtTR05MWTV2eFZxZzRCbTNIdm9McFB0SWQ3eXJ5czhLTVFqZVdJTjI2RF9lUW54ZVdDejVIdll3SGpIYXg1aW9GdWpMVHJ0Q1pwODBQaFhEMDVZMmNDMGR6R1lWMjVJMG9MQWI5ako3RHBhNlZfTUFNWElvdmRxdVlsOThpNlc0VDRkV2xuNlFuNThCSzFKNEthSDl6dDRsTVU?oc=5",
-"o": "Kompas.com",
-"via": "Google News: money",
-"lane": "search",
-"at": "2026-11-25T08:25:24+00:00",
-"seen": "2026-11-25T10:29:22+00:00",
-"status": "unverified headline"
-},
-{
-"id": "1cdfef0682c9",
-"t": "Nonprofit Leader Earns $765,000 in 2025 - Wisevoter",
-"u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQME5BS3p4aHByNDZLUzdYbDNnTFFiTlZEeHlnc0ctd3NjdlRiVVhOYVlncU9id01hT19HOWM0Y1FKZ0p6eWNwR1lSQmZ5ajJRUVc2OVMxaExFaF9qTklkTnJZMmRZWm5RUGYzUklBczYtT09mQ2psT084Ym96TGhiTGlIbVNHaWc?oc=5",
-"o": "Wisevoter",
-"via": "Google News: dc-incent",
-"lane": "search",
-"at": "2026-11-25T08:22:59+00:00",
-"seen": "2026-11-25T20:06:58+00:00",
 "status": "unverified headline"
 }
 ]
