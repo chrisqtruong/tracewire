@@ -1,8 +1,68 @@
 {
 "name": "Tracewire",
-"updated": "2026-11-27T03:12:23+00:00",
+"updated": "2026-11-27T12:32:35+00:00",
 "note": "Unverified headlines collected automatically from public feeds. Not checked by Tracewire. Verified items appear in the Feed.",
 "items": [
+{
+"id": "1aa8ca97b009",
+"t": "Construction paused at Google data center in Farciennes, Belgium",
+"u": "https://www.datacenterdynamics.com/en/news/construction-paused-at-google-data-center-in-farciennes-belgium/",
+"o": "DatacenterDynamics",
+"lane": "news",
+"at": "2026-11-27T11:50:37+00:00",
+"seen": "2026-11-27T12:32:35+00:00",
+"status": "unverified headline"
+},
+{
+"id": "7b94770519ab",
+"t": "Malaysia's Axiata Group to sell overseas Edotco tower units for combined value of $2.9bn",
+"u": "https://www.datacenterdynamics.com/en/news/malaysias-axiata-group-to-sell-overseas-edotco-tower-units-for-combined-value-of-29bn/",
+"o": "DatacenterDynamics",
+"lane": "news",
+"at": "2026-11-27T11:30:52+00:00",
+"seen": "2026-11-27T12:32:35+00:00",
+"status": "unverified headline"
+},
+{
+"id": "da67260e3113",
+"t": "Tract plans second data center campus in the UK",
+"u": "https://www.datacenterdynamics.com/en/news/tract-plans-second-data-center-campus-in-the-uk/",
+"o": "DatacenterDynamics",
+"lane": "news",
+"at": "2026-11-27T11:26:59+00:00",
+"seen": "2026-11-27T12:32:35+00:00",
+"status": "unverified headline"
+},
+{
+"id": "18028c0bea0f",
+"t": "SpaceX shares jump 4% amid tech rally and after Musk says he will expand on Trump Account share donations",
+"u": "https://www.cnbc.com/2026/11/27/spacex-shares-musk-donations.html",
+"o": "CNBC",
+"lane": "news",
+"at": "2026-11-27T10:20:39+00:00",
+"seen": "2026-11-27T12:32:35+00:00",
+"status": "unverified headline"
+},
+{
+"id": "21800f865bba",
+"t": "‘It’s not helping’: calls for guardrails and regulations as AI use rises at US retailers",
+"u": "https://www.theguardian.com/us-news/2026/nov/27/ai-retailer-consumer-guardrails",
+"o": "The Guardian",
+"lane": "news",
+"at": "2026-11-27T10:00:02+00:00",
+"seen": "2026-11-27T12:32:35+00:00",
+"status": "unverified headline"
+},
+{
+"id": "5848cd0e3fb3",
+"t": "Natural England objected to a datacentre. Weeks later ministers threatened to abolish the agency",
+"u": "https://www.theguardian.com/environment/2026/nov/27/natural-england-objected-datacentre-ministers-abolish-bristol",
+"o": "The Guardian",
+"lane": "news",
+"at": "2026-11-27T07:00:57+00:00",
+"seen": "2026-11-27T12:32:35+00:00",
+"status": "unverified headline"
+},
 {
 "id": "42ef1d298d77",
 "t": "FCC approves 1 million SpaceX data centers in space. Astronomers are dismayed. - The Washington Post",
@@ -2096,71 +2156,6 @@
 "lane": "news",
 "at": "2026-11-25T10:00:02+00:00",
 "seen": "2026-11-25T10:29:22+00:00",
-"status": "unverified headline"
-},
-{
-"id": "fcb16818f31b",
-"t": "Voters force referendum in effort to stop $17B 'Project Sail' data center campus - The Atlanta Journal-Constitution",
-"u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYm9WU1lEcFVXV2hhd3lma2dLWFYxTjgwTVdsZENVSGw5aEM0N1JKcFVKMEVseHp5Nk84dFZLOWVNZU1PTEhraEdSakMzenlwZ1FCUnp5SWFYYjNTRGt4bEQ4X2lBREdUd1VwUjFZVW5aeVRTSVlsZ1EzVWxSUk1td3dRTzdKWXlHNEVmcDlpQQ?oc=5",
-"o": "The Atlanta Journal-Constitution",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-11-25T10:00:00+00:00",
-"seen": "2026-11-25T20:06:58+00:00",
-"status": "unverified headline"
-},
-{
-"id": "b4a40c0c0165",
-"t": "‘Rejection Will Have Consequences’: Inside Trump’s Demands to Another Chips CEO",
-"u": "https://www.wired.com/story/inside-trumps-demands-to-another-chips-ceo/",
-"o": "Wired",
-"lane": "news",
-"at": "2026-11-25T10:00:00+00:00",
-"seen": "2026-11-25T10:29:22+00:00",
-"status": "unverified headline"
-},
-{
-"id": "0125f28d54d8",
-"t": "‘It’s been really a mess’: Meta insiders concerned over push to AI content moderation - The Guardian",
-"u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOT2R1YjJLbjBjWVNaaGdKVUlXLW1xLXRNczUzanM4US1aNU9RT0dHbkNpMXBsaV9nZWVieHlfeWc4TnZGUmlDRHBfNXFLbDc5eENVUVgzZnk4N3psdERKbmFUT0NUYUxHUjZITEZobDVJc1JjYkxLZzJlelRVb3Npd3h1VGZ1b2hkQmd1TDZwdkotMFdic25VZll1ZkdfVlB5ZFlSV0lCMA?oc=5",
-"o": "The Guardian",
-"via": "Google News: labor",
-"lane": "search",
-"at": "2026-11-25T09:53:00+00:00",
-"seen": "2026-11-26T02:49:05+00:00",
-"status": "unverified headline"
-},
-{
-"id": "97d8e4849f93",
-"t": "SpaceX Dangles 20 Percent Power Bill Cuts And Elon Musk Drops $500,000 For Brownie Points Ahead Of A $74 Billion Data Center Showdown On December 9 - Wccftech",
-"u": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBlNEJ2aUpnUFRveEhsWXBUMG5pVUF3U3hhb2lyQmhTTHRlMm42bF9mbnpCLWZfNElDa1ZRUjZIZTZJb1dReHkxVjZ30gFPQVVfeXFMT0VHVXRDMElqSzRsYmVvcDhjeUVUNVFHNnItY1JtWkUwdzd4RlUtWV84UVp4SWJHaktEdW5yM2pIOTJ3bUJDUzRjY2p3OTI5Yw?oc=5",
-"o": "Wccftech",
-"via": "Google News: dc-incent",
-"lane": "search",
-"at": "2026-11-25T09:42:59+00:00",
-"seen": "2026-11-25T20:06:58+00:00",
-"status": "unverified headline"
-},
-{
-"id": "f1db6b83a949",
-"t": "South Korea AI Basic Act Fine Pause May Outlast January 2027 as Study Group Meets Wednesday - Tech Times",
-"u": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQRjVycEgxd1h0QzhTbDVFc05aRjZvcS10RWVYNW1GazZfX1ktNEJGb1JPRG15VjNOVGxGWFNPYllXRlpKTEJwOFpBZjRTc1A4WEh3U0JIakUxS3ZUMm14SFlOUzlQX1FZcHBHVnJaUFRVZEpsYkVheDlsZzRlVDNRQldmN2dmVXZaNk9HWS1oazNxeXp5XzRhcFJoUzkxUDN0NzdKd0txcWZiTk9wWFoxT2ZPdzJ1dVotcjY0MHROODZWaEdFci1PbU92V1IyVmlNc3k3T1NpNTRyV1k?oc=5",
-"o": "Tech Times",
-"via": "Google News: privacy",
-"lane": "search",
-"at": "2026-11-25T09:35:03+00:00",
-"seen": "2026-11-25T10:29:22+00:00",
-"status": "unverified headline"
-},
-{
-"id": "5e1a17dbbee6",
-"t": "Why Meta's AI content moderation has raised alarm among employees - NewsBytes",
-"u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWUlhLWgwWDFBZVdZNng0MkRQTUpKUVhWdDlaaEdfczBpblF3Ynl5b0NrcTZiNVpZS08yZjlPOXVIVFNMODRiU29QdGFfNTl3MzVuYVJDUVJRX0pVeUlQY096V2tHVW12dkU2dzA3aWlVRjh4dUxNRmRaOHc2Zm9UTnpQaG1oMDYzVm83REdDanppQjE2bjMzeEtn?oc=5",
-"o": "NewsBytes",
-"via": "Google News: labor",
-"lane": "search",
-"at": "2026-11-25T09:27:18+00:00",
-"seen": "2026-11-26T02:49:05+00:00",
 "status": "unverified headline"
 }
 ]
