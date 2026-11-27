@@ -1,8 +1,89 @@
 {
 "name": "Tracewire",
-"updated": "2026-11-27T12:32:35+00:00",
+"updated": "2026-11-27T21:36:29+00:00",
 "note": "Unverified headlines collected automatically from public feeds. Not checked by Tracewire. Verified items appear in the Feed.",
 "items": [
+{
+"id": "4471100a20f1",
+"t": "Gomez on Ruling Halting FCC Campaign Against ABC",
+"u": "https://www.fcc.gov/edoc/427573",
+"o": "FCC",
+"lane": "agency",
+"at": "2026-11-27T21:36:29+00:00",
+"seen": "2026-11-27T21:36:29+00:00",
+"status": "unverified headline"
+},
+{
+"id": "dd9cc9909f74",
+"t": "Google told to halt Belgium datacentre construction over lack of planning permit",
+"u": "https://www.theguardian.com/world/2026/nov/27/belgian-authorities-order-google-to-halt-datacentre-construction-over-lack-of-permits",
+"o": "The Guardian",
+"lane": "news",
+"at": "2026-11-27T17:21:18+00:00",
+"seen": "2026-11-27T21:36:29+00:00",
+"status": "unverified headline"
+},
+{
+"id": "5e2aee45203f",
+"t": "Hyperscale data center solutions for confident decommissioning",
+"u": "https://www.datacenterdynamics.com/en/whitepapers/hyperscale-data-center-solutions-for-confident-decommissioning/",
+"o": "DatacenterDynamics",
+"lane": "news",
+"at": "2026-11-27T15:29:16+00:00",
+"seen": "2026-11-27T21:36:29+00:00",
+"status": "unverified headline"
+},
+{
+"id": "19008dfb0da3",
+"t": "Hackers reportedly breach US air force’s flagship cloud computing platform",
+"u": "https://www.theguardian.com/technology/2026/nov/27/hackers-breach-us-air-force-cloud-computing",
+"o": "The Guardian",
+"lane": "news",
+"at": "2026-11-27T14:50:15+00:00",
+"seen": "2026-11-27T21:36:29+00:00",
+"status": "unverified headline"
+},
+{
+"id": "d88c7c1da3ae",
+"t": "Poland signs contract with Palantir worth $300 mln over 5 years - Reuters",
+"u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcE9acGJ4ZnNpRGhDSXVvN1lpUWNyQTlJalVfQ25acTN3Q0JuTW9ydHFPb3paNUx4MEQxQUhpSnVfV0xwaEVvblo3NG8xOGtMZHlLdEs0Qi1iSGVhM1RYcVg4ZlhjU0VfYW9ReFk2cU1DdXVWMzVweElzQjkyN0ZZUFZjTDNaZmk4TF9jTnhGZDVDRnRuVWxaaUhxckxQTEJQYVJmTERxRFlGaFpNSGc?oc=5",
+"o": "Reuters",
+"via": "Google News: reuters.com/technology",
+"lane": "search",
+"at": "2026-11-27T14:48:10+00:00",
+"seen": "2026-11-27T21:36:29+00:00",
+"status": "unverified headline"
+},
+{
+"id": "0e4333ecd215",
+"t": "SpaceX installs $250m worth of Tesla Megapack batteries at Starbase data center site in Texas - report",
+"u": "https://www.datacenterdynamics.com/en/news/spacex-installs-250m-worth-of-tesla-megapack-batteries-at-starbase-data-center-site-in-texas-report/",
+"o": "DatacenterDynamics",
+"lane": "news",
+"at": "2026-11-27T14:00:38+00:00",
+"seen": "2026-11-27T21:36:29+00:00",
+"status": "unverified headline"
+},
+{
+"id": "1df6f91442f9",
+"t": "FCC approves SpaceX application to deploy one million satellites for data centers in space",
+"u": "https://www.datacenterdynamics.com/en/news/fcc-approves-spacex-application-to-deploy-one-million-satellites-for-data-centers-in-space/",
+"o": "DatacenterDynamics",
+"lane": "news",
+"at": "2026-11-27T13:00:53+00:00",
+"seen": "2026-11-27T21:36:29+00:00",
+"status": "unverified headline"
+},
+{
+"id": "dcf9162e5162",
+"t": "Meta whistleblower calls on Burnham to go further with ban on NDAs",
+"u": "https://www.theguardian.com/technology/2026/nov/27/meta-whistleblower-sarah-wynn-williams-calls-on-burnham-to-go-further-with-ban-on-non-disclosure-agreements",
+"o": "The Guardian",
+"lane": "news",
+"at": "2026-11-27T12:30:08+00:00",
+"seen": "2026-11-27T21:36:29+00:00",
+"status": "unverified headline"
+},
 {
 "id": "1aa8ca97b009",
 "t": "Construction paused at Google data center in Farciennes, Belgium",
@@ -2070,92 +2151,6 @@
 "lane": "search",
 "at": "2026-11-25T11:00:00+00:00",
 "seen": "2026-11-25T20:06:58+00:00",
-"status": "unverified headline"
-},
-{
-"id": "224652cf9938",
-"t": "House Dems demand clarity on Homeland Security tech contracts",
-"u": "https://www.politico.com/news/2026/11/25/house-dems-homeland-security-tech-contracts-01182450",
-"o": "Politico",
-"lane": "news",
-"at": "2026-11-25T10:45:00+00:00",
-"seen": "2026-11-25T20:06:58+00:00",
-"status": "unverified headline"
-},
-{
-"id": "fcb325540b16",
-"t": "'Let Data Reign': Trump goes all in on controversial data centers - ABC News - Breaking News, Latest News and Videos",
-"u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOb1VtazEtTTZBendJOWNnaTQ5b2E5Z003aHQ4eC1QYS1hSWNBYndPX2lPcklQZ0NleW9mSzY0U2tKWnNUQTZlS0ZLbVV6bDUtd2ZiZG5KQ0dJOHpWYzI2dnBQM0RfNGpRVmtzLXJBTGVWX3M2N0xwSlBNNTFuWUhCX2JhbDF2R3RGUGY2eS03U25Gd1pYTExUdFV4LVROcm1UWlA5ME9wc3jSAa4BQVVfeXFMTkw1dmlnQjdGa0hPUDVoeEJjWTNrWEQtSVlrbWYxOFNES3ZnVGxDYTdhR1VqNUVXZ080dzhsX1NfMFpjSnQxaFItdUtINjBjM2Fjc0NSazlubE9zYmppbTZHOUpnb0dENlRieVlQQVRpXzdrS3F5TmhiMmNBSkdOYXpCQl9IZXhYZW9GcVhDNTBmZS12YnJNZjdLWjNGMGZBRHduZXYwTXhvWHVIQ2RB?oc=5",
-"o": "ABC News - Breaking News, Latest News and Videos",
-"via": "Google News: dc-water",
-"lane": "search",
-"at": "2026-11-25T10:23:48+00:00",
-"seen": "2026-11-25T20:06:58+00:00",
-"status": "unverified headline"
-},
-{
-"id": "2c717ed59734",
-"t": "Pentagon Retracts $16.1B Air Force Engine Contract, Says 58-Company Award Was Posted in Error - The Defense Post",
-"u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTnpwM0ZIZmlGcGYyUndMenF0S3hNSmUyRnVRU2RvS1VkVGctdEc0VTNsTGZpR3N5V2lpZURjSHc0blBCMW1sVFNraGFKYUlBWmI3UVptYVNGeVgzbVpYaGhxTFFBT250RmJCMklCYVNpeVpwMzlpaEcxaUlqRzJNZEVB0gGCAUFVX3lxTE5OenAzRkhmaUZwZjJSd0x6cXRLeE1KZTJGdVFTZG9LVWRUZy10RzRVM2xMZmlHc3lXaWllRGNIdzRuUEIxbWxUU2toYUphSUFaYjdRWm1hU0Z5WDNtWlhoaHFMUUFPbnRGYkIySUJhU2l5WnAzOWloRzFpSWpHMk1kRUE?oc=5",
-"o": "The Defense Post",
-"via": "Google News: contracts",
-"lane": "search",
-"at": "2026-11-25T10:18:24+00:00",
-"seen": "2026-11-25T20:06:58+00:00",
-"status": "unverified headline"
-},
-{
-"id": "79cde6e0d7f2",
-"t": "Amazon's $7.5 billion Decart deal exposes the growing price of AI talent - CTech",
-"u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1LRmt1UHRENUlac1VQaWg5R0lkdmpoaEpHTWJLTHJWRU5XcF9yTmRwYnBickRzZVlkdkd4TFdQM1YtbHVmUnRoNUJYUERVVzJNRE1iRy13NldtSFI4YlR4RWxVZ3Y2RFk?oc=5",
-"o": "CTech",
-"via": "Google News: ai-deals",
-"lane": "search",
-"at": "2026-11-25T10:16:00+00:00",
-"seen": "2026-11-25T20:06:58+00:00",
-"status": "unverified headline"
-},
-{
-"id": "7c1cdd7f1f38",
-"t": "East Fishkill among 97 NY municipalities enacting data center moratoriums - The Poughkeepsie Journal",
-"u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRjBxblhNbFBwQnJvcXFTd2hCM2pOUEdudVM5VERDb3FKOEVZMVNoTnhXMGRzbUNIdUprbm02WmtOZDJxbDNXU2s1TExxWTRBWVh4QjAzRkNZUldBU01pNmFZVG1GblBtTzN2bUZxemZsWW1xR2xKM3NQdV9UOU8zc3JyWmhtSVdieGpiUWdadXIyOTUxRVgwem1UUGJaaGtWVWF6TWhFeU15VWVaUHdSc01xMEVCcE5mMTB4eHkwNzhCaWhPdjJCVG5PaUlGcjQteEFKMWl3RnlQQQ?oc=5",
-"o": "The Poughkeepsie Journal",
-"via": "Google News: dc-zoning",
-"lane": "search",
-"at": "2026-11-25T10:10:00+00:00",
-"seen": "2026-11-25T10:29:22+00:00",
-"status": "unverified headline"
-},
-{
-"id": "f3b8e41c815d",
-"t": "Ohio Consumer Advocates Challenge Data Center Power Auction - Wisevoter",
-"u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdENocWVRcWlTUUgyUGNwUHQzbERKLXd3Yld0REdaQzhVbWVCdld2Yy12WWRfRDdpdTltOHhGS2J1UXk0WDlkYTBVcFIyUkdGQVJIZkl0Y0huV01jZHhBVUlHZkpfNG53bVlxbFFCd3lvS1BNXzFUNkRGVVFjZkpmMkRCNXNIS051bVZWSVEyUQ?oc=5",
-"o": "Wisevoter",
-"via": "Google News: dc-incent",
-"lane": "search",
-"at": "2026-11-25T10:03:05+00:00",
-"seen": "2026-11-25T10:29:22+00:00",
-"status": "unverified headline"
-},
-{
-"id": "23c64c0cfd0a",
-"t": "A used gas turbine reaches a data center 6 years ahead of a new one, but the prices everybody calls a premium put the secondhand machine below new build per megawatt - Energies Media",
-"u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5XTmx3NW5jZEYtTkdoMkEwSmU3QVNTaG5PS1NpU3JsOG1IS0ZoMFBrbmNoNGtPMGlCZDEtZXpSUGJzdk5fMlA2czJ2ZFBQMkdDVDc3WVBObHJYVld5X2RwTHhpZEdDdkxvTzZJaDVUX1V6WlR5aHBBOA?oc=5",
-"o": "Energies Media",
-"via": "Google News: dc-water",
-"lane": "search",
-"at": "2026-11-25T10:01:19+00:00",
-"seen": "2026-11-25T20:06:58+00:00",
-"status": "unverified headline"
-},
-{
-"id": "f8de42e4fce0",
-"t": "Transcript: Why Earthjustice Is Against the Permitting Reform Bill",
-"u": "https://heatmap.news/podcast/shift-key-163-earthjustice-transcript",
-"o": "Heatmap",
-"lane": "news",
-"at": "2026-11-25T10:00:02+00:00",
-"seen": "2026-11-25T10:29:22+00:00",
 "status": "unverified headline"
 }
 ]
